@@ -5,6 +5,31 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 **Status:** roughly half of the text is translated (about 17,000 strings), covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
 **Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
 
+## Progress
+
+### Done
+- [x] Text tools: extracting, reinserting (moving lines that get longer in English and updating their pointers), validating, and building the patch
+- [x] Title menu (New Game, Rocket Timeline), start menu, options, bag, shop, PC, summary-screen labels and Battle Frontier labels
+- [x] The opening: intro narration, ARCHER's welcome, registering your name and GIOVANNI's introduction
+- [x] Battle messages
+- [x] Most item names and descriptions, berries, key items and Mega Stones
+- [x] Most move names and descriptions, and about 340 Pokédex entries
+- [x] Story and map dialogue, chunks c00–c18: the Kanto arc, Silph Co., the Elite Four, the Sevii Islands, the Johto conferences, the Radio Tower and Ecruteak
+
+### In progress
+- [ ] Chunks c19–c25 (partly translated, see `chunk_status.txt`)
+- [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
+
+### To do
+- [ ] Chunks c23 and c26–c32: the rest of the Johto, DLC and Hoenn story
+- [ ] Chunks c36–c38: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
+- [ ] Strings the extractor missed (title menu "Opciones", "¡¡RECLUTA N.º 2!!", the ability name table, the speaker name box "ATLAS" → ARCHER)
+- [ ] 27 strings to retranslate as full sentences (their pointers start mid-sentence)
+- [ ] **Fix the fast-forward stutter.** The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
+- [ ] Consistency pass over names and terms that differ between chunks (`REVIEW_NOTES.md`), using US spelling throughout
+- [ ] Full playtest
+- [ ] Out of scope for now: text drawn as graphics (naming-screen buttons, type icons)
+
 ## How to play
 1. Get your own copy of the Spanish **Team Rocket Edition v3.0.6** ROM. No ROMs are provided here.
    Expected MD5: `911e690484204ac1621211560aba356d`

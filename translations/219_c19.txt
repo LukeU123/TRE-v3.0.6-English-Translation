@@ -1,0 +1,360 @@
+375ec1|The worst thing that can happen to\nanyone is to be completely\lunderstood.
+375f7f|Avoiding any sign of weakness\nis itself a sign of weakness.
+375fc2|The truth triumphs on its own;\na lie always needs accomplices.
+376017|The only problem with having the\nlast laugh is that the winner has\lto laugh alone.
+376072|What matters is not what a person\nhas or doesn't have, but what\lthey are afraid to lose.
+3760d0|It is in adversity that virtue\ncomes to light.
+37613b|Very few know this, but the most\nancient legends describe HO-OH as\la huge bird the color of pure\lgold, with an aura so mystical and\lsacred that every dragon would\lflee in terror at its presence.
+37620e|Honor lies in making beautiful\nthat which one is obliged to do.
+376267|The wonderful thing about fighting\nan imaginary rival is that it is\lalways skilled, yet easy to\lbeat.\pThe pride of victory without\nthe risk of defeat.
+376446|{C1925}{V01}!\pYou're relentless!
+376460|{C1925}The GRAND MASTER is at the top,\ngazing out over JOHTO. He gave\lclear orders not to be disturbed\lexcept in an emergency.
+3764d8|{C1925}Do you know the only thing he\ncounted as an emergency?
+37651c|{C1925}That's right. You making it all\nthe way up here and, to prove your\lskill, defeating a former ELITE\lFOUR member once again.
+3765a5|{C1925}On guard, {V01}!\pMy time at the BELL TOWER has let\nme reconnect with my GHOST-type\lPOKéMON!
+376614|I told you before and I'll tell\nyou again: you have a gift for\lbattle.\pLet's see how far you go.
+376675|{C1925}You explored every corner of\nKANTO. Now you're setting foot in\lone of the most sacred places in\lJOHTO.\pHow far will you go, {V01}?
+376712|{C1925}The GRAND MASTER of the BELL TOWER\nawaits you. Watch yourself, {V01}…\pThere are forces in this world\nthat would make anyone tremble,\leven someone like you.\pEver farther, ever harder the\nchallenges, but… how long can\lyour POKéMON bear that pressure?
+376dc4|{V01} received TM60 PSYCH UP\nfrom JADEN!!
+376df7|{C1943}Take this TM too. Use it well.
+376e1c|{C1906}Come closer, {V01}.\pI've been waiting for you.
+376e41|{C1943}Long ago, this place was HO-OH's\nnest, the highest point in JOHTO\lalong with the BRASS TOWER.\pBoth were meeting points for the\ntwo legends of our region.
+376edf|{C1943}I know what you're seeking. You\nwant to battle me to put yourself\land your POKéMON to the test.\pA TRAINER lives to battle,\nisn't that so?\pTo reach ever greater heights.\pThat's why we're here, and not\nshut away in the ECRUTEAK GYM.
+376fdf|{C1943}It is here that I, one of the two\nGRAND MASTERS of JOHTO, agree to\lbattle you. With the ashes of what\lwas once a mighty HO-OH as the\lground on which we'll unleash our\larsenals…\pYou will know JOHTO, once and for\nall, in its very essence!
+3770e5|The gods have witnessed this\nbattle, make no mistake.
+377120|{C1943}I must thank you.\pYour unbreakable spirit has honored\nthis place with a battle for the\lages. No, they were not wrong\labout you, neither AGATHA nor\lEUSINE{C080F}…{C080F}
+3771cc|{C1943}I'm truly impressed. The exchange\nof power and energy here came\lclose to perfection. It was even\lworthy of being witnessed by\lH{C0805}…{C0805}
+3772a5|{C1943}The clash of our POKéMON has\ncaught HO-OH's attention. It saw\lit as a manifestation of the\lexalted, the eternal.\pDrawn by it, HO-OH has returned\nto the BELL TOWER once more.
+377364|{C1943}This is the proof, {V01}.\pProof that mortals like us can\nrub shoulders with the greatest\lforces in this world and, along\lwith their mortal POKéMON, cross\linto the heavens as well.
+37741e|{C1943}I always had my doubts, but now\nI'm certain. With HO-OH here, I can\lsense all the greatness and\lpotential within every one of\lthe POKéMON of th{C080F}…{C080F}
+3774c5|{C1906}Don't make me laugh. You're nothing\nbut dust, you and your POKéMON.
+37750d|Don!
+377513|{C193D}GROUDON!\pStone Edge!
+37752f|{C1943}You vile scoundrel!\pHow dare you do that to\nsomething so pure?
+377570|{C1943}You're nothing but a mercenary who\ncollects LEGENDARIES, exploiting\lother people's talent!\pIf {V01} or I had our POKéMON\nfresh, we'd teach you a proper\llesson!\pYou'll never connect with divine\nforces like that!
+377676|{C193D}I didn't come all this way to\nget a lecture on morals from some\lBELL TOWER fossil.
+3776d2|{C193D}I've only come to reclaim what\nis rightfully mine.\pDo you think I need you, or\n{V01}, to do it?\pDo you really think I need your\nteams to be worn down?\pI could crush you both together,\nwith your POKéMON at full\lstrength, without blinking.\pWant a little proof?\pYou'll have it.
+377809|{C193D}Playtime's over, {V01}.\pYour actions have made it clear\nthat you're meddling in my\lplans.\pYou leave me no choice but to\nuse 80% of my power.\pNo one will save you. The gods\nthis old man speaks of{C080F}…{C080F}
+3778f8|{C193D}I'm the one who has those gods!!
+377916|How can this be possible?
+377934|{C193D}This{C080F}…{C080F}\pMy team is still incomplete, but it\nshould be more than enough to\lcrush any TRAINER.\pI don't understand{C080F}…{C080F}
+3779c7|{C193D}No{C0819}…{C0819}\pThe difference between 80% and\n100% isn't 20%. It's{C0819}…{C0819} everything…\pAn unassailable, undeniable power.\pThat's it. Now I'm missing only one\npiece to complete it, and I know\lwho has it.
+377a86|{C1943}This is terrible…\pWe must warn the DRAGON MASTER\nof BLACKTHORN CITY!\pIt's only a matter of time before\nthat madman finds the frozen path\lthat leads to the city hidden\lamong the mountains!
+377b49|{C1943}Oh, {V01}!\pI'm at a loss for words!\pThis is what I meant when\nHO-OH appeared!\pYou've shown him that this world\nholds intangibles that can never\lbe measured.\pYour mortal POKéMON can compete\nagainst the greatest deities\lof this world!
+377c35|{C1943}Here, {V01}. I want you to\nhave this POKéMON.\pI brought it from a faraway\nregion, but it adores ECRUTEAK.
+377ca0|You got a Lv. 25 FLABéBé!!
+377cc2|{C1943}And take our badge as\na keepsake.
+377cf4|{C1943}Here you go, the\nFOG BADGE!
+377d17|{C1943}I sensed something big would\nhappen when you arrived at the\lBELL TOWER, but this has exceeded\lall expectations.\pI must send a messenger to\nBLACKTHORN CITY.\pEverything will be fine, {V01}.
+377ead|{C1943}Once again, you've returned.
+377ed1|{C1943}It seems JOHTO is in good\nhands.
+377f3f|Hmm…\nThat LIGHTHOUSE, with the sunset\lbehind it…\pBut I think the view would be even\nbetter if it stood on the edge\lof a cliff 200 meters\lhigh{C0805}…{C0805}
+377fe9|Hey there, kid!\nI love the sea!\pSing with me!\pYo ho!\pYo ho…!
+378037|No more stirring up trouble on\nthe streets of GOLDENROD.\pFrom now on I'm going to be an\nhonest sailor in the service\lof the S.S. AQUA.
+3780c5|I wish they sold PEARLS and\nBIG PEARLS, but those items are\lreally rare in JOHTO, even in\lseaside places like this one.\lThey say KANTO's SEAFOAM ISLANDS\lare packed with them.
+37819a|Buy MYSTIC WATER and see how\nhard WATER-type POKéMON hit!
+3781ec|Two years ago, they sold SACRED\nASH. Now ECRUTEAK CITY is the\lonly city that still sells it.\lIt makes sense, since supplies\lare limited. In another couple\lof years you won't be able to\lfind it anywhere.
+3782be|CROM is on such a distant level,\nand here I am with my ONIX and\lMAGNEMITE. He tells me not to\lworry and to focus on the\lprocess, but I think some\lTRAINERS and generations are\lone of a kind, and this last one\lthat's about to bow out is one\lof them.
+3784c2|{C1941}With ROCK POLISH, you'll awaken\nthe offensive potential of many\lROCK and STEEL POKéMON.\pRHYPERIOR and METAGROSS\nwill be a menace!
+37853f|{C1941}Take this TM as well.
+378557|{V01} received TM77 ROCK POLISH\nfrom LEADER CROM!!
+37858e|You got a PARTY TICKET\nfrom LEADER CROM!!
+3785cb|{C1941}Very well, challenger. The\nmoment of truth has come.
+3785ff|{C1941}You know the STEEL type, right?\pThis GYM specializes in it. No\nother type has so many\lresistances. Combine it with\lothers, like FLYING or PSYCHIC,\land the advantage becomes\labsurd.
+3786ce|{C1941}Many in JOHTO still don't know\nit. Some still think MAGNEMITE\lis pure ELECTRIC, especially\lin KANTO.\pMy work in OLIVINE CITY has helped\ngive it more visibility, and I'm\lsure JASMINE will make it even\lbetter known.
+3787ba|{C1941}I see that inner fire in your\neyes. Like me, you've forged your\lteam in a thousand battles.
+37881a|{C1941}Young as you are, you've already\nseen many things and visited many\lplaces, and you still have{C080F}…\pBattles like this are what give\nmeaning to your journey through\lJOHTO, right?\pThen say no more.\pLet's see if you can bend, even\nslightly, the will of my\lbattle-hardened POKéMON!
+378930|Oh{C080F}…{C080F}\nI can't remember the last time\lI saw something like that.
+378965|{C1941}No one has been a match for my\nSKARMORY since it transformed\lthat day, long ago. That day I\lthought I'd uncovered the secret\lof STEEL, but it seems there's\lalways something new to learn.
+378a2a|{C1941}I'll be forever grateful. You've\njust crowned my time in OLIVINE\lCITY with a battle worthy of\lbeing witnessed on POKéMON\lOlympus.
+378acc|{C1941}Here, take the\nMINERAL BADGE.
+378af5|{C1941}Also, I want you to look\nafter this little one.
+378b24|You got a Lv. 25 RIOLU!!
+378b44|{C1941}Its evolution is one of my\nfavorite POKéMON. Its profile as\la STEEL type is unique. Thanks to\lits FIGHTING side and its focus,\lit will master STEEL like few\lothers. I took the trouble of\lequipping it with a little gift\lto boost its power even further.
+378c3e|{C1941}And one last thing: you should\nattend the opening event at\lOLIVINE PORT.\pHere.
+378c93|{C1941}They're throwing a party to\ncelebrate the PORT's expansion and\lits links with new regions. With\lthat TICKET you can attend.
+378d19|{C1941}There's little left for me to\ndo here.\pSoon I'll pack my bags and leave\nOLIVINE CITY, maybe once all the\lexcitement over the PORT's\lopening dies down.
+378dea|Our LEADER has gone out. He said\nhe wanted to discuss a few things\lwith his old friend: the owner of\lthe LIGHTHOUSE.
+378e51|I still can't believe it, you beat\nCROM!\lYou really do have the willpower\lit takes to tame the STEEL\ltype!\lDon't let anyone bend it!
+378edb|They say CROM is the one who\ncreated the STEEL type and became\lits god. It's just a legend,\lbut…\lCan you take on the myth?\lNot even FIRE or GROUND types will\lgive you a clear edge, kid!
+378fb6|OLIVINE CITY POKéMON GYM\nLEADER: CROM\pWINNING TRAINERS:\n(It's empty!)
+37900e|OLIVINE CITY POKéMON GYM\nLEADER: CROM\pWINNING TRAINERS:\n{V01}
+37906e|Hey! I remember you!
+379089|My dad said he's never seen a\nTRAINER like you. I hope I can get\lclose to your level someday. I\ljust evolved a PIDGEY!
+37912b|I saw you in ILEX FOREST, right?
+37914e|In the end, my research on BUG\ntypes gave me the standing to\lbecome a GYM LEADER.
+3791ae|I see you already have the BADGE,\nso I can't show you what I've\llearned.
+379218|Oh, wow! You already have the\nPLAIN BADGE.
+379242|Back then the GYM used DARK types.\nNow it's switched to cute,\lcuddly NORMAL-type POKéMON.
+3792b3|I'd have liked to see if you could\nhave won it against me, 'cause I'm\ltelling you, I'm really strong!
+37937b|Oh! Very few people can boast of\nhaving won the FOG BADGE from\lour late LEADER.
+3793db|So, were you with him\nuntil the end?
+379405|Tell me, how did he die?
+37941c|I see. It's about how he lived.\pSomeday, I'll make the LEGENDARY\nPOKéMON appear too.
+379479|Take this.
+3794a0|I remember you! CROM's last battle\nas a GYM LEADER!
+3794e1|You're way too strong for me.
+379500|I need to go at my own pace. I\njust evolved my ONIX, and now I'll\lfocus on training my MAGNEMITE.
+379582|Where did you get that BADGE? There\nis no way you could have beaten\lthe ELDER MASTER back in the day.
+3795e9|Lucky for you, you must have stolen\nit or managed to fake it.
+379626|With me as LEADER, you could never\nearn it. I'm as strong as a member\lof the ELITE FOUR, you hear me?
+379699|This place is open 24 hours a day.\nIt got really popular with sailors\lto come here at 5 or 6 in the\lmorning, and it ended up becoming a\lhangout for retired sailors or\lones coming off a shift.\pThe tradition has carried on to\nthis very day.
+3797aa|The restaurant in CELADON CITY is\na joke compared to this one.\pHere everything comes fresh from\nthe sea. I'm gonna stuff myself!
+379840|At sea, you can only trust\nyourself!\pAnd I'm in top shape!
+379894|Hey, sailor!\pNever forget, you have to be\nwilling to get lost to find\ldestinations out of reach!\pBartender!\pAnother round!
+379a4f|I'm trying to turn my life around\nafter taking the fast, easy road\lfor years. Now it's time to make\lup for lost time{C0805}…{C0805}
+379af4|Oh…{C0823} So you're more than just one\nof those GOLDENROD executives.\pMaybe you could{C0805}…{C0805}
+379b51|Listen… GOLDENROD is huge.\pA while back I was part of a big\nPOKéMON trafficking ring. I finally\lquit; I couldn't stand some of\ltheir practices. Now I'm here,\ltrying to become a SAILOR.
+379c1f|I only regret one thing: leaving\nbehind my beloved SNUBBULL. The\lpoor thing is still there. I can't\lever go back, but you{C0819}…{C0819} maybe you\lcould fight your way in there and\lbring SNUBBULL back to me.
+379cf6|The POKé-TRAFFICKING ring is under\nGOLDENROD, and there's always a\lBIKER keeping watch.\pTo get in, you'll have to battle\nyour way through. No other way.\pI'm counting on you.
+379da9|Did you manage to get in? Remember,\nthe POKé-TRAFFICKING ring is under\lGOLDENROD, always guarded by a\lBIKER.
+379e33|{V01} handed SNUBBULL over\nto the SAILOR.
+379e56|Oh…{C0823} My SNUBBULL{C0819}…{C0819} I thought I'd\nnever see it again.
+379e98|You're incredible, {V01}. You must\nbe one of the strongest TRAINERS\lin this region, if not the strongest.
+379eff|I know it's not much for someone\nlike you, but I rescued this rare\lPOKéMON from being sold on the\lblack market.\pIt's yours.
+379f72|You got a Lv. 15 FROAKIE!
+379f92|I think it's a starter from some\nfaraway region. It can change type\ldepending on the move it uses.\pIt's really versatile!
+37a00b|Living an honest life will satisfy\nyou more than a life of cheating.\pEven with all the rewards in the\nworld, the latter never will.\lKeep that in mind.
+37a0b6|In a few years, I'll be a\nTRAINER too!
+37a0f4|My husband thinks that, the way\nthings are, neither JOHTO nor\lKANTO is the ideal region for our\lson to start his adventure.\lThat's why we'll soon be moving\lfar away to HOENN.
+37a201|I have lots of wonderful memories\nof my time in JOHTO, but the time\lhas come to go back to HOENN. It's\lbest for our family.
+37a28a|You should visit that region too\nsomeday. It has exceptional POKéMON\lyou won't find in any other\lregion, like this one.
+37a30e|You got a Lv. 5 SLAKOTH!
+37a32d|SLAKOTH holds unmatched potential\nwithin. Even LEGENDARIES fear its\levolved form. But the tremendous\lvigor it attacks with leaves it\lsluggish the following turn, the\lprice of using such brute\lforce{C0805}…{C0805}
+37a41d|My son wants to be a TRAINER, and\nit's my duty to make sure he\lbecomes a real one. That's the main\lreason we're leaving for HOENN. I\ldon't see JOHTO as it is today as\lthe right setting for a\l10-year-old to start his adventure.
+37a539|CHINCHOU were the first POKéMON\nto serve as guides for sailors.\lThis LIGHTHOUSE was built in\ltheir honor.
+37a5bc|NOCTOWL is a common POKéMON among\nJOHTO's sailors. Its great sense of\ldirection and night vision are a\lhuge help to us.
+37a64c|I'd love to see the mighty POKéMON\nthat lights up the LIGHTHOUSE in\lperson, but I don't know how to\lget to the top{C0805}…{C0805}
+37a6e1|The OLIVINE-GOLDENROD sea route is\nfull of rocks, which makes it\lunnavigable. Otherwise GOLDENROD\lwould have built a huge port long\lago to expand its connections\leven further.
+37ab6f|{C1906}Expanding the PORT to other\nregions will be a total success,\lyou'll see.
+37abbd|{C1906}Can I help you?
+37abd1|{C1906}Ah, so you want to challenge\nOLIVINE's LEADER. I'm the\lLIGHTHOUSE KEEPER.
+37ac0b|{C194C}The LEADER is right over\nthere. We were discussing the\lfuture of OLIVINE CITY.\pIts PORT, its LIGHTHOUSE, its\nGYM{C0805}…{C0805}
+37ac83|{C1941}Many changes are coming soon.\nLet's hope they're for the better.\pMy old friend and I will try to\nleave this city in the best\lpossible shape before we\ldepart.
+37ad27|{C1941}I haven't accepted any official\nchallenges in a while.\pForgive me, young one, but once\nthis transition period is over,\lyou can challenge the new LEADER\lI've chosen: JASMINE.
+37add8|{C1941}If she ever manages to evolve\nher ONIX, that is.
+37ae0d|{C1941}She still has a long way to go,\nand I suspect she won't be much\lof a challenge for someone like you.
+37ae81|{C1941}I like the idea of one last\ngreat battle before I leave.\pIt would be the icing on the cake\nof my time in OLIVINE CITY.\pThe question is…\pWould you be up to that last\ngreat battle?
+37af46|{C194C}We can find that out\nright here and now.
+37af6f|{C1941}Indeed.
+37af7f|{C1941}I know no better yardstick around\nhere than my old friend, the\lcurrent owner of this LIGHTHOUSE.\lHe's your only ticket to me.
+37b00d|{C1941}Take it now or lose it\nforever!
+37b03d|{C1941}Very well, say no more.
+37b05b|{C194C}I'll use every ounce of my\nPOKéMON's energy. It's the least\lI can do with a battle against\lCROM at stake.\pGet ready!
+37b0d8|My AMPHAROS's tail went out?
+37b0fa|{C194C}Excuse me.\pI must go to the POKéMON CENTER.\pThe last thing we want in a\nLIGHTHOUSE is a powerless AMPHAROS.
+37b167|{C1941}Ha!\pMagnificent, kid! Magnificent!\pYou've left us shocked!\pTRAINERS like you are harder and\nharder to find these days!\pI'll be waiting for you at the GYM\nfor our battle.\pThe die is cast!
+37b271|{C194C}Ah!\p{V01}!\pYou're back!\pCROM told me about your battle. I\ncan't believe you actually beat\lhim in the end. You have no idea\lhow many times my ELECTRIC POKéMON\lhave bitten the dust against that\lSKARMORY, immune to their\lattacks.\pYou've given us back the drive and\nthe will to battle again, so I'd\llike you to accept this.
+37b3b3|{C194C}A great POKéMON, AMPHAROS,\ndon't you think?\pOne of the few that can hit hard\nand take hits well at the same\ltime.
+37b45b|{V01} received TM78 VOLT SWITCH\nfrom the mechanic!
+37b491|I've worked here since the\nLIGHTHOUSE opened. I know exactly\lhow every electrical connection in\lthe place works.
+37b511|If you use CHOICE SPECS, you won't\njust confuse your foe by switching,\lyou'll also boost the damage dealt.\pWatch out for getting stuck by\nGROUND types, LIGHTNING ROD or\lVOLT ABSORB!
+37b5d2|Every morning I go for a walk on\nthe beach with my mom!\lWe always end up finding items\lin the sand!
+37b64f|My daughter loves the beach.\nJust wait till I take her to the\lfestival in CIANWOOD CITY. She's\lgoing to have a blast.
+37b6df|Whenever I get into trouble,\nDad always gets mad.
+37b70f|There's no will like our LEADER's.\nUnbreakable, yes…\pWorthy of wielding the STEEL type.
+37b78e|On the way to CIANWOOD CITY, there\nare four deserted islands.\pNaughty kids get sent to the\nislands as punishment!
+37b7f6|Lots of people still mix up the\nROCK type with STEEL. That JASMINE\lhas already asked CROM several\ltimes when she'll manage to evolve\lher ONIX into STEELIX.
+37b8a6|My boyfriend is obsessed with\nFLYING-type POKéMON. He says LEADER\lCROM has one that's immune to\lELECTRIC attacks.\pThat's impossible!\pHe should do what I do and train\nany POKéMON, as long as it's\lstrong{C0805}…{C0805}
+37b994|In my 10-plus years here, it only\nhappened once: I got to see CROM's\lstrongest POKéMON live. A huge bird\lcovered in steel. No ELECTRIC\lattack affected it, it had the\lSPEED of a DODRIO, the aggression\lof a STARAPTOR… And its defenses\lwere impenetrable. It was\lmagnificent!
+37bae6|A couple of TRAINERS used to live\nhere.\pIt seems one was an accomplished\nBIRD KEEPER who was fascinated\lby one of the former LEADER's\lPOKéMON.\pAs soon as the new LEADER took his\nplace, they moved out.\pThey left in such a hurry they\nforgot this… I don't want it…\pHonestly, I don't want that move\nanywhere near my bugs.
+37bc2a|{V01} received TM218 BRAVE BIRD\nfrom the BUG CATCHER!!
+37bc65|I like BUG POKéMON, but I'd\nreally love to have a KRABBY.\pI could teach it CUT!
+37bcdb|Our TRAINER class will soon vanish\nfrom JOHTO. There's no CYCLING\lROAD here like in KANTO, and\lOLIVINE PORT is really tempting us\lto work as SAILORS. Me, for\lexample, I hang around here every\lday to see if they'll finally\lgive me some odd job, and from\lthere, the S.S. AQUA!
+37be25|The SEAGALLOP is out of service.\nThank you.
+37be5e|OLIVINE CITY keeps growing, so\nOLIVINE PORT has to grow too.\lSoon we'll connect with KANTO\land HOENN.
+37bf59|-{V01} showed the PARTY TICKET-
+37bfda|{C1912}Sorry, but without a PARTY\nTICKET you can't come in.
+37c011|{C1912}The party's over. Thanks for\ncoming.
+37c03f|{C1912}Ah!\pI see you have the PARTY TICKET!\nCome in, you're right on time!
+37c09b|For obvious reasons of proximity,\nOLIVINE PORT's first connection\lwill be VERMILION CITY.
+37c10c|The food here is unbeatable!\nThese waters give you the best of\lKANTO and JOHTO together!
+37c16f|Those SAILORS are tough guys!\lI didn't know TENTACRUEL could\lbe such a pain!
+37c1d3|Look at us!\nAfter everything that's happened\lthese last five years, who'd have\lthought KANTO and JOHTO would make\lpeace so soon.
+37c260|My brother should quit showing off\nPOKéMON he bought with his\lcheckbook. I wouldn't feel the\lleast bit sorry if some sailor\laround here taught him a lesson\lin battle to finally shut him\lup.
+37c344|I think I'm getting seasick. These\nparties aren't for me.
+37c38a|I bought a WISHIWASHI for 7,000\nCOINS in GOLDENROD CITY just to\lshow off in front of all these\lsailors, with a WATER-type POKéMON\lthey'll never have but long for.\pIsn't that what hierarchy is?\pHohoho!
+37c4cf|Can we stop talking about the\nFIGHTING type for just a moment?\lHave you seen WEEZING?\lWith that DEFENSE, it can take\lall your hits.
+37c562|They said CHUCK was coming to the\nparty.\pI knew it… I bet he's training.
+37c5c1|ROXANNE's ACADEMY?\nHow boring!\pI'd rather have SILPH SCIENTISTS\nteach me!\pThey really know about strong\nPOKéMON and how to manipulate them!\pLook at that BILL!
+37c67b|Fifty years ago, this city had no\nmore than four or five humble\lfishing families. Look at us\lnow.
+37c6e9|How OLIVINE CITY has changed. And\nthere's still so much to come,\lisn't there, dear?
+37c741|Have you heard?\nIn a couple of months, the\lOLIVINE-SLATEPORT line will be\lready. You'll go to RUSTBORO CITY\lto study at ROXANNE's ACADEMY.
+37c7cb|Do you know the WHIRL ISLANDS?\nShips avoid going near them, not\ljust because of all the rocks\ljutting out of the water, but\lalso because of the strong tides\laround them.
+37c882|The CAPTAIN is at the ceremony for\nthe PORT's expansion to other\lregions. Until he gets back, no\lone can enter his cabin.
+37c918|Oh, there's a deal, but you won't\nbenefit from it. I always win,\lone way or another.\l…\l…\lOh, sorry, I thought you were\lsomeone else.
+37c9ad|After VERMILION CITY, we'll set up\nthe connection with SLATEPORT CITY\lin HOENN. NORMAN and his family\lwill move there as soon as the\lline is open.
+37ca54|I know, a BUG CATCHER like me has\nno business at a party like this.\lI only came because there are\lrumors the CAPTAIN has an\lextremely strong and rare BUG\ltype on his team. Got a\lproblem with that?
+37cc40|{C1920}So you've already beaten\n4 of the 8 LEADERS, eh, {V01}?\lWe've analyzed the data on the\lOLIVINE LEADER's SKARMORY-&:\lit's astonishing.\pDespite being FLYING, its DEFENSE\nis close to CLOYSTER's. Not to\lmention its immunity to the\lELECTRIC type. According to our\lSCIENTISTS, that's due to the\lstainless-steel layer covering\lit, which acts as a lightning rod\lable to deionize any electrical\lcharge.\p{C080F}…{C080F}\p{C080F}…{C080F}\pI'm on my way to GOLDENROD, {V01}.\nI'll be busy getting everything\lin order for the meeting at the\lRADIO TOWER. Soon, you'll need\lto be in JOHTO's capital as well.\pThat's all for now. There's\nanother GYM in CIANWOOD. Maybe\lyou'll find another STRONG BOND\lPOKéMON there before the big\lmeeting.
+37cf2b|They say the CAPTAIN is the same\none from the S.S. ANNE. Since that\lincident in VERMILION, I don't\ltrust him one bit.
+37cf9c|In 3 years, nobody will remember\nwhat happened 5 years ago.\lTo the future!
+37cfe6|They say that in a faraway region,\nthere's a bull even stronger and\lbulkier than TAUROS, but slower.
+37d057|Relax!\nThere's enough for everyone,\leverything's under control!
+37d097|Come on, nobody knows sea POKéMON\nand PSEUDO-LEGENDARIES like that\lCAPTAIN. I couldn't identify one\lof his POKéMON, though. It looked\llike a huge dragonfly with\ldragon features.
+37d202|I'd rather come without a date. My\nAZUMARILL is great company already.\lWhen the party's over, we'll go\lfor a nice swim at the beach.
+37d28e|I told you to try the GYARADOS\nsteak. You can get TAUROS oxtail\lanywhere else.
+37d300|What do you want 10 PORYGON for?\nYou won't train even one of them,\land you can't even ride a\lBIKE.
+37d371|Now the LIGHTHOUSE will be busier\nthan ever. Can our AMPHAROS\lhandle glowing for so many hours?
+37d3e2|This event will go down in\nJOHTO's history books!
+37d43a|Don't be fooled. The only sea\nPOKéMON worthy of a COOLTRAINER\llike me are GYARADOS, KINGDRA,\lFERALIGATR and BLASTOISE. The rest\lare small change for TRAINERS of\llower classes.\p{C080F}…{C080F}\p{C080F}…{C080F}\pWISHIWASHI, KYOGRE and SUICUNE?\nWhat are you talking about?!
+37d55d|On the S.S. ANNE they served some\ndelicious shellfish. What were\lthey called?\lCLOYSTER!\lDon't they have them in JOHTO?
+37d75e|It's official: JOHTO will welcome\nships from KANTO into its PORT,\land vice versa.\pCould there be any greater cause\nfor celebration than the union of\ltwo sister regions like KANTO and\lJOHTO, which, through an\lunfortunate series of\lmisunderstandings and individual\lactions that in no way\lrepresented the common interest,\lended up in conflict?\pNow times of peace lie ahead!\pLet us celebrate, for this is only\nthe first step. In 3 years, nobody\lwill remember what happened\l5 years ago!\pLong live OLIVINE CITY!\pLong live the KANTO-JOHTO union!
+37d960|HOORAY!
+37da04|Can't a man sleep in peace even\non his own shi{C080F}…{C080F}?!
+37da42|Wha{C080F}…{C080F}\nWhat do my eyes see?!\p{V01}!\pIt's you, you brave daredevil!\nDon't you remember me?\lI'm the CAPTAIN of the S.S. ANNE.\lThey've assigned me to this ship.
+37dad5|{C1927}Why don't you stop by\nmy cabin?\pI trust we can have a more\npleasant chat than last\ltime.
+37db86|{C1927}Remember, {V01}: we've barely\nglimpsed the tip of the iceberg\lwhen it comes to the mysteries\lof the POKéMON WORLD. Perhaps your\ljourney through JOHTO will let us\lsee a little more of it.
+37dd4d|You got a CURRENT CROSSER\nfrom the CAPTAIN!!
+37dd82|{C1927}I must admit, {V01}, I was wrong\nabout you and your organization.
+37de7c|{C1927}I believed so too, until\nGIOVANNI himself, your LEADER,\lcontacted me shortly after that\lwhole POKéMON LEAGUE mess.\pHe told me, just as your partner\nsaid, what that mysterious stone\lreally was: nothing more than a\lpart of the POKéMON known as\lDEOXYS. With DNA impossible to\lreplicate and unrivaled PSYCHIC\lpowers.\pI was stunned when he sent me\nits complete data.
+37e012|{C1927}And not only that, he also told\nme about MEGA STONES, and about\lsome PSEUDO-LEGENDARIES that could\lbenefit from them.\pWith that, my theories about their\npotential are confirmed.\pThanks to you, I now know their\nceiling is higher than that of\lsome MAJOR LEGENDARIES. Amazing.
+37e12e|{C1927}After everything that's happened,\nit's clear to me that TEAM ROCKET\lknows how to repay a favor many\ltimes over.\pKnow that you have a friend and\nally here for whatever you need.
+37e1e5|{C1927}And one more thing.
+37e1f8|{C1927}I still remember our battle.\nYou only got away because I didn't\lbring my best POKéMON to KANTO.\pWant to see some real\nPSEUDO-LEGENDARIES?\pWatch this!
+37e291|I lost again?
+37e2a2|{C1927}Ha!\pJust as I thought, your team is\nnothing like it was on the\lS.S. ANNE.\pYou showed promise even then, but\nsince then you've clearly been\lseasoned plenty.\pHere, this is for you.
+37e363|{C1927}With this device, your POKéMON\ncan cross certain currents, like\lthose of the WHIRL ISLANDS, with\lno trouble. It works just like\lWHIRLPOOL, but without needing\lto learn it.
+37e41e|{C1927}A pleasure to see you again,\n{V01}. And remember: we're still\lat the tip of the iceberg when it\lcomes to all the mysteries of the\lPOKéMON world.\pPerhaps your journey through JOHTO\nwill help us keep uncovering them.
+37e512|A sailor's life is hard, but it's\nhard for their wives too. Every\lmorning we scan the horizon,\lwaiting for our husbands to\lcome home.
+37e5b9|CHUCK's FIGHTING types are\nterrifyingly strong. Can you\lbelieve a sky-high-level MACHAMP\lis his weakest POKéMON?
+37e642|The WHIRL ISLANDS were always a\nmystery. They say everything\lchanged there the day the BRASS\lTOWER burned.
+37e75a|Wait…\pYou were the only one who managed\nto beat CHUCK back when he still\lused his usual POKéMON!\pYou've got my respect!
+37e813|CHUCK takes it a lot\peasier now. The GYM's overall\nlevel has dropped a lot since\lthen.
+37e97c|{C1942}Ha! Take this TM too!
+37e99e|{V01} received TM65 LOW SWEEP\nfrom CHUCK!!
+37e9d0|{C1942}FIGHTING types don't usually have\nthe best SPEED. With this move,\lyou'll not only deal damage, you'll\lalso slow your opponents down!
+37eaf1|{C1942}Ah, {V01}!\pWhat brings you back?\pIf you want to battle me again,\nI'm afraid it's too late.
+37eb5d|{C1942}That's right{C0819}…{C0819} a few days ago I\nreleased my POKéMON, just as I told\lyou in our battle almost a year\lago{C0805}…{C0805}
+37ebd4|{C1942}Well, there's a time for\neverything, don't you think? Now I'm\lhumbly raising two little ones,\lPOLIWAG and MANKEY, with no\lcompetitive ambitions.
+37ec6e|{C1942}So, what's the reason for\nyour visit?
+37eca4|{C1942}Hmm, I see. What you say is true,\nthat place exists. It was discovered\lby this city's boldest HIKERS. But\lthat place's history goes back much\lfurther.
+37ed55|{C1942}I went in myself back in the day,\ndecades ago. These days I couldn't\ltell you the exact spot.\lHowever, I know someone who knows\lit inside out.
+37edec|{C1942}The man who lives in the little\nhouse north of the city is back. He\loften visits the area. I'm sure\lhe'll be glad to go with you, once\lhe gets to know you a little.\pGood luck, {V01}!
+37eeaa|{C1942}Ah, {V01}, right?\pWelcome to my humble GYM.
+37eedc|{C1942}Here, humans and POKéMON fight as\nequals. One of our maxims is that\lif you can't lead by example and\lkeep pace with your own POKéMON,\lyou aren't worthy of continuing\lto train them.
+37efa3|{C1942}That's why talk of TRAINERS and\nPOKéMON loses its meaning.\pWe all learn and improve together,\nso that when we battle others, we\lact as a single body.
+37f058|{C1942}Sadly, age has caught up with\nme. Not old age, but the end of\lmy physical prime.\pAt 51, I've done the impossible to\nstay at the level of my best\lPOKéMON, and I've learned the hard\lway that I can no longer give\l100%.
+37f151|{C1942}It takes me longer to recover\nfrom big efforts, and to get going\lbefore them, but I'll tell you\lsomething{C080F}…{C080F}\pIn the heat of battle, I'm still\nthe same as ever!
+37f203|Yes, I knew I could get back\nto this level!
+37f22d|{C1942}You're a great TRAINER, {V01},\njust the challenge I needed to\lknow exactly where I stand. You've\lshown me I can hold on a little\llonger, before my best POKéMON\lcontinue their journey without me.
+37f305|{C1942}No doubt about it, you deserve\nto wear our emblem!
+37f336|{C1942}Here, take the\nSTORM BADGE.
+37f360|{C1942}I'd like you to have this\nPOKéMON. It has a real gift for\lfighting.
+37f3b4|You got a Lv. 25 STUFFUL!!
+37f3d6|{C1942}You won't find a FIGHTING\nPOKéMON like this anywhere in\lKANTO or JOHTO.\pIt has a knack for taking physical\nhits like no other, thanks to its\lABILITY.
+37f465|{C1942}I think I can hold out one more\nyear. After that, I'll release my\lPOKéMON and start from scratch with\la MANKEY and a POLIWAG. Yes, with\lno ambitions and no pressure.
+37f52a|Looks like CHUCK's going to take\nyou seriously, kid. If you want a\lshot, take my advice and avoid\lclose combat at all costs. CHUCK\lis indestructible on that front.\pFocus on ranged PSYCHIC or\nFLYING-type attacks. POKéMON with\lINTIMIDATE, a ROCKY HELMET and\lgreat physical bulk can help you\lstop the tremendous strength of\lhis best-trained FIGHTING\ltypes.\pI hope you put on a great\nshow!
+37f6f4|What an exchange of blows!\nCHUCK's POKéMON nearly split the\lGYM in half trying to knock yours\ldown!\pYou've got immense talent!
+37f7b2|CIANWOOD CITY POKéMON GYM\nLEADER: CHUCK\pWINNING TRAINERS:\n(It's empty!)
+37f80f|CIANWOOD CITY POKéMON GYM\nLEADER: CHUCK\pWINNING TRAINERS:\n{V01}
+37f86d|I know CHUCK well. When he was\nyoung, he promised to be just one\lmore member of his POKéMON team,\lsomething he's kept to without\lfail until now.\pAmazingly, he managed to stretch\nhis physical prime well into his\lforties, but time catches up\lwith everyone sooner or later…\pNow that he's past 50, he'll have\nto make a decision about his\lloyal POKéMON.
+37f9f6|One of the 3 roaming beasts blessed\nthis city with the fruits of the\lsea. I hadn't seen the lord of the\lnorth winds in over five years,\luntil finally, one fine morning,\ldays after all that commotion at\lthe POKéMON LEAGUE, I saw it\lreturn to its beloved CIANWOOD\lCITY.
+37fb2d|My grandparents know so much about\nthis city and JOHTO{C080F}…{C080F} It'll be\la shame when all that knowledge\lis lost forever once they're\lgone.
+37fbcd|I wouldn't trade the peace this\nplace gives me for anything.
+37fc15|Look how tan I am from all this\nsunbathing! Sometimes STARYU even\lstick to me!
+37fc82|I heard they're planning another\nSAFARI ZONE near here.\lWill that affect our city?
+37fce9|There's nothing like CIANWOOD,\ntrust me!\lThis city is blessed with the\lfruits of the sea!
+37fd8c|Those hikers around here only talk\nabout GEODUDE, ONIX or DONPHAN.\pWhat they don't know is that\nother regions have amazing ROCK\lPOKéMON too.
+37fe1e|Here, take this as an example.
+37fe3c|You got a Lv. 25 ARON!
+37fe59|ARON can evolve into a POKéMON whose\nphysical defense rivals STEELIX's.\lI got to know it thanks to CROM.
+37fef0|Lots of new people have been coming\nhere lately. I'm surprised PRYCE\lhasn't said anything.
+37ff59|When I was young, I'd swim all\nthe way around the LAKE OF RAGE.\lNow I walk around it!
+37ffb9|Have you been to the LAKE OF\nRAGE?\lIt seems its full depth is still\la mystery. Could there be a new\lspecies down there?
+3801f2|{C1944}Hmm{C0819}…{C0819} you've truly earned this TM.
+38021b|{V01} received TM60 FROST\nBREATH from PRYCE!!
+38024f|{C1944}FROST BREATH always lands a\ncritical hit, so it's guaranteed\lto deal solid damage.
+3802ac|{C1944}Oh, {V01}.\pSo you want to challenge me.
+3802d0|{C1944}Let me tell you, I've been in\nthe world of ICE POKéMON for 50\lyears. That ELITE FOUR woman you\lhave in KANTO hasn't seen the tip\lof the iceberg compared to me.\pUnderstand?
+380389|{C1944}Many changes are coming to\nJOHTO. I only hope I can rise to\lthe occasion and adapt to them.\pI hope to see the region finally\nprosper, together with KANTO.
+38042b|{C1944}{V01}, you must have done\nsomething right to hold the\lposition of power you do at\lsuch a young age.\pYou deserve my 100%.
+3804a5|{C1944}No one in decades has managed to\nquench the unshakable will of my\loldest traveling companions.\p{V01}!\pLet's see the bond you've been\nforging with your team!
+38054e|This time I truly played every\ncard I had{C0819}…{C0819} truly.
+38058a|{C1944}No one has come close to\ntroubling this team, much less my\lsingular MAMOSWINE and ARTICUNO.\lI thought KANTO only had decent\lTRAINERS, but none who were\lextraordinary.
+38064a|{C1944}I've had this gathering dust for\nyears. I thought I'd never hand one\lout again.
+38069c|{C1944}Here, take the\nGLACIER BADGE.
+3806c5|{C1944}Take this POKéMON. You won't\nfind it anywhere else.\pIt could come in handy.
+38071b|You got a Lv. 25 FRIGIBAX!!
+38073e|{C1944}I've kept this POKéMON's secret\nfor decades. It's the only ICE-type\lPSEUDO-LEGENDARY you'll ever see.\lTrain it well, and very few will\lmatch its physical power.
+3807e8|{C1944}Spring arrives when the ice and\nsnow melt.\pYou and your POKéMON will spend\nmany years together. I hope you\lenjoy that journey. I trust we'll\lboth see JOHTO bloom like it never\lhas before.
+3808e4|Are you really going to face PRYCE\nin a real battle?\lLet me give you some advice: strike\lbefore he does. His ICE POKéMON's\loffense is relentless. You'll need\lFIRE, FIGHTING or ROCK moves that\lcombine speed and power.\pGood luck!
+3809f4|You did it!\nYou beat the man of ice! I thought\lno one could handle that special\lARTICUNO!
+380a7c|MAHOGANY TOWN POKéMON GYM\nLEADER: PRYCE\pWINNING TRAINERS:\n(It's empty!)
+380ad5|MAHOGANY TOWN POKéMON GYM\nLEADER: PRYCE\pWINNING TRAINERS:\n{V01}
+380b2f|Behind that poster is the button\nthat opens the secret entrance, sir.
+380b82|You've come at just the right time,\nsir. I heard GIOVANNI was going to\lalert the other HEAD ADMINS, but\lwith you here, there's no need.
+380c11|Well, these RAGECANDYBARS don't\nlook half bad, honestly{C0805}…{C0805}
+380c5d|Those ninjas…\nWith the traps they've set, there's\lno way into the BASE{C0805}…{C0805}
+380d10|Behind this poster…\nThere's a button!
+380d36|Do you want to press it?
+380d56|I wonder what brute left the\nsecurity system in this state.\pIt's going to be a nightmare to\nrepair.
+380dd5|Disable the base's\nsecurity?\pI already took care of getting rid\nof that system myself!\pIf you want to reach the end,\nyou'll have to do it with no tricks\land no help! Bwahahaha!
+380e9e|Now I know why you hold the rank\nyou do in TEAM ROCKET; you're an\lexceptional TRAINER, sir.
+380f0c|We're going to learn a lot from\nthose traps the ninjas used.\pThey're very ROCKET-style!
+380f76|From now on, the POKéMON living in\nthe LAKE OF RAGE are going to be\lmore than interesting test\lsubjects.
+380ffb|You're the best, sir!\nNot even 20 TRAINERS together\lcould stop you!
+38104f|Ha!\pThey couldn't use our POKéMON\ntrap system!\pLook at those KOFFING explode!
+381296|Another fool falls\ninto the trap.\pWe're going to kick you out of here!
+3812df|We've got a rebel.
+3812f5|You'll fall, like the rest.
+38130d|This base belonged to my\nancestors. I'm only taking back\lwhat's mine, even if I have\lto share it!
+381373|You're trapped.
+381383|Our security is ruthless. If you\nwant to get into the base, you'll\lhave to pay the price.
+381565|Shwaaagh!\pI'm faster than the wind!
+38158f|I think it's time to vanish.
+3815b0|You can't invade this base on your\nown. There are too many of us.
+3815e7|Looks like we'll have to throw you\nout the hard way.\lNo problem. We've had practice\lkicking out TEAM\lROCKET.
+38165f|You're trapped.
+38166f|Bit by bit, we're sinking the\npoison of attrition into you. By\lthe time you're near the end,\lwe'll only have to finish you off.
+381869|Ambushes are our specialty, as\nyou've probably noticed.
+3818ac|My ninja POKéMON!
+3818c0|I should have brought a POKéMON\nwith TOXIC. That would drag out\lyour agony even more.
+381913|TEAM ROCKET is already too\npowerful. Can't you leave a slice\lof the pie for everyone else?
+381989|You can't escape the web\nwe've woven.
+381a58|Feeling tired yet?\pSoon you'll be begging us to\ntake you to a POKéMON CENTER.
+381ab4|Keep going. The harder you'll fall.
+381ad7|There's no way to heal here. We've\nmade very sure of that.
+381bcb|My ninja techniques will make\nyou cry!
+381bf0|I need more poison on my team.
+381c12|We'll all deal with you together.\nWe never said we'd play\lfair.
+381c6b|From here, as well as from the\nRADIO TOWERS in GOLDENROD and\lLAVENDER, we'll thoroughly study\lthe influence of magnetic waves\lon POKéMON.
+381d02|I'd love to train a STANTLER.\nThey're so pretty and so typical\lof JOHTO…\pBut I'm not sure it's a suitable\nPOKéMON for a ROCKET{C0805}…{C0805}
+381d9a|Have you heard of SHINY\nPOKéMON?\pWell, good!\pThere's nothing special about them\nexcept a different color than\lthey should have!\pIt's just nonsense to waste the time\nof people who want to show off how\lrare they are!\pThe only thing that matters in a\nPOKéMON is its genetic potential!
+381ec1|Our estimates suggest radio waves\ncan raise a conventional POKéMON's\lpower by more than 100 BASE\lSTATS.
+381f50|ROUTE 5 BASE, VIRIDIAN CITY BASE,\nCELADON BASE, FIVE ISLAND\lWAREHOUSE, MAHOGANY BASE AND\lROUTE 45 BASE.\pWe're everywhere!
+381fce|With this one, that makes 6 bases\nspread across KANTO, JOHTO and\lthe SEVII ISLANDS!\pAll power to TEAM ROCKET!
+38215d|As you know, we're working on\ncreating several artificial\lMEGA STONES for various POKéMON.\lWith that, we've managed to create\la physical attacker variant of\lCHARIZARD.\pHere's its MEGA STONE.
+38222d|CHARIZARDITE X fulfills many\npeople's dream: seeing CHARIZARD\lturned into a dragon.\pThere's nothing TEAM ROCKET's\nSCIENTISTS can't achieve.
+3822cf|They say PRYCE has a unique form of\nARTICUNO, its primal form, so to\lspeak.\pCould there be equivalents for\nZAPDOS and MOLTRES?
+38236b|To tell you the truth…\nI don't understand these blueprints\lat all{C0805}…{C0805}
+3823b5|How far do you think we'll get\nwith all this?
+3823f1|The progress in POKéMON BASE STATS\nover the last six months has been\lspectacular.\pDo you think POKéMON like NIDOKING\nor NIDOQUEEN will stop being\lconsidered strong after the bar's\lbeen raised so high?
+3824d0|No one is as powerful as TEAM\nROCKET.\pThree bases in KANTO, two in\nJOHTO, one in HOENN, and another\lin the SEVII ISLANDS!\pWe're everywhere!
+3827da|As you can see from these\nestimates, selling RAGECANDYBARS\lisn't profitable.\pI think we should try something\nmore hard-hitting, SLOWPOKETA{C0805}…{C0805}
+38287c|Who are you?
+38288c|How did a ROCKET get all the way\nin here?\pTake back the MAHOGANY BASE?\pIt was never yours. We just took\nadvantage of PRYCE's carelessness\lto set up our base of operations\lhere.
+382942|You shouldn't have interrupted this\nmeeting. If you've come this far,\lyou must be worn out.
+3829a9|TARO!\pDeal with him!
+3829c2|Your POKéMON don't have the\nfreshness they'd need to stand\lup to my ninjas.\pOn guard!
+382a23|It can't be!
+382a32|So you're still standing.\nI see you're not like the others.\lWhat they say about ROCKETS, that\lyou're only strong in numbers,\lseems to be a lie.
+382abb|Maybe you're the better TRAINER.\pBut not in this situation.\pHere, you play by our rules.
+382b19|MACUTO!\pFinish him off!
+382b2d|I'm going to crush you with all my\nbrute strength.\pYou'll see why they call me the\nbiggest bruiser in all of JOHTO!
+382b95|You!\nHow dare you?!
+382bae|I've had it with you.\pYou think you can come to JOHTO\nand do whatever you please?
+382c03|I'll personally deliver the\nfinishing blow. This base will be\lours once and for all.
+382c66|How is this possible?\nYou should be worn out by now!
+382c94|No{C0819}…{C0819}\pThis wasn't part of our\nplans{C0819}…{C0819}\pAfter all that, we won't be able\nto start over here.\pYou win, right?
+382d16|I hope you at least put\nit to good use.
+382d8d|{C1920}{V01}?\pAre you in MAHOGANY TOWN already?\pPerfect.\p{C080F}…{C080F}\n{C080F}…{C080F}\pGood, I see you've gotten ahead of\nme. I was going to send ARCHER and\lANDRA to retake the MAHOGANY\lBASE, but I trust you'll be\lenough. I hope it can be cleared\land ready to operate as soon as\lpossible.
+382e93|{C1920}So you've defeated the\nGRAND MASTER of ECRUTEAK CITY?\pThe evolution mechanism of his\nEEVEE-& is a complete mystery.\pIt can transform into the type of\neach move it uses.\pHe must have been a tough rival.\p{C080F}…{C080F}\l{C080F}…{C080F}\pHO-OH appeared?!\nAt the top of the BELL TOWER?\p{C080F}…{C080F}\n{C080F}…{C080F}\pA TRAINER who only uses MAJOR\nLEGENDARIES showed up and\lcaught it?\pHe had LUGIA too?!
+383023|{C1920}This upends our plans.\p{C080F}…{C080F}\n{C080F}…{C080F}\pYou say you already know him from\nARCHI7, and that he already took\lHOENN's LEGENDARIES there?\pHe must be extremely dangerous,\nand he may be after the same thing\lwe are. I'll double the guard at\lthe RUINS OF ALPH.
+38311d|{C1920}Stay alert, {V01}.\pWe must act accordingly.\nWe'll keep in touch.
+383208|So you're the bulk of TEAM\nROCKET. I'll finish you off!
+383249|Curses!
+383255|Not even a TEAM ROCKET officer can\nkick us out of here. There's\lstrength in unity.
+3832c9|I came here around the mountain.\nMy GROUND types can't stand going\lthrough the ICE PATH.
+383332|They say the god who created all\nthings confined BLACKTHORN CITY's\ldragons, surrounding the area with\lmountains and leaving the ICE PATH\las the only way out.\pAll out of fear of the immense\npotential of the DRAGON type.
+383427|There are no good TRAINERS left\nin JOHTO. This region has changed\la lot in just two years.\pNow all we have are rookie\nLEADERS, GOLDENROD CITY posers or\lsemi-retired veterans.\pThe world used to be much bigger.
+383503|For those who know where to look,\nJOHTO has lots of TRAINERS worth\ltheir salt who've spent decades\lhoning the art of battle, but of\lall of them, the one who takes the\lcake is without a doubt our LEADER.\pHis dragons are simply on\nanother level.

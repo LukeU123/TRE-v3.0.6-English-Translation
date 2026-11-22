@@ -1,0 +1,476 @@
+32b868|{C191D}We'd lose millions the moment that\nrumour was confirmed, and our image\lof exclusivity would be shattered.
+32b8eb|{C1920}I understand, KOGA.\pI'll take care of the situation,\nbut you know what I think.
+32b93a|{C1920}The SAFARI ZONE was a big investment,\nbut it's been in decline for years.\lEven with prices slashed to absurd\llevels, fewer people visit every\lyear. This will only delay its\linevitable collapse.
+32ba0d|{C1920}My forecast is that it'll be gone\nwithin 3 years. Even so, slowing\lthat decline could be worth tens\lof millions in profit compared to\ljust letting it fall.
+32bab7|{C191D}I'm counting on you, then.
+32bad4|{C1920}Nobody but a ROCKET will be\nleaving that place with a\lKANGASKHAN, if there is one.
+32bb2b|{C191D}I'll keep an eye on the news.\pWe must act fast. The area will be\ncrawling with onlookers soon.
+32bb8d|{C1920}That's all, KOGA.\pI'll let you know what happens. Now,\nif you'll excuse me, I have a talk\lto finish.
+32bbf4|{C191D}{C080F}… {C080F}…{C080F}\pLong live the old KANTO.
+32bc19|{C1920}Change of plans, {V01}.\pYou heard KOGA. Your mission now is\nto clean out every last corner of\lROCK TUNNEL.\pErase every bit of evidence, every\npossible clue that a KANGASKHAN\lwas ever there.
+32bce3|{C1920}To reach ROCK TUNNEL, first go\nthrough the UNDERGROUND PATH, east\lof the city.\pFrom there you can't miss it.\nYou'll reach LAVENDER TOWN, and\lonce there, ROCK TUNNEL is to the\lnorth.
+32bdad|{C1920}That's all, {V01}.\pIf that KANGASKHAN exists, catch\nit and bring it here as proof.
+32be03|{C1920}One more thing: stay away from the\nPOKéMON TOWER in LAVENDER TOWN.\lI don't want ROCKETS in that place,\lat least not for now.\pUnderstood?
+32be7f|{C1920}Then get to work!
+32c272|{C1920}{V01}, perfect timing!\pI've already been told about your\nexcellent work, snatching the\lKANGASKHAN out of that wretch's\lhands.
+32c2ed|{C1920}I understand that SCIENTIST already\ntook advantage of the situation\lback at MT.MOON. You should know\lthis isn't the first time he's\lgiven us trouble. He's a kind of\lopportunist, a scavenger obsessed\lwith rare POKéMON.\pHe'll do anything to get them, by\nany means, just like BILL, only\lwithout his money.
+32c437|{C1920}I'm glad you put that coward in his\nplace in the name of TEAM ROCKET.\lThat, along with finding the famous\lKANGASKHAN, deserves a handsome\lreward.
+32c4d9|You pocketed $95,000!
+32c4f4|{C1920}And there's more.\pTo celebrate your revenge, TEAM\nROCKET will also reward you with\la KABUTO.
+32c553|{C1920}Technically, you're just getting\nback the DOME FOSSIL that was taken\lfrom you, with interest. Already\lrevived as a KABUTO and raised to\llevel 28, if I remember right.
+32c601|{C1920}PROTON!\pHand the KABUTO over to {V01}!
+32c626|{C1928}With pleasure, boss.
+32c63a|YOU OBTAINED A LV.28 KABUTO!
+32c659|{C1920}Technically, it's worth several\nhundred thousand on the black\lmarket, but your history with this\lFOSSIL is worth more than all\lthat{C080F}…{C080F}
+32c6e3|{C1920}For now, the matter is settled.\pWe'll examine that KANGASKHAN to\nfind out where it came from. How it\lended up in ROCK TUNNEL is still a\lcomplete mystery.
+32c784|{C1920}Right, {V01}. On your last mission\nI stressed how important it was\lto stay away from the POKéMON\lTOWER. That place is closely tied\lto our next move{C0805}…{C0805}
+32c829|{C1920}We're sending in a full squad to\ncollect as many CUBONE skulls as\lpossible.\pThey fetch a high price on the\nblack market.
+32c8b9|{C1920}However, that's just the cover.\nThe distraction everyone will be\llooking at, thanks to our\lreputation.
+32c91f|{C1920}The real goal is to get FUJI's\nattention, so that he comes to the\lPOKéMON TOWER at exactly the right\lmoment{C0805}…{C0805}
+32c992|{C1920}FUJI was once one of our best\nSCIENTISTS.\pHe's the only one who knows the\ncrucial details of one of our\lgreatest projects.
+32ca2c|{C1920}Your mission is simple, {V01}.
+32ca48|{C1920}PROTON will take FUJI up to the\ntop floor to negotiate in\lprivate.
+32ca9f|{C1920}Meanwhile, you'll make sure that\nmeeting stays confidential. I don't\lwant absolutely anyone interfering\lwhile the negotiation lasts.\pIs that clear?
+32cb4e|{C1920}Perfect. Nothing can go wrong on\nthis mission.\pThat's why, besides the other\ngrunts, you'll team up with another\lTRAINER.\pI'd say{C080F}…{C080F} you two already know each\nother{C0805}…{C0805}
+32cbf6|{C1920}Surprised?\pBLUE agreed to ally with us while\nhe was crossing NUGGET BRIDGE,\laround the time of your job at\lBILL's house.\lBeing PROF.OAK's grandson and RED's\ldirect rival makes him the perfect\ldouble agent.
+32ccdd|{C1908}So you're the ROCKET from\nthe SS.ANNE{C080F}…{C080F}
+32cd05|{C1908}You hide your best soldiers well,\nGIOVANNI. You should let more like\l{V01} loose on the routes. It's\limpossible to keep improving with\lsuch mediocre people wandering\laround out there.
+32cdb7|{C1920}You have a lot of this region left\nto see, young man. If you think the\lGYM LEADERS are the best around\lhere, you're sorely mistaken.
+32ce3d|{C1920}The true legends of KANTO, like\nthose of JOHTO, tend to stay in the\lshadows.
+32ce9e|{C1920}But I don't blame you. This is the\nnew KANTO now, and the only one\lpeople your age will ever know.
+32cf12|{C1920}Back to the plan: the only variable\nthat could derail it is RED. My\lsources place him on ROUTE 10,\lalready at ROCK TUNNEL.
+32cf89|{C1920}At his pace, everything suggests\nhe'll reach LAVENDER TOWN in the\lmiddle of the mission. If by some\lchance he decides to sneak into the\lPOKéMON TOWER, we can't risk\lanother MT.MOON 2.0.
+32d048|{C1920}This is where you come in, BLUE.
+32d06a|{C1920}You'll be warned when RED arrives,\nand you'll wait on the lower floors\lof the TOWER. Once he shows up,\lpretend you just happen to be\lthere. Without ever mentioning TEAM\lROCKET, try to convince him to\lturn back.
+32d154|{C1920}Tell him about the ghosts, that he\nneeds a SILPH SCOPE{C080F}…{C080F}\pIf he decides to go up anyway,\nwarn {V01} immediately.
+32d1d5|{C1920}Also, this is for you two: a\nSILPH SCOPE.\lWith it you'll be able to catch\lany ghost inside the POKéMON TOWER.
+32d254|{V01} obtained a SILPH SCOPE!
+32d26f|{C1920}{V01}!{C0823}\pI don't want you seeking a rematch\nwith RED! If you're told he's about\lto arrive, you'll go up to the top\lfloor and warn PROTON!\lThat's the only reason to\linterrupt the meeting!
+32d33e|{C1908}Why do you make such a\nbig deal of RED?!\pIf {V01} and I teamed up,\nwe'd beat him for sure!
+32d39b|{C1920}The truth is, no one has even\ncome close to beating him. Against\lpower that can't be controlled,\lall we can do is act cleverly, so\lit only shows up where it suits\lus{C0819}…{C0819} and buy time.
+32d466|{C1908}Hmph!\pI'll turn the tables on RED.\nJust you watch.
+32d4a4|{C1920}A bit arrogant and overbearing, but\nwith potential, like his\lgrandfather{C0819}…{C0819}
+32d4ed|{C1920}PROTON will meet up with you\nshortly, {V01}. Go on ahead with\lthe other grunts to start the\lCUBONE decoy and lure in FUJI.
+32d57b|{C1920}I'm counting on you.
+32d966|ATTENTION ALL GRUNTS!\pA mysterious TRAINER dressed in\nRED has infiltrated our BASE!
+32d9cf|{C1920}Well{C0819}…{C0819}\pNo need to keep spying on him for\ninformation. He's walked right into\lthe lion's den.
+32da43|{C190A}Sir, your orders!\pWe're all falling like dominoes\nbefore the power of his POKéMON!
+32daae|{C1928}Call in all available\nHIGH-RANKING GRUNTS and\lEXECUTIVES!\pProtect access to our LEADER!\pIf need be, resort to our\nspecimen room…!
+32db63|{C1920}We'll do nothing of the\nsort, PROTON.
+32dba9|{C1920}I want all EXECUTIVES\nand HIGH-RANKING ROCKETS\linside the DEEP ROCKET BASE.
+32dc0c|{C190A}Right away, BOSS!
+32dc25|{C1920}PROTON, get me detailed information\non the team and levels currently\lused by CELADON CITY's GYM LEADER,\lERIKA.\pAgainst a standard challenger,\nand taking into account the\lCOMMITTEE's latest regulations.
+32dd0f|{C1928}Right away, sir.
+32dd24|{C1928}As of today, LEADER ERIKA has a\nLv.29 VICTREEBEL, a Lv.24 TANGELA\land a Lv.29 VILEPLUME.
+32dd96|{C1920}Perfect. What level was the\nmissing KANGASKHAN {V01}\lcaught in ROCK TUNNEL?
+32de01|{C1920}Splendid.\pThat fits the rank that wretch can\nexpect from me.\pBring me that KANGASKHAN and two\nother POKéMON slightly lower in\llevel and power. ONIX and RHYHORN\lwill do.
+32deb8|{C1928}Right away, boss.
+32decc|{C1920}Never show your enemy all your\ncards, {V01}.\pHowever strong that RED may be, he\ncan never fight something he\ldoesn't even know about.
+32df51|{C1920}By the time he finds out, it'll be\ntoo late for him, because he won't\lhave had time to adapt. He'll never\lreach our level fighting the\lmediocrity that fills the towns\land cities of today's KANTO.
+32e02f|{C1928}Here you are, sir.
+32e045|{C1920}I don't want you doing\nanything stupid, {V01}.\pI know you want to test yourself\nagainst that TRAINER and avenge\lyour defeat.
+32e0ba|{C1920}You're stronger and more capable\nnow than you were then, but it's\lnot time yet. The priority now is\lto keep that boy in the dark, at\lleast until we find out what he's\lafter{C0805}…{C0805}
+32e17a|{C190A}Sir, he just stole the LIFT KEY\nfrom a grunt. Nothing's stopping\lhim from reaching you now.
+32e1da|{C1920}The time has come.\pLet's see if this new "genius"\pfrom PALLET TOWN is worth anything.\p{V01}!\pPROTON!\pInside, now!\pAll staff will be notified\nwhen this is over!
+32e27d|{C1928}Yes, sir!
+32e727|This computer seems to serve a\nvery important function{C0805}…{C0805}
+32e76f|Do you want to open the secret\nentrance?
+32e794|{C1920}Excellent work, ANDRA.\pThe DRATINI and SCYTHER collected\nfrom the SAFARI ZONE will sell for\ltheir weight in gold as GAME CORNER\lprizes.\pHere's your reward.
+32e838|{C1920}You're back too,\n{V01}.\pYou kept the conversation between\nFUJI and PROTON private, just as I\lordered. It was a key negotiation\lfor us, so here you are.
+32e8e9|You pocketed $135,000!
+32e905|{C1920}And one more thing. In the name\nof TEAM ROCKET, I present you with\lone of the CUBONE stolen from the\lPOKéMON TOWER.\pBut this is no ordinary CUBONE. It\nholds a THICK CLUB, an item that\ldoubles the ATTACK of both CUBONE\land its evolution, MAROWAK.
+32ea0d|{C1920}A gift worthy of the one who\nmanaged to beat FUJI's MAROWAK.\pDon't you think?
+32ea57|YOU RECEIVED A LV.20 CUBONE!
+32ea79|{C1920}To close this matter…\pYou'll be interested to know that\nwhen studying the KANGASKHAN found\lin ROCK TUNNEL, we saw its\lphysiology was very similar to the\lCUBONE-MAROWAK evolutionary line.
+32eb32|{C1920}In the SAFARI ZONE, every\nKANGASKHAN is bred in captivity.\pWith every comfort provided, it's\nnatural that the young always grow\luntil they reach that stage…
+32ebdf|{C1920}But the CUBONE-MAROWAK line isn't\nso clear. A CUBONE becomes what it\lis the moment it takes its dead\lmother's skull.
+32ec66|{C1920}But what if its mother doesn't die?\pWhat would CUBONE become?
+32ecb0|{C1920}According to our study,\na KANGASKHAN.
+32ecea|{C1920}That's hard to prove.\pOnly if the POKéMON TOWER ceased to\nexist could we see what happens to\lits CUBONE if they migrated en\lmasse to ROCK TUNNEL.
+32eda7|{C1920}ROCK TUNNEL is actually a better\nplace for CUBONE to breed and\lsurvive than the POKéMON TOWER.
+32ee20|{C1920}If, over the generations,\nKANGASKHAN began appearing too,\lthat would be irrefutable proof of\lthe link between the two species.
+32eebd|{C1920}Based on this hypothesis, the\nKANGASKHAN you caught there,\l{V01}, starts to make sense.
+32ef22|{C1920}That's right. Perhaps that\nKANGASKHAN is the first case of a\lyoung one that never became a\lCUBONE, migrated to the tunnel,\lsurvived and became a KANGASKHAN\lon its own.
+32efcf|{C1920}Perhaps it's something we'll see\nmore and more often.\pOnly time will tell.
+32f02a|{C1920}Putting that aside, and since\nyou're both here, it's time to\ltake the next step.
+32f091|{C1907}What do you mean?
+32f0a7|{C1920}You two have proven yourselves\ncompetent and trustworthy.\pYou've done 6 missions with us\nnow, and succeeded in 5 of them.\lVery few can say that in so\lshort a time.
+32f16f|{C1920}But, as you'll have noticed, TEAM\nROCKET is banned from every public\lshop in the region, even the\lCELADON DEPT. STORE.
+32f212|{C1920}Even so, you needn't worry.\pI know two rising HIGH-RANKERS\nwill be eager to invest the money\lthey've honestly earned in making\ltheir POKéMON even stronger.
+32f2c3|{C1920}This organisation never leaves\nanything to chance. Long ago we\lbuilt ourselves a vast private\ltrade network, bigger than the\lofferings imposed and fixed by\lthose leeches at INDIGO PLATEAU.
+32f392|{C1920}When you arrived here, you were\ntold that bit by bit you'd discover\lsome of the secrets TEAM ROCKET\lkeeps.
+32f413|{C1920}Well{C0819}…{C0819} the time has come to reveal\none of them.
+32f457|{C1920}PROTON!
+32f463|{C1928}Yes, boss.
+32f478|{C1907}Wow!\pA secret base hidden inside\nanother secret base?\pGenius!
+32f4c4|{C1920}That's right, ANDRA.\pWhat really matters about this place\nlies beyond those stairs. Many\lthink the GAME CORNER is the cover\lfor this BASE.
+32f564|{C1920}But they're wrong…\pThis BASE is the cover for what's\nreally down there.
+32f5b6|{C1920}I hope you understand the scale of\nthis secret.\lIf the KANTO authorities had the\lslightest idea what we've got set\lup here, they wouldn't hesitate to\lpour everything into destroying us.
+32f689|{C1920}Only our SCIENTISTS and soldiers\nof HIGH RANK and above have access\lto this place. You may enter\lwhenever you like by using\lPROTON's PC.
+32f730|{C1920}That's all for now.\pUntil new missions come up, I'm\ngiving you free time to explore\lthe -DEEP ROCKET BASE-.
+32f7ac|{C1920}That way you'll start to get an\nidea of what we invest all our\lresources in.
+32f7fd|{C1907}It's an honour that you'd place\nyour trust in us, GIOVANNI!
+32f840|{C1907}See you down there, {V01}.\pI'm going to have the time of my\nlife exploring every corner of one\lof the most secret, confidential\lplaces in this region!
+32fd53|{C1906}You're not calling the shots\nanymore, LANCE.\pI suggest you calm down.
+32fd99|{C1906}But{C0819}…{C0819} now you come to me saying{C0819}…{C0819}\nthat I should handle all this as\lfairly as possible and hear out\lyour demands.
+32fe15|{C1920}If you want to keep some of your\nprivileges and power, you'll have\lto meet the following conditions{C0805}…{C0805}
+32fe88|{C1920}Get RED to give up the CHAMPION\ntitle, and wipe him off the map.\pI want OAK's little experiment out\nof the picture. Take him somewhere\lremote and tell the media he's\ldoing some kind of secret training.
+32ff72|{C1920}That way, you'll keep BLUE as\nreigning CHAMPION. He'll inform us\lof any misstep you try to take\lagainst us, LANCE.
+330001|{C1920}For your own good, I hope you\ndon't do anything stupid.
+33003a|{C1920}You'll confirm the final dissolution\nof TEAM ROCKET. That means any real\lROCKET who's spotted will be treated\las just another citizen, with the\lsame right to enter the shops.
+330109|{C1920}And finally, you'll cut the tax\nburden by 80%, both for SILPH and\lfor all of KANTO's small businesses.\lNo more bleeding the citizens dry\land keeping them under a regime of\lslavery in disguise.
+3301ef|{C1920}That's all. And remember: one wrong\nmove, the slightest hint that you're\lup to something, and all of KANTO\lwill learn what happened in the HALL\lOF FAME.
+33027f|{C1920}Now, get out of my sight!
+33029d|{C1928}Sir…\pDo you think we're doing the right\nthing, negotiating with people like\lthat?\pShouldn't we…?
+3302f0|{C1920}I know, PROTON, I know… But KANTO\nisn't ready to take in everything\lthat happened. All it needs is to\lfind stability again, not a whole\lnew revolution that throws the\lregion into even more chaos.\pFor now, LANCE's hands are tied, and\nwithout the COMMITTEE members pulling\lthe strings, things will only get\lbetter{C0805}…{C0805}\pNow we're the ones pulling those\nstrings.
+330465|{C1920}{V01}, you proved yourself\nan exceptional TRAINER in the\lHALL OF FAME. One of a kind, the\lsort that appears once every 50\lyears.\pOnly someone like that could have\nbeaten a team as unstoppably\lpowerful as LANCE's.
+330548|{C1920}Fortunately, we've returned RAIKOU,\nENTEI and SUICUNE to their natural\lhabitats in JOHTO.\pLet's hope no maniac like LANCE\never has the intent and the power\lto catch them again{C0805}…{C0805}
+33061a|{C1920}We've fulfilled the purpose TEAM\nROCKET was reborn for, {V01}:\lsaving KANTO from LANCE's clutches.\lAnd you were more than essential\lto it.\pAlong with ARCHER and ANDRA, you've\nreached the highest rank I can offer\la member of TEAM ROCKET in KANTO.
+330728|{V01} HAS BEEN PROMOTED\nTO ADMIN!!
+330751|{C1920}TEAM ROCKET is your home,\n{V01}. You've earned your place\lfair and square. This is your\lreward for your feat in the LEAGUE.\pConsider it a symbolic payment.\nWhat you did in the HALL OF FAME\lcan't be bought with money.
+33083d|You pocketed $1,000,000!
+33085b|{C1920}On top of that, as you know, we\nmanaged to stably replicate the DNA\lof ARTICUNO, ZAPDOS and MOLTRES, and\lsuccessfully create identical\lclones.\pThe least we can do is offer the\nfirst ones to the person who made it\lpossible.
+330944|YOU OBTAINED A LV.60 ARTICUNO!!
+330967|YOU OBTAINED A LV.60 ZAPDOS!!
+330988|YOU OBTAINED A LV.60 MOLTRES!!
+3309aa|{C1920}Now… whether you add them to your\nteam is your own decision. You've\lmore than proven you have what it\ltakes to handle POKéMON of this\lcalibre.
+330a4c|{C1920}With this, we begin the second\nreason TEAM ROCKET was founded: to\lunderstand the POKéMON world and its\lmysteries, explore the limits of\ltheir potential and go where no one\lhas gone before.
+330b16|{C1920}Of course, we still have MEWTWO\nin our sights.\pIt's still a danger that must be\ncontrolled, but now isn't the time\lto involve you in a mission like\lthat.
+330bb6|{C1920}After what you've done, you\ndeserve a good holiday. Give\lyourself time to celebrate and take\lin everything you've achieved,\lbefore you set off again on even\ltougher challenges.
+330c81|{C1920}And what better place for it than\nthe SEVII ISLANDS, where you're\lfrom? Now you can explore the\lislands and all their mysteries at\lyour leisure.\pI've heard there are good TRAINERS\nthere, plus flora and fauna very\lsimilar to JOHTO's.
+330d6b|{C1920}With this you can travel legally,\ntaking the SEAGALLOP from VERMILION.
+330db4|{V01} received the RAINBOW PASS.
+330dcf|{C1920}ARCHI7 is famous for its ruins,\non both SIX and SEVEN ISLAND.\lBoth are around 1500 years old and\lhave a lot in common with the RUINS\lOF ALPH in JOHTO. Some think they\lmay be connected somehow.
+330eaf|{C1920}Remember the flask you and ANDRA\nstole from the SS.ANNE's CAPTAIN?
+330ef8|{C1920}We believe its contents came from\nthose ruins.\lI won't tell you to go there just\lto investigate, as another mission,\lbut I'm letting you know.\pIf you're curious, you can stop by\nand try to find something out.
+330fdd|{C1920}That's all for now, {V01}.\pWe'll let you know when we have news\non MEWTWO or any other unusual\lPOKéMON. ARCHI7 and its mysteries\lawait. Enjoy your holiday.
+3312e2|{C1904}The CINNABAR ISLAND LEADER\nhas arrived, sir.
+331310|{C1920}Show him in.
+331322|{C191F}You wanted to see me, GIOVANNI?
+33133f|{C1920}That's right. I'll get to the point,\nBLAINE.\pI'm afraid I'll have to pull the\nfunding for mass-producing\lPORYGON.
+3313dc|{C1920}You've done great work, that's\nnot the problem. PORYGON is a\lluxury item very few people can\lafford. We make a lot of money on\leach one, true, but we have dozens\lof them sitting in storage.
+3314b7|{C1920}Lowering the price is out of the\nquestion, since they cost a lot to\lmake. There's no choice but to\lmatch production to demand. KANTO\lbarely has enough for itself. It\lwas to be expected.
+331561|{C1920}However{C0819}…{C0819} I happen to know\nSILPH has already created an\loptimised version of PORYGON. The\lnew PORYGON2 costs 3 times as much\lto produce as a normal PORYGON,\lwhich rules it out as a mass\lproduct.
+331633|{C1920}Its competitive value is another\nstory. That remains to be seen.\pApparently, PORYGON2 isn't the end.\nIts potential is even greater.
+3316af|{C1920}That's why, to make up for the\nfunding cut, I'm offering you work\lhere with our team of SCIENTISTS.\pNot only on the search for a\nbetter PORYGON, but on NIDOK{C0805}…{C0805}
+331778|{C191F}You know nothing will surpass\nthe original project, GIOVANNI. 
+3317b4|{C1920}It only has to surpass a\nrun-of-the-mill LEGENDARY.
+331811|{C1920}It's your call, BLAINE. Will you\naccept my offer? A SCIENTIST like you\ldeserves a second chance. Unlike\lFUJI, I know you still have that\lfire that drives you to want more.
+3318d5|{C191F}I'm sorry, GIOVANNI. But MEWTWO\nwas too much for me as well. What's\lthe point of creating so much\lpower if it can't be controlled?
+33195f|{C1920}That's exactly why we're still\nhere, BLAINE. To learn from the\lmistakes of the past and come back\lstronger.\pThat won't happen again, not with\ntoday's technology.
+331a06|{C1920}Don't you see, BLAINE? The gods of\nthe POKéMON world spared us for a\lreason. We could have fallen into\lLANCE's hands during the great\lpurge and been locked up for life,\lor worse. But for one reason or\lanother, you kept your post in\lCINNABAR and I stayed hidden.
+331b12|{C191F}Spared us?!\pWe're at their mercy! They could\nraze this base today if they found\lit, or burn down my lab tomorrow if\lthey ran an inspection!\pWe're fugitives!
+331bc2|{C1920}So be it. Doing anything less than\neverything in our power to take back\lthe region would be a poor way to\luse this gift, BLAINE.
+331c60|{C191F}I need to think it over, GIOVANNI.
+331c80|{C1920}I'll be here, BLAINE.\pThere's still time for you to do\nthe project of your life.
+331ccc|{C191F}That will always be a possibility,\nuntil the last of my days.
+331d1e|{C191F}How convenient that you don't know\nwhy I managed to keep my post in\lCINNABAR, ex-CHAMPION.
+332075|{C1928}The GRUNTS responsible for the\nmission in LAVENDER TOWN are\lreporting, sir.
+3320fa|{C1920}I thought I'd made your duties at\nthe POKéMON TOWER clear.\pYou didn't stop at collecting\nCUBONE skulls and making noise.\lYou went further.\pWhy?
+332195|{C1904}It was an accident, sir.\pWe just wanted some fun, but\nCUBONE's mother took it really\lseriously and{C0819}…{C0819} it got out of\lhand.
+332217|{C1920}Do you realise how bad you made us\nlook to FUJI, right in the middle\lof our negotiations?!\pAnd not just to FUJI, to all of\nKANTO!\pAs if LANCE's campaigns weren't\nenough, the whole region now knows\lwhat TEAM ROCKET did in LAVENDER.
+332312|{C1920}Your incompetence and lack of ethics\ndeserve an exemplary punishment.
+332359|{C1920}Believe me, if I punished you in\nproportion to your failure, my\lNIDOKING would run out of PP on\lits entire offensive moveset first.
+332400|{C1920}We are not murderers, even if your\nlatest actions suggest otherwise.\pI'll give you a chance to redeem\nyourselves.
+332480|{C1920}To make up for the harm you caused,\nyou'll donate 70% of your wages to\lLAVENDER TOWN's charities.\pTEAM ROCKET, in turn, will cover\nyour basic needs{C0819}…{C0819}\pAs long as you keep up your\nend of the deal.
+332561|{C1904}Y{C080F}-{C080F}yes, sir{C0819}…{C0819} thank you for this\nsecond chance. I promise you won't\lregret not using your\lNIDOK{C0805}…{C0805}
+3325e3|{C1920}I'm not finished.
+332604|{C1920}A huge underground CEMETERY is\ngoing to be built south of\lLAVENDER TOWN. FUJI will need\lhelp, and you'll be there for\lwhatever he needs. On top of your\lnormal ROCKET duties, any free\ltime you have left will go to that\lcause.\pAny objections?
+332714|{C1929}None, sir!
+332728|{C1920}Here's your chance: a year without\nmoney or fun, in exchange for\lwiping your slate clean.\pI'm warning you now: one slip-up,\nand you'll be banished{C0805}…{C0805}
+3327dc|{C1920}But if you stay strong, at the end\nof the year you'll not only earn\lforgiveness, you'll be promoted to\lHIGH RANK, since you'll have shown\lstrength, perseverance and, above\lall, the ability to learn from your\lmistakes.
+3328c9|{C1920}Now, get out of my sight.\pYour day 1 starts now!
+3328ff|{C1929}Yes, sir!
+332916|{C1920}Reckless fools…\pNow all of KANTO will mistake\nignorance for evil{C0805}…{C0805}
+33296a|{C1928}That's why the DEEP BASE is\nreserved for only a few.
+3329ba|{C1920}What is it, PROTON?
+3329d2|{C1928}There's something I don't get.\pA huge underground CEMETERY in\nLAVENDER TOWN? I thought the\lPOKéMON TOWER was more than enough\lto hold all the graves.
+332a79|{C1920}It's too early to talk about\nthat, PROTON. Far too early.\pIts time will come.
+332c97|{C191D}It's irreversible.\pThe SAFARI ZONE will close its\ndoors in the coming weeks.
+332ce4|{C1920}That was to be expected. Now that\nthe border with JOHTO is open,\leveryone will want to visit the\lneighbouring region and its exotic\lPOKéMON.
+332d68|{C191D}Not to mention that more than one\nperson has caught a KANGASKHAN in\lROCK TUNNEL and made it public.
+332dcf|{C1920}These are new times, KOGA.\pA lot of things are going to\nchange, and not all for the better.
+332e1c|{C1920}Not even TEAM ROCKET escapes\nchange. We've grown big, so big\lthat it'll be impossible to keep\leveryone happy{C0805}…{C0805}
+332ea0|{C191D}You mean{C080F}…{C080F}?
+332eba|{C1920}That's right.\pClosing the UNDERGROUND PATHS.
+332ee9|{C1920}Long ago they served as shelters\nduring the war, and more recently\lthey turned out to be a great\ltrafficking network for us.
+332f65|{C1920}Thanks to them, we made huge\nprofits on goods shipped in by sea\lfrom our SEVII ISLANDS base, which\lwas later streamlined with\lteleportation thanks to BILL's\lpatent.
+333022|{C1920}Now, with KANTO and JOHTO united,\nthey're nothing but a drag on trade\lbetween the regions. I've already\lhad pressure from the RADIO TOWER\land the MAGNET TRAIN to close them,\land so it will be.
+3330fa|{C1920}TEAM ROCKET has grown big.\pIn their day they helped us a lot\nto stay afloat, but today we can\ldo without them.
+333180|{C191D}What about the BIKERS?\pTheir main role was selling the\nimported goods. The paths were like\la second ho{C0805}…{C0805}
+333204|{C1917}You called, BOSS?
+33321d|{C1920}That's right.\pYou two have been the link between\nTEAM ROCKET and the BIKERS.
+33326b|{C1920}So I'm asking you to tell them about\nthe hard decision to close the\lpaths. We're dispensing with their\lservices, but TEAM ROCKET doesn't\lforget.
+3332fb|{C1920}Even though they're obsolete in\ntoday's KANTO, any BIKER who wants\lto become a member of TEAM ROCKET\land work at our various bases and\lbranches will be more than\lwelcome.
+3333c3|{C1920}That settles the matter.\pKOGA, PETREL{C0819}…{C0819} that's all.
+333428|{C1928}Though I'm still an EXECUTIVE, I'm\nthe one GIOVANNI trusts most.\pAs for ADMINS, there are only\nPETREL and ARCHER, the latter being\lHEAD ADMIN, since he's the top\lauthority at our SEVII ISLANDS\lbranch.
+333513|{C1928}The ranks in this organisation,\nfrom lowest to highest, are:\lGRUNT, HIGH-RANKING GRUNT,\lEXECUTIVE, ADMIN, HEAD ADMIN,\lLEADER.
+3335b4|In CELADON they accuse us of\npolluting the city, and they've got\la point, with what we've got going\lon in here!\pIf only they knew what was under\nthe ground they walk on!
+333664|Our job here is very simple: build\nmore production capacity, and\loptimise and automate every process\las much as possible. What you did\lat BILL's house sure helped a lot\lwith that.
+333748|"You'll never be a real ROCKET\nuntil you put your feelings aside\land become a cold-blooded machine\lthat robs and ruins TRAINERS."\pThat was the old image of the\naverage ROCKET. Nothing could be\lfurther from the truth. It's just\lpropaganda pushed by the current\lgovernment. Every theft we carry\lout is just taking back what was\lstolen from us before.
+333901|The machine is ready to use. Do you\nwant to teleport to the BASE on\lROUTE 5?
+3339d6|{C1918}Well!\pYou must be {V01}! It takes guts\nto mess with someone as well\lprotected as BILL and come out on\ltop!
+333a4a|{C1918}Our LEADER GIOVANNI is in his\noffice on B4F, one floor below\lthis one. He gave clear\linstructions for you to see him as\lsoon as you got here.
+333aed|{C1918}One more thing: you can't reach\nhis office by the normal stairs.\lFor security, the only way in is\lthe lift you'll find one floor up.\lYou'll need this key to make it\lwork.
+333beb|You got the LIFT KEY from the\nROCKET SCIENTIST!
+333c24|{C1918}That's all, {V01}. GIOVANNI is\nwaiting for you.
+333c5e|If you serve justice,\nyou betray TEAM ROCKET!
+333c9f|Rule number 1 of our GAME CORNER\nbusiness: never use what you sell.\lOur SCIENTISTS designed the slot\lmachines so the odds are all\lstacked in favour of our profits.\pThe house always wins!\pDon't forget it!
+333dc4|"GIOVANNI himself wants to see me.\nI can't just leave without even\lknowing what I'm doing here."
+333e41|And you?\nWhat made you join our\lranks?\l…\l…\lI see.
+333e97|Don't worry about anyone\ndiscovering this BASE. People out\lthere are so blind they wouldn't\lsee a ZAPDOS using THUNDER right\lunder their noses.
+333f49|The GAME CORNER right above us is\nour main source of income, and the\lbest part is it relies on people's\lterrible judgement, playing a game\lthey already know they'll lose\lstatistically.
+334041|HAIL GIOVANNI!\nForever!
+334080|Oh… You were that young HIGH-RANKER…\pYou've risen very fast. I'm glad\nto see talent in the new\lgenerations.
+3340f8|We only show our enemies what we\nwant them to see. Burn that into\lyour mind, young ROCKET. It's the\lkey to success.
+334185|So, FIVE ISLAND, huh?\pAre there rare POKéMON out\nthere or what?
+334203|{C1904}I hear our LEADER wanted to see\nyou. You don't want to start out\lhere by disobeying a direct\lorder, do you?
+33451f|You got a LIFE ORB from the\nCOOLTRAINER!
+334565|Recoil moves have almost unmatched\npower, but… as the NORMAL-type\lmove's own name suggests, they're\la DOUBLE-EDGED sword. Used wisely,\lthey're a great offensive tool.\pI could teach you DOUBLE-EDGE,\nif I hadn't already taught it to\lanother kid.\pBut I can offer you something\nbetter.\pBut… if I'm going to give it to\nyou, you have to prove you deserve\lit. It's not an item for just\lanyone.
+334709|So, do you accept the challenge?
+334725|The LIFE ORB goes one step beyond\nrecoil moves. This item boosts the\lpower of all your attacking moves\lby 30%. However, it takes 10% of\lyour health every turn you use\lthem.\pUsed wisely, you can create POKéMON\nof fearsome power, but you have to\lwatch out for the recoil damage.\pIf you combine it with moves like\nDOUBLE-EDGE or BRAVE BIRD, you'll\ldeal terrible damage to your foe,\lbut you'll also have to keep an\leye on your own health.\pThere are very few LIFE ORBS in\nKANTO. Use it well!
+33492c|Right!\nGet ready, I'm the strongest\lCOOLTRAINER you'll find on\lVICTORY ROAD!
+334989|Impressive. Someone like you\nshould have what I'm about to give.
+3349cb|You beat me… it's clear you're\nnot just one of the crowd.\pSo you deserve this.
+334a21|Fine, I get it.\pNot everyone has what it takes\nto face a real COOLTRAINER.
+334b14|This cave was dug by DIGLETT and\nDUGTRIO. It goes all the way to\lthe outskirts of PEWTER CITY.
+334b95|I went to ROCK TUNNEL, but\nit's dark and scary.\pIf only a POKéMON's FLASH\ncould light it up…!
+334c61|Hee!\nWait!\lRight now the area around\lPEWTER CITY is crawling with\lpolice because of what happened\lat MT.MOON!\lYou'd better not let them see you\laround there!
+334d26|LANCE recently banned you lot from\nthe CELADON DEPT. STORE too…\lserves you right.\pThat'll teach you to respect\ncitizens' rights!
+334dc1|Judging by your outfit, I'd say\nyou belong to a highly respected\lorganisation.\lAnd also…{C083C}I don't know why,\lbut your face looks familiar…
+334ea8|We can only get through one at a\ntime, and as soon as we reach the\lother side, there are several\lBIKERS guarding the way.\lOnly a great TRAINER like yourself\lcould fight through the shelters.
+334f99|The way into the shelters seems\nto be through here. Want to go in?
+3354d9|{C1985}That new PORYGON at the GAME CORNER\nis a rip-off. Nobody can afford it,\land the rumour is it's a weakling\lanyway!
+335553|{C1913}I told you, the best thing you can\ndo is save up for a DRATINI and be\lpatient.
+3355c2|{C1913}Someone from TEAM ROCKET here?\nWhat are you up to?
+3355f1|{C1913}You look different from the\nothers. You're not{C080F}…{C080F}?
+335623|{C1913}Must be some big shot. Do you know\nhow LANCE would reward us for\lcatching him?
+335675|{C1913}You could buy that PORYGON, the\nDRATINI and a SCYTHER!
+3356bd|{C1985}Besides{C080F}…{C080F} We'd be doing the region\na favour.
+3356f8|{C190C}Your days of freedom are over.\nI hope it was worth it!
+335743|Resisting, are we?
+335751|{C1985}Ho, ho, ho{C080F}…{C080F}so{C080F}…{C080F} looks like you\ntake good care of your POKéMON.
+33579c|{C1985}I'll keep a couple of them before I\nhand you over to the law. Nobody'll\lnotice they're gone!
+3357fc|Give up now!
+335809|{C1985}Damn you! He must be a big fish!\nIf we drag him to the POKéMON\lLEAGUE's CG, we'll be rich!
+33586c|{C1913}Relax, I can handle him.\nHe's worn out.
+33589a|{C1913}There's no way this nobody, with the\nresources he's got, can beat\lmy collection.
+335901|{C1913}Start packing your bags, we're\nheading to INDIGO PLATEAU!
+33593a|Who do you think you are?
+335954|{C1913}Damn it{C080F}…{C080F} with a DRAGONAIR I'd have\nbeaten you, if only it weren't so hard\lto raise one{C080F}…{C080F}
+3359b3|{C1913}Grrr{C080F}…{C080F} You won't get out of here{C080F}…{C080F}\nI'll call a buddy from CELADON MANSION.\lHe'll be here before you can{C080F}…{C080F}
+335a2d|{C1906}That's enough.
+335a3a|Th-the bikers!
+335a4d|{C192B}Get out of here, before I\nchange my mind.
+335a8f|{C192B}I know what you must be thinking.\nBut you mustn't judge them.
+335acb|{C192B}All of KANTO still remembers\nthe great power LANCE showed\lthe world.
+335b21|{C192B}That power cut deep. It left the\nregion's spirit in tatters, and with\lthat, LANCE moulded it into whatever\lshape suited him best.
+335b9d|{C192B}Now they're nothing but puppets\nfollowing his orders. And I get it.
+335be1|{C192B}After all, most people just aren't\nmade to live with the water up to\ltheir necks.
+335c58|{C192B}You look like the kind of person who\ncan stare down a power greater than\lthemselves.
+335cad|{C192B}Even if LANCE and his government\ncould burn the last traces of the\lold KANTO to ashes{C080F}…{C080F}
+335d15|{C192B}{C080F}…{C080F}no price is too high to pay\nfor the privilege of being your\lown master.
+335d76|{C192B}Just having that chance makes\nthe attempt worth it.\lDon't forget that, {V01}.
+335deb|Because of people like you and the\nFUCHSIA bikers, underground places\llike this aren't safe.\pSooner or later they'll end up\nclosing them.\pJust you wait!
+335e9e|People often lose things in the\ndarkness of the UNDERGROUND PATH.
+335f0a|Ho, ho, ho… Just wait till everyone\nsees my gleaming FLAREON.
+335f50|EEVEE speculation is booming. If I\nbuy 5 and hold on to them for a few\lyears, I can double my investment.
+335fd1|A VAPOREON is just what I need to\ncomplete my show. When it uses\lACID ARMOR underwater, everyone\lwill be amazed.
+336112|{C1907}{V01}!\pSorry for going on ahead, but I\nwanted to hatch the EGG ARCHER\lgave us after our mission on FIVE\lISLAND as soon as possible, so I\lcould start training it.
+3361bf|{C1907}In the rush, I forgot to tell you\nabout the place we've been assigned\lfor our next missions. Apparently\lthere are several matters that\lrequire our intervention.
+336271|{C1907}Anyway, what do you make of the\npeople of KANTO?\pThey don't seem to like us in the\nslightest, huh?\lApparently the ELITE FOUR started\la smear campaign against the\lorganisation a while back, shortly\lafter the war ended.
+33635d|{C1907}Since my defeat against the CONSUL,\nI've had time to improve my team.\lI really doubt that rich snob could\lbeat me now.\pBut you{C080F}…{C080F} I want to see whether the\noutcome of our first battle in front\lof ARCHER was a fluke or not.\pGet ready, I'm going all out!
+336461|You really are a\nremarkable TRAINER.
+336487|{C1907}Looks like you mean business.\pI should be glad. I'd rather have\nsomeone at my level beside me on\lfuture missions than someone\lmediocre. But don't get cocky, I'll\lovertake you any moment now.\pI'm going to become the strongest\nand most efficient GRUNT in the\lwhole organisation!
+336598|{C1907}A messenger told me that the\nROCKET ADMIN for this area,\lPETREL, wants to meet us at the\lPOKéMON DAY CARE on the other\lside of this underground path.\lHe said to get inside discreetly\land without being seen, nothing\lmore.\pThat's our next destination.\nDon't keep me waiting, okay!
+336a5e|{C190C}That's it, that's it…\nEveryone get in line…\lDon't worry…\lThere's enough for everyone{C0805}…{C0805}
+336ab0|{C190C}What's your problem, ROCKET?\pIf you want an EEVEE, get in line\nlike everyone else. I hope you've\lgot the 1,000,000$ they cost.\pOtherwise, stop wasting my time\nand go back to{C0805}…{C0805}
+336b75|{C190C}Did that naive SCIENTIST send you\nto get the EEVEE back?\lI don't know what you're on about.\lNobody here cares where they came\lfrom. All that matters is they're\lhere and they've got a price, a\lpretty juicy one at that.
+336c4b|{C190C}You've made me lose my patience!\pWhat a shame the best that poor\nfool can manage is to hire some\lmediocre ROCKET GRUNT!\pYou can't do a thing against\nelite POKéMON like EEVEE's\levolutions!
+336d42|Who on earth are you?\p{C0819}…{C0819} Wait!\pWeren't you the one who took down\nall of SILPH's security\lsingle-handed?!
+336daf|{C1915}It's {V01}!\pOne of the most powerful ROCKET\nHIGH-RANKERS!\pLet's get out of here!
+336dff|{C190C}Do you have any idea what\nyou've just done?!
+336e2c|{V01} recovered 60 of the 70\nstolen EEVEE!
+336e56|{C190C}Stupid ROCKET!\pI thought black markets were your\nthing too!\p{C080F}…{C080F}\p{C080F}…{C080F}\pSo now you work with SILPH?\pWhatever!\pI've already managed to sell 7\nEEVEE anyway. With the 7 million\lI've made, I can finally flee\lthis region before it goes down\lthe drain.
+336f6f|Good luck to those of you\nstaying in KANTO!\pYou'll need it!
+336fb6|Oh, no!\nI'd never trade my POKéMON\lwith someone like you!\lI bet you treat them badly!
+33704a|You look tired.\nWould you like to rest a while?
+33707b|I'm glad to see you're feeling\nfresher and livelier now.
+3370b6|Oh, sorry to bother you. You\nreminded me so much of my little\lbrother{C0805}…{C0805}
+337112|My MACHOKE is super strong. It can\neven move big boulders all on\lits own!
+337291|It's rude to spy on a girl while\nshe's getting ready.\lGet out!
+3372dd|…\nWe're getting ready for the\lbig party!\lGet out of here, you creep!
+33732e|People like you could do with a\nspell of reflection between four\lwalls!
+337389|My dad says you lot are bad\nand should be in jail.\lIs that true?
+33744d|The party must be about to\nstart.\lIt's a one-of-a-kind event!
+33749b|The S.S. ANNE is also famous for\nthe extraordinary parties it\lhosts.
+337567|In all my countless travels, I never\nsaw a POKéMON so huge. It was like this.
+337622|Waiter, I'd like a grilled TAUROS\nsteak, followed by MAGIKARP sushi.
+337688|Whoooaaa!\nSAFARI ZONE, here I come!
+3376b7|I sense an air of superiority from\nsome of the guests, when some are\lnothing but spoilt little brats.\lMy daughter will not be brought\lup that way.
+337760|The S.S. ANNE supposedly travels\nbetween regions carrying TRAINERS\lfrom all over the world.\pBut all I see here are KANTO\nPOKéMON!
+33785b|{C1907}Try to block off the\nCAPTAIN's possible escape\lroutes, {V01}.\pWe're going to have a little chat\nwith him.
+3378ce|Advanced Navigation\nTechniques.
+3378f9|How to Beat Seasickness…\nThe CAPTAIN is reading this!
+337da2|{C1927}Can I do something for\nyou youngsters?
+337dcd|{C1907}As a matter of fact, yes.\pYou see, CAPTAIN, you're said to be\na living legend in the world of\lsailing. You've sailed the 7 seas\land seen unique POKéMON.
+337e6c|{C1907}We were wondering if you could\nshow us a token of all those\ljourneys by letting us see that\lfamous jar holding one of the\lgreatest mysteries in our world.
+337f0c|{C1927}You mean this.
+337f23|{C1907}Wow, it's{C080F}…{C080F}mysterious.
+337f41|{C1927}Ho, ho! Indeed, youngster. The\nPOKéMON this fragment belongs to\lis like nothing we've ever seen.\lDo you know the legend of the\lPSEUDO-LEGENDARIES?
+337fe1|{C1907}Yes. We know of a few\nPSEUDO-LEGENDARY POKéMON, CAPTAIN.
+33801d|{C1927}I can imagine.\pTake LANCE's DRAGONITE,\nfor example.
+33805f|{C1927}They're POKéMON which, though\nnot born with the qualities Mother\lNature has bestowed by decree upon\lthe LEGENDARIES, are able to grow\land develop in such a way that,\lafter a long process, they turn\lout in their final stage to be\lPOKéMON with traits similar or\leven superior to those of an\lordinary legendary.
+33819e|{C1927}A PSEUDO-LEGENDARY symbolises\nthe flora and fauna of its region.\pFrom its earliest stages, its\nbody carries the very essence of\lits home region; that's what lets\lit reach such heights later on.
+338278|{C1927}Chosen among mortals, given the\npotential chance to step onto divine\lground; that is what the\lPSEUDO-LEGENDARIES are.
+33830c|{C1927}The POKéMON this fragment\nbelongs to has many qualities\lusually attributed to\lPSEUDO-LEGENDARIES.\pBut{C080F}…{C080F} it also shares\ntraits with the LEGENDARIES.
+3383b1|{C1927}It's a unique case.
+3383c6|{C1907}Impressive.\pYou seem a cultured man, CAPTAIN,\nwith 1,000 stories to tell.
+338418|{C1927}And you two seem like youngsters\neager to learn.\pI'd be delighted to teach you,\nif it weren't for the fact that{C0819}…{C0819}
+33848a|{C1927}I know who you are, and why\nyou've come here.\pWe've already been warned about a\ncertain criminal organisation that\lcalls itself TEAM ROCKET.\pYour clothes match the description\nexactly.
+338563|{C1927}You know{C080F}…{C080F} of all the seas I've\nsailed, HOENN's are by far the\lwidest, wildest and most diverse;\lthe only ones that can make you\lforget all the damned corruption\lin this world.
+33863b|{C1927}And now you're telling ME that two\ncrooks from a region whose finest\lwaters are polluted by the POWER\lPLANT and CYCLING ROAD are going to\lwalk in and steal from ME a unique\lobject that reflects my work as a\lsailor for more than 30 years?!
+338747|{C1927}Oh, no. You've got neither the\nnerve nor the experience to do\lsuch a thing.
+338793|{C1907}Forgive me for disagreeing,\nCAPTAIN.\pThere are no seas like those of\nARCHI7, nor any places as\lmysterious as the ones there.
+33880c|{C1927}Well, you've got good taste, lass.\pThat must be where you're from.
+338850|{C1927}Perhaps you're right.\pARCHI7 is something I've yet to\nexplore 100%.\lI've heard that in the waters\lconnecting the 7 great islands\lthere are certain unexplored islets.
+338914|{C1927}Topographic maps show 8, 9 or\neven as many as 10 islands in\lthe area.\pSo the name ARCHI7 is a mere\nformality.
+3389a3|{C1907}How interesting{C080F}…{C080F}
+3389bd|{C1927}I'd love to keep chatting about\nthese things all day.\pUnfortunately for you, you've come\nto steal something precious to me,\land I won't allow it!
+338a61|{C1927}SAILORS!\pDEAL WITH THE GIRL!
+338a86|{C1907}No need!\pI'll deal with you myself!
+338ab6|{C1927}I'll take care of you.\nYou've no idea what's in store\lfor you, you vile scoundrel.\pYour POKéMON can't lay a finger on\nmy crew, hardened by years on the\lhigh seas!
+338b51|{C1927}I'll cut you in half and serve\nwhat's left of you at the party\lon the bow!
+338ba3|Who on earth are you people?!
+338bc2|{C1907}GOLBAT, finish this!\pWING ATTACK!
+338beb|-ANDRA stole the CAPTAIN's jar-.
+338c0e|{C1927}This can't be happening.\nMy crew, humiliated and made a\lmockery of by a couple of grunts\lfrom some local gang.\pWhat a disgrace!
+338c9e|{C1907}HIGH-RANKING GRUNTS, CAPTAIN!\nWe're not just anybody any more.
+338ce0|{C1907}Besides, look on the bright\nside: we'll put that jar to\lgood use.
+338d2d|{C1907}We'll find out which damned POKéMON\nit belongs to, instead of leaving it\lhere gathering dust, with no use\lother than reminding a has-been\lof the past.
+338dd1|{C1907}Don't take it personally. As\npayment and a token of thanks for\lyour cooperation, we'll send you a\lletter with whatever data we\lobtain.
+338e63|{C1907}How does that sound?\pThat information could be\nworth millions!
+338e9d|{C1927}Insolent brat!\pAre you mocking me?! Nobody is\nleaving here with that relic!
+338ef2|{C1907}TENTACOOL!\pPoison Sting{C0819}…{C0819} on the CAPTAIN!
+338f2b|Cool!
+338f3d|{C1927}My head{C080F}…{C080F}\pThat scoundrel poisoned me!
+338f70|{C1912}CAPTAIN!\pAre you all right?
+338f91|{C1907}{V01}! Now!\pIt's time to get out of\nhere as fast as we can!
+339029|It's a wastebasket.\nPerfectly clean and spotless.
+339056|Yuck!\nI shouldn't have looked!
+339081|Are you all right, CAPTAIN?!\nWe'll bring you something\lfor your headache!
+3390d9|One Galician-style OCTILLERY,\ncoming up!
+33910b|Our CAPTAIN loves HOENN\nPOKéMON.\pEspecially Water types!
+339167|Join the crew, they said…\nYou'll have great adventures,\lthey said{C0805}…{C0805}
+3391b8|Sniff…\nSniff…\lI only peel onions{C0805}…{C0805}
+3391ee|I only peel potatoes!\nMy hands are covered in dirt!
+339234|You should be at the party, but\nsince you're here, I'll tell you\la secret: the real party is in\lhere. Without our work, that\lcelebration out there wouldn't be\lpossible. I find enjoying the\lprocess that makes something\lhappen far more satisfying than\lreaching the end itself.
+339369|We're really busy!\nWe have to keep every guest at\lthe party supplied in record\ltime!
+3393da|I'm the coolest guy in this\nplace{C0819}…{C0819} and you know it.
+33941e|Oh…, what a COOLTRAINER,\nso{C0819}…{C0819} cool!
+339455|I'm the type who likes to watch\nevents like this as a mere\lobserver. You can learn more\labout a person by watching how\lthey act at parties like this\lthan by talking to them for hours.
+339516|Ha, ha, ha!\nWaiter!\lAnother SHUCKLE liqueur!
+339552|HA, HA!\pDo you know why people love\nparties so much?\p{C0819}…{C0819}\pBecause for a few hours they can\nescape all the problems and\lshortcomings of their miserable\llives!\pHA!\pWaiter, another SHUCKLE liqueur!
+339630|So after all that effort and\ndiscipline, this was supposed to\lbe the final prize. Ironically,\lI was happier training to get\lhere than I am now that I've\larrived.\pFridays always let you\ndown, kid!
+339715|Everything was perfect until that\nlovey-dovey couple showed up.\lThey've ruined the view!
+339784|Bleurgh…\pDon't even think about accepting\nthe weird liqueur that waiter over\lthere is serving. I think I'm\lgoing to throw up{C0805}…{C0805}
+339814|The uncertainty of the moment,\nletting intuition carry you away{C080F}…{C080F}
+33985c|The event of a party, the crowd's\nshared intoxication, the secret of\llosing oneself among the\lmultitude{C080F}…{C080F}
+3398e1|I still can't grasp the ultimate\nessence that would provide the exact\lformula to finally let me enjoy\lthese events{C080F}…{C080F}
+339981|Am I dreaming?\pI had the honour of seeing LANCE's\nmajestic, legendary DRAGONITE\lflying over the S.S. ANNE!
+3399ff|That was LANCE himself,\nin the flesh!!
+339ca6|{C1906}A pleasure to see you again,\nMR. LANCE.\pCHAMPION of the new KANTO.\pWhy have you summoned me here\ntoday, on a day as special as the\lS.S. ANNE's annual return?
+339d4c|{C1926}I'll be brief, SURGE.\pThe major cities are being\nsubjected to routine inspection\land control, to make sure the\lmachinery that drives this region\lis running properly.
+339e07|{C1926}How are things in VERMILION,\nSURGE?
+339e2b|{C191B}Everything is going perfectly,\nMR. LANCE.\pThe PORT will gradually expand its\nnetwork of contacts with other\lregions.\pAt the same time, we're considering\nbuilding a LIGHTHOUSE, like the one\lin OLIVINE CITY.
+339ef0|{C1926}That's all wonderful, SURGE.\pKANTO's economy is enjoying an\nunprecedented upturn{C0805}…{C0805}
+339f5b|{C1926}That was to be expected: all it\ntook was to impose order and decide\lfor the citizens where to channel\ltheir own efforts.
+339fd1|{C1926}But{C080F}…{C080F} that wasn't the\nanswer I was looking for,\lSURGE. I was wondering, rather{C0805}…{C0805}
+33a033|{C1926}How are people taking the fact\nthat one of the officers in\lcommand of the enemy region is\lnow VERMILION's GYM LEADER and\lmain icon?
+33a0cb|{C1926}Have people accepted\nyour change of role?
+33a0f6|{C191B}Hmm… I'm afraid the war is\nstill a taboo subject all\lacross KANTO.\pEspecially here, MR. LANCE. People\nprefer not to talk about it, to\lput it behind them and carry on\las if nothing had happened.\lPerhaps{C080F}…{C080F} there's still some\lmistrust among certain sections\lof the population{C0805}…{C0805}
+33a22a|{C1926}You mean TEAM ROCKET?
+33a24a|{C191B}They might be\nthe biggest example.\pThey grew out of discontent with\nthe new post-war government, but\ltheir crimes, combined with a\lwell-run smear campaign on your\lpart, have shaped public opinion\lof the ROCKETS into what it is\ltoday.
+33a36c|{C191B}Even so, there are still groups\nthat support them, that identify\lwith their cause.\pThe BIKERS would be the\nbiggest example of that.
+33a3fb|{C1926}{C0819}…{C0819}\pI see. The POKéMON LEAGUE\nCOMMITTEE will take the\lappropriate measures on this.
+33a45b|{C1926}Meanwhile, you'll carry on\nwith your work keeping order and\ldiscipline in VERMILION.\lIf the people see progress,\lthey'll accept you for good\las the town's SHERIFF.
+33a502|{C1926}People have short memories,\nSURGE, and good deeds in the\lpresent can make them forget\lthe real reason you hold that\lposition. So be patient.
+33a5af|{C1926}All we need is time.\pWith stability and proper\nprogress{C0819}…{C0819}KANTO will accept the\lNEW WORLD ORDER almost without\lnoticing.
+33a638|{C191B}Yes, sir, MR. LANCE.
+33a651|{C1926}That will be all, SURGE.\pI hope the party is a success.\nBig events distract the masses\land keep their minds elsewhere.
+33a6bd|{C191B}These parties were never\nmy thing.\pELECTABUZZ! TELEPORT!
+33a742|The party is a huge\nsuccess!
+33a77f|We'll make the time we've been\ngiven something unique. Who cares\lexactly how long it is?
+33a7f4|Let's drink to everything we've\nlived through in these long 70\lyears, and to all that's still\lahead of us. Who'd have thought\lthat after all we've been through,\lwe'd be sitting here in 1996, with\levery luxury at our fingertips,\land most importantly, still able\lto keep doing and dreaming.
+33a92d|Experiences are priceless, dear.\nNo money in the world can buy\lthe value of this moment, so\llet's make the most of it.
+33a9c2|Oh…\pAre you sure we can afford\nthis dinner?
+33aa05|So you like to bet big, MR.\nFUJITA. I'll make you an offer\lyou can't refuse{C0805}…{C0805}
+33aa73|Let's be clear, MR. NOMURA: I can\nbuy 20% of your shares, or I can\lbuy the lot, or I can go into this\lbusiness myself and bury you.\lYour choice.
+33ab1f|Is everything all right, sir?
+33ab45|The best thing about parties like\nthis is the food.\pI recommend the salted SHARPEDO.\nIt's exquisite, and you won't find\lit anywhere in KANTO.
+33abe7|Hurry up, or the best dishes\nwill be gone!\lYou snooze, you lose!
+33ac3f|In my opinion, TAUROS tail is the\nbest dish there is.
+33ac86|Oh, you're always the same. You eat\nthat every day at the restaurant\lin CELADON. You could take the\lchance to try some new dishes.\pThe grilled HUNTAIL I ordered is\ndelicious, for example.\lThe variety in HOENN's seas is\lsecond to none.
+33ae5f|{C1906}These parties always end up being\na drag. I came here to battle\lPOKéMON from all over the world,\land all I find are the same old\lPIDGEY, RATTATA and NIDORAN.
+33af0d|{C1906}Even the S.S. ANNE's sailors only\nsend out TENTACOOL.\pWhat a sham.
+33af5d|{C1906}Are you that ROCKET I gave\na FOSSIL to at MT.MOON?
+33af95|{C1906}I won't ask how someone like\nyou ended up in a place like\lthis. I'm guessing you didn't\lget in legitimately.\pHonestly, I couldn't care\nless.
+33b038|{C1906}At MT.MOON I turned a blind eye,\nseeing how mediocre all the\lROCKETS were. But you dared to\llecture ME on morals. You know\lwhat that means, right?
+33b0dc|{C1906}Time to see if you're just another\nface in the crowd, or if you've\lactually got something to say!\pEn garde, ROCKET!
+33b143|Did I seriously just lose to a\nROCKET?
+33b16c|{C1906}…\n…\lSo you're not just any\lROCKET{C080F}…{C080F} HIGH RANK?\pYou all look the same to me!\pAnyway, you're the only one who's\nmanaged to beat me apart from that\lbumpkin RED. I'll keep an eye on\lyou from now on.
+33b249|{C1906}Bah. I'm going to take a look\naround the cabins and see if anyone\lelse can give me a decent battle,\lthough I doubt it.
+33b2e9|Come on, relax, you're here to\nhave a good time!\pIt's not like you're undercover\non some top-secret mission!
+33b364|That's it!\pShow that beardless KANTO kid\nhow we do things around here!
+33b3b8|Go, POLIWHIRL!\pUphold the name of\nour fleet!
+33b40c|POLIWHIRL!\nBUBBLE BEAM!
+33b427|Whirl!
+33b43a|Amateurs!\pIf I send out my PINSIR, this\nbattle's over right now!
+33b4af|{C1907}This looks like the\nCAPTAIN's cabin.\pPETREL asked us to wait a bit\nbefore he gives us our final\linstructions. In the meantime,\lif you like, take a look around\lthe ship and get some more\ltraining in.
+33b5ac|{C1907}{V01}!\pEverything's ready for us to go in!\pLet's show that CAPTAIN how\nROCKETS do things here in\lKANTO!
+33b634|You don't often see people around\nhere dressed like that.\lIs it a custom from some town\lin this region?
+33b6b1|The S.S. ANNE's luxury party\nis second to none.
+33b6ff|This door is locked.
+33b770|{C1907}That was easier to get into\nthan it looked, huh?
+33b7a4|{C1907}Most of the passengers on this\nluxury cruise aren't from KANTO.\lThat gives us the advantage of\lgoing unnoticed and reaching the\lCAPTAIN's cabin without raising\lsuspicion.\pOnce there, we identify the jar\nand take it.
+33b88b|{C1907}Let's go.
+33b92c|{C1907}We did it, {V01}!\pThat CAPTAIN was tough, huh? I'd\nnever seen those POKéMON. They\lmust come from other regions.\pEither way, we've got that relic{C0805}…{C0805}
+33b9cd|S.S. ANNE: Attention, all people\non board. The party is now over.\lPlease return to your cabins so\lthe staff can clear the tables\land other equipment.
+33ba8c|{C1907}We'd better get going.\pBy the way{C080F}…{C080F} I found several of\nthese on the CAPTAIN's desk.\pI bet they'll come in handy!
+33bb0b|{C1907}See you at the HQ.
+33bb48|-There's nothing more to do here-.
+33bb90|Nothing here, comrade!
+33bbb6|{C1907}Looks like there's nothing\nimportant here. Maybe on the\lstairs that lead to another\lentrance{C0805}…{C0805}
+33bc3d|There's the guy who's caused us\nso much trouble.\pI tried to stop him, but my team\ngot smashed to pieces.\pAll I can do is stand here,\nwatching{C0805}…{C0805}
+33bce8|Wow!\pI don't know what you said to him,\nbut you got him to leave without\lthe FOSSIL!\pPETREL will reward us even more!
+33bdcf|{C190A}Stop wasting time and keep\nsearching. Can't you see I'm\lalready checking this area?
+33be2c|{V01} showed the FOSSIL\nto HIGH RANK FRANK!
+33be54|{C190A}Hmm{C0819}…{C0819}\pMaybe you're not as incompetent\nas I thought. With this one we've\lgot 3 FOSSILS in our possession,\lenough to call the mission a\lsuccess.
+33bef4|{C190A}Calling all GRUNTS on the\nMT.MOON mission!\pWe're done, return to the\nrendezvous point!
+33bf5c|{C190A}Perfect. I'll use the time\nuntil the others arrive to see\lif I can find one more FOSSIL.\pGo on ahead, GRUNT.\nAnd careful with what you're\lcarrying!
+33bff5|{C190A}Go to the rendezvous point, GRUNT!\pI hope I won't have to\ntell you again!
+33c289|{C1906}Huh, looks like this isn't\nOLD AMBER either. I'll have to\lmake do with just the DOME and\lHELIX FOSSILS.\pShame… AERODACTYL wouldn't be\na bad POKéMON for my team.
+33c335|{C1906}Another ROCKET?\pYou lot seem to crawl out of the\nsewers. I don't want to waste\lmore time beating you too. At\lyour level, you're not even a\lwarm-up.
+33c3d7|{C1906}It's your lucky day. I already\nhave a DOME FOSSIL like the one\lyou see here, and I'm not taking\lup more space in my BAG with\lanother one.\pTake it if you want. Besides,\nwho wants an OMASTAR or a\lKABUTOPS when you could have a\lBLASTOISE?
+33c4c1|{C1906}What?\pI'm arrogant and overconfident\nfor letting the competition\llive?
+33c51b|{C1906}I don't care how much money\nyou can make from those FOSSILS,\lROCKET. All that matters is\lhaving a strong, balanced,\lpowerful team.\pThat's priceless.
+33c607|YOU PICKED UP A DOME FOSSIL!!
+33c623|-The DOME FOSSIL is mine. I should\nreport to the boss in charge-.
+33c84a|{C190C}What are you doing around\nhere, ROCKET?\p{C080F}…{C080F}\n{C080F}…{C080F}
+33c886|{C190C}Seriously?\nYou're collecting FOSSILS and\lyou've already got one right here?
+33c8cd|{C190C}(These ROCKETS are known for\nbeing weak and not very bright.\lIf I play my cards right, I can\lwalk out of here with two FOSSILS.)
+33c94d|{C190C}Here's a proposal, ROCKET.
+33c96a|{C190C}What you see there is a HELIX\nFOSSIL. It holds an OMANYTE, an\lancient POKéMON that lived more\lthan 300 million years ago.\pI'm willing to bet my FOSSIL\nagainst yours in a battle.\pThe winner keeps both.\p{C080F}…{C080F}\n{C080F}…{C080F}
+33ca59|{C190C}So, what do you say?
+33ca71|{C190C}I'd expect no less from a ROCKET.\nThe die is cast. The winner keeps\lboth FOSSILS. Leave yours next to\lmy HELIX FOSSIL to seal the\ldeal.
+33cb13|{C190C}You've made a big mistake. My\nPOKéMON would never fall to a\lmediocre GRUNT like you.\pGet ready to lose the DOME\nFOSSIL. How convenient, thanks to\lyou I'll have both FOSSILS!\pDOME and HELIX!
+33cbd8|This was supposed to be\nunder control…
+33cbff|{C190C}Grrr…\pYou're no normal ROCKET. I really\ndon't like people who break the\lstatistics.\pAs for the FOSSILS{C0805}…{C0805}
+33cc7d|{C190A}Calling {V01}!!\pA TRAINER even stronger than the\nlast one has appeared!\lThey just beat all of us without\lbreaking a sweat and are heading\lstraight for you right now.\pProtect the FOSSIL with your life.\pI repeat.\pProtect the FOSSIL with your life!\pTHAT'S AN ORDER!!
+33cd96|{C190C}I thought ROCKETS weren't afraid\nof risks and bets. Are you going\lto betray your criminal nature?\pCome on… think it over\none more time.
+33d096|{C190A}So at least you have the\nguts to show up…\pYou were given a mission, {V01}:\nprotect the FOSSIL with your life,\land you failed miserably. Do you\lhave anything to say for yourself?
+33d155|{C190A}YOU HAD 2 FOSSILS IN YOUR HAND?!\pAnd you let yourself be fooled by\nsome stupid trainee SCIENTIST,\lonly to then lose to the\lmysterious TRAINER?!\pYour ineptitude is hopeless! I'm\ngoing to recommend to PETREL that\lyou be fired immediately. Someone\lso incompetent doesn't deserve to\lbe part of this organisation!
+33d28b|{C1907}Umm{C080F}…{C080F} Excuse me{C080F}…{C080F} Sorry to interrupt,\nsuperior FRANK, but I've had the\lchance to see {V01} battle, and\lthat's hardly a weak or\lincompetent TRAINER.\pEveryone who crossed paths with\nthat mysterious TRAINER lost in\lthe blink of an eye. It wouldn't\lbe fair to condemn one when\leveryone fell the same way,\lwouldn't you agree?\pBesides, we did end up with 2\nFOSSILS. It's not so bad when\lyou put it in perspective.
+33d444|{C190A}We're not judging\nhis level as a TRAINER,\lbut his dreadful lack of wits\land intelligence in dealing\lwith this situation.
+33d4cc|{C190A}You should have grabbed the\nFOSSILS quickly and vanished from\lthe scene with an ESCAPE ROPE as\lsoon as you got my message. But\lyou stayed like an idiot to fight\lhead-on against a TRAINER whose\lstrength you already knew.\pNot only that, you lost track of\nthat fool and he tricked you too.\lThe scoundrel must have run off\lwith one of those two FOSSILS.\lYou've made yourself the class\lidiot, {V01}.\pYour negligence is going to cost\nTEAM ROCKET more than 600,000$.\lDo you have any idea how many\lmonths of your pay that is?
+33d6e5|{C190A}What?!\pTEAM ROCKET's code of honour\nsays you must never turn your\lback on an enemy?\lThat running away would only\lshow weakness and a lack of\lprinciples?\lThat what we should have done is\lall gang up on that TRAINER?

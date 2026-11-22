@@ -1,0 +1,165 @@
+e88192|  very good
+e8819e|  good
+e881a6|  WHEEL
+e881af| SLOTS
+e881bc|You can now use the clock-reset\nsystem for the in-game clock.
+e88200|There is no save file, so the\ntime can't be set.
+e88248|Save failed…
+e8825c|Game saved.
+e88270|The clock has been reset.\nSaving data. Please wait.
+e882b4|Set the time.
+e882c4|Previous game time
+e882e0|Current game time
+e882f8|Reset the time?\nA: Yes  B: No
+e88320|HIDEOUT
+e88328|SECRET BASE
+e88338|FERRY
+e88340|Game saved.\n{C0104}“Press the A Button.”
+e8836c|Game saved.\n{C0104}“You can't keep playing.\nReturning to the title screen.”
+e883c0|Check complete.\nRetrying the save.\nPlease wait.
+e8840c|{C0104}“You can't keep playing.\nReturning to the title screen…”
+e88450|Backup memory damaged or\ninternal battery dead. You can\nplay, but you can't save.
+e884ac|Save failed.\nChecking backup memory…\nPlease wait.\n{C0104}“Time required: 1 minute.”
+e88515|   Won't eat any more…
+e8852c|Nothing changed!
+e8853f| improved!
+e8854d|   Toughness: 
+e8855c|Smarts: 
+e88569|   Cuteness: 
+e88579|   Beauty: 
+e88589|   Coolness: 
+e885bc|POKéMON CENTER
+e885cc|POKéMON LEAGUE
+e885d9|   You can't delete that!
+e885f8|Select the answer!
+e88612|  Ask a question!
+e88628|Is this OK?
+e88638|questions?
+e88646|  Do you want to quit the
+e88668|And the answer is?
+e8867c|question, press the A Button.
+e8869c|When you finish reading the
+e886ba|  me
+e886c5|   You can't leave from here.
+e886e4|QUESTIONNAIRE
+e88710|When you lose
+e88728|When you win
+e8873c|At battle start
+e88750|PROFILE
+e88769|   Choose two words or phrases.
+e887bd|   Stop giving the [PK][MN] MAIL?
+e887de|  Quit writing?
+e88840|The MAIL message
+e88858|The answer
+e888fc|IN PARTY
+e88906|  NATURE/
+e88914|Your party is full!{C09}
+e88930|Exit
+e88938|SLATEPORT CITY
+e88948|LILYCOVE CITY
+e88958|EXCHANGE SERVICE
+e8896c|RANKING HALL
+e88980|1F
+e88984|Now on:
+e88990|ROOFTOP
+e889d0|1F
+e889d4|RETIRE
+e889e0|REST
+e889ec|RECORD
+e889f4|GO ON
+e88a00|TRAINERS
+e88a10|POKéMON
+e88a18|DANGER
+e88a24|BAD MATCHUPS
+e88a34|[PK][MN] MOVES
+e88a44|[PK][MN] NATURE
+e88a54|BASICS
+e88a60|SWAPPING
+e88a6c|WHAT'S SWAPPED
+e88a7c|WHO SWAPS
+e88a8c|BASICS
+e88a98|BODY
+e88aa0|SKILL
+e88aac|MIND
+e88ab4|BASICS
+e88ad0|HARD CLIMB
+e88ae0|SOLO CLIMB
+e88af0|MIXED CLIMB
+e88b00|NORMAL CLIMB
+e88b10|NAVEL ROCK
+e88b20|FARAWAY ISL.
+e88b30|BIRTH ISL.
+e88b3c|SOUTHERN ISL.
+e88b4c|Exit
+e88b54|Options
+e88b60|Shift
+e88b70|Bag
+e88b78|Pokémon
+e88b80|Pokédex
+e88b90|DOUBLE
+e88b98|SINGLE
+e88ba4|START
+e88bac|VIEW TABLE
+e88bbc|VIEW RIVAL
+e88bcc|Disconnect
+e88bd8|Hall of Fame
+e88be8|{V01}'s PC
+e88bf4|Team Rocket PC
+e88c08|BILL's PC
+e88c14|BERRIES
+e88c1c|TM / HM
+e88c24|BALLS
+e88c2c|KEY ITEMS
+e88c38|ITEMS
+e88c40|TOUGH
+e88c48|SMART
+e88c50|CUTE
+e88c58|BEAUTY
+e88c60|COOL
+e88c68|EXPERT
+e88c70|ADV.
+e88c78|HIGH
+e88c80|NORMAL
+e88c88|TOUGH
+e88c90|SMART
+e88c98|CUTE
+e88ca0|BEAUTY
+e88ca8|COOL
+e88cb0|BATTLE FRONTIER
+e88cc0|GREEN PART
+e88ccc|BLUE PART
+e88cd8|YELLOW PART
+e88ce8|RED PART
+e88cf4|OPEN LEVEL
+e88d00|LEVEL 50
+e88d0c|No
+e88d10|Yes
+e88d74|The MAIL is in the BAG, but\nits message was erased.{C09}
+e88db4|The BAG is full.{C09}
+e88dd0|The message will be erased.\nIs that okay?
+e88dfc|What would you like to do\nwith the {V02} MAIL?
+e88e24|There's no MAIL here.{C09}
+e88e44|There are no items.{C09}
+e88e95|   It's already in use.
+e88ebc|SILVR
+e88ec4|GLD
+e88eff| TOSS
+e88f06|  STORE
+e88f15|   Delete
+e88f21|   Nothing.{C09}
+e88f33| Deleted.{C09}
+e88f45|   Delete {V02}\nfrom register?
+e88f64|base
+e88f69|   A rare EGG\nobtained on a trip.
+e88f90|An EGG received\nas a gift.
+e88fb0|An odd EGG\nreceived as a gift.
+e88fd8|An odd EGG\nreceived as a gift.
+e89000|An EGG\ngiven as a gift.
+e891c8|HMs can't be\nforgotten now.
+e891e8|It's making sounds.\nIt's going to hatch soon!
+e89210|It moves sometimes.\nIt should hatch soon.
+e89234|What will hatch from this?\nIt'll take a while.
+e89264|It looks like this EGG will\ntake a long time to hatch.
+e89294|INFO
+e8929c|CONTEST MOVES
+e892ac|BATTLE MOVES

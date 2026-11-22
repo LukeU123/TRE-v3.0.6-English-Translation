@@ -1,0 +1,569 @@
+227569|Medicinal herbs work incredibly well,\nbut if you give one to a POKéMON,\lit'll hold a grudge against you.\lThey taste super bitter!
+227638|Did you come to LAVARIDGE to buy\nmedicinal herbs?\pGood call. I highly recommend them.\pI like you! Here, take this!
+2276af|A really rare POKéMON that\nyou'll only find in HOENN!
+2276dd|YOU GOT A Lv. 50 TORCHIC!
+2276fd|TORCHIC's evolutionary line is getting\nrarer and rarer. Just so you know, I\ljust gave you the last one. The next\loutsider to come by only gets CHARCOAL!
+227a57|Hey, what's your name? {V01}?\nHeaded for the CHAMPIONSHIP?\pFLANNERY, the GYM LEADER of\nLAVARIDGE, uses FIRE-type\lPOKéMON.\pHer passion for POKéMON burns\nhotter than volcanic lava.\pDon't get too close to her\nunless you want to get burned!\pTake her down a peg! Go get her!
+227b72|Wow! That battle was red-hot!
+227b9b|Ho ho ho ho! Things are heating up!
+227bc1|I got scorched{C0805}…{C0805}
+227bde|If you bury yourself in hot sand,\nit improves your blood circulation.\lIt's also great for soothing\laching joints.
+227c67|I'm trying to de-stress here.\nQuit stressing me out by being here!
+227cb2|I hope FLANNERY grills you good\non both sides!
+227ce7|Haaah… Whew…\pSpending ages baking under the\nsand drives you up the wall{C0805}…{C0805}
+227d37|All this must have worn you out.\nWant to rest a while in the hot sand?\lBut you should know that willpower\land endurance are vital for\levery TRAINER.
+227ddc|Play with fire, get burned{C0805}…{C0805}
+227e02|Your talent is real…\nBut our LEADER is strong.\pLet your guard down for a second\nand your POKéMON will get burned.
+227e75|Can your POKéMON handle\ntemperatures over 200 degrees?
+227eb4|I wasn't fired up enough{C0805}…{C0805}
+227edb|Magma's temperature is 200 degrees.\nYou beat me, so I bet your POKEMON\lcould survive in magma.
+227f54|Hmm… Oh, fine, I'll battle you.
+227f76|Didn't expect you to be so strong{C0805}…{C0805}
+227f9f|When I grow up, I want to be as\nstrong and magnificent as FLANNERY.
+227fdb|Whoever plays with fire\nends up getting burned!
+228005|Something went wrong, not sure what.
+228029|So what? Who cares what I said!\nI can walk on hot coals if I want!\lBut don't you even think about trying!{C0805}…{C0805}
+2280e9|Whoops, looks like I took a tumble.
+22810b|I'm staying right here, 'cause I'm a\nhopeless FLANNERY fan. Heh heh heh heh!
+228158|{C1958}Hello… No, wait…\pYou look like a really strong,\nexperienced TRAINER!\pI've been entrusted with…\nNo, wait…\pI'm FLANNERY, the LEADER\nof this GYM!\pUm, well…\nI only just became LEADER,\lbut I've been training for years!\pWith the skills I inherited from\nmy grandfather, I, um… I'll prove\lour fiery technique is unmatched!
+2282a3|{C1958}Ooooh…\nI guess I wasn't ready…\pI may have only been a GYM\nLEADER for a short while…\pBut I thought I could win\nwith my best team…\pI gave it everything I had, but\nin the end I got scalded…\pNot even Grandpa beat me that bad.\nHere, you've earned this.
+228399|{V01} received the HEAT BADGE\nfrom FLANNERY.
+2283c1|LAVARIDGE TOWN POKéMON GYM
+2283e6|LAVARIDGE TOWN POKéMON GYM
+228430|{C1958}I lost the battle,\nbut I feel really satisfied.\pNot many people put as much\nfire into battling as you do.\pWe have to battle again soon!
+2285e7|My wife is warming an EGG in the\nhot springs. That's what she told me.\pTurns out she left two POKéMON at the\nDAYCARE… and that EGG showed up!
+2286d2|Use an X SPEED to boost your\nPOKéMON's SPEED in battle.\pThat way they can land the first hit.\nIt's a huge advantage!
+228752|At the top of MT. CHIMNEY you can\nbuy a local specialty.\pGive it to a POKéMON and it'll be\nbeside itself with joy!
+228801|I think POKéMON grow closer to\ntheir TRAINERS the more time\lthey spend together.\pThe more time, the better.\nThat's what I think.
+22888c|It's amazing how these hot springs\ncan bring back your energy.\pI wish I could bring my\nPOKéMON in here too!
+22890b|Ho ho ho! Say, youngster, this way\nleads to the hot springs.\pPOKéMON need their rest, right?\nWell, so do TRAINERS.
+2289bd|Ouch!\nI think I've got\lheatstroke!\pBe careful in the hot\nsprings, youngster!
+228a1c|HEAT CRASH does damage\nbased on the weight of your\lPOKéMON and your opponent's.\pThe heavier yours is,\nthe more damage it does!
+228af5|I just can't decide whether I want\nmy SKITTY to evolve or not…\pI only have to use the MOON STONE,\nbut it's such a tough decision…\pIf I evolve it, it'll be much\nstronger…\pBut it'll look different, too…{C0805}
+228bd5|SKITTY: Skimew?
+228be7|This NUGGET I found here…\nI guess I'll either sell it or eat\lit, 'cause it's no use for anything…{C0805}
+228d2f|I wonder what POKéMON looked like\na long, long time ago…\pMaybe the FOSSIL MANIAC who lives\nat the edge of town knows.
+228db4|We plant hardy trees in the fields\nof FALLARBOR. They can grow\leven in volcanic ash.
+228f20|I'm the MOVE TUTOR.\pI know every move POKéMON can\nlearn. Every single one, all of\lthem. And I can teach them.\pI'm also a mushroom expert.\nIf you bring me a TINY MUSHROOM,\pI'll teach a move to\none of your POKéMON.
+229004|Oh! That's it! That's a\nTINY MUSHROOM!\pLet me guess, you want me to teach\na move to one of your POKéMON?
+22906e|I know every EGG MOVE\nPOKéMON can learn.\pInterested?
+2290b8|Which POKéMON should I teach?
+2290dc|Which move should I teach?
+2290fd|Sorry…\pLooks like there aren't any moves\nI can teach this POKéMON.
+229151|{V01} handed over a TINY\nMUSHROOM in exchange.
+229173|If you want me to teach a POKéMON a\nmove, bring me a TINY MUSHROOM.
+2291c1|What? I can't teach anything\nto an EGG.
+22922f|Come back anytime, SIR.
+229249|As you wish, SIR.
+229260|It'll cost $5,000 per move.\nInterested?
+22928c|We've developed technology that can\nforce POKéMON to remember\lEGG MOVES.
+2294fe|If a POKéMON doesn't like\na certain move,\lit'll be reluctant to use it.\pNo matter how strong it is.\pFor example, a POKéMON with a GENTLE\nnature probably won't like\lhurting its opponents.\pIf your POKéMON isn't battling as\nwell as you hoped, it's probably\lbecause it's using moves it dislikes.
+22964c|My big sister is really kind,\nbut when she gets mad, it's scary!\pI bet it's the same with POKéMON,\nno matter how kind they are!
+2296d7|Ah, my love for POKéMON…\nThey hold such a pull over me…\pOops! You shouldn't be listening\nin on other people's thoughts!\lOh well, never mind…\pWould you like this TM for\nyour POKéMON?
+229787|I'm so fond of my POKéMON…\nI'm sure the feeling is mutual!\pWhy, they even battle exactly\nthe way I'd want them to!
+229807|What kind of moves have you\ntaught your POKéMON?\pI think it'd do them good to learn\nhow to heal and protect themselves.
+229896|Hello. Welcome to the SLATEPORT\nMUSEUM.\pPlease come in and enjoy our\nextraordinary collection of\lPOKéMON-themed art.
+22992c|Hello. Welcome to the VERDANTURF\nMUSEUM.\pPlease come in and enjoy our\nextraordinary collection of\lPOKéMON-themed art.
+2299c3|I thought only LILYCOVE had a\nMUSEUM. What a surprise!
+229b42|Who are you?
+229b52|KANTO?
+229b5a|No one from outside HOENN could ever\nappreciate the true beauty of this\lmuseum. Get out of here!
+229bc4|Me? Have a piece from SLATEPORT MUSEUM?!
+229bec|What are you talking about?
+229c07|Insolent youth, it's not my fault the\nowner of that museum can't keep\lhis affairs in order.
+229c70|I was going to call security, but your\nattitude irritates me. I'll personally\lmake sure you never set foot in\lVERDANTURF TOWN again.
+229cf2|Behold the true power of a\nHOENN artist!
+229d28|Who are you?
+229d38|Curses… losing to POKéMON utterly\ndevoid of soul and essence! What a\ldisgrace to art!
+229d92|Don't think you'll get away with this.
+229ebc|Access to this area is reserved\nfor museum staff only.\lI hope you understand.
+229fe1|In any POKéMON battle,\nan X SP. ATK is crucial.\pIt boosts the power of some\nmoves, but only for the\lduration of a battle.
+22a062|The owner of the VERDANTURF MUSEUM\nis a real grouch.\pI hear he doesn't get along with\nthe owner of the SLATEPORT MUSEUM{C0805}…{C0805}
+22a0d5|A NEST BALL works better on\nlower-level POKéMON.\pVERDANTURF is the only place\nyou can buy them.
+22a17c|No one can call themselves a TRAINER\nwithout faith in their POKéMON!\pOnly those who fully trust in their\nPOKéMON's abilities can make it\lall the way to the end.
+22a222|The reason everyone's\ncoming to VERDANTURF…\pIs its MUSEUM.\nGoes without saying.\pOr did you come to see someone?
+22a365|UNCLE: Hey, {V01}{V05}!\nWALLY's next door.\pBut first I want to tell\nyou something…\pThis natural setting is doing\nWALLY a world of good.\pMaybe it's not just the setting.\nHis POKéMON must play a part too…
+22a42f|WALLY's gone…\nHe left without saying a word…
+22a461|UNCLE: Is it true WALLY went\nall that way on his own?\pWell, I shouldn't be surprised:\nhe's my brother's son!
+22a4d4|CLARA: And you are…?\nOh, right, I know.\pYou're {V01}. WALLY's always\ntalking about you.\pI'm WALLY's cousin.\nNice to meet you!\pI think WALLY looks so much healthier\nand livelier since he came here.
+22a592|CLARA: I trust WALLY.\nHe can look after himself.\pI know my cousin, and besides, he\nwon't be alone: he has his POKéMON.
+22a607|Now I get to see my girlfriend\nevery day. Am I happy?\lIsn't it obvious? Heh heh heh…
+22a661|My daughter's boyfriend is about\nas bold and passionate as they come.\pHe's digging that tunnel nonstop\njust so he can see her.\pMy daughter's a little worried,\nso she's always popping over there.
+22a717|It's astonishing. My daughter's\nboyfriend has been digging that\ltunnel by hand!\pI can't believe it!
+22a774|If anything happened to WALLY, I could\nnever look his parents in the eye\lagain when he went back to PETALBURG…
+22a7df|WALLY's been to EVER GRANDE?\pHis parents back in PETALBURG\nwould be stunned if they knew!
+22a858|I feel like I need some big adventures\nto truly appreciate it.\lRight now, this lack of stress is\lthe real illness for me.
+22a8e8|Such serenity{C080F}…{C080F}\nSuch peace{C080F}…{C080F}
+22a91a|UNCLE: I can't see WALLY going\nall that way on his own.\pWell, I shouldn't be surprised:\nhe's my brother's son!
+22aa40|Let me see your POKéMON.\nI want to see how much it loves\lyou…\pI see…\nYour POKéMON{C0805}…{C0805}
+22aa93|adores you.\nIt couldn't love you any more.\lSuch love touches even me.
+22aadf|seems very happy.\nIt clearly loves you a whole lot.
+22ab13|loves you a lot.\nIt seems to want a bit more affection.
+22ab4c|is getting used to you.\nIt seems to trust you.
+22ab8a|still needs to get used to you.\nYou don't mean much to it yet.
+22abc7|is very wary of you.\nIts eyes have a strange glint…\lIt doesn't seem to like you one bit.
+22ac28|Ahem, this isn't easy to say…\pI'm sorry, but your POKéMON can't\nstand you. Doesn't that feel awful?
+22ac94|PIKACHU: Pika, pika!
+22acbd|Far, far away in EVER GRANDE CITY\nis the POKéMON LEAGUE.\pThe TRAINERS who gather there\nare frighteningly good.
+22ad3c|Under POKéMON LEAGUE rules, you\nhave to battle the members of the\lELITE FOUR one after another.\pIf you lose to any of them, you\nhave to start over from the first.
+22ae34|What color is your TRAINER\nCARD? Mine's copper!
+22ae78|PACIFIDLOG TOWN floats on top of\na colony of CORSOLA.\pIf I told you that,\nwould you believe me?
+22aecb|They say the ancestors of the\npeople of PACIFIDLOG were born,\llived and died on boats.\pI think they lived that way\nbecause they were searching\lfor something.
+22b07a|{C1907}Very good. Make yourself at home, {V01}.
+22b099|{C1907}I don't know if you noticed, but\nADMIN.RUBY was outside, gazing out\lto the west…
+22b0ef|{C1907}The currents there are very strong. It's\na long, confusing route, and few\ldare to travel it.
+22b156|{C1907}Amid all that confusion lies a\nnarrow ocean trench where you\lcan dive.
+22b1ad|{C1907}At the bottom of it lies… the SEALED\nCHAMBER, which holds the secret of the\lREGIS. It connects to the ruins of\lHOENN's 3 REGIS, or… rather…
+22b242|{C1907}It's those 3 sites that connect to\nthe SEALED CHAMBER, since it's the\lchamber that lets them be opened.
+22b2a8|{C1907}What I'm trying to say is…
+22b2c7|{C1907}…it's possible those could be the\nancient ruins of REGIGIGAS.
+22b312|{C1907}Now… to get there, we'll have to\ntake the southern side of the currents.
+22b362|{C1907}The place I mean is at the far end of\nROUTE 134, almost at SLATEPORT\lCITY.
+22b3ba|{C1907}Before you arrived, that doctor and…\nMIGUEL were here too. Looks like nearly\lall of DEVON is going on this mission.
+22b42c|{C1907}Let me see if they're still there.
+22b468|In the HOENN region, there are\nthree POKéMON that embody the power\lof rock, ice and steel.\pEach one hides deep inside\na cave.\pThat's the story I was told\nwhen I was little.
+22b541|"Six dots open three doors."\pThat's what my grandpa always said,\nbut I've no idea what he meant…{C0805}
+22b6e4|I'm the most important person in the\nPOKéMON FAN CLUB: the younger brother\lof our CHAIRMAN.\pI'm here enjoying a well-earned\nvacation with my POKéMON.
+22b78c|Ah!\nYour POKéMON…{C0805}
+22b7a0|loves you very much. It shows.\pSuch a sweet, adorable POKéMON\ndeserves a TM like this, right?
+22b807|Hmmm…\nNot bad, but not great either.\pYou should try a little harder,\ndon't you think?
+22b865|has a frightening look in its eyes.\pA terrifying POKéMON like this\ndeserves a TM like this one.
+22b8c1|If a POKéMON loves you a lot,\nRETURN gets more powerful.\pIf it doesn't love you, it's\nFRUSTRATION that gets stronger.
+22b93f|Ah, yes. In {V02} days or so,\nI'll be getting a couple of\lawesome TMs.\pYou should come see me then.\nI'll give you the TM that best\lsuits your POKéMON.
+22b9ca|AZURILL: Azu, azuriril…{C0805}
+22b9e5|It seems to get along really well\nwith its TRAINER.
+22ba15|AZURILL: Azuzu, azuzuzu…{C0805}
+22ba31|It doesn't seem to get along well\nwith its TRAINER.
+22bb12|What do you think of this {V03}?\pIt's the {V03} I caught yesterday\nto celebrate my birthday!\pI can see in your eyes you want it!\nNo wonder, it's priceless!\pTell you what. If you like,\nI'll trade it for your {V02}.
+22bbdb|Oh, is this a {V02}?\pIn a way it's like a {V03},\nbut also subtly different.\pThanks!
+22bc3c|No, no, no! I won't accept anything\nbut a genuine {V02}!
+22bc77|Oh, so you're backing out, huh?\pFine by me. It's not like I'm desperate\nfor the trade, you know?
+22bce4|I know I could have gone and\ncaught one myself…\pBut I wanted a BAGON that\nanother TRAINER had caught…{C0805}
+22bd52|Is that a POKéDEX?\pHave you found lots of different\nkinds of POKéMON?\pI wish I were like you…{C0805}
+22bdfb|People say they've seen a FLYING-type\nPOKéMON over HOENN.\pThey say it never stops circling…\nDoesn't it ever need a rest?
+22be7f|There's a POKéMON in the sky!\nThere's a POKéMON in the sky!
+22beb9|Where are you from?
+22becb|Oh, really?\nYES TOWN?\pWhat a weird name for a town…{C0805}
+22bf0b|From NO? No what? I don't get it…\nYou must come from somewhere, right?\pHold on… Don't tell me you were born at\nthe bottom of the sea, tra-la-la…{C0805}
+22bfd8|Can't see MIRAGE ISLAND today…{C0805}
+22bffb|Oh my, oh my! Yes, I see it!\nI can see MIRAGE ISLAND today!
+22c038|MIRAGE ISLAND…\pIt's visible or invisible depending\non the weather conditions that\lcause mirages to appear.\pOr maybe it just appears and\nvanishes like that, for no reason?…{C0805}
+22c95e|Hey, how's it going, {V01}?\nHeaded for the CHAMPIONSHIP?\pThe doors in this GYM open\nwhen you defeat the TRAINERS\lalong the way.\pHey, hey! These doors are already\nopen! Don't attack me!\pThe TRAINERS of PETALBURG GYM\nuse all sorts of items.\pThe door on the left leads\nto the SPEED ROOM.\pThe door on the right leads\nto the ACCURACY ROOM.\pThe room's name is marked\non the door. Choose carefully.\pOnce you've made up your mind,\ngo all out!
+22cb49|{V01}! Impressive!\nYou beat NORMAN!\pYou've left me speechless!\nWhat a thrilling moment!
+22cbb5|Being able to attack before\nyour opponent…\pThat alone is a huge\nadvantage, don't you think?
+22cc14|That was a great battle!
+22cc2e|Go on to the next room, where\na new challenge awaits you.\pOn the left is the\nCONFUSION ROOM.\pOn the right is the\nDEFENSE ROOM.
+22ccc1|No matter who you beat, or who\nbeats you, never stop training\lyourself and your POKéMON.\pThat's more or less what being\na GYM LEADER is all about.
+22cd5f|This is the CONFUSION ROOM.\pLet's see how well you get\nalong with your POKéMON!
+22cdb7|Nothing could confuse your team…\nYou're clearly close as can be.
+22cdfc|The next room is the STRENGTH\nROOM. Can you handle a battle\lat full power?
+22ce51|Ever since you beat our\nLEADER, training has gotten\la whole lot tougher.
+22cea5|Just when you think you're about\nto win, your opponent restores HP…\pDo you have any idea how\nannoying that is?\pWell, you're about to\nfind out!
+22cf37|I couldn't restore\nenough HP…\pWhat ATTACK power…{C0805}
+22cf79|You've got to put in the effort!\nAnd I lost because I didn't\pput in enough…\nGo on! Up next is the\pONE-HIT KO ROOM.
+22cffb|I'm going to keep training hard\nuntil I become a GYM\lLEADER.
+22d046|I'm not going easy on you just\nbecause this is a new GYM.\pI'll show you how much it hurts\nto take a critical hit.
+22d0bf|What strength…\nYou're the best there is.
+22d0de|Our LEADER is very strong.\nHe's a highly respected TRAINER.\pAnd I get the feeling you'll\ngo even further than him.\pI hope you two have\na great battle!
+22d17f|Since NORMAN became LEADER,\nthe TRAINERS of PETALBURG\lCITY have gotten much stronger.
+22d1d7|Hee hee hee…\nThis is the ACCURACY ROOM.\pOur opponents don't much like\nit when every single attack\lhits its mark.
+22d253|You're way better than me…{C0805}
+22d26e|There are even stronger TRAINERS\nwaiting for you.\pOn the left is the DEFENSE\nROOM, and on the right,\lthe RECOVERY ROOM.\pEither one will put your\nPOKéMON's ATTACK power\lto the test.
+22d337|Do you know what we TRAINERS\nwant to achieve?\pTo become soul mates\nwith our POKéMON!
+22d3a2|The higher the DEFENSE,\nthe more relentless my attack.
+22d3de|Our defenses just weren't\nenough…{C0805}
+22d40c|I think you've taught me\na valuable lesson.\pKeep going! The door on the\nleft leads to the STRENGTH ROOM.\pThe door on the right leads\nto the ONE-HIT KO ROOM.\pThe TRAINERS in both rooms\nhave offensive skills.
+22d4fb|Hi! Have you tried using SURF?
+22d51d|Our GYM LEADER told us\nwe have to beat you.\pDoesn't matter if you're\nan outsider!
+22d57c|But… you beat me!
+22d596|You use POKéMON a lot\nlike NORMAN does.\pGo on! NORMAN, the GYM\nLEADER, is waiting for you.
+22d5ec|Of course it's important to\nmake your POKéMON stronger.\pBut what sets a winner apart?\pIt's obvious: the feelings they\nhold for their POKéMON.
+22d6a5|The sign says: "SPEED\nROOM".\pWould you like to enter?
+22d6de|The sign says: "ACCURACY\nROOM".\pWould you like to enter?
+22d717|The sign says: "CONFUSION\nROOM".\pWould you like to enter?
+22d750|The sign says: "DEFENSE\nROOM".\pWould you like to enter?
+22d787|The sign says: "RECOVERY\nROOM".\pWould you like to enter?
+22d7c3|The sign says: "STRENGTH\nROOM".\pWould you like to enter?
+22d7f9|The sign says: "ONE-HIT KO\nROOM".\pWould you like to enter?
+22d839|"GYM LEADER'S ROOM"\pThe sign says: "See for yourself\nwhich POKéMON awaits you."\pWould you like to enter?
+22d8a8|PETALBURG CITY POKéMON GYM
+22d8cb|PETALBURG CITY POKéMON GYM
+22d901|Traveling is wonderful!\pWhen I was a young sprout, I roamed\nthe globe from end to end…{C0805}
+22d95a|Ah…\pIf only I could go on adventures\nwith some POKéMON…\pCrossing damp meadows…\nClimbing rocky mountains…\pSailing stormy seas…\nExploring dark caves…\pAnd sometimes, feeling homesick…\pTraveling is so lovely!
+22da43|NORMAN became the new LEADER\nof our GYM.\pI think he brought his whole\nfamily here from far away.
+22dab7|I battled NORMAN once,\nbut he was way too strong.\pHow can I put it?\pYou could say he lives for\nPOKéMON and nothing else.
+22dbc8|That PC POKéMON storage system\nis incredible…\pWhoever made it must be\na top-class SCIENTIST!
+22dc4b|When my POKéMON ate an\nORAN BERRY, it got its HP back!
+22dc85|There are lots of POKéMON types.\pEach one has strengths and\nweaknesses against other types.\pDepending on the types of\nPOKéMON in a battle, it can\lbe easy or hard.
+22dd3a|For example, your TREECKO\nis a GRASS type.\pIt's strong against WATER\nand GROUND types.\pBut it's weak against\nFIRE-type POKéMON.
+22ddbf|For example, your TORCHIC\nis a FIRE type.\pIt's strong against GRASS\nand BUG types.\pBut it's weak against\nWATER-type POKéMON.
+22de43|For example, your MUDKIP\nis a WATER type.\pIt's strong against\nFIRE-type POKéMON.\pBut it's weak against\nGRASS and ELECTRIC types.
+22df4f|Even if a POKéMON is weak,\nit'll soon get stronger.\pThe most important thing is love.\nLove your POKéMON!
+22dfbc|Do you use REPEL?\nIt keeps POKéMON away,\lso it's handy if you're in a hurry.
+22e011|Are you carrying ANTIDOTES?\nIf you travel with a poisoned\lPOKéMON, it'll keep losing HP until\lit faints. Don't forget!
+22e1d5|DOCK: Building ships is quite\nan art.\pThere's so much you just\ncan't calculate.\pI wish some old sea dog\nwould give me some advice…{C0805}
+22e26d|DOCK: Hi! MR. BRINEY has\njoined us.\pThanks to his invaluable help,\nour ferry project is\lstarting to take shape.
+22e2f5|DOCK: The ferry is ready!\pThe new S.S. TIDAL is a true\ntechnological marvel!\pHowever, I think we can still\nimprove the design.\pYou know the march of science\ncan't be stopped!
+22e3b5|The seasons, the weather,\nthe position of the moon…\pThe state of the sea is affected\nby all this and much more.\pExactly!\nThe sea is alive!
+22e446|I get seasick at the drop of a hat…\nso they stuck me at this post.
+22e494|Apparently CAPT. STERN wants to\ninvestigate the ABANDONED SHIP that\lsank years ago in the southern sea.\lHe thinks there's treasure inside.
+22e536|Designing a big ship is more like\nconstructing a building than\lcreating a means of transport.
+22e596|Don't you think it's strange that a\nship built of iron can float?\pWell, it floats thanks to the\nprinciple of buoyancy. Naturally!
+22e6bf|My problem is I ain't found a single\nPOKéMON that's my vibe, y'know?\pSo I figured I'd go kick up a fuss\nwith that dude over there, just 'cause.\pAnd the guy totally blew me off…\nZero chill, y'get me?\pJust like… you! Yeah, OK,\nI get it, pal.
+22e7c6|BUG POKéMON don't really do it for\nme, but maybe I should give them\lanother look, just for a change.\pWho knows, maybe I'll end up\ncrazy about them!
+22e863|I've been to the VERDANTURF MUSEUM too.\nThe people here are much nicer.
+22e8b0|I'd put in more variety of styles.\nDon't you think?
+22eb78|We look forward to seeing that fine\npiece at LILYCOVE MUSEUM's next\lexhibition.
+22ebc5|Of course.
+22ebd3|It'll be one of the main attractions\nof the event. If all goes well, your\lmuseum will gain a lot of prestige,\lI guarantee it.
+22ec5b|I'm finished…
+22ec6a|What do you want, kid?
+22ec82|I'm glad to see young people\ninterested in art, but you can't\lhelp me.
+22ecc9|You say you're a great TRAINER?
+22eced|I've already lost all hope, so I'll\ntell you what's going on.
+22ed2c|Our museum's main piece has\nbeen stolen.
+22ed5f|I have a strong suspicion who\nit could be, but there's no way\lto prove it.
+22edb0|Only an excellent TRAINER could\nstand any chance.
+22edee|Will you help me?
+22edfd|Have you reconsidered?\nWill you help me, then?
+22ee2f|Oh{C080F}…{C080F} After this, I'll have to\nresign from my post…
+22ee6c|Really? Listen.
+22ee81|This isn't the only satellite museum of\nLILYCOVE, the region's main museum.
+22eed8|There's another museum in VERDANTURF\nTOWN. From outside, it looks fancier\lthan this one.
+22ef26|On paper, the owner is a romantic\nabout HOENN's POKéMON, and won't let\lanyone in he considers unfit to\lbehold his works.
+22efb0|But{C080F}…{C080F} I think it's all a front,\nand that the place hides a whole\lnetwork for smuggling artwork.
+22f01e|Security in there is very tight,\nand getting into his private\lgallery is impossible.
+22f075|I suspect my piece is in that\ngallery{C080F}…{C080F} if it hasn't already been\lsold on the black market.
+22f0d3|Your mission is to get past\nsecurity and make it to the back\lof that gallery.
+22f129|If it is there and you get it back,\nyou'd save my career. I'll reward\lyou properly.
+22f184|Remember, the other museum is in\nVERDANTURF TOWN, west of MAUVILLE\lCITY.
+22f1d3|{V01} handed over the SLATEPORT\nMUSEUM painting!
+22f1fd|I can't believe it! So I was right\nall along!
+22f22a|What you've done is priceless.\nPlease accept this money.
+22f260|You pocketed $1,000,000!
+22f27e|Take this POKéMON too. It's\nextremely rare.
+22f2b1|YOU GOT a Lv. 60 RELICANTH!!
+22f2d5|And now{C080F}…{C080F} tell me, what happened there?
+22f301|This can't go unanswered.
+22f31b|I'll get in touch with LILYCOVE\nMUSEUM. That man can't stay in\lcharge of VERDANTURF MUSEUM.
+22f37d|I'll put an end to his corruption!
+22f4e3|Heh heh! Hello!\nI'm the NAME RATER!\pI'd be delighted to rate your\nPOKéMON's name, heh heh.
+22f550|Which POKéMON's name\nshould I rate?
+22f57b|Hmmm… {V02}, is it?\nNot bad, not bad…\pBut don't you think we could\ncome up with an even better name?
+22f5e7|Ah, good. So, what should its\nnew NICKNAME be?
+22f61c|Done! From now on, this POKéMON\nshall be known as {V02}!\pIt's a much better name than\nthe old one. Lucky you!
+22f69b|Very well…\nCome back anytime, then.
+22f6c5|Done! From now on, this POKéMON\nshall be known as {V02}!\pIt's a much better name than\nthe old one. Lucky you!
+22f744|Hmmm… {V02}, is it?\nNot bad, not bad…\pBut don't you think we could\ncome up with an even better name?
+22f7b0|Wait, wait…\nThat's just an EGG!
+22f965|Heh heh! Hello!\nI'm the NAME RATER!\pI'd be delighted to rate your\nPOKéMON's name, heh heh.
+22f9d6|You want to talk to me?\nSure, go ahead, youngster.
+22fa0b|Oh… Where did you hear about that?
+22fa29|I've been here over 30 years, and no one\nhas ever shown interest in that place.
+22fa7e|AGATHA! I see.
+22fa91|So you're the TRAINER\nshe thinks so highly of.
+22fac5|AGATHA trusts you, and she\ndoesn't trust just anyone.
+22faf7|If I can help you somehow,\nI will. Watch.
+22fb23|That little GRAVEYARD was closed over\nthree decades ago, when the first\lNAME RATER arrived.
+22fb88|The stairs leading down to it were\nhidden under a trapdoor after\lthe GYM was torn down.
+22fbe2|Now they're right underneath\nthe KANTO MAP.
+22fc0e|When I arrived, I was put in charge\nof the KEY that opens the trapdoor.
+22fc54|I never used it, and never cared to\nknow what was down there.\pBut I can see you do.\pHere.
+22fcb9|{V01} obtained the TRAPDOOR KEY!
+22fcd8|It's yours now; you can come and go\nwhenever you like.\pIt's the least I can do for\na friend of AGATHA's.
+22fd82|Under the MAP lies the\nold GRAVEYARD.\pUse the TRAPDOOR KEY?
+23016e|Ahem, ahem… I'm the CHAIRMAN\nof the POKéMON FAN CLUB!\pNaturally, the CHAIRMAN is\nthe most important person…\pNo one can match me at raising POKéMON.\nNo one!\pNow, let me explain what\nPOKéMON CONTESTS are.\pThey're competitions where you can\nshow your POKéMON to the whole world!\pBut they're always held out in the\nmiddle of nowhere, so I can't enter much.\pThat's why we meet here, so\neveryone can brag about their\lPOKéMON, even just a little.
+23033d|I'd love to see a POKéMON belonging\nto a TRAINER who's taken part\lin a POKéMON CONTEST…{C0805}
+2303a2|Ahem, ahem… I see you've taken\npart in a POKéMON CONTEST!\pI'm dying to see how you've\nraised your POKéMON.\pIt's wonderful to see how other\nTRAINERS care for their POKéMON.\pI love the contented faces of\nwell-raised POKéMON…\pAnd the loving gazes of their\nproud TRAINERS…\pOh, seeing so much happiness\nfills me with joy…\pOh, but forgive me, once I start\ntalking I just can't stop!\pPlease, allow me to examine your\nPOKéMON and see how it's grown.
+230573|How is your POKéMON coming\nalong? Let me take a look…{C0805}
+2305ad|Aha… Very good…\nI see…{C0805}
+23065e|Well, well…\pYour POKéMON is coming along\nnicely. You deserve a prize!\pShame you don't have room\nin your BAG…{C0805}
+2306d3|Your {V02} is growing\nat an impressive rate!\lWhat a magnificent specimen!\pBut if you give it this, it'll\ngrow even better. Trust me!
+230755|Give the RED SCARF to a POKéMON.\pThen everyone will see just\nhow cool it is!
+2307ac|Give the BLUE SCARF to a POKéMON.\pIt'll bring out its beauty\neven more!
+230807|Give the PINK SCARF to a POKéMON.\pIt'll make it look even cuter\nthan it already is!
+230866|Give the GREEN SCARF to a POKéMON.\pIt'll boost its smarts!
+2308a2|Give the YELLOW SCARF to a POKéMON.\pIt'll make it much tougher\nthan it is now!
+2308f9|Sorry, but I don't have anything\nelse to give you… Nothing at all!\pAfter all, you have a gift for\nraising POKéMON without constantly\lrelying on items, right?
+23099c|I love seeing POKéMON that\nlove their TRAINERS.\pPOKéMON are very sensitive to\ntheir TRAINERS' feelings.\pIf you treat your POKéMON with love\nand affection, they'll return it.\pWhen your POKéMON love you\na little more, come see me again.
+230a92|Your POKéMON adores you.\pSince you've shown you have a big\nheart, the FAN CLUB is giving you this!
+230af3|POKéMON are very sensitive to\ntheir TRAINERS' feelings.\pIf you treat your POKéMON with love\nand affection, they'll return it.
+230b77|If you keep letting your POKéMON\nfaint in battle, they'll end up\lresenting you for it.\pBefore long they'll start losing\nfaith in their TRAINER.\pIn other words, they'll end up\nnot liking you one bit.
+230c5b|Do POKéMON like being\ngiven items?\pI don't know, but mine got really\nexcited when I gave them PROTEIN.
+230cfc|AZUMARILL: Marimari?
+230e4b|Hello. This is the OCEANIC MUSEUM.\pAdmission is $50.\nWould you like to enter?
+230e94|Enjoy your visit.
+230eab|Oh, I'm sorry, but it looks like\nyou don't have enough money…{C0805}
+230eea|Oh? You're with the group that\nwent in just before you?\pThen you're late!\nHurry and catch up with them!
+230f51|I want to learn all I can about\nthe sea and apply it to battling.
+230f98|I get horribly seasick\nevery time I see the sea…\pI wish I could be as brave\nas CAPT. STERN!
+231000|The sea is so, so big and so,\nso deep…\pThere must be lots of POKéMON\nwe've never even heard of.
+231071|I want a sea POKéMON.\pHugging it would feel so\ncool and nice…{C0805}
+2310be|A blue liquid swirls in a spiral\ninside a glass container.\p"This experiment uses the power\nof wind to recreate a\lWHIRLPOOL."
+23115d|A red ball rises and falls inside\na glass container.\p"This experiment uses the\nprinciple of buoyancy to\lsimulate a WATERFALL."
+2311fc|It's a sample of soil from\nthe ocean floor.\p"Over thousands of years, organic\nremains settle on the seabed\land form layers.\pBy analyzing these sediment\nlayers, we can learn a great deal\labout the distant past."
+231303|It's a sample of beach\nsand.\p"River water erodes mountain rocks,\nbreaks them up and buries them\lin the riverbed.\pThe friction of the water grinds\nthem down to gravel, and they end\lup deposited on beaches."
+2313f8|OCEAN TRIVIA 1\nWhy is seawater blue?\p"Light is made up of many colors.\pWhen light passes through water,\nmost of these colors are\labsorbed, especially reds.\pBlue light scatters more easily,\nwhich is why the sea is that color."
+231501|OCEAN TRIVIA 2\nWhy is the sea salty?\p"Seawater contains salt dissolved\nas sodium and chloride ions.\pThese ions are worn away from rocks\nand carried to the sea by rain.\pThe high concentration of dissolved\nsalt is what makes the sea salty."
+231613|OCEAN TRIVIA 3\nWhich is bigger, the land or the sea?\p"The sea covers about 70% of the\nplanet, and the rest is dry land.\pSo the sea is more than twice\nthe size of the land."
+2316d7|It's a fossil with wavy\nridges.\p"Tides erode the soil on the\nocean floor.\pCurrents mark the ground with\nlittle ridges and valleys.\pIf this ground fossilizes,\nit's called a ripple mark fossil."
+2317b8|A strange machine is rotating\nunder a glass dome.\pMaybe it's for measuring the\ndepth of something…{C0805}
+2319a1|{C192D}All of HOENN is\nfascinated by your meteoric rise,\lMR. STONE. We know your family\lhas always studied FOSSILS and\larchaeology. How did such humble\lbeginnings end up bringing you\lthis far?
+231a7b|{C1933}To tell you the truth, DEVON\ngetting this far and expanding into\lso many fields was never something\lI set out to do.
+231aec|{C1933}It came about as we kept improving\nour technology for studying FOSSILS\land other unusual rocks. We realized\lthat much of this technology could\lbe applied to other fields.
+231bc5|{C192D}I see… Technologies like\nFOSSIL revival, or the shipyard's\lstate-of-the-art submarines, right?
+231c2a|{C1933}Exactly. First and foremost, I\nconsider myself a student of HOENN's\lhistory. My gratitude to this region\lmade me want to do my bit and\lcontribute to its development.
+231ce8|{C192D}So much so that MOSSDEEP CITY's\nSPACE CENTER also draws on your\lscientific contributions.\pFor a man like you who has achieved\neverything on land, is space\lthe next challenge?
+231db6|{C1933}I'd be lying if I said it didn't\ninterest me, but the truth is there's\lstill much to discover in our own\lregion. HOENN's seas are vast, you\lknow.\pThe mysteries and hidden places\nout there, buried by time, can\lstill astonish us.
+231eb5|{C192D}But you don't rule out a\ntrip to the moon, do you?
+231ee6|{C1933}Of course not, just as I don't rule\nout a trip to the deepest trenches\lthat HOENN may hold.\pAfter all, only sacred things\nare worth laying our hands\lupon.
+231fa6|{C192D}Interesting times lie ahead.\pThanks for the interview, MR. STONE.
+231ff0|{C1959}Excuse me, PRESIDENT.\pCould we talk for a moment?
+232025|{C1933}Ah, PETALBURG CITY's new\nLEADER, isn't it? Of course, come\lin, we'll be more comfortable here.
+232149|I saw a model ship here.\pIt reminded me of the ABANDONED SHIP\nnear DEWFORD TOWN.
+2321b0|Don't you dare run\nin the MUSEUM!
+2321d6|Wow, this submarine is amazing!\nI want to ride in it!
+232214|The label says: "WATER QUALITY\nSAMPLE 1".\pAll the seas are connected, but the\nwater seems different in each area.
+232290|The label says: "WATER QUALITY\nSAMPLE 2".\pMaybe the salinity of the water\nvaries from sea to sea…{C0805}
+23230a|A rubber ball inflates and deflates.\p"In the sea, the weight of the water\nitself exerts pressure.\pIn shallow water, the pressure\nisn't that strong.\pBut in deep water, the pressure can\nreach tens of thousands of tons\lon a small area."
+232409|"MODEL OF THE HOENN REGION"\pIt's a miniature diorama\nof the HOENN region.\pWhere's LITTLEROOT TOWN on here?
+232477|It's an exhibit about ocean\ncurrents.\p"Near the seabed, water flows\nbecause of differences in\ltemperature and salinity."
+232503|It's an exhibit about ocean\ncurrents.\p"Near the surface, water flows\ndue to currents caused\lby the wind."
+23258a|S.S. TIDAL FERRY\p"A scale replica of the ship being\nbuilt at STERN'S\lSHIPYARD."
+2325f2|SUBMARINE EXPLORER 1\p"A replica of the state-of-the-art\nsubmarine for exploring the seabed."
+232654|SUBMERSIBLE POD\p"A replica of a compact, unmanned\nvehicle for exploring the\locean floor."
+2326c0|S.S. ANNE\p"A replica of a luxury liner\nthat sails all around the world."
+23293a|{C1933}So your family will be moving to\nHOENN soon too? LITTLEROOT TOWN?\lIt's a fine place for a fresh start,\lbelieve me.
+2329ac|{C1959}That's right. In just a few\nmonths, my wife and son will\lbe here too.
+232a05|{C1933}How old is your son?
+232a21|{C1959}10. He's still very young, but\nhe already wants to "start his\ladventure" like so many other kids.
+232a7e|{C1933}Very common these days. Modern\ntechnology and total control over\lthe land, the routes and the links\lbetween them have made it\lpossible.
+232b11|{C1933}The world used to be much wider and\nwilder. It demanded far more preparation\land didn't forgive mistakes, but it was\lalso freer.
+232b99|{C1933}I'm not saying it was better before,\nbut there's no denying the word\l"adventure" has lost much of its worth.\pFor many, it's not far from being a\ngame in which every variable is\lunder control.
+232c6e|{C1959}That's what I wanted to discuss,\nMR. STONE. I don't fully approve of\lthe flood of children becoming\lTRAINERS these days, but if that's\lhow things are, we need to make\lsure they grow and develop in the\lsafest environment possible.
+232d61|{C1959}Have you heard of TEAM MAGMA and\nTEAM AQUA?
+232d93|{C1933}Baseless extremists.\pAre you worried your son will be\nexposed to those small-time crooks?
+232df8|{C1959}Well, I've heard you have a son\ntoo. Would you like it if…?
+232e3e|{C1933}And don't you think that's\nexactly the kind of excitement\lthey need?
+232ea4|{C1959}Yes, but{C0819}…{C080F} What if it gets out of\nhand? What if they actually achieve\ltheir goals and awaken GROUDON and\lKYOGRE?
+232f16|{C1933}Do you know of TEAM ROCKET?
+232f31|{C1959}Hmm{C080F}…{C080F} only by reputation.
+232f4e|{C1933}If TEAM ROCKET has taught us\nanything, it's that the power of\llegendaries is overrated: like any\lother mortal, they fall before the\lright opposition.
+232ff4|{C1933}Don't worry, NORMAN. If any of the\nLEGENDARIES involved got too far out\lof control, we have more than enough\ltools to send them back to their\leternal slumber within\lseconds.
+2330ba|{C1933}As for your son, rest assured.\nThe meticulous structure of this\lsystem will see to his safety, and\lwill also set in advance the limit\lof how far he can go in this\l"adventure".
+23318f|{C1959}I prefer it that way, at least\nfor now. But{C080F}…{C080F} don't take so much\lfor granted, MR. STONE. I know talent\lwhen I see it, and my son has it. I\ldon't think a couple of BADGES and\lwandering the routes will be enough\lfor him.
+233265|{C1933}I'll keep an eye out.\pHe might even get along with my\nson. Can you picture the two of them\lsharing life experiences inside this\lbubble? Or fighting for the POKéMON\lLEAGUE CHAMPIONSHIP?
+233324|{C1959}That would be nice.
+233334|{C1959}It's been a pleasure talking with\nyou, MR. STONE. You've cleared up\la lot for me.
+233382|{C1933}Likewise.\pWe'll keep our distance,\npretending to be mere spectators.\pThat'll be the best way to enjoy\nwatching our sons' journeys unfold.
+23341e|{C1933}For a system, what matters\nisn't working perfectly, but that\lthere's faith in how perfectly\lit works.
+2334ae|The sea is so vast and deep that we\nknow more about space than about our\lown oceans, did you know that?\pThat's why I'll be making several\nexpeditions in my submarine.
+2337da|Hi, are you here to catch the ferry?\nMay I see your TICKET?
+233815|{V01} showed the TICKET…\pPerfect. Everything's in order.\pWhere would you like to go?
+233860|Very well, bound for LILYCOVE CITY.
+233882|Board and wait until we set sail.
+2338a8|Where would you like to go?
+2338c0|A trip to the bottom of the sea…\nI wonder what it's like…\pI'd love to do it someday.
+233913|Anyone heading out to sea needs to\nknow the weather forecast!\pSpeaking of weather, someone from\nthe WEATHER INSTITUTE\lsaid something…\pApparently, abnormal weather is\nforecast across the whole area!\pIf I were you, I'd go ask at the\nWEATHER INSTITUTE!
+233a23|I wanted to go with CAPT. STERN\non his exploration voyage.\pBut the submarine is too\nsmall…\pIf I got in, there'd be no\nroom for the CAPTAIN.
+233abd|CAPT. STERN: The ABANDONED SHIP…\pI'm organizing an expedition\nto recover lost items.
+233b34|The ferry gets you to LILYCOVE\nCITY in no time.
+233bb3|{V01} showed the TICKET…\pPerfect. Everything's in order.\pPlease go on through.
+233bf6|Hi, are you here to catch the ferry?\nMay I see your TICKET?
+233c44|My POKéMON has a HASTY\nnature.\pCompared to other POKéMON,\nits SPEED is higher.\pMaybe a POKéMON's nature is linked\nto how some of its stats grow\lmore than others.
+233d09|You train POKéMON, don't you?\pSince you're in SLATEPORT CITY,\nyou can't miss SLATEPORT MUSEUM.
+233da3|Want some advice?\pYou should train POKéMON\nof different types in a\lbalanced way.\pIt's not a good idea to have just\none strong POKéMON.\pIf its type puts it at a\ndisadvantage in battle, it won't\lstand a chance.
+233e78|I trade POKéMON with\nmy friends.\pIf the POKéMON I get turns out\nto be holding an item, that\lmakes me even happier.
+233f36|The MARKET has lots of really\ninteresting goods.\pBut there are many others that are\nonly sold at POKé MARTS.
+233fac|A GREAT BALL is better than a\nPOKé BALL for catching POKéMON.\pIf you use one, you should be able\nto catch slippery POKéMON.
+234414|So your name's {V01}?\nHeaded for the CHAMPIONSHIP?\pWATTSON, the GYM LEADER of\nMAUVILLE, uses ELECTRIC-type\lPOKéMON.\pIf you challenge him with WATER-type\nPOKéMON, he'll fry you!\pAnd on top of that, he's filled\nthe GYM with switch-controlled\ldoors! He's a funny old guy…\pAnyway, go get him!
+23453f|Wow, you've really got spark!\nNo circuit can stand up to you!
+234583|My personality's so electrifying,\nI'm gonna fry you to a crisp.\lWahahaha!
+2345d5|I've never seen such a high-voltage\nperformance. You've made my hair\lstand on end!
+234634|POKéMON are like rock 'n' roll: you've\ngot to put your heart into it!
+234670|Nobody rocks harder than me! I\ncan't lose!
+2346a2|You pulled my plug{C0805}…{C0805}
+2346bd|Our GYM LEADER, WATTSON, has been\nhere for ages. When he started\lbattling, your dad wasn't even\lborn yet, imagine that.
+23473f|This GYM is full of traps. Isn't it\ncool?
+234771|I'm a really sore loser{C0805}…{C0805}
+23478d|WATTSON says he loves setting\ntraps with switches.
+2347c8|With my energy and my POKéMON, I'm\ngonna disintegrate you!
+2347fd|Your power short-circuited\nme!
+234828|They say WATTSON founded MAUVILLE.\nHe was a TRAINER long before we\lever became one. He must know\levery trick in the book!
+2348b0|I love everything that shines!
+2348d0|Oh… You dazzled me{C0805}…{C0805}
+2348ee|WATTSON of MAUVILLE GYM has a\nreally shiny forehead. He's great!
+23493c|{C1957}I've given up on my\nurban redevelopment plans…\pAnd I've devoted myself to setting\nelectric traps in my GYM.\pAnd what are you doing here?\pDid you visit VERDANTURF TOWN,\nlike I told you?\pWahahaha!\nYou've got what it takes!\pWell, now I, WATTSON, LEADER\nof MAUVILLE GYM, am going\lto give you a real jolt!
+234a73|{C1957}Wahahaha!\nFine, I lost!\pThat was a thrilling battle.\nTake this BADGE!
+234acd|{V01} received the DYNAMO BADGE\nfrom WATTSON.
+234af4|{C1957}Seeing a rising star like you\nfills me with hope for the future!
+234b3c|MAUVILLE CITY POKéMON GYM
+234b61|MAUVILLE CITY POKéMON GYM
+234b86|Phew…\nMy batteries are drained{C0805}…{C0805}
+234c36|Working here is teaching me\na ton about BIKES.\pIf you want to learn all the secrets\nof your BIKE, take a look at\lthe manuals back there.
+234cdc|Ummm… Sorry, I'm afraid I've got\nlittle to offer someone so\lwealthy. Someone like you probably\lrides a motorbike, right?
+234d74|Wait!
+234d7d|You already have that HM!
+234dc9|Shoo-be-doo-be-doo!\pSome people call me the "ROCK\nSMASHER", but that's disrespectful.\pI deserve more consideration.\nSomething like "ROCK SMASH MASTER".\pShoo-be-doo-be-doo!\pWow, your POKéMON look pretty\nstrong.\pThat's what I like to see! As a\nreward, here's this HIDDEN MACHINE!
+235524|This is the MAUVILLE GAME CORNER.
+235541|This is the GOLDENROD GAME CORNER.
+23555b|You need a COIN CASE.
+235574|Looking for COINS?\pIt's $1000 for 50 COINS.\nWould you like some?
+2355b0|Thank you very much!\nHere are your COINS!
+2355da|Um… Looks like you don't have\nenough money{C0805}…{C0805}
+23560c|Oh?\nYour COIN CASE is full.
+235629|Oh… So you don't need COINS?\nGood luck on your journey!
+235661|Hello. Here you can exchange\nyour COINS for prizes.
+235693|Which prize would you like?
+2356ac|So you'd like\n{V02} {V03}?
+2356c4|Great. It'll be delivered\nstraight to your PC.
+2356f6|Sorry, but you don't have\nenough COINS.
+235722|As you wish… Anyway, if you change\nyour mind and come back, make sure\lyou've saved up enough COINS.
+235795|So you want {V02}?
+2357aa|Here you go!
+2357b8|I messed up, and now I've got\ntwo identical DOLLS.\pWant one?
+2357fa|Here you go!
+235808|What? You do want it,\njust not right now?
+235837|Aw, don't be a killjoy.\nI'm giving it away free!
+23586e|There's a prize I really want,\nbut I just can't win it.
+2358ae|Listen, if you want to play here,\nyou need a COIN CASE.\pBut I have no idea where\nto get one.
+235911|I think I've played more than\nenough. Better not push my luck.\lHave some COINS!
+235965|Whenever I come to MAUVILLE, I\nalways spend a while at the GAME\lCORNER.\pI'd say this city brings me luck.
+2359c5|Not all ROULETTE tables cost\nthe same.\pBefore choosing a table, check\nhow many COINS you have.
+235a32|It's easy to lose track of time here.\nI should get to work…
+235a70|You need COINS to play\nat the GAME CORNER.
+235a9d|ROULETTE is dangerous…\pWinning or losing is down to luck,\nand it can get you hooked…
+235af0|You can bet up to three COINS\non the SLOT MACHINES.\pThe more you bet, the better your\nchances of hitting the jackpot.
+235b6b|It's hard to make it stop right\non "7".\pIf it stops on "7" during a\nREEL TIME bonus game,\lyou win way more COINS.
+235bf6|Let me give you some tips\nabout the SLOT MACHINES.\pThe more lightning bolts you get, the\nmore chances you'll get in REEL TIME.\pAt best, if you get five chances\nin REEL TIME…\pyou can win four regular BONUSES\nand a special BIG BONUS at the end.\pThe BIG BONUS pays out 660 COINS,\nbut it's not easy to get at all.
+235d51|You can't play without\na COIN CASE.
+235e52|{C1951}{V01}! From what I hear,\nyou made quite a splash in\lNEW MAUVILLE, didn't you?
+235e96|{C1951}You know what? That place actually\nhas another 69 underground floors.\pIt was part of an ambitious project\nto expand MAUVILLE CITY.
+235f26|{C1951}Don't ask how, but I also know how\nto get into all those lower floors.\lIt's like a city in ruins,\lthough{C0805}…{C0805}
+235fa4|{C1951}The truth is there's nothing\ninteresting down there. All the\lmachinery's been ruined by damp\land the passage of time.
+236024|{C1951}If it's hidden places you want to\nsee, places folks like that kid from\lVERDANTURF or that GYM LEADER's kid\lwill never see… I'd take a close\llook at this GAME CORNER.
+2360d4|{C1951}Oh… seems what I just said didn't\nsurprise you. Could it be this isn't\lthe first time you've seen this?
+236145|{C1951}Then if I ever go to KANTO, I'll\nlook behind every poster in the\lCELADON GAME CORNER!
+2361a6|{C1951}If I ever go to KANTO, I'll look\nbehind every poster in the\lCELADON GAME CORNER!
+23626d|There's a button on this poster.
+23628a|Press it?
+2362a2|A pleasure doing business.
+2362c9|Thank you for your purchase!
+236567|Want a TRUBBISH?\nIt costs 1,200 COINS.
+236593|Want a GLAMEOW?\nIt costs 1,500 COINS.
+2365be|Want a STUNKY?\nIt costs 1,800 COINS.
+2365e8|Want a BLITZLE?\nIt costs 2,500 COINS.
+236613|Want a PURRLOIN?\nIt costs 3,000 COINS.
+23663f|Want a TREECKO?\nIt costs 8,000 COINS.
+2367fc|If I had a BIKE, shopping around\nSLATEPORT CITY would be a breeze.\pI could buy HARBOR MAIL at the\nSLATEPORT CITY POKé MART.
+2368d2|Sometimes a guy comes by who says\nreally weird things!\pIt's kind of funny, in a way.\nI don't think I'll forget him soon.
+236996|Some items temporarily boost\na POKéMON's stats.\pI know you can use X ATTACK and\nX DEFENSE during battle…\lBut I think there are more items\llike that.
+236a4c|Using a certain move\nor a particular item…\pEvery decision TRAINERS make\nshapes the outcome\lof the battle.
+236baf|Good day. Welcome to DEVON CORP.\pWe're the proud makers of\nthousands of items and medicines\lthat make life easier.
+236c2e|One of our SCIENTISTS let\na very important package get\lstolen.
+236c7e|Hey, we made those RUNNING\nSHOES.\pIt's always a pleasure to see\none of our customers!
+236ce6|That stolen package…\pis very important, sure, but it's not\nsomething just anyone can use.\pIf you ask me, that thief wasn't\nexactly the brightest{C0805}…{C0805}
+236d86|Looks like someone got back the\nDEVON GOODS that were stolen.
+236dc5|Sorry, only authorized staff\ncan enter here.
+236dff|How could we be so foolish…?\nHow could we let it get stolen?!
+236e43|Oh, hello!\nIt's always a pleasure to see you!
+236e74|Samples of rocks and metals are on\ndisplay in the glass case.\pThere's a sign with something written…\p"DEVON CORP. started out\nquarrying rock."\p"It also produced iron from\nfilings found in the sand."\p"Despite such humble beginnings,\nDEVON grew as a company."\p"Today, DEVON manufactures a wide\nrange of industrial products."
+236ff3|Prototypes and test products are on\ndisplay in the glass case.\pThere's a sign with something written…\p"In addition to industrial products,\nDEVON sells sundry goods\land even pharmaceuticals."\p"Recently, DEVON has also begun\nselling goods for POKéMON TRAINERS,\lsuch as POKé BALLS and POKéNAVS."
+2374d8|We're developing a device for\ntalking with POKéMON.\pWell, truth is, we haven't\ngotten very far yet…{C0805}
+23755c|I'm developing new kinds\nof POKé BALLS…\pBut, well, the truth is I haven't\ndiscovered anything that works yet…{C0805}
+2375d1|We've finally created new kinds\nof POKé BALLS!\pThe REPEAT BALL makes it easier to\ncatch POKéMON species you've\lalready caught at least once.\pThe TIMER BALL makes it easier\nto catch POKéMON the longer\lthe battle goes on.\pBoth are exclusive patents of\nDEVON CORP. Give them a try!
+237701|I'm the creator of the POKéNAV!\pAs an engineer, I'm so proud to\nbe the author of this marvel!
+237762|Wow!\nYou have a POKéNAV!\pDid you know it was made because our\nPRESIDENT wanted to understand\lPOKéMON's feelings better?\pShall I explain all its features\nin detail?\pNah, you'll figure them out\nyourself by using it. It's not hard.
+237869|I'm trying to develop a device\nthat displays an image of\lPOKéMON's dreams.\pSo far I haven't made much progress…{C0805}
+2378f0|I've spent ages trying to create\na device to revive POKéMON\lfrom their fossils…\pAnd I've finally done it!
+237969|Wait a moment. What you've got\nthere… isn't that a POKéMON fossil?\pWould you like it revived?\pI can do it with my\nFOSSIL REGENERATOR.
+2379f3|You don't want to?\pDEVON's technology is like\nnothing you've ever seen…{C0805}
+237a35|Wow, this really is exceptional!\nYou have not one, but two fossils!\pUnfortunately, this machine can only\nregenerate one POKéMON at a time.\pWould you like to regenerate one\nof your two fossils?
+237af1|Wonderful!\nLet's get to work.\p{V01} handed the {V02} to\nthe DEVON RESEARCHER.
+237b46|The FOSSIL REGENERATOR\nI've devised is really impressive.\pBut it has one little problem… It\ntakes forever to work…\pSo, ahem, why don't you go for\na little stroll in the meantime?
+237c04|Thanks for your patience!\pYour fossilized POKéMON is back\nand alive and kicking.\pThis fossil was an ancient {V03}\nPOKéMON, yes indeed.
+237c8b|{V01} received {V03} from\nthe DEVON RESEARCHER.
+237e90|Hey, how's it going?\pListen, you'll want to hear this!\nAre you headed for the CHAMPIONSHIP?\pI'm not a TRAINER, but I can\ngive you a couple of good tips.\pThat's the spirit! I'll tell you how\nto win the POKéMON CHAMPIONSHIP!\pA TRAINER has to collect\nGYM BADGES, right?\pBut beating the LEADERS is no\npiece of cake!\pThat's where I come in!\nNobody gives advice like me.\pROXANNE, the GYM LEADER,\nuses ROCK-type POKéMON.\pThe ROCK type is very tough, but it\ndoesn't stand a chance against\lWATER- or GRASS-type moves.\pIf you beat the LEADER, come see me.\pGo on, take the bull by the horns!
+2380e3|Wow, what a smashing victory!\nI bet it was all thanks to me\lcheering you on from here!\pGreat!\nCheck your TRAINER CARD.\pThe STONE BADGE you just won\nshould be on there.\pIn other words…\pYou've taken the first step on the\nroad to the top!\pThat must be super exciting!
+23820c|You shouldn't take us TRAINERS\nlightly… Now you'll see why!
+238254|I'm floored…{C0805}
+238270|You haven't seen even a hint of the\nROCK type's terrible power!
+2382b5|If you can't beat me, you can forget\nabout beating ROXANNE!
+2382f9|Well, seems you've got potential…{C0805}
+238320|But ROXANNE is stronger than me by\na mile. Don't get cocky!
+23836c|I know we're in the middle of a\ncity, but that won't help you.\pMy ROCK POKéMON don't mess\naround. Start trembling!
+2383f1|Great boulders! You sure don't\nmess around either!
+238430|Our LEADER will give you what you\ndeserve. Young as she is, she chose\lthe ROCK type. That shows character.
+23849a|{V01} received the STONE BADGE\nfrom ROXANNE.
+2384c1|RUSTBORO CITY POKéMON GYM
+2384e4|RUSTBORO CITY POKéMON GYM
+2386a5|The blackboard has notes on the\nstatus conditions that can affect\lPOKéMON during battle.
+23870e|Which topic would you like to read?
+238730|If a POKéMON is poisoned,\nit will keep losing HP.\pThe effects of poison linger\neven after battle.\pA poisoned POKéMON's HP will\ndrop while it travels.\pTo cure poisoning,\nuse an ANTIDOTE.
+238826|If a POKéMON is paralyzed,\nits SPEED drops sharply.\pIt may even be unable to\nmove during battle.\pParalysis lasts after battle.\nUse a PARALYZE HEAL.
+2388e1|If a POKéMON falls asleep, it\ncan't attack its opponent.\pA POKéMON may wake up on its own,\nbut if the battle ends while it's\lasleep, it will stay that way.\pWake it up with an AWAKENING.
+23899f|A burn reduces the victim's\nATTACK power and HP.\pIts effects continue after\nbattle. Use a BURN HEAL.
+238a16|If a POKéMON is frozen,\nit's completely helpless.\pIt stays frozen after battle.\nThaw it out with an ICE HEAL.
+238a98|When a student doesn't study at all,\nI give them a dose of QUICK CLAW.\pYour dedication to study will show\nin how you use this item.
+238b24|A POKéMON holding a QUICK CLAW\nwill sometimes speed up and move\lbefore its opponent.\pThere are lots of other items\nyou can give POKéMON.\pThat alone is plenty to study.
+238bde|I'm about to trade a POKéMON\nwith my friend.
+238c16|I've always wanted a SEEDOT,\nand I'm finally getting one.
+238c52|POKéMON can hold items, but\nthey don't know what to do with\lPOTIONS and ANTIDOTES, for example.
+238cbc|Did you know some moves can\nconfuse a POKéMON?\pA confused POKéMON may hurt\nitself by accident.\pBut once the battle ends,\nthe effect wears off.
+238d68|A POKéMON holding a BERRY\ncan heal itself.\pThere are lots of kinds of items\nyou can give POKéMON.\pPhew, taking notes is so tiring…{C0805}
+238e01|It's a student's notebook…\pPOKéMON are caught using\nPOKé BALLS.\pA TRAINER can carry up to\nsix POKéMON.\pA TRAINER is someone who catches\nPOKéMON, raises them and battles\lwith them.\pA TRAINER's mission is to defeat\nthe strong TRAINERS who wait\lin POKéMON GYMS.
+238f3c|Hi, have we met?\nMaybe in PETALBURG CITY…\pAllow me to introduce myself:\nmy name is SCOTT.\pI've been traveling the world in\nsearch of great TRAINERS.\pOr rather, I'm looking for experts\nin POKéMON battles.\pSo, what brings you to this SCHOOL?\nAre you a TRAINER too?\pThe first move you should teach\na POKéMON is CUT.\pIf I remember right, someone\naround here has the move CUT.
+239120|My POKéMON has a NAIVE nature,\nand my friend's has a\lJOLLY nature.\pIt's amazing how every POKéMON\nhas a different personality!
+2391bc|POKéMON can be male or\nfemale too.\pWhat's not clear is what the\ndifference between them is.
+23922f|The man next door gave me\nan HM!\pI used it to teach my POKéMON\nto use CUT on trees.
+23932d|I'm buying PARALYZE HEALS\nand ANTIDOTES.\pJust in case I run into a SHROOMISH\nin PETALBURG WOODS…{C0805}
+23939a|My POKéMON evolved, and now it\nhas tons of HP.\pNow it's better to buy SUPER\nPOTIONS for it instead of POTIONS.
+23940f|I got an ESCAPE ROPE in case\nI ever get lost in a cave.\pWhen you use it, you go back to\nthe entrance.
+239492|Every POKéMON has a special\nability of its own.
+2394c4|POKéMON are strange creatures.
+239530|Every day is so hard…\pWhat's hard?\nDo you even need to ask?\pGetting up to go to work,\nof course.\pI'm terrible at early mornings…{C0805}
+2395b9|Oh, hello!\nWelcome to my home!\pQuick question… Have you\never done any babysitting?\pYou see, I just became a father,\nand honestly I'm a little lost.\pNow I've got a little problem…\nMy daughter ANAPEL hardly laughs.\pI think she'd laugh more\nif I told her something funny.\pYou wouldn't happen to know a\nfunny phrase, would you?
+2397ab|What? My POKéMON is cute?\nI already knew that.\pWell, if you really want it, I might\neven trade it to you for something.\pIf you like, I'll trade my {V03}\nfor a {V02}.
+239854|Heh heh heh…\nTake good care of my POKéMON.
+23987d|Huh? That's a {V02}?\nDoesn't look like one to me at all…{C0805}
+2398bf|Oh, well, if you don't want it, your\nloss. 'Cause my POKéMON is adorable…{C0805}
+239909|Any POKéMON can be cute if you\nraise it with love and care.
+23994b|Every place has different people\nand POKéMON.\pIt's fascinating, so I'm always\non the move.
+2399c5|My dad helped with the expansion\nwork in RUSTBORO CITY.\pHe had his POKéMON use CUT\nto clear space to build on.
+239a5c|The TRAINER'S SCHOOL\nis excellent.\pIf you study there, you might\nbecome a GYM LEADER one day.
+239acf|ROXANNE, the GYM LEADER,\nknows a ton about POKéMON.\pAnd she's really strong!
+239b3e|DEVON CORP. employees\nlive in this building.
+239bc8|A long, long time ago, DEVON was\njust a tiny little company.
+239c11|My dad works at DEVON CORP.\pMy dad made this!\nBut I can't use it, so you can have it.
+239c71|My dad works at DEVON CORP.\pWhen I grow up, I'm going to\nwork at DEVON too.
+239cd8|DEVON's PRESIDENT likes\ncollecting rare rocks.
+239d18|I think the PRESIDENT's son\ncollects rocks too.
+239d78|I always give my POKéMON\ngreat nicknames.\pThat way I can show the world\nhow original I am, heh heh.
+239de3|And you think calling a PIKACHU\nPEKACHU changes much?\pI know it's better to pick a name\nthat's easy to understand, but…{C0805}
+239e5e|PEKACHU: Peka!
+239ff7|Yes, yes, so cool!\pWelcome, {V02}!\nAnd you take care of {V03}!
+23a02f|Well, I'm afraid not.\nThat's not a {V02}.
+23a05c|No? You won't trade with me?\nHave you no heart?
+23a098|From now on I'll do whatever it takes\nto make VOLBEAT stronger!\pI hope you'll do the same\nfor PLUSLE!
+23a10f|Trading POKéMON…\pTo me it's like giving part of\nyourself to someone else{C0805}…{C0805}
+23a156|ZIGZAGOON: Gungun?
+23a34f|{V01}?\nHeaded for the CHAMPIONSHIP?\pWINONA, the GYM LEADER of\nFORTREE, is a master of\lFLYING-type POKéMON.\pShe's at the back of the GYM,\nbehind the revolving doors.\pShe's waiting for TRAINERS\nwho want to soar to the top.\pAll right, go for it!
+23a45b|You did it!\nYou've achieved liftoff!
+23a484|Watch how gracefully my\nBIRD POKéMON battles!
+23a4d9|A TRAINER has to be smart and able\nto react to any situation.\pWhat about you? Do you have the wits\nit takes to reach our LEADER?
+23a56a|BIRD POKéMON lovers all want to\nbecome members of this GYM.\pAnd those of us who already are…\ncan't afford to lose!
+23a5f1|That was too heavy a load\nfor me{C0805}…{C0805}
+23a61f|The world is huge, and there are\ntons of really strong TRAINERS.\pThat's why I have to keep training\nand keep getting better.
+23a697|WINONA, our GYM LEADER, has no\nneed to waste her time on you!\pI'm more than enough to beat you!
+23a6fe|What will WINONA say…\nI lost!
+23a71b|WINONA is the ultimate LEADER:\nshe has strength and character!\pShe won't go down easy{C0805}…{C0805}
+23a775|WINONA taught me everything I know,\nso don't think it'll be that easy{C0805}…{C0805}
+23a7bd|I've been beaten{C0805}…{C0805}
+23a7d5|The people of FORTREE live much more\npeacefully now that WINONA's here.
+23a819|When WINONA enters battle,\nher face shines with determination…\pBut I won't let you see it\nwith your own eyes!
+23a88e|Argh!\nI couldn't stop you.
+23a8ae|You'd better watch your step!\nLet your guard down around WINONA\land she'll make mincemeat of you!
+23a91a|You know there are tons of kinds\nof FLYING-type POKéMON…\pOr did you have no idea?
+23a96d|I see you know your lesson!
+23a98e|You won, no doubt about it, but\ntread carefully. Our LEADER\lWINONA's POKéMON are serious stuff.
+23a9fc|{C195A}I'm WINONA, the GYM LEADER\nof FORTREE.\pI've joined forces with BIRD\nPOKéMON and taken to the skies.\pHowever tough the battle, we've\nalways won with grace and poise.\pNow see how elegantly my BIRD\nPOKéMON defeat you!

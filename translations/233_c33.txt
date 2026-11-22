@@ -1,0 +1,1466 @@
+4c473c|{V0F} became nimble!
+4c4758|It created a bizarre area in which\nthe Defense and Sp. Def stats\pare swapped!
+4c47ac|{V0F} shared\nits power with the target!
+4c47d8|{V0F} shared\nits guard with the target!
+4c4808|{V14} protected\n{V38} team!
+4c4824|{V0F} vanished\ninstantly!
+4c4854|{V10} became trapped\nby swirling magma!
+4c4880|Pointed stones float in the air\naround {V3B} team!
+4c48b4|{V0F} twisted\nthe dimensions!
+4c48d8|{V0F} levitated with\nelectromagnetism!
+4c48fc|{V0F} surrounded itself\nwith a veil of water!
+4c4924|{V0F} switched\nstat changes with the\ptarget!
+4c496c|Poison spikes were scattered all\naround the opposing team!
+4c49b0|{V0F} switched all\nchanges to its Defense and\pSp. Def with the target!
+4c4a08|{V0F} switched all\nchanges to its Attack and\pSp. Atk with the target!
+4c4a60|The Lucky Chant shielded\n{V38} team from critical hits!
+4c4a9c|{V10}'s Ability\nwas suppressed!
+4c4ac0|{V0F} switched\nits Attack and Defense!
+4c4af0|{V10} was prevented\nfrom healing!
+4c4b08|{V0F} flung its\n {V16}!
+4c4b1c|{V10} can't use\nitems anymore!
+4c4b38|{V0F} went back to {V35}!
+4c4b4c|The Tailwind blew from behind\n{V38} team!
+4c4b74|{V0F} stole and ate the target's item!
+4c4ba0|{V10} woke up!
+4c4bb4|{V10} was\nidentified!
+4c4bcc|Gravity intensified!
+4c4bf0|{V10}'s {V19} activated!
+4c4c08|{V11} was burned\nby the {V16}!
+4c4c24|{V11} was badly\npoisoned by the {V16}!
+4c4c50|{V0F} was hurt\nby the {V16}!
+4c4c70|{V0F} became charged\ndue to its {V16}!
+4c4c90|{V10} endured\nthe hit using {V19}!
+4c4e1c|{V0F} seems unable to use its power!
+4c4e48|But it had no effect!
+4c4e60|{V0F} acquired\n {V00}.\p{V10} acquired\n {V01}.
+4c4e90|{V0F} acquired\n {V00}.
+4c4ea0|{V0F} can't escape!
+4c4eb8|{V13}'s {V1A}\ncured its {V00} problem!
+4c4edc|It broke through the protection!
+4c4ef8|{V37}'s {V00}\nwore off!
+4c4f0c|{V13}'s {V1A}\nblocks {V14}!
+4c4f24|{V10}'s stats won't\ngo any lower!
+4c4f50|{V10} \nis already burned.
+4c4f68|{V11}'s {V1B}\nprevents escape!
+4c4f88|{V13}'s {V1A}\nmade it ineffective!
+4c4fa4|{V10} avoided\nthe attack!
+4c4fbc|The boxes are full!\nYou can't catch any more!\p
+4c5000|{V13}'s {V16}\nnormalized its status!
+4c5020|{V13} is taking advantage\nof {V1A}!
+4c504c|{V10} was\ndragged out!\p
+4c506c|{C101100}{V0F} fled\nusing its {V18}!\p
+4c508c|{C101100}{V0F} fled\nusing its {V16}!\p
+4c50ac|Use next Pokémon?
+4c50c8|{V0F} lost its focus\nand couldn't move!
+4c50f4|{V0F} chose\n{V14} as its destiny!
+4c5110|{V10}'s {V19}\ntook the attack!
+4c5130|{V10} makes Ground moves\nmiss with {V19}!
+4c5158|{V13}'s {V1A}\nintensified the sun's rays!
+4c5184| extra
+4c5198|{V10} was trapped\nby Sand Tomb!
+4c51b4|{V10}'s {V19}\ndisabled {V14}!
+4c51cc|{V13} used the {V16}\nto get pumped!
+4c51fc|Using {V16}, the {V00}\nof {V41} rose!
+4c522c|Items can't be used now.{C0840}
+4c5250|A soothing aroma\nwafted through the area!
+4c5278|{V0F} found\none {V16}!
+4c5298|HM moves can't be forgotten now.\p
+4c52bc|{V0F} sprang up!
+4c52d8|{V0F} hid\nunderwater!
+4c52f4|Fire's power\nwas weakened!
+4c5320|Electricity's power\nwas weakened!
+4c534c|{V13} transformed!
+4c5360|{V0F} sucked up\nthe liquid ooze!
+4c5380|{V13}'s {V1A}\ncured its {V00} problem!
+4c53b8|{V10}'s {V19}\ninfatuated {V3E}!
+4c53d0|{V13}'s {V1A}\nprevents its {V00} from being lowered!
+4c53f4|{V13}'s {V1A}\nwhipped up a sandstorm!
+4c5420|{V0F} restored a little\nHP using {V18}!
+4c545c|{V10} hung on\nusing its {V16}!
+4c5478|{V16} only allows the use of\n{V14}!\p
+4c5494|{V13} restored a little\nHP using its {V16}!
+4c54b8|{V13}'s {V16}\nrestored its stats!
+4c54e0|{V13}'s {V16}\nrestored {V00}'s PP!
+4c5504|{V13} restored health using its {V16}!
+4c5528|{V16} cured its {V00} problem!
+4c556c|{V13}'s {V16}\nwoke it up!
+4c5584|{V13}'s {V16}\ndefrosted it!
+4c55a0|{V13}'s {V16}\nhealed its burn!
+4c55c0|{V13}'s {V16}\ncured its poison!
+4c55e4|{V13}'s {V16}\ncured its paralysis!
+4c5604|{C104900}ANNOUNCER: You're out of\nSafari Balls! Game over!\p
+4c5668|{V06} completely ignored\nthe {V00}!
+4c5688|{V06} is enraptured\nby the {V00}!
+4c56a8|{V06} is curious\nabout the {V00}!
+4c56cc|{V06} is watching\ncarefully!
+4c56e8|{V23} can't get any closer!
+4c5708|{V23} crept closer\nto {V06}!
+4c572c|{V42} is about to send out\n{V01}.\pWill you change POKéMON?
+4c5770|{V0F} pretended\nnot to notice!
+4c578c|{V0F} turned away!
+4c579c|{V0F} won't\nobey!
+4c57b4|{V0F} is\nloafing around!
+4c57cc|{V0F} began to nap!
+4c57e4|{V0F} ignored\norders!
+4c57fc|{V0F} ignored orders\nwhile asleep!
+4c5828|You can't escape!\p
+4c583c|The storm rages on…
+4c5854|Rain continues to fall…
+4c5864|{V39}'s data was\nadded to the POKéDEX.\p
+4c5890|{V39} was transferred to\n{V27}'s PC.
+4c58b0|Would you like to give\n{V39} a nickname?
+4c58d4|Gotcha!\n{V39} was caught!{C0A}{C0B6001}\p
+4c58f4|Shoot!\nIt was so close, too!
+4c590f| Aargh!\nAlmost had it!
+4c592c|Aww! It appeared\nto be caught!
+4c5954|Oh, no!\nThe POKéMON broke free!
+4c597c|You lost the POKéMON!
+4c5994|The BALL was destroyed! This POKéMON can't be caught!
+4c59d0|It can't be caught!
+4c59e8|The BALL was blocked!
+4c5a04|You used {V16}!
+4c5a10|But there was no PP left\nfor the move!
+4c5a3c|There's no PP left for\nthis move!\p
+4c5a64|All Pokémon that heard the song\nwill faint in three turns!
+4c5aa4|A bell chimed!
+4c5ac0|The battlers shared\ntheir pain!
+4c5af0|It was too weak to make\na Substitute!
+4c5b24|Coins scattered everywhere!
+4c5b44|All stat changes were\neliminated!
+4c5b80|The hail stopped.
+4c5b98|Hail continues to fall…
+4c5bac|It started to hail!
+4c5bc8|The sunlight faded.
+4c5bdc|The sunlight is strong…
+4c5bec|The sunlight got bright!
+4c5c04|The sandstorm subsided.
+4c5c24|The sandstorm is raging…
+4c5c44|A sandstorm kicked up!
+4c5c68|The rain stopped.
+4c5c90|Rain continues to fall…
+4c5ca4|A downpour started!
+4c5cc4|It started to rain!
+4c5cdc|It hurt itself in its\nconfusion!
+4c5d08|But it failed!
+4c5d18|But it had no effect!
+4c5d38|It's not very effective…
+4c5d4c|You can't escape!\p
+4c5d60|No! There's no running\nfrom a TRAINER battle!\p
+4c5d98|{C101100}Wild {V00} fled!
+4c5db4|It's super effective!
+4c5dc4|It's not very effective…
+4c5dd8|And…\p
+4c5e08|It's a one-hit KO!
+4c5e1c|A critical hit!
+4c5e60|harshly fell
+4c5e6c|It traced {V00}'s {V01}!
+4c5e80|{V3F}'s {V00}\nhurt {V0F}!
+4c5e98|{V13}'s {V1A}\nprevents stat loss!
+4c5ec8|{V13}'s {V1A}\ncuts {V3F}'s Attack!
+4c5ee8|{V10} anchors itself\nwith {V19}!
+4c5f08|{V10}'s {V19}\npowered up its Fire moves!
+4c5f30|{V10}'s {V19}\nprevents confusion!
+4c5f54|{V10}'s {V19}\nprevents infatuation!
+4c5f78|{V10}'s {V19}\nmade it the {V00}\ltype!
+4c5fa0|{V10} restored HP\nusing its {V19}!
+4c5fc0|{V10}'s {V19} \nprevents {V3E}\lfrom using {V14}!
+4c5fe8|{V10} was protected\nby {V19}!
+4c6008|{V13}'s {V1A}\nmade it rain!
+4c6020|{V10} snatched\n{V41}'s move!
+4c6040|{V0F} waits for its\nfoe to make a move!
+4c6074|Magic Coat bounced\n {V11}'s {V14} back!
+4c609c|{V0F} shrouded itself with Magic Coat!
+4c60bc|Grudge drained all the PP\nof {V0F}'s \n{V00}!
+4c60ec|{V0F} wants its foe\nto bear a Grudge!
+4c610c|{V0F} can't use the\nsealed {V14}!\p
+4c6138|{V0F} sealed the\nfoe's moves!
+4c615c|{V0F} swapped\nAbilities with its target!
+4c6184|{V0F} knocked off\n{V3F}'s {V16}!
+4c61a0|{V10} grew drowsy!
+4c61b4|{V10} anchored\nitself with its roots!
+4c61d4|{V0F} absorbed\nnutrients with its roots!
+4c61fc|{V0F} planted its roots!
+4c6210|{V00}'s Wish\ncame true!
+4c6234|{V0F} copied\n {V3F}'s Ability!
+4c6254|{V0F} switched\nitems with its target!
+4c6278|{V0F} is ready\nto help {V3F}!
+4c629c|{V0F} can't use\n {V14} after the Taunt!\p
+4c62c4|{V10} fell for\nthe Taunt!
+4c62e4|{V0F} is tightening\nits focus!
+4c630c|{V0F} can't use the same\nmove twice due to the Torment!\p
+4c6344|{V10} was subjected\nto Torment!
+4c6360|{V0F} has no\nmoves left!\p
+4c6388|{V0F}'s status\nreturned to normal!
+4c63b4|Nature Power turned\ninto {V14}!
+4c63d8|{V0F} began\ncharging power!
+4c63f8|{V10} became the\ncenter of attention!
+4c6424|{V00} attack!
+4c6434|{V10} took\nthe {V00} attack!
+4c6450|{V0F} foresaw\nan attack!
+4c6468|{V0F} fled from\nbattle!
+4c6480|{V0F} was freed\nfrom the Spikes!
+4c6498|{V0F} planted Leech Seed!
+4c64b0|{V0F} got free of\n{V3F}'s {V00}!
+4c64cc|{V13} copied\n{V40}'s stat changes!
+4c64f8|{V0F} cut its own HP\nand maximized its Attack!
+4c6520|Magnitude {V00}!
+4c6530|{V10} endured\nthe hit!
+4c6548|{V0F} is getting\npumped!
+4c6560|{V0F}'s perish\ncount fell to {V00}!
+4c6588|{V10} was identified!
+4c65a0|{V13} was hurt\nby the Spikes!
+4c65c0|Spikes were scattered all around\nthe opposing team!
+4c65f4|{V0F} is afflicted\nby the Curse!
+4c6618|{V0F} cut its own HP\nand laid a Curse on {V3F}!
+4c663c|{V0F} is locked\nin a Nightmare!
+4c6660|{V10} began having\na Nightmare!
+4c667c|{V10} can no\nlonger escape!
+4c66a8|{V10}'s PP was reduced!
+4c66c0|{V10} took its\nfoe down with it!
+4c66dc|{V0F} wants to take\nits foe down with it!
+4c6700|{V0F} sketched\n{V00}!
+4c6718|{V0F} took aim\nat {V3F}!
+4c672c|{V0F}'s Encore\nended!
+4c6750|{V13} can only use {V14}!\p
+4c676c|{V10} received\nan Encore!
+4c67b4|{V0F} can't use\n {V14} because it's disabled!\p
+4c67e4|{V10}'s {V00}\nwas disabled!
+4c6810|{V10}'s Rage\nis building!
+4c6830|{V0F} must\nrecharge!
+4c6858|{V10}'s Substitute\n faded!\p
+4c687c|The Substitute took damage\nfor {V3F}!\p
+4c68ac|{V0F} already\nhas a Substitute!
+4c68c8|{V0F} put in\na Substitute!
+4c68e0|{V0F} transformed\ninto {V00}!
+4c68fc|It doesn't affect\n {V10}!
+4c6924|{V0F} became\nconfused due to fatigue!
+4c6950|{V0F} unleashed\nenergy!
+4c6964|{V0F} is\nstoring energy!
+4c6984|{V10} stayed awake\nusing its {V19}!
+4c69a8|But the uproar kept\n{V3F} awake!
+4c69dc|But {V3F} can't\nsleep in an uproar!
+4c6a08|{V0F} stockpiled\n{V00}!
+4c6a18|But {V3F} can't\nsleep in an uproar!
+4c6a44|{V0F} calmed down.
+4c6a58|{V0F} is making\nan uproar!
+4c6a78|{V0F} \ncaused an uproar!
+4c6a90|The uproar woke\n {V40}!
+4c6aac|But {V41}'s uproar\n won't let it sleep!
+4c6ad8|{V0F} woke up!
+4c6aec|{V0F} is\nfast asleep.
+4c6b0c|{V0F}'s health is\nsapped by Leech Seed!
+4c6b2c|{V10} evaded\nthe attack!
+4c6b44|{V10} was seeded!
+4c6b58|{V0F} is buffeted\nby the hail!
+4c6b70|{V0F} is buffeted\nby the sandstorm!
+4c6b90|{V0F} protected\nitself!
+4c6bac|{V0F} was also\nhurt!
+4c6bcc|{V13} is protected\nby the mist!
+4c6c00|{V0F} was freed\nfrom {V00}!
+4c6c18|{V0F} is hurt\nby {V00}!
+4c6c2c|{V0F} clamped\ndown on {V3F}!
+4c6c40|{V10} was wrapped\nby {V3E}!
+4c6c68|{V10} was trapped\nin the vortex!
+4c6c8c|{V3E}'s Bind\nsqueezes {V10}!
+4c6ca8|{V0F} burrowed\nits way underground!
+4c6cc8|{V0F} flew\nup high!
+4c6cdc|{V0F} became cloaked\nin a harsh light!
+4c6d04|{V0F} tucked\nin its head!
+4c6d18|{V0F} absorbed\nlight!
+4c6d30|{V0F} whipped up\na whirlwind!
+4c6d4c|{V0F} slept and\nbecame healthy!
+4c6d6c|{V0F} went\nto sleep!
+4c6d84|{V37}'s Safeguard\nwore off!
+4c6dac|{V13} is protected\nby Safeguard!
+4c6dd4|{V37} became cloaked\nin a mystical veil!
+4c6df4|{V38}'s Reflect\nraised the team's Defense!
+4c6e20|{V38}'s Light Screen\nraised the team's Sp. Def!
+4c6e54|{V10}'s HP\nis full!
+4c6e74|{V10} regained\nhealth!
+4c6e88|{V0F} flinched!
+4c6e98|{V0F} transformed\ninto the {V00} type!
+4c6eb4|{V0F} is immobilized\n by love!
+4c6ed4|{V0F} is in love\nwith {V41}!
+4c6ef0|{V10} fell\nin love!
+4c6f08|{V10} is\nalready confused!
+4c6f20|{V11} became\nconfused!
+4c6f3c|{V0F} snapped\nout of confusion!
+4c6f54|{V0F} is\nconfused!
+4c6f68|{V10}'s {V00}\nwon't go any lower!
+4c6f84|{V0F}'s {V00}\nwon't go any higher!
+4c6fa0|{V10} was cured\nof paralysis!
+4c6fbc|{V10} is\nalready paralyzed!
+4c6fd4|{V0F} is paralyzed!\nIt can't move!
+4c7000|{V13}'s {V00} paralyzed {V40}!\nIt may be unable to move!
+4c7030|{V11} is paralyzed!\nIt may be unable to move!
+4c705c|{V14} melted\n{V0F}'s ice!
+4c7074|{V0F} thawed out!
+4c7090|{V10} thawed out!
+4c70ac|{V0F} is\nfrozen solid!
+4c70d8|{V11} was\nfrozen solid!
+4c70ec|{V0F} was hurt\nby its burn!
+4c7128|{V11} was burned!
+4c713c|{V10} lost\nsome energy!
+4c7154|{V11} was\nbadly poisoned!
+4c7174|{V10}\nis already poisoned.
+4c7188|{V0F} was hurt\nby poison!
+4c71c4|{V11}\nwas poisoned!
+4c71d8|{V0F} is\nfast asleep!
+4c71ec|{V10} is\nalready asleep!
+4c7218|{V11}\nfell asleep!
+4c7228|Hit {V00} time(s)!
+4c723c|{V41} prevents escape\nwith {V13}!\p
+4c725c|You were overwhelmed\nby defeat!
+4c7280|You gave ${V00} to the winner…
+4c729c|You blacked out and lost ${V00}…
+4c72bc|You have no more POKéMON\nthat can fight!\p
+4c72e4|You got ${V00} for winning!\p
+4c7304|{V13}\nfainted!\p
+4c7338|{V10} protected\nitself with {V19}!
+4c7350|{V0F}'s stats won't\ngo any higher!
+4c737c|{V10}\nprotected itself!
+4c7394|{V0F}'s attack\nmissed!
+4c73ac|{V0F} learned\n{V00}!
+4c73c0|{V00} did not learn\n{V01}.\p
+4c73d4|{C0820}Stop learning\n{V01}?
+4c73f0|{V00} forgot\n{V01}.\p
+4c7400|Should another move be forgotten\nand replaced with {V01}?
+4c7434|But {V00} can't learn more\nthan four moves.\p
+4c746c|{V00} is trying to\nlearn {V01}.\p
+4c7488|{V00} learned\n{V01}!{C0A}\p
+4c749c|{V00} grew to\nLv. {V01}!{C0A}\p
+4c74b8|{V00} gained {V34}{V01}\nEXP. Points!\p
+4c74e8|severely fell
+4c74fc|rose drastically
+4c7564|EVASIVENESS
+4c756c|ACCURACY
+4c7578|SP. DEF
+4c7584|SP. ATK
+4c7590|SPEED
+4c759c|DEFENSE
+4c75a4|ATTACK
+4c75ac|HP
+4c75b0|You defeated\n{V1C} {V1D}!\p
+4c75c8|You and {V20}\nbattled to a draw!
+4c75e4|You lost against\n{V20}!
+4c75fc|You defeated\n{V20}!
+4c7620|fell
+4c7628|rose
+4c7630|rose sharply
+4c763c|{V00}'s {V17}\nprevents switching!\p
+4c765c|{V10} is getting\nready to fight!
+4c7680|{V2A} is protected\nby the mist!
+4e9a70|Firm /
+4e9a98|Size /
+4e9cb8|Cheri
+4ea530|it is very sour. Slow to grow.
+4ea554|It is glossy and looks delicious, but
+4ea57c|bitter, no one has eaten it as is.
+4ea59c|Bitter to even look at. It is so
+4ea5c4|inches discovered. Exceedingly sweet.
+4ea5ec|A huge Berry, with some over 20
+4ea60c|It drifts on the sea.
+4ea62c|Nobody is sure where it comes from.
+4ea654|Its warts secrete spicy juice.
+4ea678|The vividly red Berry is very spicy.
+4ea6a4|impossible to taste for three days.
+4ea6c4|Quite sour. Just one bite makes it
+4ea6ec|It is very bitter.
+4ea710|A rare variety covered in fuzz.
+4ea734|a finely balanced flavor.
+4ea754|A Berry that is widely said to have
+4ea774|grow unless planted in quantity.
+4ea798|From an ancient era. It may not
+4ea7bc|mouth on fire. Takes long to grow.
+4ea7e4|It is so spicy that it sets the
+4ea808|the Berry is unimaginably sour.
+4ea820|Despite its tender, round shape,
+4ea840|rarely seen. It is very delicious.
+4ea85c|A Berry that is very valuable and
+4ea87c|locations with constant rainfall.
+4ea8a4|Loves water. Grows strong even in
+4ea8cc|Grows a very large flower.
+4ea8f0|A rare variety shaped like a root.
+4ea914|it always grows six Berries.
+4ea930|However much it is watered,
+4ea950|The fruit is spicy and the skin, sour.
+4ea978|It is weak against wind and cold.
+4ea9a0|has a delicate bitter and sour flavor.
+4ea9cc|The flower is small and white. It
+4ea9f0|in the world. It is very sweet.
+4eaa10|This Berry was the seventh found
+4eaa34|it blackens the mouth when eaten.
+4eaa58|The Berry is blue outside, but
+4eaa7c|It grows quickly in just four hours.
+4eaaa0|The red Berry tastes slightly spicy.
+4eaac4|It takes at least a day to grow.
+4eaae8|The Berry is very big and sour.
+4eab08|for growing without any light.
+4eab2c|The flower is dainty. It is rare
+4eab50|sweeter and tastier.
+4eab70|It turns curvy as it grows, becoming
+4eab98|to help Pokémon grip it.
+4eabbc|It is said to have grown lumpy
+4eabe0|brims with spicy substances.
+4eac08|The Berry, which looks chewed up,
+4eac2c|It has a well-rounded shape.
+4eac50|Closely related to the Oran Berry.
+4eac70|care, it may grow two Berries.
+4eac90|Slow to grow. If raised with loving
+4eacb0|the Berry's color grows more vivid.
+4eacd8|Loves sunlight. If exposed to it,
+4ead00|half a day and has mixed flavors.
+4ead28|A peculiar Berry. It grows in
+4ead4c|The smaller the Berry, the tastier.
+4ead70|Grows slower than other Berries.
+4ead94|It is very juicy and quite sour.
+4eadb8|The hard Berry is dense.
+4eadd4|the Berry seems to grow more bitter.
+4eadfc|If the leaves grow longer and curlier,
+4eae24|Handle with care.
+4eae38|Very sweet, delicious and tender.
+4eae58|It is dry-tasting all over.
+4eae6c|Its skin and fruit are very tough.
+4eae90|The bright red Berry is very spicy.
+4eaeb8|Blooms with delicate pretty flowers.
+5b5af8|\n- Slower progression of rival\n   IVs/EVs.\n- Inefficient use of items, Abilities\n   and moves.
+5b5b78|\n- Weaker [PK][MN] and/or -1 [PK][MN].\n- Basic battle AI.\n- Shift mode on.\n- Medicine use on.
+5b5be4|\n- Normal progression of rival\n   IVs/EVs.\n- Proper use of items, Abilities\n   and moves.
+5b5c60|\n- The usual [PK][MN] teams.\n- Advanced battle AI.\n- Shift mode off.\n- Medicine use on.
+5b5cd0|\n- Stronger [PK][MN] and/or +1 [PK][MN].\n- Advanced battle AI.\n- Shift mode off.\n- Medicine use off.
+5b5d44|{C1344}CLASSIC KANTO:\nA team of the classic-est classics\nsince '96, for nostalgics and fans\nof good old Kanto.
+5b5dc0|{C1346}MY TEAM:\nPick up to 10 POKéMON of your choice.
+5b5df1|   {C1304}ROCKET TIMELINE
+5b5f38|EASY
+5b5f40|HARD
+5b61b8|{C1305}Selected: 10/10 [PK][MN]
+5b61d4|{C1305}Selected: 9/10 [PK][MN]
+5b61f0|{C1305}Selected: 8/10 [PK][MN]
+5b620c|{C1305}Selected: 7/10 [PK][MN]
+5b6228|{C1305}Selected: 6/10 [PK][MN]
+5b6244|{C1305}Selected: 5/10 [PK][MN]
+5b6260|{C1305}Selected: 4/10 [PK][MN]
+5b627c|{C1305}Selected: 3/10 [PK][MN]
+5b6298|{C1305}Selected: 2/10 [PK][MN]
+5b62b4|{C1305}Selected: 1/10 [PK][MN]
+5b62d0|{C1305}Selected: 0/10 [PK][MN]
+5b6388|{C1346}DARK TEAM:\nHow on earth did you get in here?\nEnjoy the team from my first TRE\nrun, still saved on the 3DS I\nplayed it on back in summer '22.
+5b6420|{C1346}WEAK TEAM:\nWant a challenge beyond Hard mode?\nThen this team is perfect for you.\nIt has what many consider to be\nthe worst of the worst.
+5b64c4|{C1344}POPULAR TEAM:\nSince TRE came out in 2021, a few\nPOKéMON have always been more\npopular than others. "Mainstream"\ndoesn't even begin to cover it.
+5b654c|{C1346}RARE TEAM:\nSick of hunting DRATINI in the tall\ngrass? Look no further! This team\nhas the rarest finds in Kanto.
+5b65cc|{C1346}SUN TEAM:\nThe perfect team for strategies\ninvolving sunny weather, or for\nfans of Fire-type POKéMON.
+5b6640|{C1346}RAIN TEAM:\nThe perfect team for strategies\ninvolving rainy weather, or for\nfans of Water-type POKéMON.
+5b66b8|{C1342}ROCKET ADMIN:\nOnly Team Rocket's top veterans\never master such power. There's a\nreason they stand out above all\nthe other grunts.
+5b6750|{C133C}ROCKET SCIENTIST:\nPatience is the mother of science.\nIf you dream of being a Rocket\nscientist, this is the team for you!
+5b67d0|{C1344}ROCKET GRUNT:\nWho says RATTATA and EKANS aren't\ngood POKéMON? Enjoy the classic\nPOKéMON of the rank-and-file grunts!
+5b6858|\n- Faster progression of rival\n   IVs/EVs.\n- Competitive use of items,\n   Abilities and moves.
+5b68d8|- Hard
+5b68f0|- Easy
+5b68f8|{C1337}FEATURES:\n- All TRAINERS up to this point\n   are already defeated.\n- POKéMON obtainable up to this\n   point are in your PC.
+5b6988|- Season 5
+5b6998|- Season 4
+5b69a8|- Season 3
+5b69b8|- Season 2
+5b69c8|Season 5 - Hoenn:\nAfter recent events,\nGiovanni hands you the\nkeys to the Hoenn base.\nSo much power, but so\nmuch responsibility.\nAre you up to the task?
+5b6a6c|Season 4 - DLC:\nThings change, but…\ndo people change?\nUncertain times loom\nover Kanto and Johto,\nwhich is bigger than\nit seems…
+5b6b0c|Season 3 - Johto:\nDoes power have a limit?\nEither way, an answer\nmay never be found.\nMeanwhile, you're off\nto Johto, a region full\nof history and mystery.
+5b6bbc|Season 2 - Archi7:\nYou've overcome a trial\nthat very few can boast\nof having overcome.\nNow you can take a\nwell-earned vacation\nat home: Five Island.
+5b6c64|Season 1 - Kanto:\nStart the adventure from\nthe very beginning. NOTE:\nChoosing this option is\nlike choosing to start\na new game.
+8d0c2b| There's not enough\nspace.
+8d0c98|Deposit how many\n{V02}?
+8d0dc8|{V02} can't be held\nhere.
+8d0f84|Show
+8d0f8c|Check
+8d0fa4|Continue
+8d1084|Booted up an HM.
+8d1094|Booted up a TM.
+8d10a4|Huh?\nThe ITEMFINDER's responding!\pThere's an item buried around here!{C09}
+8d10dc|It contained\n{V02}.\pTeach {V02}\nto a Pokémon?
+8d1130|You can't dismount your BIKE here.{C09}
+8d115c|… … … …Nothing.\nThere's no response.{C09}
+8d1180|Your COINS:\n{V02}{C09}
+8d11a8|{V01} used the\n{V03}.\pWild Pokémon will be lured.{C09}
+8d11d8|{V01} used the\n{V03}.\pWild Pokémon will be repelled.{C09}
+8dcc38|If a [PK][MN] evolves\ntwice: +50% Atk/SpA,\nDef/SpD. +30% Spe.
+8dcc74|Super Eviolite
+8dcc84|Transforms\nGLIMMORA into\nits MEGA form.
+8dccac|Glimmorite
+8dccbc|Transforms\nTATSUGIRI into\nits MEGA form.
+8dcce8|Tatsugirinite
+8dccf4|Transforms\nBAXCALIBUR into\nits MEGA form.
+8dcd20|Baxcalibrite
+8dcd30|Transforms\nSCOVILLAIN into\nits MEGA form.
+8dcd5c|Scovillainite
+8dcd6c|Transforms\nMAGEARNA into\nits MEGA form.
+8dcd94|Magearnite
+8dcda0|Transforms\nGOLISOPOD into\nits MEGA form.
+8dcdcc|Golisopite
+8dcddc|Transforms\nCRABOMINABLE into\nits MEGA form.
+8dce08|Crabominite
+8dce18|Transforms\nMEOWSTIC into\nits MEGA form.
+8dce40|Meowsticite
+8dce4c|Transforms\nGOLURK into\nits MEGA form.
+8dce74|Golurkite
+8dce80|Transforms\nLUCARIO into\nits MEGA Z form.
+8dceac|Lucarionite Z
+8dceb8|Transforms\nGARCHOMP into\nits MEGA Z form.
+8dcee4|Garchompite Z
+8dcef4|Transforms\nSTARAPTOR into\nits MEGA form.
+8dcf20|Staraptite
+8dcf30|Transforms\nABSOL into\nits MEGA Z form.
+8dcf58|Absolite Z
+8dcf64|Transforms\nCHIMECHO into\nits MEGA form.
+8dcf8c|Chimechite
+8dcf98|Transforms\nRAICHU into\nits MEGA Y form.
+8dcfc0|Raichunite Y
+8dcfd0|Transforms\nRAICHU into\nits MEGA X form.
+8dcff8|Raichunite X
+8dd008|Transforms\nZERAORA into\nits MEGA form.
+8dd030|Zeraorite
+8dd03c|Transforms\nDARKRAI into\nits MEGA form.
+8dd064|Darkranite
+8dd070|Transforms\nHEATRAN into\nits MEGA form.
+8dd098|Heatranite
+8dd0a4|Transforms\nPORYGON-Z into its\nMEGA form.
+8dd0d0|Porygonite
+8dd0dc|Jade Orb
+8dd0e8|+30% DEF, SP. ATK\nand SP. DEF. -30% SPE.\nWEEZING/WEEZING-G.
+8dd124|Gas Cond.
+8dd130|Devon Stone
+8dd140|Rocket Stone
+8dd150|Link Stone
+8dd15c|Sacred Stone
+8dd16c|Toxtricitite
+8dd17c|Noivernite
+8dd188|Dusknoirite
+8dd194|Butterfrite
+8dd1a0|Starminite Y
+8dd1b0|Miloticite
+8dd1bc|Flygonite
+8dd404|Boosts the power\nof STEEL-type\nmoves by 20%.
+8dd434|Metal Alloy
+8dd704|A syrupy apple that\nmakes certain\nPOKéMON evolve.
+8dd73c|Syrupy Apple
+8dd74c|A feather to hold.\nIts purity boosts\nFAIRY moves by 20%.
+8dd784|Fairy Feather
+8dd860|Boosts KLEAVOR's\nSP. DEF and SPEED\nby 30%.
+8dd894|Black Augurite
+8ddce0|A prime reserve of\nworldwide value.\nTrade it for $.
+8ddd18|Gimmighoul Coin
+8dddb0|Booster Energy
+8dddc4|Booster Energy
+8dde20|Moves that hit 2 to\n5 times will hit\n4 or 5 times.
+8dde50|Loaded Dice
+8dde60|Loaded Dice
+8dde70|Protects from the\nadditional effects\nof moves.
+8ddeac|Covert Cloak
+8ddebc|+15% to punching\nmoves. Protects\nfrom contact.
+8ddeec|Punching Glove
+8ddf40|The holder's\nAbility can't\nbe ignored.
+8ddf70|Ability Shield
+8ddf84|A beautiful gem with\na bluish shine. It\nsymbolizes honesty.
+8ddfbc|Sapphire
+8ddfc4|A beautiful gem with\na reddish shine. It\nsymbolizes passion.
+8ddffc|Ruby
+8de004|Ruby
+8de00c|Tea brewed by an\nelderly lady.\nIt quenches thirst.
+8de040|Tea
+8de044|Tea
+8de048|A ferry ticket for\nVERMILION and ARCHI7.
+8de070|Rainbow Pass
+8de07c|Rainbow Pass
+8de088|A ferry ticket for\nONE, TWO and\nTHREE ISLAND.
+8de0b8|Tri-Pass
+8de0c4|Tri-Pass
+8de0d0|A SILPH CO. device\nthat reveals unseen\nPOKéMON.
+8de108|Silph Scope
+8de114|Opens the elevator\nin the TEAM ROCKET\nHIDEOUT.
+8de144|Lift Key
+8de154|Opens the doors of\nthe SILPH CO.\nHEAD OFFICE.
+8de180|Card Key
+8de190|The gold teeth lost\nby the SAFARI ZONE\nWARDEN.
+8de1c8|Gold Teeth
+8de1d4|Gold Teeth
+8de1e0|Can be exchanged\nfor a BIKE at the\nBIKE SHOP.
+8de214|Bike Voucher
+8de220|Grants entry to the\nROCKET LEADER's\nOFFICE in HOENN.
+8de258|Hoenn Base Key
+8de264|A strange meteor\nfrom ARCHI7. Its use\nis unknown.
+8de29c|Meteor
+8de2a4|A pass for the elite.\nFull, free access to\nthe SAFARI ZONE.
+8de2e4|Safari Pass
+8de2f0|Safari Pass
+8de2fc|A medal-like item\nidentical to the\nTEAM MAGMA symbol.
+8de348|Lets DEOXYS change\ninto all of its\nForms.
+8de37c|Meteorite
+8de388|Dor Stone
+8de394|Dor Stone
+8de3b0|Grants entry to the\nLIGHTHOUSE of a\nlong-lost place.
+8de3e0|Lighthouse Key
+8de3ec|The key to the\nABANDONED SHIP's\nSTORAGE.
+8de418|Storage Key
+8de428|Lets you cross\nstrong currents\nwith no effort.
+8de45c|Current Crosser
+8de46c|The JOHTO BASE key.\nIt opens the\nLEADER's room.
+8de4a0|Office Key
+8de4ac|A device made by\nDEVON that reveals\nunseen POKéMON.
+8de4e4|Devon Scope
+8de4f4|Clever goggles that\nprotect the eyes\nfrom desert sand.
+8de52c|Go-Goggles
+8de53c|Go-Goggles
+8de54c|A package holding\nall the parts of a\nDEVON machine.
+8de584|Devon Goods
+8de594|Devon Goods
+8de5a4|A letter to STEVEN\nfrom the PRESIDENT\nof DEVON CORP.
+8de5d4|Letter
+8de5dc|A faded sea chart\nthat shows the way\nto a certain island.
+8de614|Old Sea Map
+8de620|A ticket needed to\nsail to BIRTH\nISLAND.
+8de664|A ticket needed to\ntravel to a far-off\nsouthern island.
+8de6a0|Eon Ticket
+8de6ac|A card that lets you\nattend the meeting\nin GOLDENROD CITY.
+8de6e8|Elite Pass
+8de6f4|The ticket required\nfor boarding.
+8de724|A TV set tuned to\nhelpful hints for\nTRAINERS.
+8de758|Teachy TV
+8de764|Refreshes your\nmemory about things\nand people.
+8de790|Fame Checker
+8de798|Awakens sleeping\nPOKéMON.\nIt has a lovely tone.
+8de7c8|Poké Flute
+8de7d4|A sack used to\ncollect and store\nvolcanic ash.
+8de80c|Soot Sack
+8de894|A tool used for\nwatering BERRIES\nand plants.
+8de8c0|Wailmer Pail
+8de900|Powder Jar
+8de90c|A case that holds\nup to 9,999\nCOINS.
+8de938|Coin Case
+8de984|A handy little\npouch for carrying\nBERRIES.
+8de9b0|Berry Pouch
+8de9bc|Berry Pouch
+8de9c8|A case that holds\nTMs and HMs.\nVery handy.
+8de9f4|TM Case
+8de9fc|Records the power\nof unique PKMN.\nwhen battled.
+8dea40|Can be viewed at\nany time. Shows\nyour location.
+8dea78|Town Map
+8dea80|A device that\ndetects hidden\nitems.
+8deaa8|Itemfinder
+8deab4|The best rod for\ncatching wild\nPOKéMON.
+8deae4|Super Rod
+8deaf0|A good rod for\ncatching wild\nPOKéMON.
+8deb20|Good Rod
+8deb2c|Fish for wild\nPOKéMON in any\nbody of water.
+8deb5c|Old Rod
+8deb68|A folding bike made\nfor jumps, wheelies\nand spins.
+8deba4|Acro Bike
+8debb4|A folding bike that\ngoes twice as fast\nas walking.
+8debf4|Mach Bike
+8dec04|A folding bike\nfaster than the\nRUNNING SHOES.
+8dec34|Bicycle
+8dec88|A strange ring\nthat activates\nZ-Moves.
+8decb4|Z-Power Ring
+8decc0|Lets [PK][MN]\nactivate their\nMega Stones.
+8dece8|Mega Ring
+8ded20|Reins of Unity
+8ded30|Reins of Unity
+8dee78|DNA Splicers
+8dee84|DNA Splicers
+8deec8|Reveal Glass
+8deed8|Reveal Glass
+8defa8|Exp. Charm
+8deff0|Catching Charm
+8df000|A charm typical of\nECRUTEAK CITY.
+8df020|Ecruteak Charm
+8df030|A lost item of\ngreat value.\nWhose could it be?
+8df060|Oval Charm
+8df098|HM08
+8df0a0|Charges with enough\nmomentum to climb\na waterfall.
+8df0d4|HM07
+8df0dc|A rock-crushing\nattack that may\nlower DEFENSE.
+8df10c|HM06
+8df114|A bright flash\nthat absorbs 75%\nof damage dealt.
+8df144|HM05
+8df14c|Builds up enormous\npower, then slams\nthe foe.
+8df180|HM04
+8df188|Creates a huge\nwave, then crashes\nit down on the foe.
+8df1bc|HM03
+8df1c4|Flies up, then\nstrikes. Takes just one turn.
+8df1ec|HM02
+8df1f4|Cuts with fine\nblades, sharp\nclaws, etc.
+8df228|HM01
+8df230|A sacred sword.\nDamage depends on\nthe foe's Defense.
+8df26c|Tunes up its\nmachinery.\n+2 Spe, +1 Atk.
+8df2a0|Does more damage\nthe bigger the\nSpeed difference.
+8df2d8|The attack's\ntype varies\nwith the location.
+8df308|Stores damage for\n2 turns, then\nreturns it x2.
+8df340|A fiery kick.\n10% burn chance,\n+1 crit ratio.
+8df37c|Shoots mud at the\nfoe, lowering\nits Speed.
+8df3b4|Slams the foe with\na tail, vines or\ntentacles.
+8df3f4|Changes the\ntarget's Ability\nto Simple.
+8df42c|Does more damage\nthe more HP the\nuser has.
+8df468|Does more damage\nthe more HP the\nuser has.
+8df4a4|Clamps down hard.\n+1 crit ratio.
+8df4d4|Hits like a\nmeteor. 20% chance\nto raise Attack.
+8df50c|Dirty water that\nmay (30%) lower\naccuracy.
+8df544|A brutal attack\nthat hits\ntwice.
+8df570|+2 Attack,\nDefense and Speed.\n-1 Def and Sp. Def.
+8df5a8|A complex hold\nthat always lands\na critical hit.
+8df5dc|Slashes with a\nsharp leaf.\n+1 crit ratio.
+8df614|Silvery specks.\n10% chance to\nraise all stats.
+8df654|A wild attack.\nLowers Attack\nand Defense.
+8df68c|Clears away traps\nand raises\nSpeed.
+8df6bc|An icy hammer blow.\nLowers the user's\nSpeed by 1.
+8df6f8|Waves a net that\nlowers the foes'\nSpeed by 1.
+8df730|Wraps its body\nin cotton.\n+3 Defense.
+8df768|Absorbs half\nthe damage\ndealt.
+8df798|Coils up to raise\nAtk, Def and\nAccuracy by 1.
+8df7cc|A defense order\nthat raises both\ndefenses by 1.
+8df804|An attack order\nwith a +1\ncrit ratio.
+8df838|A fearless charge.\nTakes 33% of the\ndamage dealt.
+8df870|A hard punch at\nblinding speed.\n+1 priority.
+8df8a4|Creates a healing\nveil of water.\n6.25% each turn.
+8df8dc|A forceful\nrising uppercut.
+8df908|Hits with spiny\narms. 30%\nflinch chance.
+8df940|Turns its body\nliquid to sharply\nraise Defense.
+8df97c|Puts down roots\nto restore HP.\n6.25% each turn.
+8df9b4|Sharp, poisonous\nfangs. 50%\npoison chance.
+8df9ec|Turn 1: bounces.\nTurn 2: strikes.\n30% paralysis.
+8dfa24|Clears all the\ndebris and traps\nfrom the field.
+8dfa58|A quick punch\nwith +1\npriority.
+8dfa88|Endures attacks\nfor a turn with\nat least 1 HP.
+8dfac0|A repulsive attack.\n10% chance to\nraise all stats.
+8dfb00|The user\nlevitates using\nelectromagnetism.
+8dfb34|Mystic energy\nthat raises both\ndefenses.
+8dfb68|Strikes after\ntwo turns.
+8dfb90|Deals damage\nbased on the\nuser's Defense.
+8dfbc8|An ancient attack.\n10% chance to\nraise all stats.
+8dfc08|Squirts water\nto attack.
+8dfc34|Relaxes the body\nto sharply raise\nSpeed.
+8dfc70|Hurls mud in the\nfoe's face to\nlower accuracy.
+8dfca8|A reckless hit\nwith 25%\nrecoil damage.
+8dfce0|A risky attack\nwith 33%\nrecoil damage.
+8dfd18|Hurts the foe\nusing brute\nstrength.
+8dfd48|Turn 1: braces and\nraises Defense.\nTurn 2: headbutts.
+8dfd88|An extremely\npowerful kick.
+8dfdac|Does more damage\nthe heavier the\nfoe is.
+8dfde4|Scatters spikes\nthat poison PKMN\nswitching in.
+8dfe20|A storm of leaves\nthat sharply cuts\nSp. Atk.
+8dfe58|Raises Sp. Def\nand doubles the\nnext shock's power.
+8dfe98|Attacks over 2\nturns. Raises\nSp. Atk first.
+8dfed4|Fires 2 to 5\nscales.\n+Spe, -Def.
+8dff04|Knocks away\nthe foe's\nheld item.
+8dff34|A strange leaf\nthat can't be\nevaded.
+8dff68|A sleeping foe\nloses 1/4 of its\nHP every turn.
+8dffa4|The user gets\nfired up to raise\nboth attacks.
+8dffd8|Turn 1: charges.\nTurn 2: attacks.
+8e0004|Bites with psychic\nfangs. Destroys\nbarriers.
+8e0044|Bombards the\nfoe with a\nhuge seed.
+8e0078|The foe repeats\nits last move\n2 to 6 times.
+8e00b4|Sharply raises\nthe user's\nDefense.
+8e00e4|Scatters spikes\nthat hurt on entry.\nNot vs. Flying.
+8e0120|Vanishes on\nthe 1st turn,\nthen strikes.
+8e0154|A reckless\nall-out attack.\nLowers defenses.
+8e0184|More damage\nthe lower the\nuser's HP.
+8e01b8|Attacks with rays\nof light that\nsparkle like gems.
+8e01e8|While asleep,\nuses a random\nmove.
+8e0218|Flees from\nbattle\ninstantly.
+8e0240|Keeps the\nfoe trapped.
+8e0264|Hits twice\nwith its\nwings.
+8e028c|A chilling attack\nthat lowers\nSpeed.
+8e02bc|Switches out\nafter it\nattacks.
+8e02f0|Forgets something\nto sharply raise\nSP. DEF.
+8e0324|Its power doubles\non Psychic\nTerrain.
+8e0358|Its power doubles\non Electric\nTerrain.
+8e038c|Glides and strikes.\nPriority on\nGrassy Terrain.
+8e03c4|A fiery breath\nthat may (10%)\nburn the foe.
+8e03f8|A meteor shower.\nSharply lowers\nSp. Atk.
+8e042c|A drilling attack.\n50% recoil\ndamage.
+8e0490|Sprays a melting\nacid. Sharply\nlowers Sp. Def.
+8e04cc|Hits 2 to 5\ntimes in\na row.
+8e04f8|The attacker\ncan't move for\none turn.
+8e0524|Double damage if\nthe foe is\npoisoned.
+8e0558|A polar blizzard.\nLowers the user's\nDefense and Sp. Def.
+8e0590|Psychic blades.\n+1 crit ratio.
+8e05c4|Magical fire.\nAlways lowers the\nfoe's Sp. Atk.
+8e05fc|Hits 2 to 5\ntimes in\na row.
+8e0628|A full-body attack.\n30% paralysis.
+8e0654|A powerful electric\ncannon blast.\nAlways paralyzes.
+8e068c|Hits sleeping\nfoes. Absorbs 50%\nof damage dealt.
+8e06c8|Restores half\nof the user's\nmax HP.
+8e06fc|Absorbs 75%\nof the damage\ndealt.
+8e072c|+20 power for\neach stat stage\nraised.
+8e0768|Hits 2 to 5\ntimes in\na row.
+8e0794|Absorbs half\nthe damage\ndealt.
+8e07c4|Swaps its item\nwith the foe's.
+8e07f0|A flashing bolt.\n50% recoil\ndamage.
+8e0824|Uses the foe's\nitem against\nit.
+8e0854|Hurls scorching\nsand.\n30% burn chance.
+8e0884|Slams into the\nfoe with its\nwhole body.
+8e08b4|Always cuts the\nfoe's HP\nin half.
+8e08e8|Its type and\npower change\nwith the weather.
+8e091c|Waves made by\npunches that\nalways strike first.
+8e0954|+Atk, +Def, -Spe.\nDifferent effect\nfor Ghost types.
+8e0990|More damage the\nheavier the user\nis than the foe.
+8e09d0|Thinks bad thoughts\nto sharply raise\nSp. Atk.
+8e0a10|A great eruption\nthat may (10%)\nlower foe's Sp. Def.
+8e0a50|Fires 3 kinds of\nbeams. 20% brn,\nprlz or frz.
+8e0a8c|A tail strike.\n10% poison chance.\n+1 crit ratio.
+8e0ac8|A devastating\nattack. Lowers user's\nAttack and Defense.
+8e0b04|Traps the foe in\nan electric net.\nLowers Speed.
+8e0b40|A fiery bite.\n10% flinch.\n10% burn.
+8e0b78|An icy bite.\n10% flinch.\n10% freeze.
+8e0bb0|An electric bite.\n10% flinch.\n10% paralysis.
+8e0c1c|Sharply lowers\nthe foe's\nSP. DEF.
+8e0c50|Deals damage and\ngoes through\nsubstitutes.
+8e0c7c|More damage the\nheavier the user\nis than the foe.
+8e0cbc|Covers the field in\nmist for 5 turns.\nPrevents status.
+8e0cf8|Creates a weird\nfield for 5 turns.\nBlocks priority.
+8e0d3c|Creates a grassy\nfield for 5 turns.\nRestores HP.
+8e0d78|Electrifies the\nfield for 5 turns.\nPrevents sleep.
+8e0db4|A big headbutt.\n30% chance to\nmake the foe flinch.
+8e0df0|Hurls garbage\nat the foe.\n30% poison chance.
+8e0e24|Whips up a\nturbulent wind\nthat raises Speed.
+8e0e60|A sphere filled\nwith aura that\ncan't be evaded.
+8e0e98|A psychic wave of\nvarying\nintensity.
+8e0ed4|Turn 1: finds a\nweak spot.\nTurn 2: goes for it.
+8e0f08|A fiery punch.\n10% burn chance.
+8e0f30|An electric punch.\n10% paralysis.
+8e0f5c|An icy punch.\n10% freeze chance.
+8e0f84|A hard punch that\nraises the user's\nAttack.
+8e0fbc|Yells at the foe\nto lower its\nSp. Atk.
+8e0fe8|Harasses the foe,\nattacking for 2\nto 5 turns.
+8e1020|Weakens attacks.\nOnly works\nin hail.
+8e105c|Strikes with a\nprecise horn that\nnever misses.
+8e1094|A violent move\nthat hits all\naround the user.
+8e10d4|Hurts foes with\na beam of\nbrilliant light.
+8e1110|Creates a shock\nwave to hurt\nthe foe.
+8e1144|TM99
+8e114c|Absorbs half the\ndamage dealt.
+8e1174|TM98
+8e117c|Double damage to\na foe at half\nits HP or less.
+8e11b0|TM97
+8e11b8|An attack that\ngains power if\nthe foe hurts you.
+8e11e8|TM96
+8e11f0|Scatters rocks that\nhurt foes when\nthey switch in.
+8e1224|TM95
+8e122c|Slower Pokémon\nmove first for\n5 turns.
+8e125c|TM94
+8e1264|Fires a shining\nblast. 10% chance\nto lower Sp. Def.
+8e1298|TM93
+8e12a0|Creates a decoy\nusing 1/4 of\nyour max HP.
+8e12cc|TM92
+8e12d4|Deals damage, then\nswitches with\nanother Pokémon.
+8e1304|TM91
+8e130c|Eats the foe's\nBerry and gains\nits effect.
+8e1340|TM90
+8e1348|Causes confusion,\nbut also raises\nAttack.
+8e1378|TM89
+8e1380|A lasso that does\nmore damage to\nheavier foes.
+8e13b4|TM88
+8e13bc|A stabbing attack\nwith a 30% chance\nto poison the foe.
+8e13f0|TM87
+8e13f8|Throws the foe\nand ends the\nbattle.
+8e1420|TM86
+8e1428|Hurls big\nboulders. 30%\nflinch chance.
+8e145c|TM85
+8e1464|This attack always\nlands a critical\nhit.
+8e1490|TM84
+8e1498|Stomps the ground\nhard. Lowers\nSpeed.
+8e14c8|TM83
+8e14d0|Attacks while\nresisting the foe.\nLowers Sp. Atk.
+8e1500|TM82
+8e1508|A dance that\nboosts Attack.
+8e1524|TM81
+8e152c|A fast spin that\ndoes more damage\nto faster foes.
+8e1564|TM80
+8e156c|A jolt that may\nparalyze the\nfoe.
+8e159c|TM79
+8e15a4|Deals damage, then\nswitches with\nanother Pokémon.
+8e15d4|TM78
+8e15dc|Polishes the body\nto sharply raise\nSpeed.
+8e160c|TM77
+8e1614|Double damage if\nan ally fainted\nin battle.
+8e1648|TM76
+8e1650|Doubles in power\nif the user moves\nlast this turn.
+8e168c|TM75
+8e1694|Slashes with a\nshadowy claw.\n+1 crit ratio.
+8e16c4|TM74
+8e16cc|Deals huge damage,\nbut the user faints.
+8e16f0|TM73
+8e16f8|Intense fire that\ncauses\nburns.
+8e1724|TM72
+8e172c|Carries the foe\ninto the air until\nthe next turn.
+8e1764|TM71
+8e176c|An electric bolt\nwith a 70% chance\nto raise Sp. Atk.
+8e17a0|TM70
+8e17a8|Shoots boiling\nwater at the foe.\n30% burn chance.
+8e17dc|TM69
+8e17e4|Leaves the foe\nwith at least\n1 HP.
+8e1808|TM68
+8e1810|Attacks with the\npower of nature.\n10% lower Sp. Def.
+8e1840|TM67
+8e1848|Does more damage\nevery turn it\nis used.
+8e1870|TM66
+8e1878|Strikes the legs\nto lower the\nfoe's Speed.
+8e18a4|TM65
+8e18ac|Attacks cloaked\nin flames. Raises\nSpeed.
+8e18dc|TM64
+8e18e4|Floods the foe\nwith a wave.\n10% poison chance.
+8e1918|TM63
+8e1920|Throws a rock that\nknocks the foe\nto the ground.
+8e1950|TM62
+8e1958|Restores up to\nhalf of the\nuser's max HP.
+8e1988|TM61
+8e1990|A psychic wave\nthat deals\nphysical damage.
+8e19c4|TM60
+8e19cc|Sharpens its claws\nto raise Attack\nand Accuracy.
+8e19fc|TM59
+8e1a04|Slashes the foe\nwith blades,\nscythes, etc.
+8e1a34|TM58
+8e1a3c|A slash that may\n(10%) poison.\n+1 crit ratio.
+8e1a70|TM57
+8e1a78|Stabs with many\nstones.\n+1 crit ratio.
+8e1aa8|TM56
+8e1ab0|An electric charge\nthat also hurts\nthe user (25%).
+8e1ae8|TM55
+8e1af0|Attacks with a\ndark aura. May\ncause flinching.
+8e1b24|TM54
+8e1b2c|Powerful, but it\nneeds 1 turn\nto recharge.
+8e1b60|TM53
+8e1b68|Double damage if\nthe user isn't\nholding an item.
+8e1b9c|TM52
+8e1ba4|An all-out attack.\nMay lower\nSp. Def.
+8e1bd8|TM51
+8e1be0|Attacks at full\npower, but sharply\nlowers SP. ATK.
+8e1c18|TM50
+8e1c20|Steals the effect\nof the move the\nfoe tries to use.
+8e1c58|TM49
+8e1c60|Swaps Abilities\nwith the target\nfor 1 turn.
+8e1c94|TM48
+8e1c9c|Strikes the foe\nwith stiff,\nbeating wings.
+8e1ccc|TM47
+8e1cd4|An attack that may\nknock off the\nfoe's held item.
+8e1d0c|TM46
+8e1d14|Makes it hard for\na foe of the other\ngender to attack.
+8e1d44|TM45
+8e1d4c|The POKéMON sleeps\nfor 2 turns to heal\nHP and status.
+8e1d88|TM44
+8e1d90|Has different\neffects depending\non the area.
+8e1db8|TM43
+8e1dc0|Raises ATTACK when\nburned, paralyzed\nor poisoned.
+8e1df4|TM42
+8e1dfc|Stops the foe from\nusing a move\ntwice in a row.
+8e1e34|TM41
+8e1e3c|An incredibly\nfast attack that\ncan't be evaded.
+8e1e68|TM40
+8e1e70|Traps the foe with\nrocks. May lower\nSPEED.
+8e1eac|TM39
+8e1eb4|A powerful fire\nattack that may\nburn the foe.
+8e1ee8|TM38
+8e1ef0|A sandstorm that\nlasts for several\nturns.
+8e1f1c|TM37
+8e1f24|A blast of sludge\nthat may\npoison the foe.
+8e1f54|TM36
+8e1f5c|Shoots a jet of\nfire that may\ncause burns.
+8e1f94|TM35
+8e1f9c|A fast electric\nattack that\ncan't be evaded.
+8e1fd0|TM34
+8e1fd8|A wall of light\nthat weakens\nphysical attacks.
+8e2004|TM33
+8e200c|Creates illusions\nto raise\nEVASIVENESS.
+8e2034|TM32
+8e203c|Destroys barriers\nlike LIGHT SCREEN\nand deals damage.
+8e2070|TM31
+8e2078|Hurls a black ball\nthat may lower\nSP. DEF.
+8e20ac|TM30
+8e20b4|A strong psychic\nattack that may\nlower SP. DEF.
+8e20ec|TM29
+8e2118|TM28
+8e2120|The more the\nPOKéMON likes you,\nthe harder it hits.
+8e2154|TM27
+8e215c|Causes a quake\nthat doesn't affect\nFlying types.
+8e2190|TM26
+8e2198|Attacks with a\nbolt that may\nparalyze the foe.
+8e21c8|TM25
+8e21d0|A strong electric\nattack that may\nparalyze the foe.
+8e2208|TM24
+8e2210|Slams with a huge\ntail. May lower\nDEFENSE.
+8e2248|TM23
+8e2278|TM22
+8e2280|The less the\nPOKéMON likes you,\nthe harder it hits.
+8e22b8|TM21
+8e22c0|Uses a secret power\nto prevent status\nconditions.
+8e22f8|TM20
+8e2300|Restores HP by\nhalf of the damage\nit deals.
+8e2330|TM19
+8e2338|Powers up WATER-\ntype moves for\n5 turns.
+8e2368|TM18
+8e2370|Negates damage,\nbut may fail if\nused repeatedly.
+8e23a8|TM17
+8e23b0|A wall of light\nthat cuts SP. ATK\ndamage.
+8e23e0|TM16
+8e23e8|Powerful, but it\nneeds 1 turn\nto recharge.
+8e241c|TM15
+8e2424|A storm of wind\nand snow that\nmay freeze.
+8e245c|TM14
+8e2464|An icy beam\nthat may\nfreeze the foe.
+8e2490|TM13
+8e2498|Angers the foe so\nit can only use\nATTACKS.
+8e24c4|TM12
+8e24cc|Powers up FIRE-\ntype moves for\n5 turns.
+8e2500|TM11
+8e2508|The attack's power\nvaries by\nPOKéMON.
+8e2538|TM10
+8e2540|Fires 2 to 5\nbursts of seeds\nin a row.
+8e2570|TM09
+8e2578|Tenses the body\nto raise ATTACK\nand DEFENSE.
+8e25ac|TM08
+8e25b4|A damaging hail-\nstorm that spares\nICE types.
+8e25ec|TM07
+8e25f4|Poisons with a\ntoxin that keeps\ngetting worse.
+8e2628|TM06
+8e2630|A mighty roar\nthat scares the\nfoe out of battle.
+8e2664|TM05
+8e266c|Concentrates to\nraise SP. ATK\nand SP. DEF.
+8e26a0|TM04
+8e26a8|Emits ultrasonic\nwaves that may\nconfuse.
+8e26d8|TM03
+8e26e0|Hooks and slashes\nthe foe with\nsharp claws.
+8e2710|TM02
+8e2718|Powerful, but it\nhurts the user if\nthe foe hits it.
+8e2754|TM01
+8e27b8|If hit by a special\nmove, it also\nraises Sp. Def.
+8e27ec|Maranga Berries
+8e27fc|Maranga Berry
+8e280c|If hit by a physical\nmove, it also\nraises Defense.
+8e2840|Kee Berries
+8e2850|Kee Berry
+8e285c|If hit by a special\nmove, it also hurts\nthe attacker.
+8e2890|Berserk Gene
+8e289c|Berserk Gene
+8e28a8|If hit by a physical\nmove, it also hurts\nthe attacker.
+8e28dc|Jaboca Berries
+8e28ec|Jaboca Berry
+8e28f8|Gives the PKMN\npriority when its\nHP is below 25%.
+8e2928|Custap Berries
+8e2934|Custap Berry
+8e2940|Raises accuracy\nwhen HP drops\nbelow 25%.
+8e2978|Micle Berries
+8e2984|Micle Berry
+8e29e4|When held, it\nraises a stat\nin a pinch.
+8e2a1c|Starf Berries
+8e2a2c|Starf Berry
+8e2a38|When held, it raises\nthe chance of\na critical hit.
+8e2a74|Lansat Berries
+8e2a84|Lansat Berry
+8e2a90|When held, it\nraises SP. DEF\nin a pinch.
+8e2acc|Apicot Berries
+8e2adc|Apicot Berry
+8e2ae8|When held, it\nraises SP. ATK\nin a pinch.
+8e2b20|Petaya Berries
+8e2b30|Petaya Berry
+8e2b3c|When held, it\nraises SPEED\nin a pinch.
+8e2b78|Salac Berries
+8e2b84|Salac Berry
+8e2b90|When held, it\nraises DEFENSE\nin a pinch.
+8e2bc8|Ganlon Berries
+8e2bd8|Ganlon Berry
+8e2be4|When held, it\nraises ATTACK\nin a pinch.
+8e2c1c|Liechi Berries
+8e2c28|Liechi Berry
+8e38d0|When held, it\nrestores 1/4 HP\nin battle.
+8e3918|When held, it\ncures status\nproblems.
+8e3960|When held, it\nsnaps the holder\nout of confusion.
+8e39ac|When held, it\nrestores 10 HP\nin battle.
+8e39f8|When held, it\nrestores 10 PP\nin battle.
+8e3a44|When held, it\nthaws the holder\nin battle.
+8e3a8c|When held, it\nheals a burn\nin battle.
+8e3ad4|When held, it\ncures poison\nin battle.
+8e3b20|When held, it\nwakes the holder\nin battle.
+8e3b68|When held, it\ncures paralysis\nin battle.
+8e3bb0|Ignores the effects\nof rain and sun\nweather.
+8e3be0|Utility Umbrella
+8e3bf0|Lowers the user's\nSPEED by 1 in\nTRICK ROOM.
+8e3c28|Room Service
+8e3c38|Sharply raises the\nuser's SPEED if\nit misses.
+8e3c70|Blunder Policy
+8e3c80|Blunder Policy
+8e3c90|Protects the user\nfrom traps on\nthe field.
+8e3cc0|Heavy-Duty Boots
+8e3cd0|Heavy-Duty Boots
+8e3ce0|Switches out when\na stat is lowered.
+8e3d08|Eject Pack
+8e3d14|Raises SP. ATK by 1\nwhen a sound move\nis used.
+8e3d4c|Throat Spray
+8e3d58|Protects the user\nfrom damage from\ncontact moves.
+8e3d90|Protective Pads
+8e3da0|Protective Pads
+8e3db0|Extends the active\nterrain to\n8 turns.
+8e3de4|Terrain Extender
+8e3df0|Raises SPEED if\nintimidated.\nSingle use.
+8e3e24|Adrenaline Orb
+8e3e30|Protects from\nweather damage and\npowder moves.
+8e3e68|Safety Goggles
+8e3e78|Safety Goggles
+8e3e88|Raises SP. DEF by\n50%, but only\nallows attacks.
+8e3ec0|Assault Vest
+8e3ecc|Sharply raises ATK\nand SP. ATK if hit\nsuper effectively.
+8e3f00|Weakness Policy
+8e3f10|Weakness Policy
+8e3f20|Returns the user\nto its BALL if\nit's hit.
+8e3f4c|Eject Button
+8e3f5c|Doubles the residual\ndamage of\ntrapping moves.
+8e3f90|Binding Band
+8e3fa0|The holder loses\nall its type-based\nimmunities.
+8e3fd4|Ring Target
+8e3fdc|Randomly switches\nout the foe if it\nhits the user.
+8e400c|Red Card
+8e401c|Grants immunity to\nGROUND moves. Pops\nwhen hit.
+8e4054|Air Balloon
+8e4060|Takes 1/6 HP from\nthe foe if it uses\na contact move.
+8e4098|Rocky Helmet
+8e40a8|Halves the weight\nand raises SPEED\nby 25%.
+8e40e4|Float Stone
+8e40f4|Raises the defenses\nof a [PK][MN] that\ncan evolve by 50%.
+8e412c|Eviolite
+8e413c|Razor Fang
+8e4148|Boosts WEAVILE's\nATTACK and DEFENSE\nby 30%.
+8e417c|Razor Claw
+8e418c|HP-draining moves\nrestore 30% more\nthan usual.
+8e41c4|Big Root
+8e41d0|Always lets the\nPOKéMON switch out\nin battle.
+8e4200|Shed Shell
+8e420c|Takes 1/8 of the\nuser's HP every\nturn.
+8e4234|Sticky Barb
+8e4244|Extends trapping\nmoves to\n7 turns.
+8e4278|Grip Claw
+8e4288|Heals POISON types\n1/16 HP per turn.\nHurts others.
+8e42bc|Black Sludge
+8e42c8|Black Sludge
+8e42d4|If the holder falls\nin love, so does\nthe foe.
+8e4304|Destiny Knot
+8e4314|Lagging Tail
+8e4324|-50% SPEED.\nBoosts DEFENSE\nby 35%.
+8e4354|Iron Ball
+8e4360|+20% each turn a\nmove is used\nin a row.
+8e4398|Metronome
+8e43a4|If the user moves\nlast, raises its\naccuracy by 20%.
+8e43e0|Zoom Lens
+8e43ec|Zoom Lens
+8e43f8|If the user has\nfull HP, it can't\nbe knocked out.
+8e4434|Focus Sash
+8e4440|Focus Sash
+8e444c|Lets moves that\nneed charging be\nused in one turn.
+8e4484|Power Herb
+8e4494|Boosts all damage\nby 30%. Costs 10%\nHP per attack.
+8e44d0|Life Orb
+8e44dc|Extends L. SCREEN,\nREFLECT and A. VEIL\nto 8 turns.
+8e451c|Light Clay
+8e4528|Light Clay
+8e4534|Boosts the power of\nsuper effective\nmoves by 20%.
+8e456c|Expert Belt
+8e457c|Boosts the power\nof special attacks\nby 10%.
+8e45a8|Wise Glasses
+8e45b8|Wise Glasses
+8e45c8|Boosts the power\nof physical attacks\nby 10%.
+8e45f4|Muscle Band
+8e4604|Lenses that raise\naccuracy by\n10%.
+8e4630|Wide Lens
+8e4638|Wide Lens
+8e4640|When held, it\nrestores HP upon\ndefeating a foe.
+8e4674|Shell Bell
+8e4680|When held, they\ngradually restore\nHP in battle.
+8e46bc|Leftovers
+8e46c4|Leftovers
+8e46cc|When held, it raises\nthe chance of a\ncritical hit.
+8e4704|Scope Lens
+8e4710|Scope Lens
+8e471c|When held, you earn\nmany more EXP.\nPoints in battle.
+8e4758|Lucky Egg
+8e4768|When held, it may\nprevent fainting.
+8e4790|Focus Band
+8e479c|Used to escape\nfrom battles with\nwild POKéMON.
+8e47d4|Smoke Ball
+8e47e0|Cleanse Tag
+8e47e8|Amulet Coin
+8e47f4|King's Rock
+8e4804|When held, it snaps\nPOKéMON out of\ninfatuation.
+8e483c|Mental Herb
+8e484c|When held, it calms\nspirits and fosters\nfriendship.
+8e4880|Soothe Bell
+8e488c|When held, it may\nlet the holder\nstrike first.
+8e48bc|Quick Claw
+8e48cc|When held, the\nholder gets EXP.\nPoints from battles.
+8e4900|Exp. Share
+8e4910|When held, it\nrestores lowered\nstats.
+8e4948|White Herb
+8e2c34|Held by a PKMN, it\nweakens a foe's\nFAIRY-type move.
+8e2c70|Roseli Berries
+8e2c80|Roseli Berry
+8e2c8c|Held by a PKMN, it\nweakens a foe's\nSTEEL-type move.
+8e2cc8|Babiri Berries
+8e2cd8|Babiri Berry
+8e2ce4|Held by a PKMN, it\nweakens a foe's\nDARK-type move.
+8e2d20|Colbur Berries
+8e2d2c|Colbur Berry
+8e2d38|Held by a PKMN, it\nweakens a foe's\nDRAGON-type move.
+8e2d74|Haban Berries
+8e2d84|Haban Berry
+8e2d90|Held by a PKMN, it\nweakens a foe's\nGHOST-type move.
+8e2dd0|Kasib Berries
+8e2ddc|Kasib Berry
+8e2de8|Held by a PKMN, it\nweakens a foe's\nROCK-type move.
+8e2e24|Charti Berries
+8e2e30|Charti Berry
+8e2e3c|Held by a PKMN, it\nweakens a foe's\nBUG-type move.
+8e2e78|Tanga Berries
+8e2e88|Tanga Berry
+8e2e94|Held by a PKMN, it\nweakens a foe's\nPSYCHIC-type move.
+8e2ed4|Payapa Berries
+8e2ee4|Payapa Berry
+8e2ef0|Held by a PKMN, it\nweakens a foe's\nFLYING-type move.
+8e2f2c|Coba Berries
+8e2f38|Coba Berry
+8e2f44|Held by a PKMN, it\nweakens a foe's\nGROUND-type move.
+8e2f80|Shuca Berries
+8e2f90|Shuca Berry
+8e2f9c|Held by a PKMN, it\nweakens a foe's\nPOISON-type move.
+8e2fd8|Kebia Berries
+8e2fe4|Kebia Berry
+8e2ff0|Held by a PKMN, it\nweakens a foe's\nFIGHTING-type move.
+8e302c|Chople Berries
+8e303c|Chople Berry
+8e3048|Held by a PKMN, it\nweakens a foe's\nICE-type move.
+8e3084|Yache Berries
+8e3094|Yache Berry
+8e30a0|Held by a PKMN, it\nweakens a foe's\nGRASS-type move.
+8e30dc|Rindo Berries
+8e30e8|Rindo Berry
+8e30f4|Held by a PKMN, it\nweakens a foe's\nELECTRIC-type move.
+8e3130|Wacan Berries
+8e3140|Wacan Berry
+8e314c|Held by a PKMN, it\nweakens a foe's\nWATER-type move.
+8e3188|Passho Berries
+8e3194|Passho Berry
+8e31a0|Held by a PKMN, it\nweakens a foe's\nFIRE-type move.
+8e31dc|Occa Berries
+8e31e8|Occa Berry
+8e31f4|Held by a PKMN, it\nweakens a foe's\nNORMAL-type move.
+8e3230|Chilan Berries
+8e3240|Chilan Berry
+8e3280|Belue Berries
+8e3290|Belue Berry
+8e32d0|Durin Berries
+8e32e0|Durin Berry
+8e3320|Watmel Berries
+8e3330|Watmel Berry
+8e3370|Pamtre Berries
+8e337c|Pamtre Berry
+8e33bc|Spelon Berries
+8e33cc|Spelon Berry
+8e340c|Nomel Berries
+8e3418|Nomel Berry
+8e3458|Rabuta Berries
+8e3468|Rabuta Berry
+8e34a8|Magost Berries
+8e34b8|Magost Berry
+8e34f8|Cornn Berries
+8e3504|Cornn Berry
+8e3540|Tamato Berries
+8e3550|Tamato Berry
+8e358c|Grepa Berries
+8e3598|Grepa Berry
+8e35d4|Hondew Berries
+8e35e4|Hondew Berry
+8e3620|Qualot Berries
+8e3630|Qualot Berry
+8e366c|Kelpsy Berries
+8e367c|Kelpsy Berry
+8e36b4|Pomeg Berries
+8e36c0|Pomeg Berry
+8e3700|Pinap Berries
+8e370c|Pinap Berry
+8e374c|Wepear Berries
+8e375c|Wepear Berry
+8e379c|Nanab Berries
+8e37ac|Nanab Berry
+8e37ec|Bluk Berries
+8e37f8|Bluk Berry
+8e3838|Razz Berries
+8e3848|Razz Berry
+8e3854|Iapapa Berries
+8e3864|Iapapa Berry
+8e3870|Aguav Berries
+8e387c|Aguav Berry
+8e3888|Mago Berries
+8e3894|Mago Berry
+8e38a0|Wiki Berries
+8e38ac|Wiki Berry
+8e38b8|Figy Berries
+8e38c4|Figy Berry
+8e3900|Sitrus Berries
+8e390c|Sitrus Berry
+8e3944|Lum Berries
+8e3954|Lum Berry
+8e3990|Persim Berries
+8e39a0|Persim Berry
+8e39dc|Oran Berries
+8e39ec|Oran Berry
+8e3a28|Leppa Berries
+8e3a38|Leppa Berry
+8e3a70|Aspear Berries
+8e3a80|Aspear Berry
+8e3abc|Rawst Berries
+8e3ac8|Rawst Berry
+8e3b08|Pecha Berries
+8e3b14|Pecha Berry
+8e3b4c|Chesto Berries
+8e3b5c|Chesto Berry
+8e3b98|Cheri Berries
+8e3ba4|Cheri Berry
+8e3510|Makes a POKéMON\nfriendly but\nlowers its SPEED.
+8e355c|Makes a POKéMON\nfriendly but\nlowers its SP. DEF.
+8e35a4|Makes a POKéMON\nfriendly but\nlowers its SP. ATK.
+8e35f0|Makes a POKéMON\nfriendly but\nlowers its DEFENSE.
+8e363c|Makes a POKéMON\nfriendly but\nlowers its ATTACK.
+8e3688|Makes a POKéMON\nfriendly but\nlowers its HP.
+8e4958|When held, it casts\na glare that\nlowers ACCURACY.
+8e4990|Bright Powder
+8e49a0|Bright Powder
+8e49b0|When held, it casts\na glare that\nlowers ACCURACY.
+8e49e8|Bright Powder
+8e49f8|Bright Powder
+8e4a08|Raises ATTACK if\nthe user is hit by\nan ICE-type move.
+8e4a44|Snowball
+8e4a54|Raises SP. DEF if\nthe user is hit by\na WATER-type move.
+8e4a90|Luminous Moss
+8e4a9c|Luminous Moss
+8e4aa8|Raises ATTACK if\nthe user is hit by\nan ELEC.-type move.
+8e4ae0|Cell Battery
+8e4ae8|Cell Battery
+8e4af0|Raises SP. ATK if\nthe user is hit by\na WATER-type move.
+8e4b28|Absorb Bulb
+8e4b34|Raises DEFENSE\non GRASSY TERRAIN.\nSingle use.
+8e4b68|Grassy Seed
+8e4b74|Raises SP. DEF\non MISTY TERRAIN.\nSingle use.
+8e4ba8|Misty Seed
+8e4bb4|Raises SP. DEF\non PSYCHIC TERRAIN.\nSingle use.
+8e4be8|Psychic Seed
+8e4bf4|Raises DEFENSE\non ELECTRIC TERRAIN.\nSingle use.
+8e4c2c|Electric Seed
+8e4c38|Extends cold\nweather to\n8 turns.
+8e4c70|Icy Rock
+8e4c7c|Extends the\nSANDSTORM to\n8 turns.
+8e4cb4|Smooth Rock
+8e4cc0|Extends the\nSUNLIGHT to\n8 turns.
+8e4cf4|Heat Rock
+8e4d00|Extends the\nRAIN to\n8 turns.
+8e4d38|Damp Rock
+8e4d44|A strange orb that\npoisons the holder\nin battle.
+8e4d78|Toxic Orb
+8e4d84|A strange orb that\nburns the holder\nin battle.
+8e4db4|Flame Orb
+8e4dc0|Raises SPEED by\n50%, but allows\nonly one move.
+8e4df8|Choice Scarf
+8e4e04|Choice Scarf
+8e4e10|Raises SP. ATK by\n50%, but allows\nonly one move.
+8e4e48|Choice Specs
+8e4e58|Choice Specs
+8e4e68|Raises ATTACK by\n50%, but allows\nonly one move.
+8e4ea0|Choice Band
+8e4eb0|Boosts ATTACK and\nDEFENSE of SCIZOR\nand STEELIX by 30%.
+8e4eec|Metal Coat
+8e4efc|Boosts the power\nof DARK-type\nmoves by 20%.
+8e4f30|Black Glasses
+8e4f40|Black Glasses
+8e4f50|Boosts the power\nof DRAGON-type\nmoves by 20%.
+8e4f80|Dragon Fang
+8e4f90|Boosts the power\nof GHOST-type\nmoves by 20%.
+8e4fc4|Spell Tag
+8e4fcc|Hard Stone
+8e4fd8|Boosts the power\nof BUG-type\nmoves by 20%.
+8e5008|Silver Powder
+8e5014|Silver Powder
+8e5020|Twisted Spoon
+8e5030|Boosts the power\nof FLYING-type\nmoves by 20%.
+8e5064|Sharp Beak
+8e5074|Boosts the power\nof GROUND-type\nmoves by 20%.
+8e50a4|Soft Sand
+8e50b0|Soft Sand
+8e50bc|Boosts the power\nof POISON-type\nmoves by 20%.
+8e50ec|Poison Barb
+8e50f8|Boosts the power\nof FIGHTING-type\nmoves by 20%.
+8e5128|Black Belt
+8e5134|Boosts the power\nof ICE-type\nmoves by 20%.
+8e5164|Never-Melt Ice
+8e5174|Never-Melt Ice
+8e5184|Miracle Seed
+8e5190|Boosts the power\nof ELECTRIC-type\nmoves by 20%.
+8e51c4|Magnet
+8e51cc|Boosts the power\nof WATER-type\nmoves by 20%.
+8e51fc|Mystic Water
+8e520c|Mystic Water
+8e521c|Boosts the power\nof FIRE-type\nmoves by 20%.
+8e524c|Charcoal
+8e5254|Boosts the power\nof NORMAL-type\nmoves by 20%.
+8e5284|Silk Scarf
+8e5290|Silk Scarf
+8e529c|Gives 4 extra EVs\nin SPEED, but\nlowers SPEED.
+8e52cc|Power Anklet
+8e52dc|Gives 4 extra EVs\nin SP. DEF, but\nlowers SPEED.
+8e530c|Power Band
+8e5318|Gives 4 extra EVs\nin SP. ATK, but\nlowers SPEED.
+8e534c|Power Lens
+8e5358|Power Lens
+8e5364|Gives 4 extra EVs\nin DEFENSE, but\nlowers SPEED.
+8e539c|Power Belt
+8e53a8|Gives 4 extra EVs\nin ATTACK, but\nlowers SPEED.
+8e53dc|Power Bracer
+8e53ec|Gives 4 extra EVs\nin HP, but\nlowers SPEED.
+8e5420|Power Weight
+8e542c|When held, it helps\nthe holder grow fast\nbut lowers SPEED.
+8e5464|Macho Brace
+8e5470|When held in\nCONTESTS, it raises\nTOUGHNESS.
+8e54a0|Yellow Scarf
+8e54b0|Yellow Scarf
+8e54c0|When held in\nCONTESTS, it raises\nCLEVERNESS.
+8e54f0|Green Scarf
+8e54fc|Green Scarf
+8e5508|When held in\nCONTESTS, it raises\nCUTENESS.
+8e5548|Pink Scarf
+8e5554|When held in\nCONTESTS, it raises\nBEAUTY.
+8e5584|Blue Scarf
+8e5590|Blue Scarf
+8e559c|When held in\nCONTESTS, it raises\nCOOLNESS.
+8e55d8|Red Scarf
+8e55e4|Pure Incense
+8e55f0|Luck Incense
+8e55fc|Rose Incense
+8e5608|Wave Incense
+8e5614|Full Incense
+8e5620|Rock Incense
+8e562c|Odd Incense
+8e5638|When held, it\nslightly lowers the\nfoe's ACCURACY.
+8e5668|Lax Incense
+8e5674|Sea Incense
+8e567c|Boosts HO-OH's\nSPEED and DEFENSE\nby 20%.
+8e56b0|Rainbow Wing
+8e56c0|Boosts LUGIA's\nSP. ATK and SP. DEF\nby 20%.
+8e56f0|Silver Wing
+8e5730|Griseous Orb
+8e5770|Lustrous Orb
+8e57b0|Adamant Orb
+8e57bc|When held, raises\nthe SP. ATK and SP. DEF\nof LATIOS and LATIAS.
+8e57fc|Soul Dew
+8e580c|Boosts HUNTAIL's\nATTACK and SPEED\nby 30%.
+8e583c|Deep Sea Tooth
+8e5848|Deep Sea Tooth
+8e5854|Boosts GOREBYSS's\nSP. ATK and SPEED\nby 30%.
+8e5888|Deep Sea Scale
+8e5894|When held by DITTO,\nits SPEED rises\nby 100%.
+8e58c8|Quick Powder
+8e58d4|Quick Powder
+8e58e0|When held by DITTO,\nits DEFENSE rises\nby 100%.
+8e5914|Metal Powder
+8e5920|Metal Powder
+8e592c|When held, CHANSEY\nmay land a\ncritical hit.

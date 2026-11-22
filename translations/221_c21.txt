@@ -1,0 +1,240 @@
+39adea|{C1910}The numbers don't add up{C0819}…{C0819}
+39ae09|{C1910}Is this some kind of test?
+39ae1e|{C1910}But{C0823}…{C0823} if JOHTO really is\nwatching me, I sure can't feel it.
+39ae7d|{C1913}Wanna be cool like us?
+39aea1|{C1910}What do you mean?
+39aeb8|{C1914}We heard all that "way of the\nTRAINER" stuff the old man was\lfeeding you.
+39af10|{C1913}We can show you the real way.\nHave you ever been to\lGOLDENROD CITY?
+39af61|{C1910}No, I'm from AZALEA TOWN.
+39af7e|{C1913}Whoa, that SCYTHER looks really\nstrong. We used to have one. Did\lyou know they sell a stone in\lGOLDENROD that evolves it into\lSCIZOR?
+39b001|{C1910}Seriously?!
+39b012|{C1910}Although{C080F}…{C080F} I've seen a few\nSCIZOR, but the only KLEAVOR I've\lever seen is KURT's.
+39b05c|{C1913}KLEAVOR?
+39b069|{C1913}Young lady, any POKéMON you could\never want is right at your\lfingertips.\pNot just SCIZOR. There are\nPSEUDO-LEGENDARIES, STARTERS,\lexotic POKéMON…
+39b109|{C1914}And don't forget PORYGON! Buy all\nits add-ons and you can get a\lPORYGON-Z straight away!
+39b16f|{C1910}Without training it at all?!
+39b18a|{C1913}Of course! These days any rookie\ncan have a full team of\levolved POKéMON!
+39b1f5|{C1913}Chopping trees out here will just\nwear you out, and for what? At this\lrate, it'll be years before you\lreach a decent level.
+39b27d|{C1910}You're right{C0823}…{C0823} the world has changed.\pIf I don't use the tools it offers,\nI'll get left behind!
+39b2df|{C1913}That's the spirit.\nYou'll be as cool as anyone.
+39b310|{C1910}Wait here, SCYTHER. Or maybe I\nshould say SCIZOR?
+39b34a|{C1910}GOLDENROD! Here I come!
+39b363|{C1906}So this is ILEX FOREST{C080F}…{C080F}
+39b380|{C193D}Legend says a mighty guardian\nprotects this forest.
+39b3c1|{C193D}I wonder what would happen if I\nstirred things up a little.
+39b402|{C193D}Then again, on second thought{C080F}…{C080F}
+39b425|{C193D}Legends always disappoint.
+39b44b|{C193D}Most of them bleed like anyone\nelse. They were just{C0819}…{C0819} lucky\lenough not to do it in front of\lan audience.
+39b4c2|{C193D}It was that audience who so\ncarelessly granted that status to\levery minor legendary.
+39b579|{C193D}The only true legend awaits me.
+39b5a2|Ther!
+39b5a9|{C193D}Hmm? That doesn't look like an\nordinary SCYTHER.
+39b5d5|{C193D}Better trained or worse. Blessed\nor not. It makes no difference.
+39b610|Ther!
+39b617|{C193D}So{C0819}…{C0819} you insist on ignoring\nyour own limits?
+39b659|{C193D}In that case, I'll show you them.\nConsider it a gift.
+39b691|Ram!
+39b697|{C193D}Trying to make up for an\ninsurmountable gap with courage.\lAbsurd.
+39b6e2|{C193D}Such is the frailty of mortals.
+39b70b|{C193D}It's about time{C0823}…{C0823} I visited the\nplaces in JOHTO that actually\lmatter.
+39b772|ILEX FOREST SHRINE…
+39b789|Built in honor of the forest's\nguardian…
+39b7c3|Have you seen the shrine to the\nguardian? It has protected the\lforest since ancient times.\lLegend says it's a GRASS-TYPE\lPOKéMON.
+39b856|The NATIONAL PARK is up ahead.\nLots of people stroll there just\lfor the sheer joy of it.
+39b8fc|SP. DEF has always been the\nAchilles' heel of ROCK types, but\lI know one with a pretty\lremarkable one.
+39b96f|Look!
+39b976|YOU GOT A Lv.25 NOSEPASS!
+39b997|Its offense may be dreadful, but\nNOSEPASS is a decent wall, and it\lcan evolve into a POKéMON worth\ltaking seriously.
+39ba25|If you need a break from your\nhectic life, the NATIONAL PARK\lis just the place.
+39ba88|I once heard KURT talk about a\nBUG type even stronger than\lHERACROSS, PINSIR or SCIZOR. It was\lfrom a faraway region. Very slow,\lbut outstanding at everything else.
+39bb3d|Isn't this the perfect spot for\na picnic with friends?
+39bba0|I'm sick of walking…\nThey ought to put a few benches\laround here{C0805}…{C0805}
+39bbfd|My darling NIDORAN loves going\nfor walks here.\lIt's just so adorable!
+39bc4e|I love walking around here. This\nplace is a great source of\linspiration for me.
+39bcac|If you look at the tall grass from\nabove, it looks like a POKé BALL!
+39bd85|REST PLAZA\nNATIONAL PARK
+39bdb1|NATIONAL PARK\nWhere the most beautiful and\lbrilliant ideas spring forth.
+39be02|In honor of all the BUG types of\nKANTO and JOHTO.
+39be41|If you need a break from your\nhectic life, the NATIONAL PARK\lis just the place.
+39bea4|They say there's going to be a\ncontest here. Will it be fun?
+39beed|The POKéMON world is huge. And\nthere's still so much we don't\lknow. But I know more than you!
+39bf5f|Farther west you'll find\nMOOMOO FARM.\lTheir milk is the best value-for-\lmoney drink there is!
+39bfde|Be careful on the next route.\nTAUROS roam free there, and they\lcharge at anyone they see as\la threat!
+39c09b|This city has seen many disasters,\nso it pays to be ready for\lanything that might come.
+39c104|Speaking of disasters, a POKéMON\nlike this could come in handy.
+39c145|YOU GOT A Lv.25 ABSOL!
+39c163|GOLDENROD CITY's former GYM LEADER\nhad an ABSOL. It was magnificent,\lso much that it looked like an\levolution of a regular ABSOL.
+39c1ed|I saw the great CHUCK training\ndeep inside MT. MORTAR.\pHis POKéMON are incredibly\nstrong!
+39c272|My art isn't yet worthy of\ncapturing that sunset settling\lbeneath the towering BELL TOWER\lof ECRUTEAK CITY…\lI think I'll come back in a\lcouple of years.
+39c312|MT. MORTAR is like a giant maze.\nSome people get lost there, others\luse it to train and get stronger.
+39c390|Our TAUROS are known as the\nfiercest in JOHTO. They need to be\lto keep up with the MILTANK we\lraise here!
+39c424|Most of the MOOMOO MILK sold in\nJOHTO and KANTO comes from here.\lYou should know it's the best-value\lHP restorer around, and if you\lbuy straight from us, you can\lget MOOMOO MILK even cheaper!
+39c61b|We look after TAUROS and MILTANK\nthat fall ill here. We've got a\ldozen that are nearly recovered.\lAll they need now is to stretch\ltheir legs in a good battle.
+39c6de|Would you do us a favor and help\nget our POKéMON back in shape?
+39c722|Remember, you can buy MOOMOO\nMILK dirt cheap at the shed\lnext door!
+39c775|Great!\nI hope you can withstand\ltheir charges!
+39c7ac|Stopped dead in its tracks.
+39c7bd|Now it's my turn.\pMILTANK doesn't charge as hard,\nbut it'll be much tougher to\lknock down!
+39c81e|What a workout!
+39c835|Hey!\nDon't overdo it!\lWe wanted them to get back in\lshape bit by bit, not end up\lback in the infirmary!
+39c8af|Don't listen to him, he's joking.\nYou've impressed us. TRAINERS\lusually run for their lives from\ljust one of our TAUROS, but you{C0819}…{C0819}\lYou took on a dozen TAUROS and\lMILTANK!
+39c96c|A feat like that deserves a reward.\nOne of our MILTANK wandered off\linto the meadow and came back\lwith this.\pWe don't know what it is, but it\nlooks pretty valuable.
+39ca08|I'm sure you'll put it to good use.\nRemember, you can buy MOOMOO\lMILK dirt cheap at the shed\lnext door!
+39ca7d|I understand. A charging TAUROS\nis pretty intimidating.
+39cb11|We sell a dozen MOOMOO MILK for\n$5000. That's $1000 less than\lanywhere else.\lWant some?
+39cb78|Come back anytime.
+39cbe1|-Looks like there was a fierce\nbattle here not long ago-.
+39cee7|{C1906}Come on, MACHOKE!\pDon't hold back! Give it\neverything you've got!
+39cf23|Choke!
+39cf2b|{C1906}That's enough.
+39cf3a|{C1906}We've been fighting for hours.\nTime for the recovery phase under\lthe waterfall.
+39cf8f|{C1906}Who's there?\nCome on, don't hide!
+39cfbb|{C1906}So you're looking for GYM LEADER\nCHUCK.\pWell, he's standing right in\nfront of you.
+39cff6|{C1942}My wife wants me to come\nback to CIANWOOD already?
+39d025|{C1942}I was heading back anyway.\pThis training on MT. MORTAR has\nmade it clear that I can't keep up\lwith my POKéMON anymore. No\lself-respecting fighter would\laccept that without doing\lsomething about it.
+39d102|{C1942}I'll return to my GYM. I don't\nusually use my most loyal partners\lin battle, but if you come, I'll\lgive you a battle worth your while.\pIf you made it to the far reaches\nof MT. MORTAR, you must be a\lremarkable TRAINER. We'll see.
+39d22f|Welcome to the LAKE OF RAGE. Don't\nforget to pick up after yourself\land leave no litter behind.
+39d298|And I wonder, what could be at\nthe bottom of the lake?\pSome rare POKéMON?
+39d2ec|There was wildlife here, untamed,\na jungle at the edge of the sea,\lnever seen by those who float\labove its murky surface.
+39d37c|That GURU from KANTO who lives\nin FUCHSIA just caught 3 GYARADOS\lhere back when there were tons of\lthem, then moved to a region where\lthey're rare. Now he lives off the\lfame those 3 GYARADOS gave him.
+39d455|WATER/FLYING GYARADOS?\nWhat planet are you on?\lAs if GYARADOS could fly!
+39d4a3|Battle test.
+39d4b6|Don't be afraid. Choose.
+39d64b|LAKE OF RAGE, also known as\nGYARADOS LAKE.
+39d683|FISHING GURU'S HOUSE
+39d74f|{C1944}Good day, young man. Have\nwe met before?
+39d77e|{C1944}Yes…\pThe GOLDENROD meeting. Then you're\nthat young ROCKET, the one who\lwon the POKéMON LEAGUE.
+39d7d8|{C1944}As you've probably noticed, the\ncurrent GYM LEADERS of JOHTO keep\lout of what happens elsewhere.\pWe simply go about our lives and\nlet things take their natural\lcourse.
+39d8ae|{C1944}That doesn't change the fact that\nwhat LANCE did in KANTO was\lhorrible.\pHad we known the true story, the\nGYM LEADERS of JOHTO, especially\lthe DRAGON MASTER, would have\lacted immediately.
+39d96f|{C1944}Indeed, our own customs\nbetrayed us.
+39d9a8|{C1944}Now, I have faith in you all.\pI know you don't act out of\naltruism, but you have principles.\pYour LEADER was at the very top,\nfell to the deepest pit and\lclimbed back up. He crossed to\lthe other side: he knows what's\lout there.
+39da7f|{C1944}Besides, with what he proposed\nat the GOLDENROD meeting, something\llike LANCE's actions would have\lbeen impossible.
+39dae4|{C1944}I think I've walked enough. It's\ntime to head back to MAHOGANY.\pEnjoy your stroll, {V01}.
+39db6d|{V01} received TM98 DRAIN\nPUNCH from the BLACK BELT!!
+39dba5|I wonder what would happen if we\ncould drain all the water from the\llake and see what's at the bottom.\pI think it'd surprise us all.
+39dc29|FIGHTING types tend to have poor\nSP. DEF. If you pair this move\lwith an ASSAULT VEST, your POKéMON\lwill be a real wall, and it can\lhit hard while restoring HP too!
+39dd11|I'll be eternally grateful. People\nlike you truly deserve to uncover\lthe world's ancient secrets.\pI hope you prevail over those\nlunatics from HOENN.
+39ddb8|You look like you're from KANTO,\nright? This region can hold plenty\lof surprises, if you look at it\lwith the right eyes.
+39e0ad|{C194D}I've already told you.\pThey're just legends. No one alive\nhas ever seen such a POKéMON.
+39e0f9|{C1906}Are they really just legends?\pYou see, my team of SCIENTISTS and I\nhave come a long way to learn the\lwhole truth.
+39e175|{C1906}You'll understand that we can't\njust leave, not without making sure\lyou've told us everything you know.
+39e1d7|{C1906}We've already questioned every\nFISHERMAN around here. All of them\lhave confirmed, from experience, what\lthe ancient records in our possession\lsay: there's a POKéMON in this LAKE,\la POKéMON so powerful that even the\llocal GYARADOS flee in terror.
+39e2e9|{C1918}There's no other way those\nFISHERMEN's SUPER RODS would have\lgiven out. According to their\lreports, it's happened 3 times in\lthe last decade. Whatever broke free\lfrom those SUPER RODS had to exert\l3 times the force of any GYARADOS.
+39e3ea|{C194D}Impressive, I know, but what do\nyou expect me to do? Lead you to a\lplace nobody knows about?
+39e44e|{C1906}Exactly. You come from the oldest\nfamily of FISHERMEN in MAHOGANY TOWN.\pIf anyone knows something the others\ndon't, it's you.
+39e4cb|{C194D}I've already told you, I don't kno{C0805}…{C0805}
+39e4fa|{C1906}What's this?
+39e50b|{C194D}A{C0819}…{C0819} A trophy. One of my\nancestors became CHAMPION of JOHTO.
+39e558|{C1906}Using only POKéMON from here?\pYou don't say{C0819}…{C0819} they must have\nbeen very strong. Perhaps{C0805}…{C0805}
+39e5b5|{C1906}that LEGENDARY POKéMON was on\nhis team. What do you have to say\lto that?
+39e605|{C194D}Uh{C0819}…{C0819} Wait, those stairs only\nlead to an underground cavern\lbeneath the LAKE.\pI don't advise going in. The wild\nPOKéMON down there are extremely\lhostile. They've never had contact\lwith humans.
+39e6dc|{C1906}That's exactly what we've\nbeen looking for.
+39e70d|{C1906}You lied to us. Now you'll come down\nthere with us and guide us to the\lend of that cavern.
+39e76e|{C194D}There is no end!\pI've never explored past the\nsecond level! The wild POKéMON will\lwipe us all out before we can get\lany farther!
+39e809|{C1906}Leave that to me{C0819}…{C0819} and my\nPOKéMON. Move it!
+39e85c|It looks like the JOHTO CHAMPION's\ntrophy, though it seems very old.\lWhat POKéMON did the CHAMPION of\lthat era use?
+39e8ce|Do you want to open the entrance\nto the cavern?
+39e99f|In all my travels, I never saw a\nPOKéMON so huge sailing the seas.
+39e9e5|Here, I want you to meet one too.\nTake this. Its pre-evolution is\lalready the size of a fully grown\lLAPRAS!
+39ea51|YOU GOT A Lv.50 WAILMER!
+39ea71|Watching a WAILORD breach, glide\nthrough the air for a few seconds\land then use SPLASH as it dives\lback into the sea is quite a\lsight.
+39eb87|{C1920}{V01}, we've recorded the data\non PRYCE's MAMOSWINE-&, but{C0819}…{C0819}\pWhat kind of POKéMON did you\njust battle?\pIt's baffling all of our\nSCIENTISTS.
+39ec38|{C1920}PRYCE's MAMOSWINE-& is\nextraordinary. It has the same\lATTACK, better SPEED and similar\ldefenses to GARCHOMP-M.\pIn other words, its useful stats\nare on par with the MEGA of a\lPSEUDO-LEGENDARY.
+39ed10|{C1920}But{C0819}…{C0819} the POKéMON you just\nbattled goes even further. Its\lspecial power is unmatched,\lsomething truly unique.
+39ed99|{C1920}Unfortunately, I called you for\nanother reason. I want you to come\lto my office in the DEEP ROCKET\lBASE. We need to take action\lregarding what you told me about\lthat TRAINER who has LUGIA and\lHO-OH in his possession.\pI'll be waiting for you, {V01}.
+39ee92|Do you want to return to the\nKANTO ROCKET BASE?
+39eee6|-GIOVANNI told me to report to\nhis office urgently-
+39ef35|I feel like I've been here\nbefore{C0805}…{C0805}in a dream{C0805}…{C0805}
+39f087|Every POKéMON holds infinite\npotential within. Just when you\lthink you've grasped it, reality\lstrikes in an instant, making you\lforget that brief flash of full\lpotential, and everyone is bound\lby the laws of physics once\lagain.
+39f183|Tell me, do you think a strong\nPOKéMON can come from any place\lor species?
+39f1d3|Oh, no!\pApply the same rules you saw in\nmy POKéMON to LEGENDARIES or\lPOKéMON with higher BASE power?\pThat's impossible!\pThey start from a different base…\pBut the process is different too,\nand if you do it right, they all\lend up reaching a similar point!
+39f2d7|And would you be willing to take\nthat belief onto the battlefield?
+39f31d|In that case, I have nothing to\nteach you. Have a nice day.
+39f358|Wonderful!\pIn honor of this place{C0819}…{C0819}\pWe'll cross the winding border\nbetween the sacred and the profane!
+39f3cf|That's right. There's no secret\ningredient. Everything you need,\lyou already have{C0819}…{C0819} you're someone\lwho knows which path to follow.\pI want you to have this.
+39f46c|I found it on one of my long\nwalks through the meadow. I'm sure\lit'll serve you better than me.
+39f4c9|I understand. Crossing the limits\nof reality isn't for everyone.
+39f643|-The door is completely\nlocked{C0805}…{C0805}-
+39f680|Ah, time…\nIt has never stopped, and it never\lwill. Soon the 20th century will\ldie to make way for the 21st, and\lall that has happened in this era,\lnow alive and present, will drift\laway to make room for new events,\lmore and more of them, first to be\lseen the way we now see the '60s,\land from there, to fade further\land further into an ocean of\levents that swells without end.\pYet in the past, nothing is lost.\nFor better or worse, everything\lthat has happened becomes\lindelible, immortal…\lThe question is, can you influence\lwhat has yet to be written in\lthat notebook?
+39f8d3|I've seen the future!\nIn October 1996, that TRAINER\lbegan his adventure!\lIn November 1999, another TRAINER,\lsimilar in nature, though\limproved, will also begin his\ladventure, which, just like the\lfirst one, will be nothing more\lthan a series of orchestrated\lcauses and effects!
+39fc41|April 16, 1998:\pThe volcano on CINNABAR ISLAND\nerupts, swallowing much of the\lisland.\pThe cause of this phenomenon\nremains unknown.
+39fd00|October 1, 1998:\pAlmost a year later, the 2nd\nKANTO-JOHTO CONFERENCE is held.\pHaving met most of the goals set at\nthe 1st conference, the mood is one\lof optimism, ambition and blind\lfaith that the world, and the\lfuture, belong to the KANTO-JOHTO\lalliance.
+39fe4a|December 20, 1998:\pThe attack on the LAVENDER RADIO\nTOWER is a harsh reality check for\lthe KANTO-JOHTO alliance.\pEven so, the roadmap remains\nunchanged, and the technological\lwar with HOENN is more evident\lthan ever.
+39ff65|June 21, 1999:\pThe young female TRAINER, twin to\nthe hero of the RUINS OF ALPH,\lmanages to reach the ideal more\lthan once.\pThis singularity coincides with the\nrise of technology and the\loptimization of POKéMON power to\lunimaginable limits.
+3a007d|November 15, 1999:\pPROJECT GOLD begins.\pWith clear parallels to the young\nTRAINER from PALLET TOWN 3 years\learlier, the ambitions behind it\lgo much further, to the point of\laiming to challenge and uproot\levery pillar of the known world.
+3a018d|A COMPILATION OF THE MAJOR\nEVENTS IN KANTO-JOHTO'S\lRECENT HISTORY:
+3a01dd|Want to read it?
+3a01ee|Keep reading?
+3a0201|January 15, 1992: JOHTO declares\nwar on KANTO. LANCE seeks to seize\lcontrol of both regions and prove\lhis power as a TRAINER.\pJOHTO's forces, however, are not\nenough to hurt KANTO, which is more\ltechnologically advanced.\pThe presence of skilled TRAINERS,\nmost notably OAK and GIOVANNI,\levens the odds.
+3a0358|May 6, 1992: LANCE launches a new\noffensive, this time with JOHTO's\lLEGENDARY BEASTS and LT. SURGE in\lhis ranks. The chaos caused by the\lLEGENDARIES, together with better\lorganization of JOHTO's forces\lunder LT. SURGE, tips the scales.
+3a0455|June 1, 1992: Seeing how things\nstand, KANTO's best TRAINERS decide\lto act. GIOVANNI, along with OAK and\la whole research team, decides to\lanswer the might of JOHTO's\lLEGENDARIES with technology.\pThey conclude that MEW's DNA, first\ndiscovered by MADAME BOSS, is the\lbest suited for manipulating a\lPOKéMON's power.
+3a05bd|July 5, 1992: After an exhaustive\nsearch, GIOVANNI and his team\lmanage to spot MEW and obtain its\lDNA. Victory in the war begins to\ltip in JOHTO's favor.
+3a0672|February 6, 1993:\pThousands of failed tests and\nexperiments later, MEWTWO is born.\pKANTO's great hope. With its\nPSYCHIC powers, it will keep at bay\lJOHTO's LEGENDARIES, which are\linferior in base power.\pHowever, it is still far from\nready for battle.
+3a077f|September 1, 1993:\pAfter 20 months of war, KANTO's\ndecline grows ever more apparent.\lMeanwhile, GIOVANNI and OAK delay\lsurrender, pinning their hopes on\lMEWTWO as the turning point.\pHowever, as final preparations\nare made for its entry into the\lwar, its immense power spirals out\lof control, wrecking the lab, and\lit vanishes forever.
+3a08fe|September 17, 1993:\pKANTO has no choice but to\nsurrender, and GIOVANNI shoulders\lthe blame for the losing side.\pMeanwhile, OAK offers his services\nas a SCIENTIST under LANCE's new\lgovernment.\pGIOVANNI disappears under strange\ncircumstances before he can be\larrested.
+3a0a1d|March 12, 1994:\pTEAM ROCKET's first operations as\na criminal organization.\pStill on a very small scale, not\nenough to reach the ears of the\lnew government.
+3a0acc|September 26, 1996: Nearly 3 years\nafter the end of the war, KANTO\lhas recovered in record time from\lall the human and material damage\lit caused, to the point that, to\lany resident placed in this moment\lin history without any knowledge\lof the past, it would seem as if\lthe war had never happened.
+3a0c2d|October 15, 1996: A young TRAINER\nsets out on his adventure from\lPALLET TOWN, aiming to win the 8\lBADGES and challenge an ELITE FOUR\lthat has so far remained\luntouchable.\pMeanwhile, another young TRAINER\njoins TEAM ROCKET, an organization\lthat has grown exponentially in\lrecent months, with no greater\lambition than to rise through the\lranks and become the best TRAINER\lhe can be.\pThis date, October 16, 1996, is\nregarded as -Year 0-, the point\lof reference from which one looks\lto the future, and when the first\lactions begin that, indirectly,\lwill prove vital to true peace\lbetween KANTO and JOHTO.
+3a0ecb|January 20, 1997: TEAM ROCKET\ninvades SILPH in a key strategic\lmove against LANCE's GOVERNMENT,\lfaking its final defeat while\lconvincing SILPH to act to change\lKANTO's current situation. TEAM\lROCKET's hopes of recovering\lMEWTWO are rekindled, and planning\lbegins for a coup against the\lPOKéMON LEAGUE.
+3a103b|January 25, 1997: BLAINE warns\nLANCE's GOVERNMENT about TEAM\lROCKET's true situation, leading\lto tailor-made restrictions to\lprevent a possible coup against\lthe POKéMON LEAGUE. In a desperate\lattempt, TEAM ROCKET entrusts two\lof its EXECUTIVES, both with\lexceptional POKéMON battle skills,\lwith seizing the POKéMON LEAGUE\ltitle covertly.
+3a11e3|March 9, 1997: Barely 5 months\nafter their adventures began in\lparallel, the two TRAINERS, one\llimited in freedom and free will,\lthe other a witness to all of\lreality, yet both equally\lembodying the essence of POKéMON\lbattling, duel for the title of\lCHAMPION. Victory goes to the\lcombination of actions born of\lthe young TEAM ROCKET recruit's\lfree will, over the perfect,\lpreordained path of the prodigy\lfrom PALLET TOWN.\pLANCE, seeing his GOVERNMENT in\njeopardy, decides to take the law\linto his own hands once again and\lchallenges the young recruit too,\lbut loses as well, despite the\lbrutality of his team, which was\lstopped by the young TRAINER's\lingenuity, thereby forcing LANCE\lto give up certain powers.
+3a1518|March 12, 1997: LANCE's transfer\nof powers is ratified, and the new\llaws and conditions under which\lKANTO will be governed are made\lpublic. They are far less\lsuffocating than the old ones, all\lthanks to an agreement that TEAM\lROCKET, in the shadows, forced\lLANCE to accept.
+3a1640|May 1, 1997: OAK and BLAINE\nrecover MEWTWO.\pThis, along with the experiments\nthey carried out behind LANCE's\lGOVERNMENT's back, leads them to\ldisappear and, amid KANTO's\luncertain transition period, seize\lpower to establish a scientific\ldespotism.
+3a174d|June 30, 1997: OAK is defeated\nby the young recruit, now HEAD\lADMIN of TEAM ROCKET.\pWith that, TEAM ROCKET makes\ncontact with JOHTO, seeking to\lrestore the pre-war relations with\lKANTO and expand them through\ltelecommunications and transport.
+3a1862|October 12, 1997:\nThe 1st KANTO-JOHTO CONFERENCE is\lheld behind closed doors in\lGOLDENROD, establishing the\lprotocol for uniting the regions.\lNearly a year after -Year 0-, with\la two-year horizon for achieving\lall the goals set out.\pMeanwhile, the young TRAINER\nimmerses himself in JOHTO's history\land culture, gradually reaching\lthat point of balance and state of\lflow with his POKéMON.
+3a1a08|November 17, 1997: The ESSENCE\nPOKéMON, along with the 2 creators\lof all that is known and yet to be\lknown, are awakened by the current\lLEADER of the LAVENDER CULT.\pThe 3 POKéMON, representing the\nabsolute limit of what a POKéMON\lcan reach, become earthly the\lmoment they are wielded by the\limperfection of a human. Omnipotent\lin the wild, now as just 3 more\lPOKéMON in a regulated battle,\lthey give the young TRAINER a\lchance to compete, and he, with\lhis POKéMON in total harmony and\lat the very peak of their\lpotential, achieves the impossible\land prevails over the 3 POKéMON.\pThey return to their eternal\nslumber, but not without expanding\lthe laws that govern the world a\llittle further.
+3a1cea|Picture a grain of sand piled on\ntop of other grains of sand, soon\lto be covered by new grains of\lsand. Life is the same: events\lpiled on top of others that will\lsoon be covered by new events.
+3a1dd9|ADVANCED TECHNIQUES FOR\nMANIPULATING FINANCIAL MARKETS\p…\p…\pIt's over 700 pages long!
+3a1f27|This computer is a little\nstrange{C0805}…{C0805}
+3a1f51|Hey, you!\nWhat do you think you're doing?
+3a1f75|That computer holds very important\nprivate information.\pDon't you dare touch it!
+3a1fc7|Dang it, they've blown our cover.
+3a1fef|Face the consequences if you\ndecide to touch that computer.\pYou've been warned.
+3a2039|There's a function called\n-reverse arrow-.\pPress it?
+3a20a5|Who are you? How did you get\nin here?\pThis place used to be an important\nresearch center, but it closed\llong ago. I only came to retrieve\lsome documents.\pYou should go back the way you\ncame.
+3a2179|We don't answer to anyone here.\nThat's why we set up the warehouse\lin the middle of nowhere. Nothing\lbeats operating undisturbed.
+3a2204|From here we can see the GLITTER\nLIGHTHOUSE.\pBut the GLITTER LIGHTHOUSE can't\nsee us!
+3a22c1|Who are you?\nDid they hire you too?
+3a22f2|In that case, I can't let you\ngo any further.
+3a236f|What?\pWhy are we in the middle of\nnowhere?\pDon't get the wrong idea. We're\nnot running from the law or\lanything. We just like exotic\lplaces. Yeah, that's it.
+3a243b|I was right to desert the\nOLIVINE CITY navy.\pI earn double here, even if I end\nup wrecked from unloading crates!
+3a24b2|At this rate I'll be stronger than\na MACHOKE. This warehouse can't\lkeep up with all our demand\lanymore.
+3a2540|The fewer questions you ask here,\nthe better. All I know is that\lthey pay me well.
+3a2594|So, are you part of our club\nnow?
+3a25cd|See? If everyone does their part,\nwe can all come to an agreement.
+3a2705|These shows are always the same.\nI think I'll take a dip in the\lpool for a while.
+3a2755|What the?!\pWho are you?
+3a2773|Wait!\nYou're that ROCKET, aren't you?\pThe one who tried to stop us right\nbefore we moved to JOHTO{C080F}…{C080F} Looks\llike you've changed a lot since\lthen, but so have we.
+3a2821|You won't get away this time.\pSeveral of the SCIENTISTS we hired\nhave managed to develop technology\lthat boosts POKéMON power.\pYou'll pay for what you did to us\nin KANTO!
+3a28e2|Again?!
+3a28ef|Dang it…\pI should've waited for my partners\nso we could all attack at once,\lbut those two will be enough.
+3a295e|You won't shut down our business\nthis time.
+3a2c3b|So you're HEAD ADMIN {V01}, huh?
+3a2c57|Come on in. After all, we're both\nbusinessmen.\pYou don't hold a grudge over that\n$500 I swindled you out of, now\lthat you've got millions, right?
+3a2ced|I have to thank you, {V01}.
+3a2d09|Without all TEAM ROCKET's efforts\nto modernize JOHTO these past few\lmonths, we'd never have had this\lmuch success.\pYou have no idea how many rare\nPOKéMON we've sold to those\lGOLDENROD EXECUTIVES.
+3a2dec|How do I know TEAM ROCKET is\nbehind it all?\pI've got my contacts too, and I\nalso hire SCIENTISTS who worked\lfor you. Several of them\lintroduced us to MEGA EVOLUTION.\pWhen you've got money, you can buy\nanything, even loyalty.\pYou know that well.
+3a2f0e|And now{C0814}…{C0814} now's when the\ntwo of us make peace.\pWe're doing well, {V01}.\pThere's no need for our interests\nto clash.\pRight?
+3a2f95|You don't negotiate with swindlers?\pWho do you take us for?\pNow you'll learn some manners!\pYou're still nothing but a\ncommon ROCKET, no matter how\lnice the suit!
+3a3034|Wrong answer, {V01}.\pNow you'll accept our terms\nthe hard way!
+3a3085|This was all part of our plan.
+3a30a6|Very well, {V01}{C080F}…{C080F}\pYou haven't lost your touch, but\nwe've gotten stronger, even if\lwe had to pay our way there!
+3a3118|The moment of truth has come.\pI politely offered to negotiate\nterms for our two businesses to\lcoexist.\pNow, once I've finished off your\nPOKéMON, I'll make you sign the\lworst contract of your life!
+3a31e8|How is this possible?\nYou can still beat us?!
+3a321a|NO!
+3a321f|Recreating MEGA EVOLUTION cost us\nmillions!\pHow is that not enough to take\nyou down after 2 battles?
+3a3292|Very well, {V01}. You win.
+3a32aa|I understand TEAM ROCKET wants a\nmonopoly and absolute control of\lboth regions.
+3a3308|I won't stand in your way, which\nis why my offer is this:\p$2,000,000 in cash for you, right\nhere and now, and 10% of our future\lprofits will go to your JOHTO\lbranch.
+3a33c6|Do we have a deal?
+3a33d9|Great!\pSee? If everyone does their part,\nwe can reach a good deal!\pHere you go!
+3a3441|You pocketed $2,000,000!
+3a345f|Now, if you'll excuse us, we have\na business to run.\pYou wouldn't want to lose out on\npotential profits too, would you?
+3a34dd|So you won't budge an inch, huh?\pFine, we'll leave.
+3a3517|But remember this, {V01}!\pWith your actions, TEAM ROCKET has\njust made an enemy.\pI'll make sure everyone knows who's\npulling the strings from the\lshadows!
+3a3658|Good…\nWith this machine we can keep\llaundering money more easily{C0805}…{C0805}
+3a36a4|Who are you?\pI handle the audits here myself.\nWe don't need anybody in a suit\lto do them.
+3a3718|What a disaster!
+3a37e3|$400,000 transaction for a\nCHARMANDER closed.\pThis is going swimmingly{C0805}…{C0805}
+3a3832|How did you get in here?\pAnyone who endangers the health\nof our business will be wiped off\lthe map.
+3a38a1|No, wait!

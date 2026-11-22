@@ -1,0 +1,446 @@
+319243|{C190E}An invincible TRAINER, able to make\nthe best possible decisions entirely\lon his own, be it catching POKéMON,\lbattle strategy, training, or which\litems and moves to assign. Able to\lsqueeze every last drop out of a\lteam of 6 POKéMON with whatever\lresources he has at hand.
+31935f|{C190E}Isn't that far better than having a\nsingle hyper-powerful POKéMON that\lwould still be handled by the clumsy\lhands of an error-prone human?
+3193fc|{C190E}In the eyes of all other mortals, RED\nwill be seen as unreachable, the very\lpinnacle of what it means to be a\lTRAINER.\pI personally made sure he covers every\nsingle variable that influences a\lbattle, right up to the brim.\pHe is the perfect blend of\ntechnology and humanity.
+319516|{C190E}But{C0819}…{C0819} even more importantly{C080F}…{C080F}
+31953f|{C190E}Unlike MEWTWO… all his potential,\nthe possibilities he offers, and his\lresources have no purpose of their\lown. He asks no questions. RED is\lnothing but an empty shell, ready to\lbe filled by anyone at all.
+319612|{C190E}That's right, ROCKET. RED's purpose\nis the purpose of whoever pulls\lhis strings like a mere puppet.
+31967c|{C190E}So you'll understand how important\nit is to have such a being, in a world\lwhere absolutely everyone, as a basic\luniversal principle, shuts their mouth\lin front of you if you can beat them\lin a battle, and where becoming\lCHAMPION of that stupid game carries\lthe same weight as ruling the region\litself.
+3197c9|{C190E}By the same token, whoever controls\nRED has the power to change anything,\lto adapt to any situation and, at the\lend of the day, come out on top.\pThere is no possible escape.
+31987e|{C190E}Don't you see?!\pNo one, not even LANCE, can hold\nout for long against a RED exposed\lto the right stimulus to perfect\lhis POKéMON!
+31991b|{C190E}You think I don't want to use him\nto free KANTO from LANCE's\lgrip?\pOr is it to begin my own\nreign?
+319995|{C190E}Not even the gods of the POKéMON WORLD\ncould answer that for you, ROCKET.\pYou'll have no way of knowing.
+3199f8|{C190E}So{C0819}…{C0819} You still want to stop me,\neven after everything you've heard?
+319a42|{C190E}How typical of criminals like you.\pYou all think you're free, with the\npower to choose and a world of\lpossibilities at your feet, until\lreality knocks you flat in one blow.
+319aee|{C190E}You'll have to forgive RED. Entering\nthe HALL OF FAME was his reason for\lbeing.\pNow that his purpose is fulfilled,\nhe can't remember anything that\lhappens afterwards. It simply doesn't\lexist for him.\pEven so, his battle functions\nremain fully intact.
+319be4|{C190E}No one has come even remotely close\nto defeating him{C0819}…{C0819} but if that's what\lyou want, you'll get what you came for.\pYou're just one more puppet I'll\nhave to silence, abiding by our\lstupid code of battle.
+319cb6|{C190E}Go on, ROCKET.\pFace the wall you will never get\npast, no matter how hard you\ltry!
+319d2f|{C190E}NO!{C080F}\nIMPOSSIBLE!{C080F}\pINCONCEIVABLE!
+319d58|{C190E}You can't have won!\pRED was built specifically to\nwrite the history of KANTO!\pThere's no possible way you could\nhave beaten him with the resources\lyou have and the POKéMON you can\lcatch around here!
+319e45|{C190E}Wait{C0819}…{C0819} GIOVANNI{C0819}…{C0819}\pThere's no other explanation!\pYOU!{C0819}\p{C080F}You{C080F}…{C080F}!
+319e9f|{C1906}We had a deal, OAK.
+319ef3|{C1926}"An unapproachable TRAINER…"\p"…unbeatable by anyone, able to\nguarantee us a CHAMPION aligned with\lour interests, impossible to unseat,\lwho will hold that position for as\llong as we please…"
+319fc1|{C1926}Those were your words, OAK, when\nyou convinced me to reopen the\lchance to fight for the LEAGUE\ltitle.
+31a03b|{C1926}You sold it to me as a way to give\nKANTO back its dreams and hope, as\lwell as a way to earn that loyalty\land trust in the system that's so\lhard to win.
+31a0e8|{C1926}A brilliant strategy, OAK, one that\nwould get us what we wanted without\lcommitting to anything, since the\lLEAGUE championship would be little\lmore than a mirage for any citizen,\lalready overwhelmed by their grind.
+31a1c5|{C1926}Something that keeps them from reaching\nexcellence in anything beyond everyday\llife, unlike the ELITE FOUR.
+31a239|{C1926}And then being crowned by beating\nRED, the symbol of perfection and the\lpeak of all things battle, would be a\lfeat statistically impossible to\lachieve in this region.
+31a2e0|{C1926}It turns out, OAK, that it didn't\ntake a common citizen to unseat\lyour masterpiece.
+31a340|{C1926}IT WAS A ROCKET, OAK!\nA ROCKET!
+31a368|{C1926}Perhaps you underestimated how well\nthat overwork you spoke of actually\linhibits performance!\pAt least for those who can survive\nit and channel it in the right\ldirection!
+31a42d|{C190E}Let me explain, MR. LANCE{C080F}…{C080F}\nRED wasn't ready yet,\lhe needs exposure to{C0805}…{C0805}
+31a489|{C1926}I'm sick of hearing you talk.\nI don't want theories: I want results.\pWe'll do this my way.
+31a4ef|{C1926}I should have known something like\nthis could happen with you.
+31a525|{C1926}I used higher-level POKéMON than\nwith the other 3 challengers, in\lorder to get you out of the way\lquickly, and still you walked away\lunscathed.
+31a5c0|{C1926}But don't worry: I won't\nmake that mistake again.
+31a615|{C190E}W{C0819}-{C0819}we're doomed{C080F}…{C080F}\nHe's{C0819}…{C0819}\pG{C080F}…{C080F}\pGoing to unleash the beas{C080F}…{C080F}
+31a66b|{C1926}CHAMPION{C0819}…{C0819} GOVERNOR{C0819}…{C0819}\pThey're just words. Whoever holds\nthe power controls the world.
+31a6ca|{C1926}Why do you think people worship the\nLEGENDARY and PSEUDO-LEGENDARY POKéMON?\pNobody cares where they come from.\nAll that interests us about them is\lthat, compared to other POKéMON, they\lhave a unique, exceptional power.
+31a7b6|{C1926}That's where their magic lies: in\nthe unknown nature of that power,\land here, in it being out of reach.
+31a822|{C1926}As far as I know, science is unable to\nreproduce the miraculous combination\lthat creates a LEGENDARY POKéMON.
+31a895|{C1926}So many years of hard work, only\nto find better fruit in nature\litself, OAK.
+31a8f9|{C1926}You were a fool to think you could\nplay by the rules of the game better\lthan she who wrote those rules.
+31a967|{C1926}I'm going to do what I should have\ndone from the start: rule this\lregion with an iron fist.
+31a9cb|{C1926}And who better than LANCE, the\ngreatest master of the most sacred\land powerful type there is, to hold\lthat office?
+31aa3f|{C1926}As for you{C080F}…{C080F}\pAfter I crush you like a common\ninsect, I'll put what's left of you\land your team on public display, as\lan example and a warning of what\lawaits anyone who dares to rebel\lagainst my rule in the slightest.
+31ab2e|{C1926}Look on the bright side, ROCKET.\pYou'll go down in history as the one\nwho forced LANCE I to use his sacred\lPOKéMON, just before his reign\lentered its new phase{C0805}…{C0805}
+31abf0|{C1926}There's no honour in finishing off\na rival worn down by the long road\lthat brought them here.\pI want you to watch me crush your\nteam at its peak. You'll understand\lonce and for all that there are\lpowers before which mortals like you\lcan only kneel.
+31acf8|{C1926}I AM THE STATE!!
+31ad10|My dragons!\nMy sacred beasts!\lHow?
+31ad3d|{C1926}This is impossible!\pNo one has ever stood up to my\nbest POKéMON. They were born\lfor this!\pKANTO doesn't have the weapons\nto take them on!
+31add9|{C1906}You're wrong, LANCE.
+31adf1|{C1920}Your pride and your arrogance\nhave been your downfall.\pWhile you rested on your laurels,\nsecure in a power whose origin\lyou didn't even understand, the\lrest of us worked tirelessly,\lknowing exactly where your limit\llay, and striving day after day to\lforge an even greater power.
+31af12|{C1920}With no need to feed it, your\npower has grown weak.\pMeanwhile, there was no greater\nmotivation for us than trying to\lbring down your tyranny.\pIt's time you returned to the\nland what belongs to it.
+31aff1|{C1926}ENTEI, RAIKOU, SUICUNE! NO!
+31b012|{C1920}{V01}!\pI never imagined you could make\nit this far!{C0819}\pAs soon as ANDRA told me about the\nsituation and that you'd entered the\lHALL OF FAME, I decided to come in\lperson, even at the risk of drawing\lthe media's attention!{C0819}\pYou've shown them the incalculable\nvalue of well-trained POKéMON!\pNo matter where they came from,\nyou've made them into champions\lcapable of overcoming any adversity!
+31b191|{C1920}Those who believed they controlled\neverything around them, reducing the\lworld to a simple equation.
+31b209|{C1920}And those who played at being\ngods, believing themselves above\leveryone else simply because they\lwere born that way.
+31b27a|{C1920}You, {V01}. You've proven that, in\nthe end, nothing beats action driven\lby an unbreakable will to achieve\la goal.
+31b304|{C1920}{V01}!\pNo one deserves more than you to\nenter the annals of history, forever\lrecorded in the HALL OF FAME!\pAfter this, nothing will\never be the same!
+31ba97|{C1907}{V01}, finally!\p{C080F}…{C080F}\n{C080F}…{C080F}\pBLUE was the first to beat LANCE,\nbut it's not good news. He's being\lslaughtered by RED. Look{C0819}…{C0805}
+31bb29|Char!
+31bb47|{C1908}No!\pThat's impossible!\pYou beat me!\pAfter all I did to become\nthe LEAGUE CHAMPION!\lIs my reign already over?\pIt's not fair!
+31bbe1|{C1908}How could I lose?\nI trained my POKéMON to\lperfection.\pI can't stand that you won\nthe POKéMON LEAGUE!\pEven if I hate to admit it.
+31bc7b|{C190E}RED!
+31bc85|{C190E}You won!\nCongratulations!\pYou've won the POKéMON LEAGUE!\pYou've grown so much since you\nleft with CHARMANDER to\lcomplete your POKéDEX!\pRED, you're all grown up!
+31bd27|{C190E}BLUE!\nI'm devastated!\pI came as soon as I heard you'd\nbeaten the ELITE FOUR!\pBut by the time I got here, you'd\nalready lost!\pBLUE!\pDo you understand why you lost?\pYou forgot to treat your POKéMON\nwith love and trust!\pAnd without that, you'll never\nwin again!
+31be30|{C190E}RED!\pYou know your victory wasn't\ndown to you alone!\pThe bond you share with your\nPOKéMON is wonderful!
+31bea4|{C190E}RED!\nCome with me!
+31bec7|{C1908}G{C0819}…{C0819}Gramps{C0823}…{C0819}\pW{C0819}…{C0819}Wait{C082D}…{C0823}\pI did everything{C0819}…{C0819} everything right…\pI have treated my POKéMON with\nlove and trust…\pIt's been that way from the start.\nI've never let them down, never\ltreated them like trading cards, which\lis exactly what RED does{C0819}…{C080F}
+31bfc7|{C1908}After everything I've been through,\nI thought you'd be proud of me,\leven if I lost, for giving it my\lall and building a team good\lenough to beat the ELITE\lFOUR.
+31c078|{C1908}But no{C080F}…{C080F} Gramps, now I see you're\nthe kind of person who drops you\llike a rock if you're not number 1!\pI'll never forget what\nhappened here today!
+31c107|{C1907}BLUE!\pTake it easy!\pI watched the battle, and you've\nimproved so much since we fought!\lYou achieved what you set out to\ldo. You've built a team of strong,\lwell-balanced POKéMON!\pDon't beat yourself up for not\nbeing able to handle RED!\pNobody's been able to…\pThe way he battles{C0819}…{C0819}\pThe strength and energy of his\nPOKéMON{C0819}…{C0819}\pIt's just unnatural{C0819}…{C0819}
+31c26e|{C1908}{V01}!!!\pYou too! You're here!
+31c294|{C1908}It can't end like this!\pRED can't keep getting his own\nway every single time!\pHe isn't invincible, I know it!\pAnd you believe me.\pRight, {V01}?!
+31c325|{C1908}{V01}! It has to be you!\nYou have to beat hi…!
+31c34f|{C1922}Party's over, kids.\pWe have a new CHAMPION.\pThe POKéMON LEAGUE challenge is\nover.
+31c3b1|{C1907}Hey,{C080F} wait!\n{V01} and I just beat the\lELITE FOUR too!\pJust like RED did with BLUE a\nmoment ago, we both deserve\la shot at challenging RED for\lthe title!\pJust for making it this far!
+31c497|{C1922}You're hardly in a position to\nbe demanding anything, girl.
+31c520|{C1922}BRUNO has told us who you are.\pBoth things, the POKéMON LEAGUE and\nyour freedom, end here and now.
+31c590|{C1922}We've got more than enough to put\nyou both away for life for all your\lcrimes. If you behave and don't resist,\lmaybe we'll let you out{C080F}…{C080F} in\la couple of decades.
+31c666|{C1922}What was that?
+31c676|{C1907}You should know{C0819}…{C0819}\pWhat kind of people you're dealing\nwith. We just beat the\lELITE FOUR{C0819}…{C0819}
+31c6e1|{C1907}IS THIS ALL YOU'VE GOT?!\nCOME ON, BRING MORE!\p10!{C080F}…{C080F}\p20!{C080F}…{C080F}\p50!{C080F}…{C080F}\pYou'll need a lot more than that\nto break our will and the will\lof our POKéMON!
+31c79d|{C1922}Insolent girl, I won't tolera…!
+31c7c3|{C1907}HERACROSS!\pCLOSE COMBAT ON THE DOOR TO THE\nHALL OF FAME!
+31c804|cross!
+31c80c|{C1908}Whoa!\pThat HERACROSS has gotten way\nstronger. What a hit!
+31c860|{C1907}{V01}!\pYou go in!\pI'll hold off these amateurs!\pWith me here, you've got nothing\nto fear!\pAfter seeing RED in action, I've\nrealised you're the only one with\la chance of standing up to that\lsteamroller who knocks TRAINERS\ldown like dominoes.
+31c96b|{C1907}In the name of TEAM ROCKET!\pHere's your chance!\pYou're a completely different\nTRAINER from the one who was\ldefeated on MT.MOON.\pYou've seen a KANTO that RED will\nnever have the privilege of\lknowing.\pI believe in you and in how\nmuch you've improved!\pShow him what you're worth once\nand for all!
+31ccdd|{C1926}So there are still TRAINERS in KANTO\ncapable of rising up against the\lpower of a PSEUDO-LEGENDARY{C080F}…{C080F}\lI won't say your efforts lack merit,\lbut it's all been decided: after what\lwe've seen, we have our CHAMPION.\pYou, that other little girl and OAK's\nunruly grandson can watch if you\llike, you've earned it, but against\lthe new talent from PALLET TOWN,\lthere's nothing you can do.{C0823}\pBy now, RED must have confirmed his\nposition, easily defeating BLUE, who\lgot there first.{C0823}\pPerhaps if you arrive in time to see\nthat massacre, you'll lose all desire\lto challenge our new CHAMPION.
+31cf40|{C1926}{V01}?{C0823}\pI've never heard of you.\pAs you know, I lead the ELITE FOUR,\nas well as the GOVERNMENT of KANTO\land JOHTO. I'd tell you I'm also the\lcurrent CHAMPION, but that honour\lwas just taken from me by two brats\land an impudent little girl who,\llike you, has the nerve to stand\lbefore me dressed like that.{C0823}\pHowever, the CHAMPION title already\nhas an owner, and a nobody like\lyou has no business being here at\lthis point.
+31d0f6|{C1926}All it'll take is a few changes to\nmy army of dragons compared to my\lprevious battles to make sure your\llittle adventure ends right here\lwith me!
+31d1a3|It seems I misjudged how much\npower to hold back.
+31d2c0|{C1925}I haven't seen this much talent at\nonce since that glorious era when\lOAK and GIOV{C080F}…{C080F} fought for the title.\pA shame you're all going to fall\nmiserably. I shouldn't be telling\lyou this, {V01}, but political\linterests have made their way\linside these walls too; LANCE is\lCHAMPION and DICTATOR of KANTO at\lthe same time. He'll never give up\lhis CHAMPION title to anyone who\lcould threaten his reign.\pNow that you know, go on to the\nnext room. You still have a chance\lto let your POKéMON team do the\ltalking on the field.
+31d4bb|{C1925}Well, what have we here?\pI don't like this fashion of\ndressing like that, sonny.\pYou don't mind me saying so,\ndo you?\pI'm AGATHA of the ELITE FOUR, an\nexpert in the GHOST type, a type\lwith many mysteries still unsolved\land whose potential we still don't\lfully know. Even so, thanks to my\ldecades of experience and hard\ltraining, I've come to understand\lthis type far better.
+31d632|{C1925}{V01}?\pI'll show you how a real\nTRAINER fights!
+31d66b|My, another youngster with\nsomething special.
+31d78a|{C1924}You've made the worst possible\ndecision. You could have given\lup here and spared yourself the\ltorture LANCE will put you through\lif you dare come anywhere near\lthe CHAMPION title; someone like\lyou never will be. All you've done\lwith this battle is put off the\linevitable.\pGo on! Keep going!\pEvery step you take brings you\ncloser to your end, ROCKET!
+31d8f8|{C1924}YOU!\pDon't think I've forgotten your\nface. You're lucky it's in fashion\lto make fun of TEAM ROCKET!\lThe best mask is the one that shows\lyour true face, eh?\pI could turn the LEAGUE upside down\nif I raised the alarm about who you\lare, but I won't. This time you\lwon't escape my wrath.
+31da1a|{C1924}I'll use all my power and crush you\nright here before I take you in!
+31da65|What?\nHow could I lose?
+31db70|{C1923}It can't be, beaten again. I think\na little rest on FOUR ISLAND\lwouldn't do me any harm…\pKeep going, kid.\pThe POKéMON LEAGUE has plenty of\nsurprises in store for you.
+31dc1b|{C1923}Welcome to the POKéMON LEAGUE.\pI'm LORELEI of the ELITE FOUR.\pI get the feeling I've seen you\nsomewhere before, haven't I?\lAnyway, today's been a tough day.\lI've never seen so much talent\lchasing the CHAMPION title at once.\lYou'd better be as good as them,\lbecause no one beats me at training\lICE-TYPE POKéMON.
+31dd5e|{C1923}Freezing moves are my specialty.\nYour POKéMON will be at my mercy\lwhen that happens.\pHahaha!\pShall we begin?
+31dddc|This isn't how it should be!{C0805}…{C0805}
+31dec1|Sorry to disappoint you, but we\ndon't offer any kind of prize to\lour VIP guests. It's only for\lthose who pay for admission.
+31df44|Besides, I'd never give the SAFARI\nprize to someone dressed like that.\lWhat's more, if it were up to me,\lI'd have made sure you never set\lfoot in here, even if you paid.\pThere's your answer to whether or\nnot there's a prize here!
+31e03c|Still insisting?\nI won't think twice about throwing\lyou out of here by force.\lWill you get lost already?
+31e0a6|As soon as I tell KOGA what\nhappened, you'll be kicked out of\lthe SAFARI.\pHe's the one with the power here!
+31e106|I see you're reasonable at least.\nGo on your way.
+31e13c|You have no idea what you've just\ndone. As the SAFARI TAMER, I have\laccess to the fiercest, wildest\lPOKéMON in this place.\pI'm not responsible for what happens\nto your team once I unleash my\lferocious POKéMON in battle!
+31e22a|My ferocious POKéMON!
+31e23f|-{V01} stole HM03 from the\nSAFARI TAMER-
+31e264|Curses, how dare you?\nYou really are a ROCKET\lafter all!\pI'll complain to KOGA about this,\nyou'll see, he'll have your\lSAFARI PASS revoked!
+31e30a|Using BAIT will make it easier\nto catch POKéMON.
+31e357|Throwing ROCKS at POKéMON might\nmake them run away, but it'll also\lmake them easier to catch.
+31e3c0|I walked a long way, but I haven't\nseen the POKéMON I wanted.
+31e406|Head for the deepest AREA of the\nSAFARI. You'll win a prize!
+31e452|The SAFARI ZONE is huge,\ndon't you think?\pThe FUCHSIA GYM LEADER, KOGA,\ncomes around here very often.\pThanks to him, we can play here\nwithout fear.
+31e509|You can keep any item you find\nin this area.\pBut you'll run out of time if\nyou try to grab them all at once!
+31e592|My EEVEE evolved and\nturned into a FLAREON!\pBut my friend's EEVEE\nturned into a VAPOREON!\lWhy?
+31e616|Phew!\nI'm worn out from all the fun!
+31e64c|I caught a CHANSEY!\pThat made all my efforts\nworthwhile!
+31e6a2|How many have you caught? I'm worn\nout from all this hard work!
+31e6ec|SARA: Where did my friend\nERIK go?
+31e71c|I'm catching POKéMON to take\nhome as gifts!
+31e763|NOTICE\pFind the SAFARI WARDEN's lost\nGOLD TEETH. They're around here\lsomewhere.\pReward offered!\nContact the WARDEN.
+31e7ef|TRAINER TIPS\pZone Exploration Campaign!\nThe Search for the SECRET HOUSE!
+31e84e|AREA 3\nEAST: CENTER AREA
+31e871|REST HOUSE
+31e88a|TRAINER TIPS\pThe SECRET HOUSE is still\nstraight ahead!
+31e8d3|AREA 2
+31e8e3|TRAINER TIPS\pPOKéMON hide in tall grass!\pZigzag through grassy areas to\nflush them out.
+31e95b|TRAINER TIPS\pFind the SECRET HOUSE\nand win an HM!
+31e9a3|REST HOUSE
+31e9bc|AREA 1\nWEST: CENTER AREA
+31e9e0|TRAINER TIPS\pYour remaining time only goes\ndown when you walk!
+31ea35|REST HOUSE
+31ea5d|TRAINER TIPS\pPress START to check how much\ntime you have left!
+31eaa8|REST HOUSE
+31eac0|CENTER AREA
+31eec3|{C1904}The final count is 48 SCYTHER,\n45 TAUROS, 38 KANGASKHAN, 35\lCHANSEY and 26 DRATINI, HIGH RANK\lANDRA.
+31ef2f|{C1907}Good work, grunt.\nBack to your post.
+31ef5d|{C1907}And good work, TEDDIURSA. You\nshowed great courage facing\levolved POKéMON without{C0805}…{C0805}
+31efc9|{C1918}Well{C0819}…{C0819} you don't see an URSARING\nin KANTO every day. Its ATTACK is\ldevastating. In this KANTO it'll have\la field day with SLASH, trust me.
+31f05e|{C1907}More than those TAUROS and SCYTHER\nthat hit so hard?
+31f096|{C1918}Absolutely. Even for a\nROCKET ADMIN, it would be\la great POKéMON.
+31f0e5|{C1907}Tell me something{C0819}…{C0819} why does that\nblue snake cost so much at the GAME\lCORNER? Honestly, it's pretty puny.
+31f15e|{C1918}You can tell you're not from here.\pThat blue snake is the\npre-evolution of DRAGONITE.\pKANTO's PSEUDO-LEGENDARY, and one of\nthe most sacred dragons in existence.
+31f200|{C1907}Seriously? It looks\nnothing like DRAGONITE!
+31f231|{C1918}That's why it's so expensive. What\nthey're selling is the chance to own\lone after a lot of hard work. More\lthan the chance, they're selling the\lhope of having one: in practice, only\lone TRAINER in this region has ever\lmanaged it.
+31f312|{C1918}It's plain to see that the\nregion lacks the resources for\loptimal training, at least for the\lvast majority. Under these conditions,\lit's impossible to develop the\lpotential of a dragon like DRATINI.
+31f3e1|{C1907}Oh, wow{C0819}…{C0819}\nIs it that strong once it's grown?
+31f419|{C1918}Stronger than several LEGENDARIES.\nIts base ATTACK beats URSARING's.
+31f45d|{C1918}In fact, it beats it at everything:\nSPEED, HP, DEFENSE{C0819}…{C0819} It's 6-0 in stats.
+31f4c1|{C1918}No offence, URSARING is an\nexcellent POKéMON, but DRAGONITE\lis extraordinary. Part of it\lhas been touched by the gods.
+31f542|{C1907}So that's why everyone fears\nLANCE… Now I get it.
+31f572|{C1918}Not just that, but also{C0805}…{C0805}
+31f595|{C1907}I refuse to believe my URSARING is\nalready doomed to be worse than a\lDRAGONITE at everything. In my head,\lthis URSARING can surpass that base\lATTACK… and maybe more{C080F}…{C080F}
+31f648|{C1918}STATS are set in stone.\pIt's not about deserving it or training\nharder. That way, your URSARING could\lbeat a DRAGONITE{C080F}…{C080F} one that isn't\lliving up to its potential.
+31f6f2|{C1918}But with everything else equal, there's\nnothing you can do. It's the potential\linherent to each species. Why do you\lthink MAGIKARP are so weak? To a\lgreater or lesser extent, all have\llimits.
+31f7af|{C1907}I get what you're saying, but{C080F}…{C080F}\nEven so{C080F}…{C080F} I can feel a bit of\lthat potential you mean in this\lURSARING, still waiting to be tapped.
+31f83b|{C1918}If we turn to genetic engineering,\nthat's another story.\pWe have several candidates hoping to\nraise their BASE STAT total with it.\pBeyond that, it's impossible.
+31f98e|Diary: September 1\nMewtwo is far too powerful. We\lhave failed to curb its vicious\ltendencies{C0805}…{C0805}
+31fbec|{C1906}It's our only chance, BLAINE.\nYou know where it's hiding.\pNow that TEAM ROCKET has the\nMASTER BALL, all that's left is to\lcatch it and put an end to this!
+31fc8e|{C191F}It's not that simple, FUJI.\pOAK knows about MEWTWO too. Don't\nyou think he'll tell LANCE TEAM\lROCKET is up to something the moment\lhe senses they're after it?\pBesides, I'd heard the raid on\nSILPH was a failure.
+31fd6b|{C192C}That's what they've led the\nmedia to believe.\pA ROCKET EXECUTIVE, PROTON, has\ntold me what just happened\lthere.\pApparently, GIOVANNI has convinced\nthe PRESIDENT to rise up against LAN…
+31fe32|{C191F}Fools!
+31fe3e|{C191F}You think one LEGENDARY is enough\nto stop LANCE?\pDo I have to remind you of the\ndestruction he caused using three?\pTHREE!\pThree different LEGENDARIES. MEWTWO\non its own is the most powerful\lPOKéMON ever created. We did great\lwork in this lab back in the day, but\lLANCE has the entire ELITE FOUR!\pThe members of the LEAGUE COMMITTEE!\pAnd those dragons…\pHave you forgotten he has not 1, but\n3 of those PSEUDO-LEGENDARIES\lwatching his back?
+31ffff|{C191F}No, no… Anyone who wants to rise up\nagainst LANCE these days is\lsuicidal. He has far too much\lpower, even without knowing\lMEWTWO exists.\pHe's lived up to his reputation as\nthe TRAINER of SACRED POKéMON.
+3200d9|{C192C}BLAINE{C080F}…{C080F} GIOVANNI has technology\nto clone the KANTO BIRDS, and\lthey've just pulled it off!\pWe won't get a chance like this\nfor a long time. You've always been\lsomeone who listens to reason.\pWhat's stopping you from trying?
+3201e0|{C191F}That changes everything.\pI'll see what I can do, FUJI.\pGo back to LAVENDER TOWN. It's not\nwise to be seen around here. They\lcould get suspicious: two former\lSCIENTISTS like us meeting{C0805}…{C0805}
+320299|{C192C}You've finally come to your\nsenses! You'll see, GIOVANNI\lcan put an end to all this!
+3202ec|{C191F}You'll hear from me within the\nnext few hours. Until then{C0805}…{C0805}
+320332|{C191F}MAGMAR, TELEPORT!
+32034e|Mag!
+32035f|(FUJI USED ESCAPE ROPE)
+320377|{C1920}{V01}?\pThe assault on SILPH was a success\nin every way. RED took the bait.\lWe're all back at the HIDEOUT.\lReport to my office as soon as\lpossible.
+320501|So you decided to come.
+32051b|So be it. Against the power we've\ncreated here, there's no TRAINER\lwho can compete.
+3205ee|It doesn't look like the other\nmachines. It seems to serve a more\limportant purpose{C0805}…{C0805}
+3206c5|Diary: February 6\nMew gave birth. We named the\lnewborn Mewtwo.
+320751|Diary: July 10\nWe named the newly discovered\lPOKéMON Mew.
+3207a2|Diary: July 5\nGuyana, South America. A new\lPOKéMON has been discovered deep\lin the jungle.
+320849|Mind your own business. We're not\ndoing anything irregular of any\lkind, nothing of the sort, so\lget lost.
+3208db|Want something, ROCKET?\pCan't you see we're just two\nhonest workers trying to make a\lliving like everyone else?\pDon't waste any more of our time.
+320e18|We've got everything we need to\nget out of here for good!
+320e4e|Yeah. It's not smart to stay in\nKANTO any longer. They know us\lhere. We've scammed too many\lpeople.\pIn JOHTO we'll start a new\nchapter.
+320ed6|Who are you?\pA ROCKET?\pMind your own business.\pIf your business isn't working,\nthat's not our problem.
+320f4b|What?\pYou want back the $2,000,000 we\ncharged that SCIENTIST, the one\lwith the fake METEORITE?
+320faa|That's over and done with. He\nshould have noticed at the time.\lThere's nothing he can do legally,\lsince his claim period has run out.\pHis money is now legitimately\nours.\pDon't you get it?\pThat's what comes of knowing the\nlaw well, kid. Those who know it\lbest are the ones who look like\lthey're cheating.
+3210f5|Now, beat it. We're in the middle\nof moving, and once we cross the\lMT. SILVER border, KANTO's justice\lwon't be able to touch us. We'll\lbe long gone.\pLong gone and loaded!
+3211aa|So you insist… You ROCKETS are so\nignorant. Instead of acting in the\lshadows like us, you go public with\lyour misdeeds, and the whole world\lstones you in the media for it.
+321272|What's that?\pIt's not about robbing people, but\ngathering resources and sending a\lmessage to the KANTO region?
+3212e2|The last thing I need is a ROCKET\nof all people lecturing me!\pYou're about to taste the power of\nthe best POKéMON money can buy on\lthe black market!
+32138b|No way!\nI've been scammed!
+3213ac|They said these POKéMON could beat\nany TRAINER on the ROUTES.\pThis isn't over!
+321405|So you still insist that we\ngive that money back…\pNot only won't we give it back.\pWe'll take what you've\ngot too!
+321483|I lost too?
+32149b|Where did you buy those POKéMON?\nThey told me there were no better\lspecimens left on the black market.\pIt can't be!
+321512|Mind telling me what you're doing?\nWe agreed to clear out of here and\lhead for JOHTO 10 minutes ago.
+321583|This guy wants back the money\nthat SCIENTIST paid us for the\lrock from MT.MOON.
+3215dd|Hold on{C080F}…{C080F}\nI've seen you before{C080F}…{C080F}
+321610|The ROCKET rookie I tricked on\nMT.MOON!\pDidn't you have enough?
+321657|You might know more now about how\nthings work around here in\lKANTO, but you're still an amateur\lcompared to us.\pNo one beats us at cunning, at\nseizing the moment and striking\lwhen the victim is at their most\lvulnerable.
+32174b|That takes intelligence\nand intuition!\pAnd my intuition tells me your\nteam is too tired to handle\lanother battle!
+3217df|Where did you get that strength?\nThis wasn't part of our\lplans!
+321825|Curses… Don't think you're getting\naway with this, ROCKET. I fooled\lyou once and I can do it ag{C0805}…{C0805}
+32188d|W{C080F}-{C080F}wait!\nWhere the heck are you going?\pThere's nothing over there!
+3218c6|{V01} found 10 PROTEIN!
+3218e1|{V01} found 3\nRARE CANDY!
+3218ff|{V01} found 3\nTINY MUSHROOMS!
+32191a|YOU GOT A Lv.5 CHARMANDER!!
+32193e|NO!!\nThe CHARMANDER we were going\lto sell in JOHTO!\pThey're offering $400,000 there!
+32198a|What do you think you're doing?!\nStop right there and…!
+3219b8|{V01} found the $2,000,000\nstolen from the SCIENTIST!
+3219eb|That's enough!\pDon't think you've won, ROCKET!\pMost of the goods are already\nin our truck, on their way\lto JOHTO!\pAll you've managed to snatch are\nthe crumbs we hadn't loaded\lyet!
+321ab5|Someone like you will never visit\nJOHTO, so this is goodbye\lforever.\pEnjoy the poverty plaguing this\nregion, ROCKET!\pPoverty we helped along,\nho ho ho!
+321bce|SECRETARY: Thank you for informing\nour PRESIDENT of everything this\lgovernment has done to the region.\lAlthough we can't thank you\lpublicly, perhaps one day{C0805}…{C0805}
+321cf6|SILPH CO. HEAD OFFICE\n10F
+32257d|{C1906}Who's there?
+322591|{C1939}But… how is this possible?\pMy security, defeated by a\nmember of TEAM ROCKET.\pWhat's your name, kid?
+3225fc|{C1939}{V01}? {C080F}…{C080F} You must be from out of\ntown. No one from KANTO would ever\ldare barge into the HQ in their\lcapital like this.
+32267e|{C1939}So, ARCHI7{C080F}…{C080F} I see. Let me tell you\nsomething: you haven't seen anything\lof this region yet. KANTO's POKéMON,\lthe real ones, are nothing like those\lweak SENTRET or SPINARAK you grew up\lwith.
+32274b|{C1939}It's an insult that someone like you,\nwith such a poor culture and such\lshallow roots in POKéMON BATTLING,\lhas made it this far. It's just more\lproof of the decay plaguing this\lregion; the values that made us great\lhave been completely lost.
+322857|{C1939}Unfortunately for you, there are\nstill TRAINERS who haven't been\linfected by the virus of\lmediocrity and conformity.
+3228d6|{C1939}For the first time, you're going to feel\nwhat it's like to face an old-school\lKANTO team!
+322934|The power of those POKéMON{C080F}…{C080F} where\ndoes it come from?
+322968|{C1939}It's been decades since I saw a TRAINER\nwith your resources reach such a\llevel. You've reminded me of the good\lold days, when anything was possible.\pYour skill and passion belong to\nanother era.
+322a38|{C1939}So, {V01}. Listen, {V01},\nI can forget all this and have\lyou work for SILPH.\pA TRAINER of your calibre doesn't\nneed to waste their potential in\lan organisation like TEAM ROCKET,\lif only{C080F}…{C080F}
+322b09|{C1906}Don't waste your persuasion on\n{V01}, PRESIDENT.\pIt's me you need to talk to.
+322b69|{C1920}Great work, {V01}.\pEverything is going according to plan.\nAll I need now is time to talk with\lthe PRESIDENT.\pANDRA is right downstairs. She\nescorted me here personally.\lYou'll both stand guard until this\llittle business meeting is over.
+322c78|{C1920}I need you in top shape. Let me\nheal your team.
+322cb2|{C1920}And now, Mr. PRESIDENT, tell me.\pWhat do you think of the way this\nregion has been run in recent\lyears?\pAnd what if I told you there's an\nalternative, a change from which we\lcan all benefit?\pFrom you and your company, to us, and\nthe whole population of KANTO. You\lsee{C080F}…{C080F}
+322dd2|{C1907}Hey, {V01}!\pYou beat me to it this time! SILPH's\nSECURITY are about as tough as our\lHIGH RANKS, after all!\pIt wasn't easy finding an employee\nwith a CARD KEY, but it looks like\lwith yours, we've got 3 in total:\lmore than enough for our anti-RED\lescape plan{C080F}…{C080F}
+322f01|{C1907}Look at us. We went from digging\nfor FOSSILS on MT.MOON to being\lROCKET EXECUTIVES, with GIOVANNI's\lfull trust… to the point of being\lhere, making sure no one interrupts\la meeting that's vital to the\lfuture of an entire region.
+322feb|{C1907}You know what?\nAfter this mission's over, I\lthink I'll visit CINNABAR ISLAND.\pIt's the only place in KANTO, along\nwith the POKéMON LEAGUE, that I\lhaven't explored yet.
+323089|{C1907}That's where the POKéMON MANSION is,\nthe place where they made that MEWTWO.\pCould it really be the strongest\nPOKéMON in existence?
+323109|{C1907}Do you think GIOVANNI really has\nany idea where it is?
+323144|{C1931}Well, well{C080F}…{C080F}\pA ROCKET EXECUTIVE now, eh, {V01}?\pThings haven't gone badly for you\nsince then; as you can see, they\lhaven't for me either.
+3231c7|{C1906}Good work. You'll get your\nOLD AMBER, just as I promised.
+323207|{C1921}We meet again, {V01}.\pI admit I underestimated you that\ntime you broke into my house on\lROUTE 25. I thought you were just\lanother poor GRUNT{C0805}…{C0805}
+3232a8|{C1921}But your mistake is believing that a\nROCKET, whatever their rank, stands\la chance against BILL, the greatest\lcollector in the world.
+323331|{C1907}You're just a spoiled brat!\pYou can buy the tools, but not the\nmind or the heart of a true\lTRAINER.\pWithout those, you'll never beat\nsomeone like {V01}!
+3233d9|{C1921}And who are you, insolent girl?\pI didn't come all this way to talk\nto some run-of-the-mill ROCKET with\lrun-of-the-mill, low-class POKéMON.
+323468|{C1921}I came here to demand that the\nPRESIDENT hand over the MASTER\lBALL, before it even goes on\lthe market!
+3234e7|{C1921}As one of SILPH's major\nshareholders, I demand you stand\laside. If you don't cause trouble,\lI might let you escape, so you can\lprolong your miserable existence\la little longer.
+3235a9|{C1921}With that BALL I'll have everything\nI want…\pImagine it!\pThe LEGENDARY BIRDS, even the legendary\nMEW, caught and admired as part of my\lgreat collection; the only KANTO\lPOKéMON I still need to complete it.
+323689|{C1921}Your presence here won't\nrob me of my glory.
+3236bf|{C1921}Out of my way! Final warning!
+3236e2|{C1907}Neither you nor your bought POKéMON\nscare us.\pTEAM ROCKET has far more important\nbusiness here than some spoiled\lbrat's stupid collection.
+32377c|{C1907}You're not going anywhere, like it\nor not!
+3237a5|{C1921}So that's how it is{C080F}…{C080F}\pSo be it. I had no trouble at all\ngetting rid of your ADMIN.\pYou're next.
+32383f|{C1921}Deal with the girl.\n{V01} is mine. He deserves to be\lpunished for that stunt at my house.
+32389f|{C1931}As you wish, Mr. BILL.
+3238bd|{C1907}Hold on!
+3238cd|{C1907}We can settle this a lot\nfaster{C0819}…{C0819} with a DOUBLE BATTLE.
+32391b|{C1921}I've been listening to you for two\nminutes, and you're already just as\linsufferable as {V01}.
+32396a|{C1921}Pick whatever way of losing you\nlike, girl. Just do it now!
+3239af|{C1907}So, {V01}. Want to team up\nwith me and teach them a lesson?
+3239f1|{C1907}That's it! Let's show them how two\nROCKET EXECUTIVES work!
+323a2d|{C1907}Hmm… I get it. I'd want to give him\nwhat he deserves too, after the trap\lhe set for you.
+323a96|{C1907}Go get him, {V01}.\pI'm not going to lose!
+323abf|{C1921}You know something, {V01}?\pThere are all sorts of rare POKéMON.\pSLOWPOKE, CUBONE{C080F}…{C080F} those are the\nsorry POKéMON a POKéMANIAC has to\lsettle for. That's how they try to\limitate me, thinking it lets them\lcall themselves collectors, like me.
+323bb7|{C1921}Poor fools…\pLet me tell you something about truly\nrare POKéMON: the simple fact is\lthat the rarest POKéMON in existence\lare also the strongest.
+323c59|{C1921}Don't believe me?\pI'll show you the cream of my\ncollection!
+323c97|Wh-what!?\nBut I have the very best with me!
+323cc5|{C1907}URSARING, SLASH!
+323cdf|How did you beat BILL's\ncollection?
+323d0c|{C1907}Ha!\pThose POKéMON aren't enough to\ntake mine down!\pEven if BILL gave them to you!
+323d6b|{C1921}It's not possible…\pI have PORYGON2, the latest in\ntechnology, developed by SILPH\litself, plus the rest of the\lstrongest, rarest POKéMON in\lthis region.
+323e0c|{C1931}Mr. BILL!\pLet's go before the rest of the\nROCKETS realise you've failed!\pIt could be dangerous. You know how\nbadly some ROCKETS want to get\ltheir hands on you!
+323eb3|{C1921}So you win, eh?\nNo one has ever denied me, {V01}.\pIf I want that MASTER BALL, I'll get\nit one way or another. All you've\lachieved here today is digging your\lown grave.
+323f6d|{C1921}No one messes with BILL, the\ngreatest collector in the world.\pThe next time we meet, I'll use\neverything in my power to\lcrush you.
+324009|{C1920}ANDRA! {V01}!\pIt's over. The negotiation was a\nsuccess. Not only did I get SILPH\lto provide us with the MASTER BALL,\lthey'll also keep it from the public.
+3240b0|{C1920}Today we've gained a powerful new\nally, one the media will see as a\lvictim of our greed.
+324121|{C1920}Now only the easy part remains:\nputting on a show for RED.\pAs soon as I lose, I'll go up to the\nroof of SILPH and escape with FLY.\pFlying over all of SAFFRON CITY, in\nfull view of everyone.
+3241e5|{C1920}With that said, you're both relieved\nof the mission. You've more than done\lyour part, and I don't want RED to run\linto two EXECUTIVES of your calibre.
+324286|{C1920}You've earned a holiday. Do as you\nplease, and visit whatever you have\lleft to see in this beautiful region.
+3242fe|{C1920}Here is your reward.\pThe loyalty of a company like SILPH\nis priceless: anything I could give\lyou is only symbolic.
+324389|You pocketed $400,000!
+3243a5|{C1920}And this is from the PRESIDENT,\nas thanks to you both for\lensuring the privacy of our\lconversation.
+324424|YOU RECEIVED A Lv.40 PORYGON!
+324447|{C1920}It's a PORYGON, the first man-made\nPOKéMON, which sells for a fortune\lat our GAME CORNER.\pThe PRESIDENT was kind enough to\nequip yours with an UP-GRADE, an\lupdate they've been developing for\lyears.\pJust use this item on PORYGON as if\nit were a stone, and it will evolve\linto PORYGON2.
+3245a2|{C1920}According to the PRESIDENT, only one\nperson has had the honour of owning\lthis POKéMON before you.
+324618|{C1920}That's all. You're dismissed.\pI'll let you know when we launch\nthe next big operation.\pEnjoy your little holiday{C080F}…{C080F}\nand keep improving.
+3246bb|{C1907}So, PORYGON2.\pIf I hadn't seen BILL use it, I'd put\nit on my team, but I'll never use the\lsame POKéMON as that stuck-up jerk.\pI'll have a think about my final\npick{C0805}…{C0805}
+324785|{C1907}Oh, right!\pThe CARD KEY!\pWe have to leave it somewhere\nRED can get to it!\pDon't worry, {V01}, I'll take\ncare of it. I think I know the\lperfect place to "hide" it so he\lcan find it. Leave it to me!
+324873|{C1907}I'll tell BLUE to stay on guard\nduty so he can warn GIOVANNI\lthe moment RED reaches his\larea. Nothing to worry about,\l{V01}, everything's under\lcontrol{C0805}…{C0805}
+324b1b|{C1926}What's troubling you, PRESIDENT?\pIt should be a source of pride and\ncelebration that LANCE and KANTO's\lGOVERNMENT are placing their trust\lsolely and exclusively in your company.
+324bc6|{C1939}Oh, don't misunderstand me,\nCHAMPION LANCE. We're honoured\lto serve as a pillar of our beloved\lregion, it's just that{C0805}…{C0805}
+324c46|{C1926}I see. You're a staunch defender\nof the original 150. A seasoned\lspecialist in KANTO POKéMON. And\lyou don't quite like the idea of\lan outsider taking charge.\pAm I right, PRESIDENT?
+324d24|{C1926}Allow me to remind you who\npossesses this region's signature\lPOKéMON.
+324d75|{C1926}Do you trust me now, PRESIDENT?
+324d99|{C1939}There's been a misunderstanding…\pI was referring more to{C0819}…{C0819} the rest\nof the population. My company has no\lcomplaints, but{C0819}…{C0819} if you and I\lsplit the whole pie between us{C0819}…{C0819}\pWhat will be left for everyone else?
+324e6c|{C1926}I'm afraid that's not your\nconcern, PRESIDENT. Let's be\lclear: you and I are not in the\lsame boat, except on this\lparticular matter.\pKANTO's fate will be my business.\pHave I made myself clear?
+324f51|{C1926}Now, if you'll excuse me, I have a\nmeeting with the ELITE FOUR.\lIf you meet my expectations, I may\lgive you a seat there. I hear you're\lan excellent TRAINER, and AGATHA\lwill be retiring soon.
+325022|{C1926}Until next time, Mr. PRESIDENT.\nAnd remember my words.
+325070|{C1903}DRAGONITE isn't KANTO's\nsignature POKéMON.
+3250a1|{C1903}KANTO's signature POKéMON is, and\nhas always been, RHYDON. That's why\lits figure appears on every statue\lin the region.
+32511c|{C1903}That's why GIOVANNI keeps one on\nhis team.
+3251bb|{C1939}My, my…\pYou shouldn't be strolling around\nhere so casually, young man!
+325200|{C1939}GIOVANNI turned out to be right, boy.\pLANCE's government only wanted to\nkeep itself in power at the cost\lof everything else.\pAll of LANCE's policies and measures\nwere designed to strip KANTO's\lTRAINERS of resources, to crush any\lattempt to retake the POKéMON\lLEAGUE.\pThanks to your intervention, GIOVANNI\nwas able to show me how this would\lend if my company didn't step in.\pHere. I'm sure you'll make great\nuse of our flagship product.
+3253da|{C1939}That's right, 5 MASTER BALLS.\pUse them only on POKéMON you\nreally can't catch with any\lother BALL.\pI gave that RED a MASTER BALL too.\pHe left genuinely believing he'd\nreally saved us.
+3254b0|{C1939}You're still here, boy?\pRemember, nobody can see a\nROCKET around here!\lOtherwise people will start\lasking questions!
+325575|Do you really have the nerve to\ncome back here after the stunt\lyou lot pulled?
+325633|SILPH CO. HEAD OFFICE\n9F
+32568a|Heal you? So you can keep\ninvading us? Public centres heal\lyou because the law makes them.\lWe're a private company! I hope\lall your POKéMON faint!
+3257dd|SILPH CO. HEAD OFFICE\n8F
+32581a|Your BOSS is a cruel\ndictator!\lHe only uses POKéMON as weapons\lto get what he wants!\lSomeone like that will never take\lcontrol of SILPH!
+3258cb|Have mercy!\nI'll stay right here and won't\lcause any trouble, honestly!
+325913|Your time has come!\nEveryone involved in this\lraid will be found and\lbrought to justice!
+325a0d|SILPH CO. HEAD OFFICE\n7F
+325a71|No, please!\nSomebody come and save me!
+325a9f|Not so brave now that you've\nfallen flat on your faces, eh!
+325b04|The MASTER BALL will be a luxury\ngood, available only to the top\lTRAINERS who can afford it.\lThat BALL is way out of your\lleague!
+325b9a|Look what you've done!\nBecause of you, the PRESIDENT\lhas cancelled the MASTER BALL\lproject!
+325c28|You'll never take control of\nthis company! Our PRESIDENT\lknows how to deal with your\lsort!
+325c9b|You got what you deserved.\pNow all that's left is to wait\nfor your trial.
+325dbd|SILPH CO. HEAD OFFICE\n6F
+325e62|{C1938}Without the CARD KEY none of\nyou will get anywhere. You won't\llay a finger on our\lPRESIDENT.
+325edd|{C1938}What?\nYou want to know where it is?
+325f00|{C1938}I'm not like the rest of the\nworkers around here, ROCKET.\lI'm not going to stand by and\lwatch you threaten us. Get ready\lto be taught a lesson!
+325f98|Did a ROCKET really just teach\nme a lesson?
+325fca|{C1938}All right, I'll talk!\pOne of our employees on 5F is in\ncharge of security. He's a coward,\lso you won't have any trouble\lgetting the CARD KEY if you ask\lhim about it.
+326082|{C1938}What now? I've told you what I\nknow, leave me alone!
+326222|{C1908}So this is where you were, {V01}!
+326240|{C1908}GIOVANNI sent me to SILPH too.\nAbove all, he wants me to keep\lhim informed of RED's location.\pWe're going to set a trap for him.\pListen.
+3262d6|{C1908}ANDRA and I managed to get 2\nCARD KEYS off the SILPH workers.\lWithout them, RED won't be able\lto get near the meeting between\lGIOVANNI and the PRESIDENT…\pNot until we want him to{C080F}…{C080F}
+3263a7|{C1908}The plan is to keep these keys\nsafe, at least until GIOVANNI\lhas said everything he needs\lto say to the PRESIDENT.
+326432|{C1908}After that, we'll lock the doors\nagain and leave a CARD KEY lying\laround somewhere in SILPH.
+326490|{C1908}That busybody RED is sure to\nfind it eventually.\pHe's an expert at picking up other\npeople's stuff and sticking his nose\lwhere it doesn't belong!\pThen he'll do us the favour of making\nhis way to GIOVANNI, who'll fake a loss.
+326564|{C1908}The fool will think he's won, and\ntrust me, he will: he's used to\lfighting much worse opponents.\pGIOVANNI will be a little stronger\nthan usual, at most.\pWe'll also leave the weakest\nROCKETS around, to make the\ldifference in level stand out.
+32666e|{C1908}After this, you'll all have what\nyou want, and I can carry on with\lmy plans to be the new CHAMPION.
+3266d5|{C1908}Don't worry, ROCKETS.\pNothing would suit you better than a\nCHAMPION on your side, instead of\lLANCE or RED, right?
+326757|{C1908}If all goes well, this region could\nsee a lot of changes, very soon.
+32679f|{C1908}I won't keep you any longer, {V01}.\pANDRA has already told GIOVANNI;\nhe must be on his way. You should\lkeep going and beat whatever's left\lof security, so your LEADER can\lstart negotiating with the\lPRESIDENT as soon as he arrives.
+326884|{C1908}Hurry, {V01}.\pBeat what's left of security\nbefore GIOVANNI gets here.
+326908|If it's the MASTER BALL you want,\nour PRESIDENT will never\lgive in.
+32694e|That kid gave you all what you\ndeserved!
+32699a|Don't scare this employee!\nCan't you see he's a coward?
+3269d2|He was so helpless…\nIn the end I married him to\llook after him.
+326a30|You'll never conquer this\ncompany!
+326a54|You failed! You're history!
+326a97|Don't hurt me!\nI won't cause any trouble!
+326abe|Ha! You got what you deserved!\nCowards!
+326b56|SILPH CO. HEAD OFFICE\n5F
+326bee|A ROCKET!\nHave mercy, please!
+326c0e|You can't do anything to me now!\nHeh heh heh!
+326c37|No! Don't hurt me!
+326c58|What?\nThe CARD KEY?\pI'll give you whatever you want,\njust have mercy!
+326c9e|I already gave you what you wanted!\nLeave me alone, please!
+326cd8|The EMPLOYEE handed you a\nCARD KEY!
+326d33|Our security will deal with\nall of you, you vermin{C0805}…{C0805}
+326d98|SILPH was after two ROCKETS who\nkeep causing trouble.\lAre you one of them?
+326de8|You should learn from that RED!\nHe taught you lot a good lesson!
+326ef9|A POKéMON REPORT!\pPORYGON, the first virtual\nPOKéMON, was created at the\lPOKéMON LAB.
+326f6a|A POKéMON REPORT!\pIt has been confirmed that some\nPOKéMON evolve when they are\ltraded.
+326fe7|A POKéMON REPORT!\pOver 350 POKéMON moves\nconfirmed!
+327039|SILPH CO. HEAD OFFICE\n4F
+327094|Oh, no! You found me!\nDon't hurt me!
+3270c1|Huh?\nYou're still here!
+327175|SILPH CO. HEAD OFFICE\n3F
+3271d0|You'll regret this!
+3271eb|You got what you deserved,\nROCKETS!
+32727b|SILPH CO. HEAD OFFICE\n2F
+3272ee|Oh, no!\nWait!\lI'm not allowed to teach your\lPOKéMON THUNDER WAVE!\lBut I can give you something\lbetter! Look!
+327360|With that MAGNET held by a\nPOKéMON, its Electric moves get\la 20% power boost.\pIsn't that better than that boring\nTHUNDER WAVE move that only drags\lbattles out?
+3274ec|SILPH CO. HEAD OFFICE\n1F
+327550|{C1917}I'm counting on you.\pI'll stay here and make sure nothing\ngets in that could compromise\lthe mission.\pHurry!
+3275d7|Yes sir, EXECUTIVE {V01}!
+327601|This day will go down in the\nhistory books as the day\lTEAM ROCKET took control of\leverything!
+327682|Come at me, SILPH Security!
+3276b0|That feeling of uncertainty right\nbefore you spring into action. It's\lmissions like this that made me\ljoin TEAM ROCKET. You'll never\lfeel as alive as you do now!
+327794|Let's show SILPH who really holds\nthe power around here!
+3277e2|Honestly, SILPH is impressive from\noutside. There's nowhere else in\lthe region as tall as this.
+32784d|TEAM ROCKET's ELITE are nothing\nlike your average GRUNT. Right\lnow, all our POKéMON are around\llevels 35-40.\pOf course, we have direct orders\nfrom GIOVANNI to vanish as soon\las he's finished telling the\lPRESIDENT what he has to say. On\ltop of that, we're banned from\lbattling this RED kid; he doesn't\lwant him to know what we're\lcapable of.
+3279c3|I like the vibe of this place.\nIt reminds me a bit of our\lDEEP ROCKET BASE.
+327a2e|SILPH and TEAM ROCKET think alike,\nmore than they realise, and we'll\luse that to win over the\lPRESIDENT.
+327ab1|I'm sure SILPH and TEAM ROCKET\ncan come to a good arrangement!
+327b01|If our LEADER GIOVANNI decided\nto fight with all his power, I\ldon't think there's a TRAINER in\lthe whole region today who could\lkeep up with him. He's become\lextraordinarily strong.\pAll these years of being stoned by\nthe media have only hardened him\leven more than he was when he\lfirst won the title of KANTO\lCHAMPION.
+327c64|If all goes well, we'll lie low\nfor a while, but we'll keep\lgetting stronger{C0805}…{C0805}
+327cd6|Very important things are going\nto happen here today.
+327d10|SILPH's power reaches across\nARCHI7, but TEAM ROCKET's will\lreach across the whole world!
+327d7c|In TEAM ROCKET we act as a single\nbody. That's what makes us strong.
+327dce|The workers here aren't used to\nseeing us. They live in a city cut\loff from reality. I wouldn't be\lsurprised if lots of them wet\lthemselves, even though we won't\lhurt them, of course.
+327e9e|SILPH CO. HEAD OFFICE\nLOBBY
+32806c|{C1937}I'll never forget what you did\nhere, ROCKET!
+3280ab|{C1937}Oh, yes!\pYou're the boy who was coming\nto visit our library!\lYou're very lucky, you know?
+328118|{C1937}No one from outside the company\nhas ever been inside, and only our\lmost distinguished employees have\laccess to it.\pBut our PRESIDENT{C0805}…{C0805}
+3281a8|{C1937}He's made it expressly clear that\nyou may come in whenever you\llike.
+3281f9|{C1937}From now on, you can reach our\nlower floors just by using my\lcomputer. Good luck with your\lsearch!
+328377|This computer seems to serve a\nvery important purpose{C0805}…{C0805}
+32853b|Which floor would you like?
+328ca7|{C1920}Go back to the train tracks, {V01}.\nThe GOLDENROD-SAFFRON line is all\lbut finished; only that POKéMON\lstands in our way. If you follow\lthe tracks all the way from\lGOLDENROD CITY, you'll find it\leventually.
+328d86|{C1920}PROFESSOR OAK will be waiting for\nyou in what's left of CINNABAR\lISLAND.\pTrust him, {V01}.\nHe'll tell you what to do.
+328e0f|{C1920}Go to the HOENN BASE, {V01}.
+328e37|{C1920}Enjoy JOHTO, {V01}. Make the most\nof every corner of it and go further\lthan anyone else has gone. One day\lyou'll look back and realise all\lyou've seen and lived through. Every\lstory has its end, but this\lone{C0819}…{C0819} not yet.
+328f35|{C1920}We're going to unravel the mystery\nof the ESSENCE POKéMON once and for\lall. Once it's uncovered, nothing will\lstop us from making KANTO and JOHTO\lthe great powers of the POKéMON WORLD.
+328fef|{C1920}The JOHTO region has more history\nand tradition than anywhere in the\lknown world. There's no doubt\lthere's something{C0819}…{C0819}spiritual\labout the place.\pAnd though we may never truly\ncome to understand it, we\lcan't ignore its power.
+3290eb|{C1920}The POKéMON LEAGUE has stood\nunbreachable since the war, but having\lno opposition has also weakened them.\lLANCE trusts in his POKéMON's\lsuperior BASE STATS, but you defeated\lthe SACRED BIRDS. You know first-hand\lthat's not everything in a battle.
+32921c|{C1920}Go to the POKéMON MANSION, {V01},\nand show OAK how a TRAINER in tune\lwith his POKéMON fights.
+32928e|{C1920}Perhaps that secret entrance is in\nthe old parts of LAVENDER TOWN.\pHave you looked in POKéMON TOWER?
+3292ff|{C1920}Talk to the SILPH receptionist.\nShe'll show you the great private\llibrary they keep in the basement.\pAccording to the PRESIDENT, the\ndata on that ESSENCE POKéMON is\lon B3F, in the last room.
+3293de|{C1920}Relax and enjoy ARCHI7.\pThere's a lot to do there if you\nknow where to go. Maybe if you visit\lARCHER at our HQ, he'll show you\lsome of its secrets.\pNo one knows ARCHI7 better than\nARCHER.
+3294b7|{C1920}You can take on the GYMS in\nwhatever order you like, {V01}, but\lI recommend the traditional order.\lIn any case, the CINNABAR GYM is\lcurrently closed.\pWe'll have to wait for that scoundrel\nBLAINE to reopen it. And remember,\lonce you have the first 7 BADGES,\lthere's still our very own\lVIRIDIAN CITY GYM.
+329618|{C1920}I'm counting on you, {V01}. SILPH's\nsecurity is known to be ruthless,\lbut they've never faced TRAINERS\llike ANDRA or you.\pGo to SILPH and show them how a real\nROCKET EXECUTIVE fights!
+3296f3|{C1920}We've located an ARTICUNO on the\nSEAFOAM ISLANDS. To get there, you'll\lfirst need to cross ROUTES 12, 13,\l14 and 15, south of LAVENDER TOWN,\land then the sea off FUCHSIA CITY.\pDon't get overconfident, {V01}.\pMy advice: treat the whole journey\nto ARTICUNO as training. It takes\lmore than battle skills to defeat a\lSACRED POKéMON.
+32985b|{C1920}So you think I'm being\ninefficient and setting a bad\lexample, sitting here apparently\ldoing nothing, unlike the other\lexecutives who work with all\lsorts of technology.\pLet me tell you something, boy:\nonce you've seen what I've seen,\lthere comes a point where your\lown inner thoughts are far more\lpowerful and valuable than any\linformation you can find out there.
+3299f5|{C1920}The meeting with FUJI is vitally\nimportant to us, {V01}.\pOnce in POKéMON TOWER, BLUE will\nsecure the lower floors, while you\lstand guard on the upper ones and\lalert PROTON to any trouble.
+329aed|{C1920}Well? I want that KANGASKHAN out\nof ROCK TUNNEL. You can get there\lthrough the UNDERGROUND PATH east\lof CELADON, which leads to LAVENDER\lTOWN. From there, ROCK TUNNEL is\ljust to the north.\pRemember, I don't want you going\ninto POKéMON TOWER. We have plans\lthere.
+329c01|Don't worry, bro!\nEven if someone got into\lour BASE, they could never\lreach our LEADER!\pNot without the LIFT\nKEY! Ho ho ho!
+329cb8|The modern hypocrite calls "respect"\nwhat is nothing but fear of the\lpowerful.\pNow, suddenly, LANCE\n"respects" GIOVANNI.
+329d33|Show respect and keep your\ndistance when you approach\lour LEADER, recruit. If we're\lknown for anything, it's\lfollowing protocol flawlessly.
+329f75|{C1907}Late as always!\pYou haven't even seen GIOVANNI yet\nand our great LEADER has already\lgiven me a mission!\pHow about that?\pApparently there's been a lot of\ntrouble in FUCHSIA CITY over the\lbikers and CYCLING ROAD, and that's\lwhere we come in as\lmediators{C080F}…{C080F} if you know what\lI mean.
+32a0a8|{C1907}What do you think of our new\nworkplace?\pLooks like PETREL was exaggerating\nwhen he said the CELADON hideout\lwas nothing like the one on ROUTE\l5. Sure, it's much bigger, but it\llooks really similar, don't you\lthink?
+32a18f|{C1907}Anyway, I'm off. My first\nmission here can't have a single\lslip-up. It'll be carried out\lflawlessly.
+32a201|{C1907}By the way, GIOVANNI was\nasking about you. You should go\lreport to his office now. He may\lwant something specific from\lyou.
+32a284|{C1907}Like I said!\pFUCHSIA CITY is mine!
+32a6cb|{C1906}Presenting HIGH-RANKING GRUNT\n{V01}, sir.
+32a709|{C1906}He has officially served on 4\nmissions, succeeding in 3 of\lthem. He stopped the CONSUL of\lFIVE ISLAND before she could\lcompromise our trade position; he\lwas key to stealing BILL's patent,\lwhich radically improved our comms;\land he also stole the famous relic\lof the S.S. ANNE's CAPTAIN{C080F}…{C080F}
+32a862|{C1906}His only defeat in battle was at\nthe hands of that mysterious TRAINER\lduring the MT.MOON fiasco.\pAccording to witnesses, he was the\nonly GRUNT who wasn't intimidated\lby his rival's absurd power, and\lfought to the very end.
+32a949|{C1920}Excellent, PROTON.\pThank you for the introduction.
+32a97c|{C1920}As you can see, we leave\nnothing to chance here. We take\linto account every result from\levery cell that makes up this\lgreat organisation. Combining\land evaluating them properly is\lthe fairest way to decide each\lmember's place.
+32aa80|{C1920}So you come from FIVE ISLAND{C080F}…{C080F}\pMany of the things you've seen in\nKANTO will seem strange to you. I\lassure you it's a region worth\lvisiting; it has iconic places,\lexcellent POKéMON and a unique\lhistory.\pIts people, however{C0819}…{C0819}\nare another matter.
+32ab91|{C1920}As a ROCKET, you enlisted in\nour organisation to steal\lPOKéMON and other valuables that\lbalance out our cash flow.
+32ac36|{C1920}That's the role of 90% of\nROCKETS. An unethical role, but\la necessary one, I must add.
+32ac99|{C1920}However, both ANDRA and you have\nbeen promoted to HIGH RANK. That\ltakes you away from missions like\lthese, and makes you part of far\lmore important matters for TEAM\lROCKET's medium and long-term future.
+32ad75|{C1920}It also means privileged\naccess to information about\lour organisation's ultimate goal,\lthe current situation in KANTO,\land the true history of this\lregion.
+32ae2c|{C1920}But it's still too early. I want\nyou both to grow and improve even\lmore under my command, to explore\lthe region a little more, enjoy\lit{C0819}…{C0819} and in due time, we'll\lhave a meeting.
+32aeee|{C1920}That's one thing. Now let's move\non to the second part of this talk:\lI want you to tell me about that\lmysterious TRAINER.
+32af66|{C1920}You faced him longer than anyone.\nTell me everything about him: his\lPOKéMON, the items and moves he used,\lhis battle style, traits, attitude,\lweak points{C0819}…{C0819} anything that\lcomes to mind.
+32b035|{C1920}{C0819}…{C0819} …{C0819}\pI see. He doesn't sound like\nanyone ordinary. You don't just\lcome across a CHARMELEON in\lKANTO these days.\pOnly the elite have access to that\nkind of POKéMON; they haven't been\lfound in the wild for a long time.
+32b10d|{C1920}If he was also carrying a POKéDEX,\neverything suggests the boy comes\lfrom PALLET TOWN. The team you've\ldescribed is absurdly powerful,\lgiven the distance between PALLET\lTOWN and MT.MOON, and how little\lexperience he must have as a\lTRAINER.
+32b215|{C1920}Perhaps someone of that calibre\nseems out of reach to you, and\lcertainly… he is a threat.
+32b275|{C1920}But{C080F}…{C080F} believe me when I say KANTO is\nmuch more than one TRAINER. However\lstrong he may be, no one, absolutely\lno one, is untouchable, and everyone,\lone way or another, can fall to the\lright opposition.
+32b352|{C1920}You'll come to see how far away\nwhat you now think of as your limits\lreally are, the deeper you go into\lour organisation.
+32b3db|{C1920}That's all as far as "RED" goes.\pNow, let's move on to the third and\nfinal part of why you're here.\lLet's talk about{C0805}…{C0805}
+32b455|{C190A}Excuse me, sir.\nThe FUCHSIA CITY GYM LEADER wants\lto see you immediately. He says it's\lurgent, sir.
+32b4c8|{C1920}Send him in.
+32b4da|{C1920}I hope your reason is a\npressing one, KOGA.\pYou've just interrupted my meeting\nwith young recruit {V01}.
+32b546|{C191D}Haven't you heard yet?\pThere are rumours a KANGASKHAN\nhas been spotted deep inside\lROCK TUNNEL!
+32b5b8|{C1920}Go on.
+32b5c5|{C191D}If that turns out to be true,\nthe SAFARI ZONE would lose a huge\lnumber of visitors, all heading\loff to hunt the rare mother\lPOKéMON on their own.
+32b65b|{C191D}We've sold the SAFARI ZONE as a\nunique place, home to POKéMON\lthat can only be found there.\lKANGASKHAN is one of the biggest\lsymbols of that flora and fauna.
+32b70c|{C191D}Supposedly, they're only there\nbecause of our captive breeding,\land nothing else.\lThey can't just appear out of\lnowhere. Someone must have pulled\la stunt and released one that was\lcaught there.
+32b7c0|{C191D}GIOVANNI, as the owner of 20%\nof the SAFARI ZONE's total shares,\lI've come to inform you, but above\lall to ask you to deal with this\lsituation.

@@ -1,0 +1,169 @@
+e86ecc|Levels: {V03}
+e86ed8|KOs in row: {V03}
+e86eec|Rooms: {V03}
+e86ef8|Win streak: {V03}
+e86f1c|OPEN LV
+e86f30|Levels: {V02}
+e86f3c|Times: {V02}
+e86f48|KOs in row: {V02}
+e86f5c|Times: {V02}
+e86f68|Rooms: {V02}
+e86f74|Wins: {V02}
+e86f84|Win streak: {V02}
+e86f98|Total
+e86fa0|Rents/swaps
+e86fb0|PREV.
+e86fb8|RECORD
+e86fc0|CURRENT
+e86fd8|OPEN LV
+e87065|   Pal
+e87080|{V01}'s LINK CONTEST:
+e8709f| Awaiting link…
+e870b4|Somebody dropped out.\nThe link will be cancelled.
+e870e8|Want to play again?
+e87101|   Can't carry any more!
+e8711b| No room left.
+e87162|  PERFECTS in a row:
+e87179|   Best score:
+e871ac|Awaiting link…
+e871c0| points
+e871c8|Somebody dropped out.\nThe link will be cancelled.
+e871fc|Want to play again?
+e87215|   No room left.
+e8722b| You can't carry more!
+e87273| Here are the prizes!
+e8728c|Here are the rankings!
+e872c3| DODRIO BERRY PICKING!
+e872e0|BERRIES picked in one go\nby 5 players:
+e8730e|  Best score:
+e87321|   BERRIES picked:
+e87339|   PLAYER
+e87344|Explore and reach the top!\nPut your bravery to the test!
+e87380|Choose one of three paths to\nbattle! Put your luck to the test!
+e873c8|Win with rental POKéMON!\nPut your knowledge to the test!
+e87404|Choose your POKéMON well to win!\nPut your guts to the test!
+e87444|Watch your POKéMON battle!\nPut your spirit to the test!
+e8747c|Win match after match to the\nfinal! Put your tactics to the test!
+e874c4|Beat your rivals and reach the\nend! Put your ability to the test!
+e8750c|PYRAMID
+e87518|PIKE
+e87520|FACTORY
+e87528|ARENA
+e87530|PALACE
+e87538|DOME
+e87540|TOWER
+e87548|There is no recorded battle.
+e87568|BATTLE PYRAMID's BRAVE SYMBOL.
+e87594|BATTLE PIKE's LUCK SYMBOL.
+e875c0|BATTLE FACTORY's KNOWLEDGE SYMBOL.
+e875e8|BATTLE ARENA's GUTS SYMBOL.
+e8760c|BATTLE PALACE's SPIRITS SYMBOL.
+e87634|BATTLE DOME's TACTICS SYMBOL.
+e87660|BATTLE TOWER's ABILITY SYMBOL.
+e8768c|These are the symbols you earned.
+e876b0|These are the Battle Points you earned.
+e876dc|Save the FRONTIER PASS.
+e876f8|Watch the recorded battle.
+e87710|View your TRAINER CARD.
+e8772c|View the BATTLE FRONTIER map.
+e87758|Battle Points
+e8776c|Battle Record
+e8777c|Symbols earned
+e8778f| {V02} PLAYER
+e8779a|  Press speed:
+e877ad|   BERRY CRUSH
+e877bd|   Power
+e877c9|   Overall
+e877d8|Purity
+e877df| Crushing
+e877ef| Times
+e87800|times/s
+e8780e|   seconds 
+e8782f| Smooth:
+e8783a|  Press speed:
+e8784d|   Time:
+e87858|{V02}BERRY
+e87866|   time(s)
+e87888|Awaiting link…
+e8789c|Time's up!\pGood POWDER couldn't be made\nfrom the BERRIES…\p
+e878db| Somebody dropped out.\nThe link will be cancelled.
+e87910|You don't have any BERRIES!\nYou can't use this.
+e87945|   Use the BERRY CRUSH again?
+e87968|Saving your game data.\nPlease wait.
+e879a8|{C17}{C0B6F01}You got {V02} grams\nof silky BERRY POWDER.{C18}\pYou now have {V03} grams of\nBERRY POWDER in total.\p
+e87a10|Someone hasn't chosen a BERRY.
+e87a33| The BERRY CRUSH is ready!\nPlease select a BERRY.\p
+e87a6c|Give a nickname to {V02}?
+e87a8c|{V02} hatched from the EGG!
+e87aa8|{V01} scurried to a POKéMON\nCENTER to regroup and\nrethink their strategy…\p
+e87af8|{V01} scurried to a POKéMON\nCENTER to regroup and\nrethink their strategy…\p
+e87b48|{V01} scurried home,\nprotecting the exhausted\nPOKéMON from further harm…\p
+e87b94|{V01} scurried to a POKéMON\nCENTER, protecting the\nexhausted POKéMON from harm…\p
+e87be8|BYE!
+e87bf0|THANKS!
+e87c06|  SORRY
+e87c12|  OK!
+e87c1b| GO!
+e87c24|BATTLE
+e87c2c|TRADE
+e87c37| POKéMON
+e87c40|HI!
+e87c47| If the LEADER leaves, the\nchat will end. Is that okay?
+e87c9a|  SAVING…\nDON'T TURN OFF THE POWER.
+e87cbe|  There is already a saved file.\nOverwrite it?
+e87cf6|  The registered text has changed.\nSave the game?
+e87d56|  Leaving the group…
+e87da1|   Write
+e87dad|   Register here?
+e87dc4|Where should the text go?
+e87ddf| Exit
+e87de6|  REGISTER
+e87df1|   symbols
+e87dfd|   OTHER
+e87e06|  lower
+e87e0f| UPPER
+e87e3c|Awaiting link…
+e87e66|  Results of the 2nd vote!
+e87e88|Results of the 1st vote!
+e87ea8|Here are the results!
+e87edb| None
+e87ee1|   Use
+e87eec|{V02} MULTI LINK
+e87f00|{V02} MULTI
+e87f0c|{V02} DOUBLE
+e87f18|{V02} SINGLE
+e87f28|BATTLE PYRAMID
+e87f3c|BATTLE PIKE
+e87f4c|BATTLE ARENA
+e87f5c|BATTLE FACTORY
+e87f6c|BATTLE PALACE
+e87f7c|BATTLE DOME
+e87f8c|BATTLE TOWER
+e87fc0|BATTLE TOWER
+e87fdb| BATTLE POINTS EARNED
+e88010|BERRY CRUSH
+e88051|   Kanto:\nJohto:\nArchi7:\nHoenn:
+e88074|{V02}'s Badges
+e88088|Time
+e88092|   points
+e880a4|Pokédex
+e880b0|Money
+e880b8|IDNo.
+e880c0|Name: 
+e880cc|FRAME
+e880d4|{V02} was cured of\nits poisoning.{C09}\p
+e880f6|  3rd prize
+e88106|  2nd prize
+e88117| jackpot
+e88125|   pot
+e8812d|   DUAL
+e88136|  SINGLE
+e88143| sour
+e8814a|  bitter
+e88153| sweet
+e8815a|  dry
+e88161|   spicy
+e8816c|awful
+e88176|  bad
+e8817d|   okay
+e88188|delicious

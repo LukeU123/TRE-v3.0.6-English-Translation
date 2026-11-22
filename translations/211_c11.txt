@@ -1,0 +1,310 @@
+2e5d27|{C1920}Thank you, HIGH RANK.\pYou're dismissed.
+2e5d51|{C190A}Sir{C080F}…{C080F}\nExecutives{C080F}…{C080F}
+2e5d73|{C1907}That damn BLAINE! He's sold us\nall out! FUJI was certain he was\lstill loyal to us.\pIf LANCE found out about MEWTWO,\nwhat on earth could happen?
+2e5e17|{C1920}No, ANDRA.\pWe must trust that BLAINE, like\nOAK, has kept the secret.\pLANCE with MEWTWO in his hands\nwould be the greatest catastrophe\lin this region's history.
+2e5ec8|{C1920}Now that we've been pushed this\nfar, all that's left is to settle\lthis the old-fashioned way{C0819}…{C0819} so a\lLEAGUE without LEGENDARIES{C080F}…{C080F}
+2e5f51|{C1920}ANDRA, {V01}, you have both\nproven yourselves extraordinary\lTRAINERS. That {V01} managed\lto defeat BRUNO is proof that\lyou can compete against the\lvery best{C080F}…{C080F}
+2e5ffe|{C1920}The two of you, along with BLUE,\nwill be contenders for the title\lof POKéMON LEAGUE CHAMPION.
+2e6058|{C1920}You will collect the 8 BADGES\nand set off for INDIGO PLATEAU.\pNo cheating, no shortcuts, no\nLEGENDARIES{C0819}…{C0819} You'll use the\lPOKéMON you've been training and\lraising ever since you joined\lTEAM ROCKET.
+2e612c|{C1907}But, sir{C0819}…{C0819} I thought ROCKETS\nweren't allowed to challenge GYM\lLEADERS for BADGES.
+2e6193|{C1920}That's right, ANDRA.\pBeing ROCKETS puts you among the\nTRAINERS with no LICENSE, and a\lLICENSE is what you really need\lto compete for BADGES. Everyone\lassumes a ROCKET has no LICENSE,\land that's why you get thrown out\lof GYMS: for not having a LICENSE.\pNot really for being a ROCKET.
+2e62cf|{C1920}Here you are.\pCompletely legal. Nobody can stop\nyou from entering any GYM.
+2e6336|YOU RECEIVED A TRAINER LICENSE\nFROM GIOVANNI!
+2e636f|{C1920}Your uniforms aren't those of\nan ordinary ROCKET GRUNT.\pOur failure at SILPH is still\nfresh, and we're already the\llaughingstock of KANTO.\pBy now, you'll be seen as nothing\nmore than an amusing relic\pof our pop culture.\pOur uniforms are already prized\nby POKéMANIACS and the GIRLS of\lCELADON CITY.
+2e64ab|{C1907}They'll smell a rat, and\nLT.SURGE has already seen us\lseveral times!
+2e64f0|{C1920}LT.SURGE believes no one stands\na chance against LANCE. Besides,\lhis code of war won't let him\lrefuse {V01} a battle.\pI know him. All he cares about is\nwar. Not KANTO's fate, not even\nhis own: only fighting.\pAnd you will do him that honor.
+2e65ee|{C1920}BLUE, do you know how many BADGES\nRED has right now?
+2e6627|{C1908}He must have 6.\pAfter SILPH he went straight to\nthe SAFFRON GYM. He must be\lheading for CINNABAR ISLAND now.
+2e6697|{C1920}Hmm{C0819}…{C0819}\pThere's no time to lose. Your top\npriority must be winning those\l7 GYM BADGES as soon as possible.\pNow… you, BLUE… since you only\nneed one more, I think that can\lbe arranged{C0805}…{C0805}
+2e675f|-GIOVANNI GAVE BLUE THE\nEARTH BADGE-.
+2e678f|{C1908}YOU'RE the last LEADER?!
+2e67af|{C1920}Sometimes yes, sometimes no.\pIt depends on when it's\nconvenient, and now it is.
+2e67fc|{C1908}If you'll excuse me, I need to\nprepare thoroughly for the\lPOKéMON LEAGUE. I won't fail you!
+2e685e|{C1920}ANDRA, {V01}{C080F}…{C080F} show how\nfar a dedicated, disciplined and\lcommitted ROCKET can go.\pDefeat every LEADER in KANTO,\nand then{C080F}…{C080F} with 7 BADGES{C080F}…{C080F}\lyou'll receive a call.
+2e692c|{C1907}I can't wait any longer!\pThose GYM LEADERS are going to\ndrop like flies!\pAt last I'll get to face the\nregion's so-called ELITE!
+2e69b6|{C1920}Only a true TRAINER would react\nlike that: she doesn't see the\lLEAGUE's restriction as a problem,\lbut as a great opportunity that\lwill force her to improve.
+2e6a60|{C1920}I hope you'll face this challenge\nwith the same enthusiasm, {V01}.\pBe careful. LEADERS adjust their\nstrength to whoever they're facing.\lBLUE and RED are OAK's protégés,\land as such they enjoy privileges.
+2e6b43|{C1920}Among them, entering the POKéMON\nLEAGUE without a LICENSE, and facing\lsomewhat weakened LEADERS. But I\ldon't want that for you two.
+2e6bd7|{C1920}Ever since the day you received\nyour starters, you've been through\lall kinds of hardships. Everything\lyou have, you earned on your own\lmerit. You know this region's true\lface, because you've been forced\lto adapt to it.
+2e6cd2|{C1920}That{C080F}…{C080F} all together{C080F}…{C080F} gives\nyou an edge and a strength money\lcan't buy. Go and show them all!
+2e6f6c|{C1920}Oh, {V01}!\pYou look a little different!\pI wouldn't say you've exactly been\ntaking it easy on your vacation.\pAm I wrong?
+2e6fe4|{C1920}First of all, I have some bad\nnews: OAK has disappeared.
+2e7031|{C1920}After what happened at the LEAGUE,\nwe agreed to confine him to his lab\lin PALLET TOWN, but he's found a\lway to vanish.
+2e70c0|{C1920}We believe he may be plotting\nsomething with BLAINE, the other\ltraitor who has also disappeared.
+2e7128|{C1920}But I didn't bring you back to\ntalk about OAK.\pThe task I'm about to give you is\nfar more momentous for our\lregion's history. Listen{C0805}…{C0805}
+2e71cd|{C1920}For as long as anyone remembers,\nthose citizens of KANTO open-minded\lenough to look beyond the original\l150, those who knew other regions,\lwho had traveled to neighboring\lJOHTO or faraway HOENN, have asked\lone question{C080F}…{C080F}
+2e72ca|{C1920}Why is there no POKéMON in KANTO\non the scale of HO-OH, GROUDON\lor RAYQUAZA?
+2e7325|{C1920}The pattern of -MAJOR LEGENDARIES-\nrepeats in every known region,\lwithout exception.\pEvery one{C080F}…{C080F} except our KANTO.
+2e73ad|{C1920}Many theories arose trying to\nanswer this question. Some\lSCIENTISTS and researchers claimed\lthat MEW was that POKéMON.
+2e743e|{C1920}But we can't lump it in with\nRAYQUAZA or LUGIA{C0805}…{C0805}\pIt fits the profile of JIRACHI\nin HOENN more, or{C0805}…{C0805}
+2e74c9|{C1920}{C080F}…{C080F}CELEBI in JOHTO.
+2e74e6|{C1920}Others suggested that KANTO was a\nregion that simply lacked such a\lPOKéMON.
+2e7533|{C1920}In that case, its highest-ranking\nPOKéMON would be DRAGONITE and MEW,\lsetting the region's power limit\lat 600 BASE STATS.
+2e75bc|{C1920}After all, KANTO's history may\nsimply not have provided the right\lingredients for a LUGIA or a HO-OH\lto emerge. Pure chance.
+2e7650|{C1920}If so, it would be no more than a\ncurious coincidence. However{C080F}…{C080F}
+2e76a1|{C1920}One last group of researchers\nclaims that such a POKéMON does\lexist. The only reason we don't\lknow of it is this: it simply\lhasn't been found yet.
+2e774d|{C1920}This last theory is split into\ntwo further theories.
+2e7786|{C1920}One claims the POKéMON remains\nunknown to us because of its\lelusive nature.
+2e77d1|{C1920}The other{C080F}…{C080F} claims it's due to\nits vast power, so great that it\lwould surpass a -MAJOR LEGENDARY-.
+2e7850|{C1920}This subject has always fascinated\nme. The possibility that such a\lPOKéMON exists would change the way\lwe see KANTO forever.
+2e78d3|{C1920}Between our crusade to free the\nregion from LANCE's clutches and\lthe scant information on the\lsubject, TEAM ROCKET put this\lmatter on hold.\pNow, with KANTO recovering and\nour current situation, it's time\lto resume this research.
+2e79d8|{C1920}Since SILPH became our ally, I've\nhad the chance to meet its\lPRESIDENT several times.\pThe thing is, at our last meeting,\nthe subject came up and{C0805}…{C0805}
+2e7a7f|{C1920}It turns out SILPH has a large\nprivate library on its lower\lfloors.\pIt isn't just KANTO's most\nsuccessful company, it's also one\lof the oldest. In that library are\lsome documents describing a\lPOKéMON that could match what\lwe're looking for.
+2e7b95|{C1920}Your mission is very simple, {V01}.\pJust go back to SILPH and speak\nto the receptionist. She'll tell\lyou how to get into the lower\lfloors.\pOnce there, you'll seek out those\nrevealing files.
+2e7c62|{C1920}It isn't just me. SILPH's\nPRESIDENT was delighted that you\lwould be the one returning to\lKANTO's capital.\pIn that respect, you'll meet no\nopposition at all.
+2e7d04|{C1920}That's all. And remember: SILPH's\nreceptionist will give you access\lto the lower floors.\pGive the PRESIDENT my regards,\nif you happen to see him.
+2e7e88|{C1920}Well?\pWhat have you found out, {V01}?
+2e7ead|{C1920}Hmm{C0819}…{C0819}\nFrom what you're telling me, the\ltext you read doesn't even question\lthat POKéMON's existence.\pIt takes it for granted, and it\nseems to be closer than we\lthought, in LAVENDER TOWN.
+2e7f74|{C1920}But{C0819}…{C0819}\nWhere?\pThe POKéMON TOWER would be the only\nnotable place, but we know every\lcorner of it.
+2e7fe8|{C1920}Perhaps{C080F}…{C080F}\pIt's one of those places nobody can\nreach, except those who already\lknow where it is. If so, we'd never\lknow the truth{C0805}…{C0805}
+2e8091|{C1920}{V01}!\nWe must exhaust every\lpossibility!\pI can't send dozens of soldiers\nto comb every inch of LAVENDER\lTOWN. It would arouse far too\lmuch suspicion.
+2e814a|{C1920}But since only those present here\nknow about this… you could be the\lone to discreetly search every\lcorner of LAVENDER TOWN.
+2e81cf|{C1920}You'll be chasing something that\nhas gone unnoticed for countless\lgenerations.\pChasing a mirage, {V01}.
+2e8230|{C1920}That's all.\nAnd remember, every step you take\lcould write new pages in KANTO's\lrecent history.\lPerhaps{C080F}…{C080F} we'll uncover something\lthat should have come out long ago{C0805}…{C0805}
+2e849e|{C1920}Did you find anything, {V01}?
+2e84b8|{C1920}An incredible story, incredible{C0819}…{C0819}\pWho'd have thought such a place\nlay beneath LAVENDER TOWN?\pIt was real after all.\pIf that place is real, then the\nESSENCE POKéMON must be real too.
+2e857e|{C1920}And the cult's LEADER expressly\nasked you to keep the way to\lsummon that POKéMON a secret.\lExcept from 2 or 3 TRAINERS in\lall of KANTO{C080F}…{C080F}
+2e8622|{C1920}I suppose he meant OAK, and me as\nwell. That mystic's clairvoyance\lis unsettling.\pThere's no doubt some things\nstill escape us.
+2e86ba|{C1920}And that he also had MEW, missing\never since we created\lMEWTWO{C080F} …{C080F}
+2e8708|{C1920}This is why TEAM ROCKET was founded:\nto discover the ultimate limits of\lthe world.\pAnd that's why we'll now head\nto NAVEL ROCK.
+2e8784|{C1920}One of the jobs ARCHER has been\ndoing in the SEVII ISLANDS is\lfinding and charting every\lalternative route connecting\lthe islands.
+2e882e|{C1920}In theory there are 7 islands,\nhence the name SEVII ISLANDS, but\lin practice there are 10 sizable\lpieces of land.
+2e88c5|{C1920}So there'd be an eighth island just\nsouth of TWO ISLAND, a ninth east of\lthe ruins on SEVEN ISLAND, and a\ltenth, which lies a few degrees\lnorthwest of FIVE ISLAND.
+2e897b|{C1920}That last one is NAVEL ROCK.
+2e899b|{C1920}LUGIA and HO-OH have power similar\nto MEWTWO's. Our emergency plan to\lsave KANTO after MEWTWO failed was\lprecisely to find these two\lPOKéMON.
+2e8a51|{C1920}Just like LANCE, we never managed\nit.\pBut after what happened at the\nPOKéMON LEAGUE, ARCHER sent me a\lreport on a recent discovery.
+2e8ae9|{C1920}That tenth island lies in the middle\nof the 7, surrounded by strong tides,\lwith a large cave inside that has\lyet to be explored.
+2e8b6b|{C1920}I can't think of anywhere else these\ntwo beasts could be. They were last\lseen decades ago.
+2e8bd3|{C1920}{V01}!\pNAVEL ROCK is fairly close to\nFIVE ISLAND. However, the currents\lbetween them are the strongest in\lall of Archi7.\pThat would be far too risky.\nHowever{C0805}…{C0805}
+2e8c92|{C1920}ARCHER found an alternative route,\nstarting from the port on TWO ISLAND.\pIt's longer, but the currents are\nless treacherous.
+2e8d1b|{C1920}We'll cross that way. Ignore the\nwarning sign. It's there more to\lspare them trouble and let them wash\ltheir hands of any accident than\lbecause the waters are truly\ldangerous.
+2e8ddd|{C1920}I'll be waiting at NAVEL ROCK, {V01}.\nThis time I'll be joining you on\lthis mission in person.
+2e9026|{C1907}And that's everything that\nhappened, sir.
+2e904f|{C1920}Excellent, ANDRA.\p{V01} and you did a great job.\nNow we know that relic was part of\lDEOXYS, and that OAK and BLAINE are\lboth hiding in a secret part of\lthe POKéMON MANSION.
+2e9115|{C1920}Once both are under control, KANTO\ncan finally be fully at peace.\pMeanwhile, we don't know what those\ntwo maniacs are up to.
+2e91b7|{C1920}ADMIN ANDRA, EXECUTIVE\nPROTON{C080F}…{C080F} I need to speak privately\lwith {V01}. Please step out a moment.
+2e9228|{C1920}So OAK has challenged you to come\nalone to the POKéMON MANSION{C080F}…{C080F}
+2e926e|{C1920}Logic says that, knowing this, we\nshould go in with the full strength\lof our organization.\pAnd make sure we completely destroy\nwhatever they're doing there.
+2e9318|{C1920}OAK is a cautious, cold and\ncalculating man. If he's thrown\lthis challenge at you, having seen\lfirsthand how you beat RED and\lLANCE, it's because he truly has\lsomething extraordinary at hand.
+2e93e1|{C1920}I suspect that, somehow, they've\nrecovered MEWTWO.
+2e941c|{C1920}If that's truly the case, and they\nuse it as they please, the entire\lregion is in danger.
+2e9470|{C1920}However, in TEAM ROCKET we take\nboth honor and loyalty very\lseriously.{C0819}\pIf OAK challenged you personally,\nand you feel you must go alone,\lthen you should{C0805}…{C0805}
+2e9532|{C1920}But{C0819}…{C0819} given how important this\nmatter is for the whole region,\lARCHER, PETREL, ANDRA, the rest of the\lorganization's top members and I\lwill stay in the rearguard, in case\lanything goes wrong.
+2e961a|{C1920}I have to be sure, {V01}{C080F}…{C080F}\pSure that you're prepared for\nanything, even MEWTWO.
+2e967f|{C1920}Just as ARCHER made sure that you\nand ANDRA met the minimum level to\ltake on the POKéMON LEAGUE, this\lsituation calls for the ultimate\ltest{C0805}…{C0805}
+2e9733|{C1920}I, GIOVANNI, LEADER OF TEAM ROCKET{C0819}…{C0819}\pwill personally take your POKéMON\nto the next level!
+2e97a9|I'm proud of you, {V01}.\nAt your current level, KANTO holds\lno more mysteries for you.
+2e9808|{C1920}I'm a better TRAINER now than I\nwas when OAK and I fought over the\lKANTO CHAMPION title.\pEven so, you managed to defeat me.\nI'm lost for words.\pYou've earned the right to handle\nthis situation however you wish.
+2e98f7|{C1920}ANDRA!!\nPROTON!!
+2e990f|{C1920}Summon HEAD ADMIN ARCHER, ADMIN\nPETREL and the current CHAMPION,\lBLUE, and call in the rest of the\lorganization's EXECUTIVES.\pWe'll make sure, whatever it takes,\nthat OAK and BLAINE don't leave the\lPOKéMON MANSION, and that {V01}\lisn't put in any danger.
+2e9a17|{C1928}YES, SIR!
+2e9a2e|{C1920}Go, {V01}.\pShow OAK where a TRAINER's\npower truly comes from.
+2e9e79|{C1920}I'll be waiting in the ROOM OF\nMAXIMUM ATTAINABLE POTENTIAL.
+2e9eb2|{V01} received a MAP\nfrom GIOVANNI!!
+2e9edd|ANDRA was promoted to\nHEAD ADMIN OF THE HOENN REGION!!
+2e9f18|{V01} was promoted to\nHEAD ADMIN OF THE JOHTO REGION!!
+2e9f50|{C1907}{V01}!\nYou're tireless!\pI was all set to force my way\ninto the POKéMON MANSION.\pAnd you go and beat everyone first!
+2e9fd1|{C1920}You've both given TEAM ROCKET\nmore than anyone could have hoped\lfor. Your level as TRAINERS is\lbeyond any rank I could offer you\lin TEAM ROCKET.\pThat's why it's time to discuss\nyour immediate future, something\lthat will truly challenge you and\lexpand the organization further.\pBut first{C080F}…{C080F}\pYour rewards.
+2ea129|You pocketed $1,500,000!
+2ea152|{C1920}Are you sure you don't want\nthem, ANDRA?
+2ea181|{C1907}I'm sure. I don't need them\nto build my best team.
+2ea1b9|{C1920}As you wish.\nSo be it.
+2ea1d9|{C1920}You should know, {V01}, that when\nwe returned the JOHTO BEASTS to\ltheir home, we took the liberty of\lanalyzing their DNA.\pThe result is clear: we've been\nable to clone them, just as we did\lwith the KANTO BIRDS.
+2ea2b7|{C1920}As one of the ADMINS, you're\nentitled to one of each.\pI hope they don't bring back bad\nmemories of your battle with LANCE.\lRemember, they're clones.
+2ea35a|YOU OBTAINED A Lv.70 RAIKOU!!
+2ea37b|YOU OBTAINED A Lv.70 ENTEI!!
+2ea39b|YOU OBTAINED A Lv.70 SUICUNE!!
+2ea3bd|{C1920}Now, make yourselves comfortable.\nWe have a lot to discuss.
+2ea3f9|{C1920}With MEWTWO under our command, and\nclones of the KANTO BIRDS and the\lJOHTO BEASTS, TEAM ROCKET has more\lpower than we could have dreamed\lof just months ago.
+2ea49a|{C1920}OAK detained, LANCE restrained{C0819}…{C0819}\nKANTO is completely under our\lcontrol. At last we can restore the\lregion to all the splendor it had\lbefore the war.\pThat will take nothing but time,\nwhich is why your destinies lie\lfar from here.
+2ea597|{C1907}Where will we go, sir?
+2ea5b0|{C1920}I'll devote all my efforts to\nrebuilding KANTO properly.\pNow that I have ROCKETS like\nyou, I believe the time has come\lto fully delegate my powers to\lour branches in JOHTO and\lHOENN.
+2ea68f|{C1920}ANDRA!\pFrom now on, you'll be in command\nof TEAM ROCKET in the HOENN region!\pYou are promoted to ROCKET\nHEAD ADMIN and LEADER in HOENN!
+2ea71d|{C1907}Wow!\pI can't believe it!
+2ea739|{C1920}Our HOENN branch isn't 100%\nbuilt yet, but you can move your\lthings in there.\pUnfortunately, the distance between\nregions means that, for now, we\lcan't use teleportation technology.\pBut don't worry, there's a\nferry waiting for you in VERMILION.
+2ea84b|{C1920}I know you love mythology and\nANCIENT POKéMON, ANDRA.\pThat's why I'm sending you to\nHOENN. Little by little, we'll\ldust off that region's mysteries,\land there are many.
+2ea8fb|{C1907}I bet you mean those RUINS you can\nsee in the DESERT, near DEWFORD TOWN,\land on ROUTE 120!
+2ea96d|{C1920}I see I needn't say\nanything more.\pThat's all for you, ANDRA.\pHOENN awaits.
+2ea9cf|{C1907}Don't think I'll use exotic HOENN\nLEGENDARIES against you in our\lnext battle, {V01}.\pI told you I'd become the best\nwith NO LEGENDARIES, and I meant it.\pI hope you visit HOENN someday.\nMaybe I'll drop by JOHTO, if the\lsituation calls for it!
+2eaad9|{C1920}Now, {V01}.\pYou know many loose ends were left\nthat couldn't be tied up because\lof OAK's intrusion, but you need\lto know them before going to JOHTO.
+2eab71|{C1920}First of all, take this.
+2eab90|{C1920}With this MAP you'll be able to\nfind your way properly around a\lregion that's totally new to you.
+2eabf4|{C1920}Now, this isn't the right place\nto explain the objectives you'll\lpursue in JOHTO.\pThat place is in the next room, in\nour RESEARCH ZONE FOR MAXIMUM\lATTAINABLE POTENTIAL.\pWe've finally opened the last of\nthe zones, and that's where I'll\lbe waiting for you.\pThere you'll understand the reason\nbehind many of the objectives you'll\lpursue in JOHTO.
+2ead69|{C1920}One last thing, {V01}.\pFrom now on, you'll be in command\nof TEAM ROCKET in the JOHTO region!\pYou are promoted to ROCKET\nHEAD ADMIN and LEADER in JOHTO!
+2eafd8|{C1920}As I was saying, ANDRA.\pFrom now on, the RUINS OF ALPH\nmust be under maximum surveillance.
+2eb038|{C1920}{V01}, do you realize what\nPOKéMON you just faced?\pOur SCIENTISTS have put its\nSPECIAL ATTACK at 190 points.\pUntil now, we believed DEOXYS's\n180 was unreachable.\pAnd its stat spread is flawless.\pThis POKéMON's numbers even beat\nMAJOR LEGENDARIES like LUGIA and\lHO-OH. The limits we thought\lordinary POKéMON could reach have\ljust expanded, and the data we get\lfrom this POKéMON will help us\lperfect the SPECIAL ATTACK of new\lMEWTWO prototypes even further.\pPerhaps{C080F}…{C080F} we'll even manage to\nsurpass those 190 points.
+2eb28b|{C1920}But that's not why we're here.\nI've already briefed ANDRA and\lasked her to keep an eye on\leverything that happens at the\lRUINS OF ALPH.
+2eb313|{C1920}We don't know what that TRAINER\nis after, but whatever it is must\lbe in that place.
+2eb36f|{C1920}However, we lack information.\nThat's where you come in, {V01}.\lYou must visit the LAVENDER CULT\lonce more and explain the situation\lto its LEADER. Perhaps he'll know\lwhat to do.
+2eb420|{C1920}That's all for now. ARCHER and I\nare very busy putting into motion\leverything we discussed in\lGOLDENROD, but we won't hesitate\lto step in if necessary.\pI await your reports.
+2eb4de|{C1907}Yes, sir!
+2eb4f5|{C1907}You didn't tell me that guy had\nKYOGRE, GROUDON and RAYQUAZA.\pDid you really face all three\nHOENN LEGENDARIES at once?\pBe very careful. I've studied their\nmythology, and the legend speaks of\leven stronger PRIMAL FORMS.
+2eb5e6|{C1907}That's right, the ones that truly\ncreated the land and the sea.\pI don't know if that guy will want\nto test whether the legend is true,\lbut keep it in mind.
+2eb961|Do you want to go to your JOHTO\noffice to see the documents on\lthe new missions?
+2eb9c1|{C1920}{V01}!\pYou're extraordinary! You beat the\n3 most powerful POKéMON in history!\pDo you understand why you won?\pThe moment the immortality of such\nPOKéMON became bound by the rules\lthat govern a POKéMON battle between\ltwo TRAINERS, their power stopped\lbeing infinite, and so became\lvulnerable.
+2ebb02|{C1920}That TRAINER tried to use them as\nordinary POKéMON, and that's when\lthey lost their essence.
+2ebb5b|{C1920}Even so, only a TRAINER who has\nreached an unrivaled balance with\ltheir team could ever beat them,\leven in a POKéMON battle. You were\lthe only one who could do it,\l{V01}{C0805}…{C0805}
+2ebc27|{C1920}As is now customary after every\nmajor event, I've gathered you here\lto take stock of everything…{C0819}\pAnd look to the future.
+2ebcaa|{C1920}First of all, your rewards.
+2ebcd2|You pocketed $2,000,000!
+2ebcf0|{C1920}And that's not all. Thanks to all\nthe commotion ZEUS caused, and the\lentrance to the RUINS OF ALPH, we\lextracted the DNA of LUGIA and\lHO-OH. Not of their primal forms,\lbut of the ones known to JOHTO lore.
+2ebdc1|{C1920}ANDRA considers using this kind of\nPOKéMON dishonorable, so only you\lwill receive the clones, {V01}.
+2ebe2b|YOU OBTAINED A Lv.90 LUGIA!!
+2ebe4b|YOU OBTAINED A Lv.90 HO-OH!!
+2ebe6b|{C1907}{V01}!\pDon't think I won't know how to\nhandle them if you use them on me!\pI already beat the golden HO-OH, a\nform even stronger than those clones.\pDon't you forget it!
+2ebf12|{C1920}Good. Now, let's talk about\nyour future missions.
+2ebf49|{C1920}{V01} did an excellent job\ngathering information on JOHTO's\lSTRONG BOND POKéMON.\pAll that information has helped us\noptimize and further expand the\lpower of future prototypes, just\las we did with MEWTWO back in\lthe day.
+2ec03a|{C1920}However, JOHTO is much more than\nits towns and cities. Unlike KANTO,\lit has many places still left to\lexplore.
+2ec0bc|{C1920}We strongly suspect these places\nhide unique POKéMON, whose data\lcould keep providing vital\linformation for our research.
+2ec162|{C1920}The opening of the station linking\nGOLDENROD with SAFFRON, and the\ldemolition of the POKéMON TOWER, are\lapproaching. While we wait for them,\lyour mission will be to keep\lexpanding what we know about POKéMON.
+2ec246|{C1920}So I'll give you something you\nshould have had long ago.
+2ec287|YOU OBTAINED A POKéDEX!
+2ec29f|{C1920}Courtesy of OAK. Thanks to his\ninvention, data on every new POKéMON\lyou find will not only be sent to\lour database, it'll also be\lrecorded for your own use.
+2ec355|{C1907}So this is what that spoiled brat\nRED was using. I know a few\lPOKéMANIACS who'd give everything\lthey own for a gadget like this.\pWe'll put it to the best use\npossible, right, {V01}?
+2ec41b|{C1907}So that means I'm not going back\nto HOENN, sir?
+2ec454|{C1920}That's right, ANDRA.\pFor now you'll stay in JOHTO and do\nthe same work {V01} has been\ldoing. You two are the strongest\lTRAINERS in the whole organization,\land a mission like this, where you\lcould face anything, demands the\lbest preparation possible.
+2ec561|{C1907}So where do we start?
+2ec57c|{C1920}I've left documents in your\nrespective offices, with a detailed\lexplanation of each mission you'll\ltake on. Don't worry, ANDRA, there's\lalready a teleport link to the\lHOENN BASE.
+2ec659|{C1920}The order you tackle them in is up\nto you, though I'd like you to dig\las deep as possible into each one.\lOnce you've investigated enough,\lcome back to my office.
+2ec717|{C1907}Awesome, we're exploring JOHTO!
+2ec73b|{C1907}Did you hear that, {V01}? JOHTO's\nmost remote places await us. What\lmysteries could be waiting for us?
+2ec9f2|{C1907}Ha! I knew you'd turn up soon,\n{V01}! I've just finished\lmy missions too!
+2eca4a|{C1920}Our database has collected very\nvaluable information from your\lexpeditions, but I'd like to hear\lit from you.\pTell me every detail{C0805}…{C0805}
+2ecae7|{C1920}I see{C0819}…{C0819} So JOHTO is home to\nseveral species thought extinct,\lliving in that great paradise\lwest of CIANWOOD.
+2ecb77|{C1920}It doesn't surprise me. Only 100\noriginal JOHTO species have been\lcataloged, a very small number next\lto KANTO's 151 or HOENN's 135.
+2ecc17|{C1920}On the other hand, that SACRED\nDRAGON{C0819}…{C0819}\pANDRA already told me how her\nURSARING evolved thanks to the\lSACRED STONE.
+2ecc96|{C1920}How many POKéMON it might react to\nis a complete mystery. I'll send\lARCHER there to investigate and find\lone. Then our best SCIENTISTS will\ltry to reproduce that sacred object,\lso we can distribute it among the\lbest ROCKETS.
+2ecdba|{C1920}As for this EUSINE fellow, don't\nworry, {V01}, I'll have him\lfound. Everything he's seen and\llived through in that pagoda will\lbe very useful for our research.
+2ece70|{C1920}What really worries me is your\nmission at the LAKE OF RAGE.
+2eceb5|{C1920}The outcome was ideal, and the\nPOKéMON found there exceptional.\lBut those SCIENTISTS{C0819}…{C0819} don't work\lfor us, and yet they seem to be\lchasing goals similar to ours.
+2ecf78|{C1907}I ran into people like that in\nHOENN too, right in the middle of\lmy search for the REGIS{C0805}…{C0805}
+2ecfd2|{C1920}Just as I feared, everything\npoints to DEVON CORP.
+2ed01b|{C1920}OAK and BLAINE contacted them\nin the past, before {V01}\ldefeated them. That's how they got\lthe funding they needed to clone\lMEWTWO again and resurrect\lDEOXYS.
+2ed0e4|{C1920}And DEVON agreed, on condition\nthat they hand over all material\lconcerning DEOXYS. Fortunately,\lthey never said a word about MEWTWO.
+2ed172|{C1920}It may be a little soon, but{C080F}…{C080F}
+2ed19a|{C1920}{V01}!\pI want you to go with ANDRA to\nour HOENN branch, so she can give\lyou an overview of the region.
+2ed208|{C1920}The POKéMON TOWER demolition is\nimminent. By now they should have\levacuated everything to carry it\lout. Meanwhile, nothing's keeping\lyou here, and our HOENN BASE is the\lonly one you haven't visited yet.
+2ed2db|{C1920}As soon as the POKéMON TOWER is\ndemolished, construction of the new\lRADIO TOWER will begin, in record\ltime.\pIn the meantime, I can tell you\nthat the 2nd GRAND SUMMIT will be\lheld in GOLDENROD CITY.
+2ed398|{C1907}Wow! Now that KANTO and JOHTO\nare about to achieve the union\lproposed at the 1st GRAND SUMMIT{C0805}…{C0805}
+2ed405|{C1920}We have everything we need to make\nKANTO-JOHTO the leading power in\lthe POKéMON WORLD.
+2ed467|{C1907}That sounds{C0819}…{C0819} huge.
+2ed483|{C1920}And it will be. You'll see once you\nsee what's left to show, but for\lnow{C0819}…{C0819} the teleporter to HOENN is\lat your disposal.
+2ed51e|{C1920}I trust you'll guide {V01}\nproperly around HOENN. Stay alert\lfor my call.
+2ed56c|{C1907}Don't worry, {V01} won't waste\nany time there, I promise!
+2ed5a6|{C1907}I'll wait for you at the entrance\nto the HOENN base. I'll be your\ltour guide!
+2ed77a|{C1906}I managed to escape at the last\nmoment, thanks to my MAGMORTAR's\lTELEPORT.
+2ed7cc|{C1920}{V01}, being away from\nKANTO-JOHTO, you won't have heard,\lbut it was felt in both regions:\lthe volcano on CINNABAR ISLAND has\lerupted and swallowed everything\lin its path.
+2ed882|{C191F}The LAB{C0823}…{C0823} the POKéMON\nMANSION{C0823}…{C0823} the GYM{C0823}…{C0823} it all now lies\lat the bottom of the sea.
+2ed8ed|{C190E}The thing is, after the 1st\nGOLDENROD CONFERENCE, we carried on\lwith our research there.\pA very important part of our latest\nprojects is now lost, dozens of\lmeters underground.
+2ed9c4|{C191F}Luckily, the most important\nunderground areas were built to\lwithstand any natural disaster.\lAfter {V01} defeated us,\lwe built many more underground\lfloors. They're like a bunker.
+2eda8b|{C1920}Then it's possible they weren't\ndestroyed.
+2edacc|{C190E}We need to check. You know as well\nas I do how precious the data we\lkeep in there is.
+2edb2d|{C191F}But just anyone can't go. The\neruption will have freed all the\lprototypes we had in testing\lthere.
+2edba3|{C1920}Agreed. The best person for this\nmission is {V01}, who has more\lthan enough experience in this\lkind of situation.
+2edc30|{C190E}Indeed. I'll be waiting for you on\nCINNABAR ISLAND, {V01}. There I'll\ltell you exactly what to do.
+2edc8f|{C191F}It's a relief to have a TRAINER\nlike you on our side. I hope you can\lsalvage as much as possible from\lthis catastrophe.
+2ede71|-{V01} handed GIOVANNI the\nHARD DRIVE-
+2ede97|{C1920}I expected nothing less of you,\n{V01}. No reward could match the\ldata you've just recovered. There\lare millions invested in research\lin here. The least I can do is\lgive you a few of them.
+2edf63|You pocketed $2,000,000!
+2edf81|{C1920}Take this too. It's a project from\na faraway region. Our best\lSCIENTISTS have had some contact\lwith it.
+2ee001|YOU OBTAINED A Lv.90 SILVALLY!
+2ee022|{C1920}Apparently it can change type\ndepending on the item it holds.\lThey'll be sold on the upper floors\lof the LAVENDER RADIO TOWER, which\lyou'll be able to enter very soon,\l{V01}.
+2ee0d9|{C1920}Back to the matter of CINNABAR{C0819}…{C0819}\pI'd appreciate it if you didn't tell\nanyone what you may have seen there,\lnot even ANDRA.
+2ee15f|{C1920}Many of the prototypes we left\nthere are still in testing. They're\lunstable and far from perfected.\pEven so, you must have sensed the\ntremendous potential of some.
+2ee207|{C1920}Until we're sure we have something\ntruly big that we can control with\lcomplete certainty{C0819}…{C0819} those\lprojects are classified.\pDo you understand me, {V01}?
+2ee2ad|{C1920}Now, let's talk about your next\nmission: settling the matter of\lthe line to SAFFRON once and for all.
+2ee306|{C1920}It seems that strange POKéMON has\nreturned, and it's interfering with\lthe final phase of construction.
+2ee36f|{C1920}I'm afraid there's nothing for it\nbut to capture it, so it never\lcauses trouble again.
+2ee3cc|{C1920}So your mission, on the eve of\nthe 2nd GRAND SUMMIT in GOLDENROD,\lwill be to deal with that POKéMON.
+2ee439|{C1920}I'm leaving for GOLDENROD now. I\nmust make arrangements for the\lsummit with the PRESIDENT.
+2ee49d|{C1920}It's time to start reaping the\nrewards of our work, {V01}.\pIn a very short time, we're seeing\ngreat changes in both regions, the\lsame ones that have been in the\lmaking for a year, since the 1st\lGRAND SUMMIT or even before.
+2ee722|{C1920}{V01}!\pARCHER and I should've been there.\pTell me everything. And ANDRA?
+2ee761|{C1920}I see. We should have guessed that\nDEVON's atmosphere and role would\lappeal to someone like BILL's\lassistant. I suppose he was right,\lwe never paid him enough attention.
+2ee81a|{C1920}As for ANDRA{C0819}…{C0819} perhaps it's\nbetter this way. After all, her\lsearch may end in a discovery more\limportant than all the research\lwe're carrying out{C0805}…{C0805}
+2ee8e2|{C1920}Meanwhile, DEVON has made its move.\pThis doesn't change our plans in\nthe slightest, even though they know\leverything discussed at the 2nd\lGRAND SUMMIT.
+2ee96f|{C1920}With ANDRA gone, our HOENN BASE\nhas been left without a LEADER, so\lyou'll be in command. After the\lRUINS OF ALPH, all the LEGENDARY\lPOKéMON that gathered there went\lback to where they came from.\lThat means HOENN's 3 LEGENDARIES,\lKYOGRE, GROUDON and RAYQUAZA,\lwill be there. One of your goals\lwill be to find and study them.\pHowever{C080F}…{C080F}
+2eeaf0|{C1920}Your top priority will be to gather\nas much information on DEVON as you\lcan.
+2eeb3e|{C1920}Where it operates, where it keeps\nits research labs, what its\lprojects and ambitions are{C080F}…{C080F}
+2eebb3|{C1920}OAK came shortly before you. He\nwas the first to brief me.
+2eebf6|{C1920}He personally faced their\nPRESIDENT and was defeated. All\lwhile their EXECUTIVES held off\lBILL, ANDRA and ELM.
+2eec78|{C1920}There's no doubt they have\nresources, and know the art of\lPOKéMON battle well.
+2eecd0|{C1920}They may push you to the limit of\nyour ability, even more than at the\lRUINS OF ALPH, who knows.
+2eed2a|{C1920}That's why, {V01}, I want to\ntest you again, this time using\lour most cutting-edge projects.
+2eed9e|{C1920}Now, face the full power of\ntechnology developed by 2\lregions!
+2eedee|Astonishing… you're still at the top.
+2eee14|{C1920}No doubt about it, you're the most\nvaluable asset TEAM ROCKET has. Your\lstory as a LEGENDARY TRAINER still\lhas a lot to offer, believe me.
+2eeead|{C1920}I want you to have this. I know\nyou won't rely on it as a cure-all\lthat will solve everything, as we\ltried to in the past, but think of\lit as one more option.
+2eef59|YOU OBTAINED A Lv.100 MEWTWO!!
+2eef7b|{C1920}The original MEWTWO is yours, {V01}.
+2eef9e|{C1920}Of course, it comes with the latest\ntechnology: the MEGA STONE that turns\lit into its Y form. As I said at the\lsummit, the &-VOLCARONA you faced\lwas vital in boosting its SPECIAL\lATTACK to stratospheric levels.
+2ef085|{C1920}That's all, {V01}. I suggest you\nexplore and get used to HOENN bit by\lbit. DEVON's headquarters are in\lRUSTBORO CITY, but we don't know\lwhether that's its operations center.
+2ef13b|{C1920}Meanwhile, we'll keep developing\nthe level II and …III prototypes.\pUntil then{C0819}…{C0823} keep improving.
+2ef1bb|From 600 to 680 BASE STATS is a\nbig leap. Surely many POKéMON have\lthe potential to fall into that\lwide range.
+2ef247|We know of a cult in this region\nthat explains the absence of a\lPOKéMON with 680 BASE STATS by\lclaiming that MEW, whom they\lworship, has never shown its true\llatent power. A power that, if it\lwere ever unleashed, would by\ltheir account break that historic\lbarrier of 680 base.
+2ef372|The power figures handled here are\nbeyond 99% of TRAINERS. I hope\lyou're among the remaining 1%.
+2ef401|Other regions see KANTO as a\ntechnological powerhouse when it\lcomes to developing artificial\lPOKéMON: PORYGON, MEWTWO, DITTO and\leven PORYGON2 were developed in our\lregion. SILPH usually gets the\lcredit for these advances, but\lwhat they don't know is that we go\lmuch further here!
+2ef53a|Sorry, {V01}.\pThis place is still experimental.\nOnly our best SCIENTISTS have\laccess.
+2ef5ca|Although it's the region with the\nmost legendaries, it's the one we\lhave the least information on,\lgiven how remote and poorly\lconnected it is. But many of its\lPOKéMON are truly fascinating. It\lseems -150- is the star stat of\lthat region's legendaries. It\lshows up in GROUDON's Attack,\lKYOGRE's Special Attack,\lREGISTEEL's defenses, DEOXYS's\lSpeed and both of RAYQUAZA's\lattacks, as a kind of symbol:\l-anyone with this figure has a\lmonstrous quality-. And so it is.
+2ef7f6|The number of strong POKéMON HOENN\nholds is unrivaled. According to\lour research, the conditions of its\lterrain have given rise to unique\lflora and fauna.
+2ef8ba|The truth is there's another\nPOKéMON that could easily make the\llist of HOENN's best BASE STATS\land even take one of the top\lspots: SLAKING, with 670 BASE\lSTATS. However, we consider it an\linsult and a sick joke that a\lPOKéMON exists with such numbers\land such a disgustingly crippling\lability, so we've decided to\lignore the exception that proves\lthe rule, as punishment for its\lincompetence as a POKéMON.
+2efa9d|No one has been so exposed or\nproven so much as our LEADER, and\lthat's why we have blind faith in\lhim.
+2efb0e|One who has never sinned is less\ntrustworthy than one who has sinned\lonce, and someone who has made many\lmistakes is more trustworthy than\lsomeone who has made none.
+2efbbf|Everything you see here is the\nresult of decades of data\lgathering to obtain privileged\linformation on every legendary and\lthe strongest known POKéMON. I\lhope you realize how lucky you\lare to be here.
+2efcb8|JOHTO has far more history and\ntradition than KANTO. The two\ltowers of ECRUTEAK CITY are a\lthousand years old.
+2efd2d|They say ENTEI, SUICUNE and RAIKOU\nare really a FLAREON, VAPOREON and\lJOLTEON that HO-OH itself rescued\lfrom a devastating fire in\lECRUTEAK CITY, reincarnating them\las the three roaming legendaries.\lThis legend is backed up not only\lby their matching types and looks.\lAs it happens, FLAREON and ENTEI\lboth have powerful physical\lattacks, SUICUNE and VAPOREON lean\ltoward defensive stats, and\lfinally JOLTEON and RAIKOU have\lsuspiciously similar SP. ATK,\lSPEED and even SP. DEF.
+2eff58|We didn't believe a POKéMON could\nexist in nature that matched\lMEWTWO in raw power, but it turns\lout JOHTO has two of them. We've\ltried many times to track down\lLUGIA and HO-OH, but without\lsuccess.
+2f0059|Some swear KINGDRA never had an\nability like Adaptability. In fact,\lit inherited it from a certain\lDRAGALGE from a faraway region.
+2f00f8|If we could combine BLISSEY's HP,\nSHUCKLE's defenses and DEOXYS's\loffense in a single POKéMON, we'd\lhave the most powerful POKéMON that\lcould ever exist.\pBut no body could withstand all\nthose virtues combined.\pOpportunity cost is harsh,\nkid!
+2f0216|We don't know where the limit of\nbase power a POKéMON can reach\llies, but we do know where it\ldoesn't{C0805}…{C0805}
+2f0290|They say the best horses lose when\nthey race slower ones, and win\lagainst rivals of their own level:\lthe lack of challenge harms the\lbest.
+2f0370|That DEVON in HOENN keeps growing\nbigger and bigger, but it doesn't\lstand a chance against SILPH and\lTEAM ROCKET united.\pEither it accepts our terms,\nor it gets wiped off the board.
+2f0428|You never stop, sir!\nAt this rate you'll travel to every\lregion in the POKéMON world!
+2f048a|Just a few years ago, these\ndocuments were a pipe dream for\lthe whole scientific community,\land look now{C080F}…{C080F}\pHere they are{C080F}…{C080F}\pThey're real{C080F}…{C080F}
+2f0529|Ordinary people are amazed to see\nPOKéMON with over 500 BASE STATS,\land they throw up their hands at\lany PSEUDO-LEGENDARY or MINOR\lLEGENDARY with 580 BASE…\pI don't think they're ready to see\nPOKéMON that laugh at those\lnumbers. Their heads couldn't take\lit, since they're used to accepting\lonly the reality of the world\lthat's shown to them.
+2f06ac|No. 5: ARTICUNO\pHP: 90\nATTACK: 85\lDEFENSE: 100\lSP. ATK: 95\lSP. DEF: 125\lSPEED: 85\lTOTAL: 580\pTYPE: ICE/FLYING\pABILITIES:\nNO GUARD/SNOW WARNING/ICE SCALES\pOur region's icy bird, with the\nbest defensive stats but the worst\ltype combination.\pEven so, thanks to NO GUARD it stays\nsomewhat dangerous on offense, since\lit can use BLIZZARD and HURRICANE\lwithout missing.
+2f084f|No. 4: ZAPDOS\pHP: 90\nATTACK: 85\lDEFENSE: 90\lSP. ATK: 125\lSP. DEF: 90\lSPEED: 100\lTOTAL: 580\pTYPE: ELECTRIC/FLYING\pABILITIES:\nDOWNLOAD/DRIZZLE/GALE WINGS\pKANTO's thunder, and the LEGENDARY\nBIRD with the best offensive stats.\pThanks to DOWNLOAD it can hit even\nharder, and it covers many of its\lthreats with moves like HEAT WAVE,\lWEATHER BALL and EXTRASENSORY.\pIts biological ceiling is thought to\nbe the highest of the 3 LEGENDARY\lBIRDS.
+2f0a4a|No. 3: MOLTRES\pHP: 90\nATTACK: 85\lDEFENSE: 90\lSP. ATK: 125\lSP. DEF: 100\lSPEED: 90\lTOTAL: 580\pTYPE: FIRE/FLYING\pABILITIES:\nSHEER FORCE/DROUGHT/SOLAR POWER\pKANTO's flame, and the LEGENDARY\nBIRD that can deal the most damage,\lthanks to its ability, SHEER FORCE.\lWith it, its FIRE BLAST outpowers\lthat of MAJOR LEGENDARIES like\lHO-OH.\pIts so-so SPEED and fragile type\ncombination leave it vulnerable to\ldeadly POKéMON.
+2f0c24|No. 2: MEW\pHP: 100\nATTACK: 50\lDEFENSE: 100\lSP. ATK: 125\lSP. DEF: 125\lSPEED: 100\lTOTAL: 600\pTYPE: PSYCHIC\pABILITIES:\nSYNCHRONIZE/MAGIC GUARD/IMPOSTER\pThe ancestor of all POKéMON, it\ncontains every possible DNA\lcombination. To this day, science\lhasn't been able to unlock its full\lpotential.\pIt's believed to be worshipped by a\nsecret cult in the depths of\lLAVENDER TOWN, who see it as one of\lthe embodiments of this region's\ltrue essence.
+2f0e24|No. 1: MEWTWO\pHP: 106\nATTACK: 110\lDEFENSE: 90\lSP. ATK: 154\lSP. DEF: 90\lSPEED: 130\lTOTAL: 680\pTYPE: PSYCHIC\pABILITIES:\nPRESSURE/UNNERVE/MAGIC GUARD\pThe most perfect fighting machine\never created by man, hailed as a\lmiracle of science for managing to\lcontrol and amplify MEW's unstable\lpower and concentrate it in one\lPOKéMON.
+2f0fb3|No. 9: KINGDRA\pHP: 75\nATTACK: 95\lDEFENSE: 95\lSP. ATK: 95\lSP. DEF: 95\lSPEED: 85\lTOTAL: 540\pTYPE: WATER/DRAGON\pABILITIES:\nSNIPER/SWIFT SWIM/ADAPTABILITY\pJOHTO's signature dragon. Thanks to\nits extraordinary ability,\lADAPTABILITY, it's far more\ldangerous than its numbers suggest,\lmultiplying its STAB moves by x2.25\linstead of the usual x1.5.\pOne of the deadliest POKéMON\nin the rain.
+2f1175|No. 8: BLISSEY\pHP: 255\nATTACK: 10\lDEFENSE: 10\lSP. ATK: 75\lSP. DEF: 135\lSPEED: 55\lTOTAL: 540\pTYPE: NORMAL\pABILITIES:\nNATURAL CURE/SERENE GRACE/NORMALIZE\pA unique case that defies the laws\nof this world: the only known\lPOKéMON to reach pure perfection in\la single stat, hitting the ceiling\lof 255 base in HIT POINTS.\pIgnoring its useless 10 points in\nATTACK, its total of functional\lstats beats every pseudo-legendary\land most legendaries.
+2f137b|No. 7: RAIKOU\pHP: 90\nATTACK: 75\lDEFENSE: 85\lSP. ATK: 115\lSP. DEF: 100\lSPEED: 115\lTOTAL: 580\pTYPE: ELECTRIC\pABILITIES:\nPRESSURE/INNER FOCUS/SHEER FORCE\pOne of JOHTO's three roaming\nlegendaries.\pIts mix of SPEED and SP. ATK\nlives up to the legend that makes\lit the lord of thunder in its\lregion.\pWith SHEER FORCE, it becomes the\nmost fearsome of the roaming trio.
+2f1522|No. 6: ENTEI\pHP: 115\nATTACK: 115\lDEFENSE: 85\lSP. ATK: 75\lSP. DEF: 90\lSPEED: 100\lTOTAL: 580\pTYPE: FIRE\pABILITIES:\nPRESSURE/INNER FOCUS/ROCK HEAD\pOne of JOHTO's three roaming\nlegendaries. The emperor of flames,\lunleashing its powerful physical\lFire-type moves with the fury of a\lvolcano.\pIt could be seen as an upgraded\nARCANINE: both have FLARE BLITZ,\lEXTREME SPEED and great power.\pARCANINE's distinguishing features\nare INTIMIDATE and access to the\lWILL-O-WISP + MORNING SUN combo.
+2f1747|No. 5: SUICUNE\pHP: 100\nATTACK: 75\lDEFENSE: 115\lSP. ATK: 90\lSP. DEF: 115\lSPEED: 85\lTOTAL: 580\pTYPE: WATER\pABILITIES:\nPRESSURE/INNER FOCUS/MAGIC GUARD\pOne of the three roaming\nlegendaries, and the one with the\lbest-balanced stats. It's seen as\lone of the hardest walls to bring\ldown, able to purify any polluted\lsurroundings in its path.
+2f18d9|No. 4: TYRANITAR\pHP: 100\nATTACK: 134\lDEFENSE: 110\lSP. ATK: 95\lSP. DEF: 100\lSPEED: 61\lTOTAL: 600\pTYPE: ROCK/DARK\pABILITIES:\nSAND STREAM/UNNERVE\pThe nemesis of MEWTWO and most\nlegendaries across KANTO-JOHTO,\lthanks to its unmatched toughness\land unique ROCK/DARK combination.\pDestruction and power made\nPOKéMON, despite being vulnerable\lto many other types.
+2f1a87|No. 3: CELEBI\pHP: 110\nATTACK: 50\lDEFENSE: 110\lSP. ATK: 110\lSP. DEF: 110\lSPEED: 110\lTOTAL: 600\pTYPE: PSYCHIC/GRASS\pABILITIES:\nNATURAL CURE/REGENERATOR/GRASSY SURGE\pIts story is believed to be closely\ntied to JOHTO's ILEX FOREST, which\lit will protect at all costs.\pIt has the same power and\nefficiency as MEW, but spreads it\levenly across its 5 useful STATS,\lfor an amazing average of 110.\pIt can travel through time and\nchange the course of events.
+2f1c8b|No. 2: LUGIA\pHP 106\nATTACK: 90\lDEFENSE: 130\lSP. ATK: 90\lSP. DEF: 154\lSPEED: 110\lTOTAL: 680\pTYPE: PSYCHIC/FLYING\pABILITIES:\nPRESSURE/WATER BUBBLE/MULTISCALE\pThe deity of the seas and the\ngreatest known defensive wall. Its\lpower rivals MEWTWO's.\pClosely tied to the history and\nmythology of the JOHTO region, it\ljoins HO-OH and RAYQUAZA at the\lcap of 680 base, the best\lcombination that nature's random,\larbitrary conditions have shown\lus so far.
+2f1e9f|No. 1: HO-OH\pHP: 106\nATTACK: 130\lDEFENSE: 90\lSP. ATK: 110\lSP. DEF: 154\lSPEED: 90\lTOTAL: 680\pTYPE: FIRE/FLYING\pABILITIES:\nPRESSURE/MAGIC GUARD/REGENERATOR\pJOHTO's phoenix, and proof that\nperfect harmony between humans and\lPOKéMON is possible.\pIts immense natural power rivals\nMEWTWO's.\pClosely tied to JOHTO's history\nand mythology, it joins LUGIA and\lRAYQUAZA at the cap of 680 base,\lthe best combination that\lnature's random, arbitrary\lconditions have shown us so far.
+2f20dd|No. 14: FLYGON\pHP: 80\nATTACK: 100\lDEFENSE: 80\lSP. ATK: 100\lSP. DEF: 80\lSPEED: 110\lTOTAL: 550\pTYPE: GROUND/DRAGON\pABILITIES:\nLEVITATE/TINTED LENS\pThe spirit of HOENN's deserts. It\nhas a fierce rivalry with SALAMENCE\lfor the title of the region's best\lnon-legendary dragon.\pBetter SPEED and offensive variety\nare its main arguments for that\lthrone.
+2f2279|No. 13: MILOTIC\pHP: 105\nATTACK: 60\lDEFENSE: 79\lSP. ATK: 110\lSP. DEF: 135\lSPEED: 81\lTOTAL: 570\pTYPE: WATER/FAIRY\pABILITIES:\nMARVEL SCALE/COMPETITIVE/CUTE CHARM\pA legend of HOENN's vast seas. Its\npower has sparked debate over whether\lit counts as a common POKéMON or a\lkind of minor legendary.\pIt's the only one in its region that\ncan go toe-to-toe with KYOGRE in the\lwater, thanks to its exceptional\lspecial bulk.
+2f2453|No. 12: REGICE\pHP: 80\nATTACK: 50\lDEFENSE: 100\lSP. ATK: 100\lSP. DEF: 200\lSPEED: 50\lTOTAL: 580\pTYPE: ICE\pABILITIES:\nCLEAR BODY/ICE BODY/ADAPTABILITY\pHOENN's eternal ice. Its existence\nis believed to have brought an ice\lage to the region thousands of\lyears ago.\pIt has an absurd SP. DEF of 200,\nthanks to the -200-degree cold that\lcoats its body, which filters out\lmuch of the power of special\lmoves.
+2f2641|No. 11: REGIROCK\pHP: 80\nATTACK: 100\lDEFENSE: 200\lSP. ATK: 50\lSP. DEF: 100\lSPEED: 50\lTOTAL: 580\pTYPE: ROCK\pABILITIES:\nCLEAR BODY/STURDY/ADAPTABILITY\pThe rocks in REGIROCK's body can be\nfound in every geological layer,\lgiving it a monstrous base physical\lDEFENSE of 200. Its origins remain\lunclear, but it behaves very much\llike a robot that stops at nothing.
+2f27fd|No. 10: REGISTEEL\pHP: 80\nATTACK: 75\lDEFENSE: 150\lSP. ATK: 75\lSP. DEF: 150\lSPEED: 50\lTOTAL: 580\pTYPE: STEEL\pABILITIES:\nCLEAR BODY/LIGHT METAL/ADAPTABILITY\pIts body is made of the hardest\nmetal known. Some SCIENTISTS doubt\lit even came from this planet.\pWhat's certain is that thousands of\nyears under subterranean pressure\lgave REGISTEEL its twin 150s in\lboth defenses.
+2f29ac|No. 9: SALAMENCE\pHP: 95\nATTACK: 135\lDEFENSE: 80\lSP. ATK: 110\lSP. DEF: 80\lSPEED: 100\lTOTAL: 600\pTYPE: DRAGON/FLYING\pABILITIES:\nINTIMIDATE/MOXIE\pHOENN's offensive answer to\nDRAGONITE, feared by the vast\lmajority of POKéMON in that region.\pIts powerful OUTRAGE, with FIRE\nBLAST for coverage, makes it one of\lthe best mixed attackers around.\pAdd its 100 SPEED, and it becomes\nthe only NON-LEGENDARY in\lKANTO-JOHTO-HOENN with 100 or more\lin all three offensive stats.
+2f2bd0|No. 8: METAGROSS\pHP: 80\nATTACK: 135\lDEFENSE: 130\lSP. ATK: 95\lSP. DEF: 90\lSPEED: 70\lTOTAL: 600\pTYPE: STEEL/PSYCHIC\pABILITIES:\nCLEAR BODY/LIGHT METAL\pOur SCIENTISTS believe a fast\nMETAGROSS would be the closest\lthing to competitive perfection,\lwhich is why AGILITY on this\lPOKéMON is so fearsome.\pIts body and fighting style\nresemble a giant computer packed\lwith cutting-edge technology,\limpenetrable on the physical side\land lethal with its METEOR MASH.
+2f2de3|No. 7: JIRACHI\pHP: 100\nATTACK: 50\lDEFENSE: 125\lSP. ATK: 110\lSP. DEF: 125\lSPEED: 90\lTOTAL: 600\pTYPE: STEEL/PSYCHIC\pABILITIES:\nSERENE GRACE/LEVITATE/MOLD BREAKER\pThey say it can grant any wish.\nLike METAGROSS, its STEEL/PSYCHIC\lcombination gives it a huge number\lof resistances.\pIts tremendous luck doubles its\nchances of inflicting secondary\leffects on the opponent.
+2f2f92|No. 6: DEOXYS\pHP: 100\nATTACK: 50\lDEFENSE: 75\lSP. ATK: 150\lSP. DEF: 75\lSPEED: 150\lTOTAL: 600\pTYPE: PSYCHIC\pABILITIES:\nPRESSURE/MAGIC GUARD\pThe most offensive POKéMON known,\nwith the greatest capacity for\ldamage, thanks to its unique\lPSYCHO BOOST.\pIts SPEED/SP. ATK ratio is\nunmatched at a combined 300, paid\lfor with mediocre defenses.\pIts origin is a complete mystery.
+2f314f|No. 5: LATIAS\pHP: 80\nATTACK: 80\lDEFENSE: 90\lSP. ATK: 110\lSP. DEF: 130\lSPEED: 110\lTOTAL: 600\pTYPE: DRAGON/PSYCHIC\pABILITIES:\nLEVITATE
+2f31e6|Together with LATIOS, it forms one\nof the most elusive LEGENDARY duos\lknown to humans. It's more\lefficient than its brother, but has\lless offensive power.
+2f327e|Its numbers are similar to those of\na PSEUDO-LEGENDARY with a good stat\lspread. However, holding a SOUL\lDEW, it reaches the heights of a\lMAJOR LEGENDARY.
+2f3343|No. 4: LATIOS\pHP: 80\nATTACK: 90\lDEFENSE: 80\lSP. ATK: 130\lSP. DEF: 110\lSPEED: 110\lTOTAL: 600\pTYPE: DRAGON/PSYCHIC\pABILITIES:\nLEVITATE
+2f33da|Together with LATIAS, it forms one\nof the most elusive LEGENDARY duos\lknown to humans. It's less\lefficient than its sister, but has\lmore offensive power.
+2f3472|Its numbers are similar to those of\na PSEUDO-LEGENDARY with a good stat\lspread. However, holding a SOUL\lDEW, it reaches the heights of a\lMAJOR LEGENDARY.
+2f3527|No. 3: GROUDON\pHP: 100\nATTACK: 150\lDEFENSE: 140\lSP. ATK: 100\lSP. DEF: 90\lSPEED: 90\lTOTAL: 670\pTYPE: GROUND\pABILITIES:\nDROUGHT\pThe creator of the continents,\nwith colossal physical power.\pDROUGHT eases its weakness to\nWater while powering up its HEAT\lWAVE and RAGING FURY.\pThe violence of its earthquakes\nhas no equal.
+2f36a8|No. 2: KYOGRE\pHP: 100\nATTACK: 100\lDEFENSE: 90\lSP. ATK: 150\lSP. DEF: 140\lSPEED: 90\lTOTAL: 670\pTYPE: WATER\pABILITIES:\nDRIZZLE\pThe creator of the seas, with\ncolossal special power.\pIts DRIZZLE ability turns this\nPOKéMON's WATER SPOUT and SURF into\lsomething apocalyptic, while its\lTHUNDER always strikes without\lmercy.
+2f3832|No. 1: RAYQUAZA\pHP: 105\nATTACK: 150\lDEFENSE: 90\lSP. ATK: 150\lSP. DEF: 90\lSPEED: 95\lTOTAL: 680\pTYPE: DRAGON/FLYING\pABILITIES:\nAIR LOCK\pThe king of HOENN's skies. Its\npower rivals MEWTWO's, and its\lmixed offense rivals DEOXYS's. It\lwields the most devastating DRACO\lMETEOR and Flying-type attacks in\lexistence.\pIt joins HO-OH and LUGIA at the\ncap of 680 base, the best\lcombination that nature's random,\larbitrary conditions have shown\lus so far.
+2f3a47|NIDOKING-X\pHP: 91\nATTACK: 142\lDEFENSE: 117\lSP. ATK: 50\lSP. DEF: 105\lSPEED: 125\lTOTAL: 630\pTYPE: POISON/DARK\pABILITIES:\nPOISON POINT/SHARPNESS/SHEER FORCE\pIts 142 physical ATTACK, access to\nSHARPNESS and SHEER FORCE, and wide\lmovepool make it a machine built\lto tear enemies apart.\pThanks to moves like CROSS POISON,\nX-SCISSOR and NIGHT SLASH, it taps\l99% of NIDOKING's latent potential,\lat the cost of cutting its SP. ATK\lto a base of 50.
+2f3c2b|NIDOQUEEN-Y\pHP: 100\nATTACK: 52\lDEFENSE: 107\lSP. ATK: 135\lSP. DEF: 150\lSPEED: 86\lTOTAL: 630\pTYPE: GROUND/POISON\pABILITIES:\nPOISON POINT/FLUFFY/SHEER FORCE\pA wall that will drive any attacker\nto despair, with higher SP. DEF\lthan GOODRA and unrivalled physical\lDEFENSE thanks to its FLUFFY\lABILITY, which we managed to add\lto order.\pEven so, we kept its SP. ATK at a\nbase of 135, more than enough to\lsweep foes with EARTH POWER or\lSLUDGE BOMB. It taps 99% of\lNIDOQUEEN's latent potential, at\lthe cost of cutting its physical\lATTACK to a base of 52.
+2f3e8c|RHYPERIOR-&\pHP: 125\nATTACK: 175\lDEFENSE: 175\lSP. ATK: 65\lSP. DEF: 65\lSPEED: 55\lTOTAL: 660\pTYPE: GROUND/STEEL\pABILITY: SPEED BOOST\pThe POKéMON that opened the door\nto STRONG BOND for us. Its\ldevastating PHYSICAL might is the\lgreatest known.\pIts HP/ATTACK/DEFENSE ratio beats\neven PRIMAL GROUDON's.\pAs if that weren't enough, +10 in\nSP. DEF and SPEED over RHYPERIOR\llet it hold its own on that side,\lespecially given its SPEED BOOST\lABILITY, which gradually turns its\lbody into a giant drill spinning\lfaster and faster.
+2f40f3|It's a blank document, waiting to\nbe filled with valuable information.
+2f415f|RAPIDASH-&\pHP: 75\nATTACK: 135\lDEFENSE: 90\lSP. ATK: 80\lSP. DEF: 100\lSPEED: 145\lTOTAL: 625\pTYPE: FIRE/FLYING\pABILITY: FUR COAT\pOnly VIOLET's GYM LEADER, FALKNER,\ncould give wings to a POKéMON like\lRAPIDASH, born only to gallop\lacross the land.\pFaster and stronger than its land-\nbound form, RAPIDASH-& also reaches\lremarkable defensive levels,\lespecially on the PHYSICAL side.\pThanks to FUR COAT, it can even\nafford to tank ROCK moves, and hit\lback with excellent coverage like\lHORN LEECH or HIGH HORSEPOWER.
+2f43b9|BUTTERFREE-&\pHP: 60\nATTACK: 5\lDEFENSE: 80\lSP. ATK: 140\lSP. DEF: 125\lSPEED: 110\lTOTAL: 520\pTYPE: BUG/PSYCHIC\pABILITY: ADAPTABILITY\pPerhaps the greatest example of\nthe STRONG BOND miracle.\pNo one would imagine a POKéMON like\nBUTTERFREE could undergo such a\lchange; nature, left to itself,\lwould never have allowed that\lpitiful 5 physical ATTACK.\pOn average, it has a base of 103\nin each of its useful STATS, making\lit faster, bulkier and stronger\lthan VOLCARONA.
+2f45e4|KINGDRA-&\pHP: 85\nATTACK: 120\lDEFENSE: 120\lSP. ATK: 120\lSP. DEF: 120\lSPEED: 100\lTOTAL: 665\pTYPE: WATER/DARK\pABILITY: CONTRARY\pWith a remarkable base total of\n665, it borders on sacred ground.\pThanks to CONTRARY, it can use\nDRACO METEOR and CLANGING SCALES\lto its benefit, opening up both\loffensive and defensive options.\pThe only NON-LEGENDARY able to hold\n120 BASE STATS in 4 different STATS.
+2f47b4|SKARMORY-&\pHP: 75\nATTACK: 110\lDEFENSE: 160\lSP. ATK: 45\lSP. DEF: 100\lSPEED: 100\lTOTAL: 590\pTYPE: STEEL/FLYING\pABILITY: LIGHTNING ROD\pThe FLYING TYPE with the highest\nknown physical DEFENSE.\lIt breaks physiological barriers\land comes close to CLOYSTER's\labsurd DEFENSE.\pIts ELECTRIC immunity, solid base\n110 offense and decent 100 SPEED\lmake it the best-adapted bird we\lknow of.\pOnly 45 in SP. ATK out of a 590\nbase total, which gives it an\laverage of 109 useful points per\lSTAT.
+2f49f7|POLIWRATH-&\pHP: 100\nATTACK: 145\lDEFENSE: 140\lSP. ATK: 70\lSP. DEF: 100\lSPEED: 80\lTOTAL: 635\pTYPE: WATER/FIGHTING\pABILITY: IRON FIST\pOnly CHUCK's iron discipline over\n4 decades could have forged such a\lPOKéMON.\pIt combines the best qualities of\nthe FIGHTING TYPES:\lATTACK higher than CONKELDURR,\lDEFENSE higher than KOMMO-O,\lSP. DEF close to GALLADE's,\land an IRON FIST ability that\lmakes it devastating.\pIt couldn't fully regain the SPEED\nit had as a POLIWAG.
+2f4c07|ELECTIVIRE-X\pHP: 75\nATTACK: 153\lDEFENSE: 97\lSP. ATK: 95\lSP. DEF: 105\lSPEED: 115\lTOTAL: 640\pTYPE: ELECTRIC/FIGHTING\pABILITIES:\nMOTOR DRIVE/GALVANIZE/IRON FIST\pWe finally fixed the SPEED drop\nELECTABUZZ suffered on evolving,\lreaching a base of 115 alongside\lan overwhelming 153 physical\lATTACK.\pIts weak Electric moves are made up\nfor by its GALVANIZE ability, which\lmakes DOUBLE-EDGE do abysmal\ldamage, plus a relentless EXTREME\lSPEED for priority.
+2f4e4e|ELECTRODE-Y\pHP: 60\nATTACK: 10\lDEFENSE: 85\lSP. ATK: 140\lSP. DEF: 95\lSPEED: 200\lTOTAL: 590\pTYPE: ELECTRIC/STEEL\pABILITIES:\nSTATIC/LEVITATE/TRANSISTOR\pELECTRODE's sensitivity to magnetic\nwaves let us make the right\lconnections, achieving unbeatable\lSPEED fed back by magnetic\llevitation, much like the MAGNET\lTRAIN's technology.\pThis LEVITATE cancels its biggest\nweakness, the GROUND TYPE, and the\lmagnetism gives it an electric\lcharge greater than MAGNEZONE's.
+2f5096|CROBAT-&\pHP: 95\nATTACK: 120\lDEFENSE: 95\lSP. ATK: 85\lSP. DEF: 105\lSPEED: 160\lTOTAL: 660\pTYPE: POISON/FLYING\pABILITIES:\nINFILTRATOR/TINTED LENS/COMPOUND EYES\pThe signature POKéMON of HEAD\nADMIN {V01}, proof of how far an\lordinary ROCKET can go. With a base\lof 660, it borders on territory\lmore fitting for a MAJOR LEGENDARY.\pIts SPEED is almost unbeatable, and\nthanks to COMPOUND EYES, no POKéMON\lis safe from its powerful DUAL\lWINGBEAT and GUNK SHOT, which will\lalways hit their mark.
+2f52a5|CROBAT-&\pHP: 95\nATTACK: 160\lDEFENSE: 115\lSP. ATK: 85\lSP. DEF: 85\lSPEED: 120\lTOTAL: 660\pTYPE: POISON/STEEL\pABILITIES:\nLEVITATE/INFILTRATOR/TOUGH CLAWS\pThe signature POKéMON of HEAD\nADMIN ANDRA.\pIt's proof of how far an ordinary\nROCKET can go. With a base of 660,\lit's closer to a MAJOR LEGENDARY\lthan a MINOR one.\pIt has colossal physical power,\nborn of its TRAINER's drive.\pThanks to LEVITATE and its STEEL\nTYPE, it resists a huge range of\lmoves, making it very hard to\loverwhelm.
+2f54cf|SKELETAL KABUTOPS\pHP: 60\nATTACK: 155\lDEFENSE: 125\lSP. ATK: 75\lSP. DEF: 80\lSPEED: 100\lTOTAL: 595\pTYPE: ROCK/GHOST\pABILITIES:\nSHADOW TAG/SHARPNESS\pA remnant of KABUTOPS's true wild\nform. The magic of the RUINS OF\lALPH gave it back the power to\ltear its enemies apart, even with\lnothing but its skeleton.\pIt becomes a deadly trap for\nanyone who ventures into the most\limportant chambers.
+2f56a9|DRAGONITE-&\pHP: 101\nATTACK: 91\lDEFENSE: 115\lSP. ATK: 154\lSP. DEF: 154\lSPEED: 110\lTOTAL: 725\pTYPE: DRAGON/FAIRY\pABILITY: NO GUARD\pThe only known STRONG BOND\nPSEUDO-LEGENDARY. It lost much of\lits physical ATTACK as a result of\lgaining the FAIRY TYPE.\pIts SP. ATK/SP. DEF ratio is\nunique, and both (154) match the\lbest stat of the classic LUGIA and\lHO-OH, hitting twice over the\lsacred ceiling those titans could\lonly reach once.\pIt can use THUNDER, FIRE BLAST,\nBLIZZARD and SPRINGTIDE STORM\lwithout missing, thanks to its\lability; a complete dragon that\lrules the forces of nature.

@@ -1,0 +1,513 @@
+2c0fda|This GYM was paid for with LANCE's\ngovernment money. Our MASTER\lwould never battle in a place like\lthis. Now that you know what really\lhappened in KANTO, if you want to\lsee him, you'll have to enter the\lDRAGON'S DEN.
+2c10c3|{V01}, right?\pOur GRAND MASTER has told us\nabout you. You're more than\lwelcome here.
+2c112a|Ah…\pIf I told you how many sacred\nPOKéMON I've seen swimming\lhere{C0805}…{C0805}
+2c1189|Our GRAND MASTER prefers to keep a\nlow profile and keep JOHTO in the\ldark about his true power, but I\lcan tell you he's the greatest\lprodigy this region has produced\lin the last century.
+2c1271|All the dragon experts come\nfrom BLACKTHORN CITY.
+2c12aa|A dragon that other dragons\ncan't even touch!\pI saw OUTRAGE and DRAGON RUSH\ndo nothing to the MASTER's POKéMON!
+2c1336|I came all this way to better\nunderstand where dragons get their\lbrute strength. They have a lot in\lcommon with the FIGHTING TYPE.\pBoth of them pack devastating\nphysical power!
+2c13ef|Watch out for the ravines to the\nsouth. Before they know it, lots\lof people find they can't get\lback to BLACKTHORN!
+2c147f|The DRAGON MASTER retired after\nmore than 50 years as BLACKTHORN\lCITY's LEADER.\pNow his granddaughter, CLAIR,\nhas taken his place.
+2c14f0|BLACKTHORN CITY has always been the\nmost remote place in JOHTO, ringed\lby mountains, with the ICE PATH as\lthe only way in.\pBut it knows how to reward its\nvisitors, for the ultimate\lknowledge of the most powerful and\lsacred type awaits those who are\lready{C0805}…{C0805}
+2c160f|Aren't they adorable?\pIt's fascinating how a fragile\nDRATINI can grow into a DRAGONITE\lwith more overall power than\lARTICUNO, ZAPDOS, MOLTRES and the\lroaming LEGENDARIES ENTEI,\lRAIKOU and SUICUNE.\pDon't you think?
+2c16f3|TO THE DRAGON'S DEN
+2c1723|BLACKTHORN CITY GYM\nLEADER: ... ...\lThere's no name!
+2c176f|BLACKTHORN CITY GYM\nLEADER: CLAIR\lThe great DRAGON POKéMON expert.
+2c17c4|BLACKTHORN CITY\nA legendary refuge hidden by the\lmountains since time\limmemorial.
+2c1826|ICE PATH
+2c185d|{V01}, right?\pOur GRAND MASTER has told us\nabout you. You're more than\lwelcome here.
+2c1903|This city is known as the cradle of\nDRAGON TAMERS. They come from every\lregion, and many pay their respects\lby leaving behind a POKéMON with\lthe potential to become a dragon.
+2c19b4|Would you like one of those\nPOKéMON? Here.
+2c19e3|YOU GOT A Lv.25 SWABLU!
+2c1a02|The SWABLU line doesn't have the\noffensive power typical of dragons,\lbut it does have other strengths.\pMaybe you'll discover them.
+2c1ab0|MT. SILVER
+2c1c17|{C1907}I expected nothing less from\nyou, {V01}.
+2c1c37|{C1907}I knew you couldn't resist\nvisiting this place either.\pLook.
+2c1c81|{C1907}It's as if{C0819}…{C0819} this were the place\nwhere POKéMON battling was born,\las we know it today. This is where\lthe great champions of KANTO and\lJOHTO have come to retire, after a\llifetime devoted to battle.\pSeems that tradition is dying out\ntoo.
+2c1daf|{C1907}I climbed to the top of MT.SILVER.\pGuess who I ran into.
+2c1df9|{C1907}That's right. I surprised even\nmyself when I managed to beat the\lone who seemed invincible at the\lPOKéMON LEAGUE. Once again, my\llimits were much further off than\lI'd imagined.
+2c1eb6|{C1907}RED is, and always will be, an\nextraordinary TRAINER, but he's\llimited by his reality.\pTechnically, he's achieved\nperfection with what he has.
+2c1f54|{C1907}But for people like us, who've\nseen what we've seen, that power\lholds no mystery anymore.\pJoining TEAM ROCKET was the best\nthing we could've done to learn\lthe true history.
+2c201e|{C1907}I've learned and improved a lot\nsince coming to HOENN, {V01}.\lI said I wouldn't use LEGENDARIES\lon my team, and I stand by that.
+2c2099|{C1907}I came here to MT. SILVER\nlooking for a real challenge.\pRED wasn't bad, but{C0819}…{C0819}\pI knew the real challenge\nwould be you!
+2c2123|Meh, some things never change.
+2c2145|{C1907}Even though I made it harder\nthan ever, you beat me again.\lJust so you know, I'll never stop\lpushing, harder and with more\lexperience every time.\pAfter all, we're the ELITE of\nTEAM ROCKET. There's no time for\lregrets or what-ifs. All we can do\lis look ahead and keep going.
+2c2260|{C1907}I'll be staying in JOHTO a while.\pGIOVANNI wants me here for now.\nI think he senses{C080F} …{C080F} that something\lbig is coming. I'm curious too.\lEver since that earthquake on\lSEVEN ISLAND, it's all questions.\pWe haven't seen LUGIA or HO-OH\nsince.\pLet alone that "ESSENCE POKéMON"{C0805}…{C0805}
+2c23b5|My mission is to make sure nobody\ngets past this point by accident.\lIf some lost hiker turns up, my\lGRANBULL's ROAR will put an end to\lthat accident in one go and send\lthem right back the other way!
+2c24a1|All good, sir?\nWe wish you luck on your journey\lthrough JOHTO!
+2c24ec|At your service for anything you\nneed, HEAD ADMIN {V01}!
+2c2531|North of here lies BLACKTHORN\nCITY, famous for its devotion to\lthe DRAGON TYPE. However, you can't\lreach the city from here. The only\lway to get there is through the\lICE PATH.
+2c260e|There's no way they'll discover\nthe base. The mountains around it\lhide it completely.\pOnly the BELL TOWER is tall\nenough to rise above them!
+2c26ba|We're south of ROUTE 45, so far\nsouth that this area isn't on\lstandard maps. But not far enough\lto count as the northern part of\lROUTE 29, between NEW BARK TOWN\land CHERRYGROVE CITY.
+2c282c|ROUTE 45\nMOUNTAIN ROAD
+2c284c|…\n…\p-It's a POKéMON. It seems\nto be resting.-
+2c28af|Me, give you a free sample POTION?\nWhat for, when you lot can't even\lget into the shops!
+2c2913|When LANCE finishes cleaning\nhouse, you lot will have no choice\lbut to flee KANTO like the rats\lyou are.
+2c298b|ROUTE 1:\nPALLET TOWN - VIRIDIAN CITY
+2c29bd|Will you leave me alone?\nCan't you see I'm teaching my\lSCYTHER CUT?
+2c2a15|Got a problem?\nIf you want to get by, go another\lway. I couldn't care less what a\lROCKET has to do or not do.
+2c2aa7|Those cool TRAINERS said they\nfinally found a wild PINSIR\lhere.
+2c2b01|There's no way there could be a\nwild PINSIR in this forest.
+2c2b49|DIGLETT'S CAVE
+2c2b60|ROUTE 2\nVIRIDIAN CITY - PEWTER CITY
+2c2b91|If I had a SCYTHER, everyone in\nVIRIDIAN FOREST would respect me,\land this tree would be gone with a\lsingle slash{C0805}…{C0805}
+2c2c10|Lots of POKéMON only live in\nforests or caves.\pYou'll need to stay alert and keep\nat it if you want to catch\lthem all.
+2c2c99|There's nothing here that could\ninterest a COOL TRAINER like me,\lexcept those legends people tell\labout a wild PINSIR{C0805}…{C0805}
+2c2da2|When the legal system finally\nworks the way it's supposed to,\lyou ROCKETS will stop scavenging\lthe crumbs we leave you. That's\lall you've got left in your\lmiserable existence.
+2c2e88|I'd never leave my POKéMON in a\nROCKET's hands, get that straight.
+2c2ef6|RATTATA might be small, but never\nunderestimate its powerful bite.\pThough your organization knows\nthat better than anyone.\pRight?
+2c2f8a|This forest has seen many legends\ntake their first steps, so show\lit some respect!
+2c3013|Don't talk to me, ROCKET, or\npeople will think I have\lsomething to do with you lot.
+2c3113|People like you, who only get in\nthe way of progress and the\lnatural order, shouldn't even\lexist. Get out of my sight before\lI have to say it again.
+2c31bd|You dare make eye contact with an\nOAK'S AIDE?
+2c31ec|OAK's protégé is going to shred\nall your POKéMON like they're\lthin sheets of paper.
+2c3249|It'll be the last thing you do.
+2c3263|Impossible!
+2c326f|-{V01} stole TM15 HYPER BEAM from\nthe OAK'S AIDE-
+2c329e|You're going to pay for this,\nROCKET. I'll burn your whole\lorganization down for what\lhappened here.
+2c32fb|There's still time to disappear,\nbefore I change my mind.
+2c3472|The PC is another basic service\nROCKETS can use. Along with the\lPOKéMON CENTERS, it's the only\lpublic thing you lot can access.\lI wouldn't even give you that!
+2c351a|Hey, stop staring at the 6 POKé\nBALLS on my belt!\pYou're not stealing them!
+2c356b|A newspaper{C0805}…{C0805}
+2c3616|You look like a ROCKET with big\nambitions.\pThe kind who isn't satisfied\nwith plain old RATTATA and EKANS.\pListen.
+2c3684|How'd you like to get your hands\non an amazing POKéMON that'll make\leveryone fear and respect you?\pIt's only $500!\pNobody else will make you an\noffer like this!
+2c371f|Perfect.\pAnother sucker scammed.
+2c374d|Did you really think anyone would\nsell you a POKéMON like that for\lthat price?\pA MAGIKARP is completely\nuseless.
+2c37be|Besides, you're a ROCKET. I don't\nhave to give you anything. Robbing\la thief is no crime, or so the\lsaying goes, right?
+2c3849|You can't complain to the POLICE,\nsince they're after you lot, and\lnobody will listen to you, or even\lbelieve you. It's the perfect\lbusiness: selling hot air for $500.\pHo ho ho ho ho!
+2c38f4|So long, ROCKET. You'll never find\nme. Next time, think twice about\lwho you do business with.
+2c3962|I thought you ROCKETS had a good\nnose for spotting a good deal when\lit's right in front of you. What\la letdown.
+2c39f0|Sorry, but TEAM ROCKET policy\nforbids putting its own POKéMON\linto the business.\pI hope you understand.
+2c3d9e|{C1916}Well{C0819}…{C0819} you're here.\pKnow that the information I'm about\nto reveal to you is strictly\lconfidential. Even hinting at it\loutside ROCKET circles is\lpunishable by the ultimate penalty\lhere.
+2c3e7f|{C1916}You're ROCKETS now, so I\nassume you're willing to accept\lthese terms.
+2c3edb|{C1907}Of course!\pGo ahead!
+2c3eee|-The DAY-CARE MAN LOCKED\nTHE DOOR-.
+2c3f1c|{C1916}As you may suspect, this is no\nordinary DAY CARE. It's an\lundercover ROCKET BASE, one of our\lmany shady businesses.
+2c3fa9|{C1916}Basically, yes, we do what we\npromise: look after TRAINERS'\lbeloved POKéMON. However, the\lcontract says nothing about the\lconditions or the extra commission\lwe charge for it. That is, the\lbusiness here comes from pairing\lup the POKéMON left with us that\lare the same species to produce\lPOKéMON EGGS. In other words, our\lprofits.
+2c410d|{C1916}Some, like CLEFAIRY or ABRA,\nare sent to the GAME CORNER. Others\lare sold straight on the black\lmarket.\pYour dear CONSUL, for one, bought\na MEOWTH that hatched from an EGG\llaid right here.
+2c41e2|{C1907}Clever!\pSo the CELADON BASE isn't the\nonly one TEAM ROCKET runs in\lthis region!\pI had no idea. It's the perfect\nbusiness!
+2c4276|{C1916}That's right. You'll learn a few\nmore things if you stick around\llong enough, young recruit. For\lnow, PETREL is waiting for you\ldownstairs in his office.
+2c4311|{C1916}To go down, just head over to\nthe green area in the upper left.\pThere's a trapdoor there that\nblends in with the floor. That's\lthe secret entrance.
+2c43bb|-THE DAY-CARE MAN UNLOCKED\nTHE DOOR-.
+2c43e6|{C1916}Now hurry.\pCustomers could show up at any\nmoment, and nothing's worse for a\lbusiness's reputation these days\lthan getting mixed up with ROCKETS.\pGo!
+2c4495|{C1907}It really was true!
+2c44f3|There's a trapdoor that subtly\nreveals stairs leading down to an\lunderground area.\pDo you want to enter the ROCKET\nBASE?
+2c45b6|You ROCKETS' days are numbered.\nThere'll be no place in KANTO for you.
+2c4602|You think you're so funny,\ninvading the city…\pDon't you, ROCKET?\pJust you wait and see.
+2c4683|What kind of joke is this?\nOnly the region's elite get into\lthis city. Get lost, ROCKET, unless\lyou want me to report you.
+2c4823|The only thing NUGGETS are good\nfor is selling them for 5000!
+2c486e|Every POKéMON has strengths and\nweaknesses depending on its\lcombination of types.
+2c48da|I heard there are ghosts in\nLAVENDER TOWN!
+2c49bd|Get away from me, you filthy\nROCKET.\pI'm PROF.OAK's personal aide and\npart of this region's elite.\lSomeone of your level can't even\llook me in the eye.
+2c4a69|Want to see me make you leave\nthe hard way?
+2c4a9e|You have no idea who you're\nmessing with, ROCKET. When OAK\lhears about this, you'll never\lsee the light of day again.
+2c4b14|This'll be quick, quicker than\nsweeping the floor.
+2c4b42|This makes no sense at all!
+2c4b61|-{V01} stole an EVERSTONE from\nthe OAK'S AIDE-
+2c4b8f|NO!\pA ROCKET can't be\nthis strong!\pWhen I tell the authorities, you'll\npay back what you stole from me\lten times over!
+2c4c10|That's it, that's what I like.\pTrash goes in the trash.
+2c4c6c|Watch your step, ROCKET.\pYou'll have eyes on the back of\nyour neck while you're here.
+2c4cd3|It might not look like it, but\nplenty of people secretly support\lyou lot. It's just that they're all\lscared stiff of what LANCE\lmight do.
+2c4ef5|ROUTE 3\nMT.MOON AHEAD NORTH
+2c4f40|I wouldn't come through here if\nyou want to stay free, ROCKET.\pThe POLICE are running some kind\nof investigation all over\lPEWTER CITY!
+2c4ff4|On the island, different things\nhappen depending on connections.\pWhat are connections, you ask?\pYou'll have to figure that out\nwithout anyone's help.
+2c5087|Did you come aboard the SEAGALLOP?\pI think there are ten of those\nfast ships in total.\pBut I don't know which routes they\ncover.
+2c5109|These islands hold many mysteries\nyet to be discovered, some we\lcan't even imagine.
+2c516c|POKéMON DAILY\pBreaking news on AGATHA, member of\nthe ELITE FOUR.\pAccording to close sources, AGATHA\nand PROF. OAK were rivals\pduring their training as\nTRAINERS.
+2c5227|Okay, I've got everything I need\nto explore the RUINS.
+2c5265|POKéMON have their own\npersonalities, just like anyone.\pMy PIKACHU, for example, has a\nHASTY nature, and it really never\lstops.
+2c52f8|I need to go fishing on SEVEN\nISLAND.\pIt's the last one I need to\ncomplete my tour of ARCHI7.\pBut first, I'm going to grab\na few POKé BALLS.
+2c5469|I may not look it now, but when I\nwas younger{C0819}…{C0819} I flew all over\lthe place, challenging every\lTRAINER I came across.\pThese days, I'm happy just\nreminiscing and watching battles.
+2c5545|So ARCHER… You must be a great\nTRAINER to have caught his\lattention.
+2c5594|Long ago, there were a few GYMS in\nthe SEVII ISLANDS too. They ended up\lclosing due to inactivity and lack\lof competition, even though some of\lthem reached a very high level.
+2c564d|Of all of them, as far as I know,\nmine is the only one still standing{C0819}…{C0819}\lhidden and unknown to the vast\lmajority of ARCHI7's residents.
+2c56da|See those boxes? Behind them is an\nadjoining room with a floor tile\lthat teleports you to where my GYM\lis.
+2c575b|Your POKéMON must be very strong,\nright?\pYou have my permission to destroy\nthe boxes and go in. Don't worry…\pMy WYRDEER can restore them quickly\nwith its PSYCHIC powers.
+2c5812|Most people who come in just stare\nat the boxes, but nobody has the\lnerve to use CUT, STRENGTH or\lFIRE BLAST on them!\pTRAINERS used to shoot first and\nask questions later.
+2c58cf|What about you?
+2c58df|Hope to see you around. ARCHER\nsending you here has brought back\lmy passion for battling.
+2c599a|These boxes are just in the way.\pDo you want to use your POKéMON\nto destroy them?
+2c5a28|I should write a LETTER{C0805}…{C0805}
+2c5a59|Play with POKéMON and you'll live\na long time!\pLook at AGATHA, for example.\pShe's the oldest member of the\nELITE FOUR.\pShe inspires me to better myself\nevery day!
+2c5b01|Young people don't find anything\nhere that interests them.\pBut this place is unique for its\nnature and its history.\pRelax and enjoy your stay.
+2c5bc8|You know some POKéMON evolve when\nthey're traded, right?\pAnd did you know some of them need\na specific item to evolve when\lthey're traded?
+2c5c78|I've been searching for the RUINS\nfor ten years.\pNo, much longer, it's been twenty!\pI think there's something odd\nabout this island.
+2c5ced|The MEADOW to the east has belonged\nto my family for generations. I\lshould have built a huge mansion\lon it.\pThat'd be better than having to\nput up with you and your savage\lorganization!
+2c5dc6|Generally, TEAM ROCKET gets treated\nmuch better on these islands than\lin the KANTO region itself. The\lsmear campaigns run by the LEAGUE\lgovernment have done a lot of\ldamage to your image.
+2c5f58|{C1907}You made it{C080F}…{C080F} I still haven't\napologized for how I acted before.\lI thought we were competing, and\lI wanted to come out on top.\pYou and ARCHER taught me a lesson.\nNow I understand the power of\lteamwork.
+2c604a|{C1907}Still, that doesn't mean I\ncan't take the initiative and make\lmy team stronger. Next time we\lbattle, I'm going to knock out\lall your POKéMON. I'm determined to\lrise above the average ROCKET\lSOLDIER in KANTO.
+2c613b|{C1912}Can you two quit the chitchat\nalready?\pWe're setting sail for KANTO!
+2c617d|{C1907}Let's get on board, {V01}.\pSee you in KANTO.
+2c61cf|Have you been to the GAME CORNER\nyet?\pYou really need at least one\nfriend with you. Otherwise, it's\la drag.
+2c6231|TWO ISLAND doesn't have many\nresidents.\pAn old lady lives right out on\nthe cape.\pShe's been there for who knows\nhow long{C0805}…{C0805}
+2c62a8|POKéMON DAILY\pBreaking news on LORELEI, member\nof the ELITE FOUR.\pAccording to close sources, LORELEI\nis keeping a big secret.\pWhat is known about her is her\nelegant, unique and calculating\lbattle style.
+2c637f|A TRAINER as strong and powerful\nas few others was born and raised\lon this island.\pI bet you know her. Her name is\nLORELEI, and she's in the ELITE\lFOUR.\pI taught her a lot about POKéMON\nwhen she was just a little thing.
+2c6458|Actually, ARCHI7 is in a warm\nregion.\pBut there's one exception I want\nto tell you about.\pICEFALL CAVE is cold because of\nthe POKéMON that lives there.
+2c6508|Whoa, what a hit!\nYou're so strong!
+2c65c5|Contact moves like BODY SLAM tend\nto do lots of damage and can cause\linteresting side effects like\lparalysis.\pBut they do have one problem.
+2c666b|You got a ROCKY HELMET from\nthe TRAINER!
+2c669f|Want to know?
+2c66b1|A ROCKY HELMET takes 1/6 of the HP\nfrom any foe that hits us with a\lcontact move.\pCombined with ROUGH SKIN or\nIRON BARBS, it'll deal more than a\llittle damage just for taking the\lhit.\pCan you picture a CLEFABLE using\nDOUBLE SLAP against a FERROTHORN\lholding this HELMET?\pWe'd have to rush the CLEFABLE\nstraight to the hospital without\lthe FERROTHORN making a single\lmove!
+2c6843|All right!\nI'll show you!
+2c685b|You've got a formidable team…\nI'll show you, no question.
+2c6892|That's right!\pContact moves can hurt the POKéMON\nusing them if it touches certain\lPOKéMON with abilities like STATIC,\lIRON BARBS, ROUGH SKIN or FLAME\lBODY. So you have to use them\lcarefully.\pThere's another item that punishes\nany contact move like BODY SLAM.\lLook.
+2c69d0|Then I don't know what you're\ndoing here.\pScram!
+2c6a1b|There's a rare ICE-type POKéMON\nin ICEFALL CAVE.\pLots of people come here to\nsee it.
+2c6a83|Well, really!\pThe new POKéMON DAILY still hasn't\nmade it to this island?
+2c6ad8|What? A POKéMON EGG?\nNo idea…\pUh… Wait, yes, the DAY-CARE\nCOUPLE mentioned something about\lthat.\pThey said they'd found EGGS at\nthe DAY CARE itself.
+2c6b8b|A POKéMON DAILY from a few years\nago…\pPOKéMON DAILY CONTEST special!\pThe winner of the spring\nPOKéMON CONTEST is DAISY OAK,\lfrom PALLET TOWN!
+2c6c4b|I love playing with PEDRITA, the\ngirl next door. We often go to\lthe forest and spend the day there.
+2c6cb4|Don't you ever go to BERRY FOREST\nalone.\pIt's full of ghosts!
+2c6d14|My dad tells me stories that not\neven he believes!\lAnd he won't let me go out to play!
+2c6d7b|I bought this house because I\nwanted to live somewhere quiet.\pToday, I think I'll go fishing.
+2c6e93|Do you know anything about the\nSAFFRON GYM LEADER?\pShe uses PSYCHIC-type POKéMON,\nright?\pI really admire her, to be honest.\pI hear she's cool, and really\npretty too.
+2c6f37|Really?\pAre you sure the CELADON\nDEPARTMENT STORE is way bigger\lthan this shop?
+2c6f9a|The BIKERS nearly trashed the\nPOKé MART.\pThank goodness they've left.
+2c7002|I buy medicine here sometimes.\pBut lots of people heal their\nPOKéMON with BERRIES from BERRY\lFOREST.\pI mean, I get it; BERRIES are free\nand they never run out.
+2c70cc|You can't SURF between the\nislands around here.\pThere are currents and whirlpools.
+2c712a|Hey, did you hear?\pWe can link up with the PCs in\nKANTO now.\pI don't know who set it up, but\nI think it's a great idea!
+2c71c2|Let's do a BERRY CRUSH!\nA waste of BERRIES, you say?…\pBut BERRY FOREST is packed with\nthem!
+2c723b|There are rare rocks and gems.
+2c7279|You want to catch every POKéMON\nyou come across?\pThat's amazing!{C0819}…{C0819} Hey, let me know\nif you catch a strong one!
+2c730c|I'm making a meal for a very\nimportant person.
+2c74b9|And what do you want?
+2c74e3|Want to buy some LEMONADE?
+2c74fe|What do you take me for, brat?\pA vending machine at the CELADON\nDEPARTMENT STORE?
+2c7551|That product doesn't exist anywhere\nelse in ARCHI7. You'll have to pay\l$10,000 per bottle.
+2c75a2|On second thought, even if you\ncould pay, which I doubt, I won't\ldo any deal with you.
+2c75f8|I have a reputation to keep up,\nunderstand?
+2c762a|LORELEI, CELIO, the CONSUL… I cook\nfor all of ARCHI7's big names. Why\lwould I mix with riffraff like\lyou?
+2c76a2|So you insist… Very well.
+2c76be|I'll show you the difference\nbetween an elite POKéMON and one\lfrom the gutter!
+2c7711|But… my TOTODILE is special!
+2c7731|This can't be happening!!
+2c7769|{V01} took a crate of\nLEMONADE from the cook!!
+2c779b|You! How dare you?!
+2c77b4|Just wait till I get back to KANTO!\nI'm going to tell every authority\labout this racket you've got going!
+2c78a7|What's your problem?\nCan't you see we're under\lconstruction?\pCome back once we've officially\nopened!
+2c7914|Barging in here by force? Watch me\nkick you right out of here!
+2c795b|Wait, what?
+2c7969|Who are you? I have to tell the\nBOSS.\pYou don't know what you're getting\ninto… If I were you, I'd catch the\lfirst SEAGALLOP to VERMILION ASAP.
+2c79fc|Ha!\pWatch me scratch up the floor\nwith my bike! Who cares? We're\ltearing it down anyway!
+2c7a69|This is gonna be awesome. We'll\nfinally have a decent place to\lhang out on these boring islands.
+2c7ae9|What're you looking at?\nGet lost, kid!
+2c7b21|Leave me alone. I just move\nthe merchandise.
+2c7b68|I can't believe it! You beat\nthem all, you're incredible!
+2c7c36|You've saved our business. Not just\nour business, you've also saved\lthis island from losing the peace\land quiet it's known for.
+2c7cb5|Those men wanted to turn this\nplace into a tourist resort to\lline their pockets.\pThey left in such a hurry that they\nforgot several POKéMON they meant\lto sell as prizes.
+2c7d72|I think they'll be better off with\nyou. Here.
+2c7d98|YOU GOT A Lv.25 CRANIDOS!!
+2c7dbb|YOU GOT A Lv.35 SKORUPI!!
+2c7ddd|YOU GOT A Lv.15 PIPLUP!!
+2c7dfe|I promise to work harder than ever\nto make this place what it always\lshould have been: the perfect\lattraction for 10-year-olds!
+2c7e93|Young people always want to move\nto the big cities.\pMe, I'm certainly not going\nanywhere!
+2c7f02|Hmm, I just can't remember…\nWhen was the last time MT. EMBER\lerupted?
+2c7f68|When the weather's nice, I go out\nand gaze at the volcano.\pIt's what I always do.
+2c7fd8|There's a huge volcano on this\nisland.\pIt erupted not long ago.\nNow would be a good time\lto go climbing.
+2c8052|I wish I could trade POKéMON\nwith my boyfriend, who lives far\laway from here{C0805}…{C0805}
+2c80b1|Hey, you're not from around here!\nWhere are you from?\pFIVE ISLAND?…\nThat's right next door!
+2c810d|People like you have no business\nhere. BILL told me about you lot,\land what a burden you are on KANTO.\pYou'd better not stay on this\nisland for long.
+2c81b4|My master CELIO paid many millions\non the black market to get both\lthe RUBY and the SAPPHIRE.\pWe installed our machine here\nprecisely because these minerals\lwere supposedly in the SEVII\lISLANDS. But we never managed to\lfind them, and we had no choice\lbut to ask BILL for a loan{C0805}…{C0805}
+2c82fc|Could the legend be true…?
+2c8321|I can't wait to see what that\nhidden place holds{C0805}…{C0805}
+2c838e|{C1906}Everything is ready.\pThe rest of DEVON's SCIENTISTS and\nsecurity will come with us too.\pRemember, we're not just after the\ntreasure.\pThe legends speak of an unmatched\nvariety of POKéMON in that\lundersea grotto.\pLucky for us it's stayed so well\nhidden among the rocks south of\lTREASURE BEACH{C0805}…{C0805}
+2c8528|There's a narrow crack between the\nrocks. It seems to stretch on for\lseveral yards.\pDo you want to go through it?
+2c85cf|The POKéMON LEAGUE is over.\pIn the end, RED from PALLET TOWN\nwon.\pBLUE also became CHAMPION just\nmoments before. OAK must be\lproud.
+2c8657|I don't know who you are or where\nyou came from, but it hardly\lmatters, kid.\pThis championship already has an\nowner.\p… … … … … … … … … … … … …\pThat's right, I heard LANCE say\nthat prodigy from PALLET TOWN was\ldestined to be CHAMPION.
+2c873e|Sorry for the inconvenience, but\nthere were last-minute technical\lproblems at the last POKéMON\lLEAGUE. We'll need time to\lreorganize the championship.\lThank you.
+2c87f0|AGATHA's GHOST-type POKéMON are\nchillingly strong.\pI raised my FIGHTING-type POKéMON\nwith all my heart…\pAnd I stood before AGATHA sure that\nI could win{C0819}…{C0819} Don't even ask\labout the beating she gave me.\pPlus, you have no idea what a\ntemper that lady has!\pOnce she starts yelling, you're\nin for it!
+2c8957|I think being in the ELITE FOUR\nruns in the blood.\pFrom what I know, a cousin of\nLANCE's is also a GYM LEADER\lsomewhere around here.
+2c89e9|POKéMON DAILY\pBreaking news on LANCE, member\nof the ELITE FOUR.\pAccording to close sources, the\nclan of DRAGON-type masters was\lfounded by LANCE's grandfather.
+2c8a9a|Don't you have an X ATTACK?\pIt's great for battling!
+2c8ad6|It's good to have more items!
+2c8b1e|Sometimes it's a good idea not to\nevolve a POKéMON too soon. In\ltheir pre-evolved forms they learn\lgood moves earlier, sometimes even\lmoves they can't learn once\lthey've evolved.
+2c8c02|You ROCKETS aren't welcome around\nhere. Our GYM LEADER would never\llet this place be infected by your\lpresence.
+2c8c90|I wanted to go into the CINNABAR\nGYM, but the door's locked up\ltight. There must be a KEY\lsomewhere.\lCould it be in that burned-out\lMANSION? They say a friend of the\lGYM LEADER lives there.
+2c8d74|POKéMON DAILY\pBreaking news on MR. FUJI of the\nPOKéMON HOUSE.\pEditor's note: the shy MR. FUJI\ndeclined to answer our questions.\pEven so, it must be said that he\nis well loved in LAVENDER TOWN.
+2c8e5f|Even if you had ARTICUNO itself and\nonly wanted a KOFFING in return,\lyour POKéMON are tainted by the\lvileness of your deeds.
+2c8f37|You've got OMANYTE, KABUTO and\nAERODACTYL? So you don't need our\lstupid machine to get the POKéMON\ldirectly without going through our\ltedious resurrection process?
+2c8ff8|We'll never put our FOSSIL\nresurrection technology at TEAM\lROCKET's service. You'll have to\lsettle for seeing them extinct.
+2c908d|EEVEE can evolve into three\ndifferent kinds of POKéMON.
+2c90d6|A jar of amber!
+2c90f2|There's an e-mail!\p…\pThe 3 legendary bird POKéMON are\nARTICUNO, ZAPDOS and MOLTRES.\pTheir nests are unknown.\pWe plan to explore the cave\nnear CERULEAN.\pFrom: POKéMON RESEARCH\nTEAM{C0805}…{C0805}
+2c9292|You got an ASSAULT VEST from\nthe SUPER NERD!
+2c92c4|You have no idea how many variables\nwe can use to our advantage to go\linto a POKéMON battle with better\lodds of success.\pIf only the SCIENTISTS in this lab\nhad even a little battle know-how…
+2c93d1|No… You don't seem to have any\neither.\pMaybe if you collect all the\nBADGES… I'll give you the chance\lto face me.
+2c943e|An ASSAULT VEST boosts the holder's\nSP. DEF by 50%, but only lets it\luse damaging moves.\pIt's perfect for stopping special\nattackers dead in their tracks.\pIt works especially well on\nPOKéMON with REGENERATOR!\pAlso when combined with moves like\nDRAIN PUNCH or GIGA DRAIN!
+2c9585|Well!\pLooks like there's something worth\nsaving on this island.\pSo you hope to beat the\nELITE FOUR?\pIf you can beat me in a battle,\nI'll give you something that'll\lhelp you do it.
+2c963b|So, do you accept the challenge?
+2c9657|Spoken like a real TRAINER.\nYou won't regret it!
+2c968f|Oh!\nYou really are serious about\ltaking on the ELITE FOUR!
+2c96c4|It's clear to me you're the type\nwho considers every detail in a\lbattle and carefully picks the best\litems to build a great team.\lSomeone like you should never be\lwithout this in your arsenal of\lpossible options.
+2c97c9|You don't know what you're missing,\nkid.\pWhen they hit you with THUNDERBOLT\nor PSYCHIC, I hope they knock you\lout in one shot for turning down\lthis battle{C0805}…{C0805}
+2c986e|We don't trade with ROCKETS here,\nkid. We don't want your stolen,\lill-gotten POKéMON, and we'll never\llet ours be raised by people like\lthat.
+2c9932|I found this weird FOSSIL on\nMT. MOON!\pI think it's a rare prehistoric\nPOKéMON!
+2c9999|Heeey!\nLeave my POKéMON alone or\lI'll call the authorities!
+2c99e5|We study POKéMON here.\pPeople often bring us rare\nPOKéMON to analyze.
+2c9a45|A photo of the LAB's founder,\nDR. FUJI!
+2c9a83|POKéMON LAB\nMeeting Room
+2c9ab2|POKéMON LAB\nR & D Room
+2c9add|POKéMON LAB\nTesting Room
+2c9c71|It can't be…\pHow could he betray me like\nthis{C0805}…{C0805}
+2c9cb9|Wait!\nAre you a ROCKET?\pI've never seen a uniform like\nthat. You must be high up, right?\p{C080A}…{C080A} {C080A}…{C080A} {C080A}…{C080A}\p{V01}?
+2c9d32|-{V01} handed the 60 EEVEE\nover to the SCIENTIST!-
+2c9d5d|I can't believe it!\pSo you caught him red-handed and\ngrabbed the EEVEE before he could\lsell them?!\p{C080A}…{C080A} {C080A}…{C080A} {C080A}…{C080A} {C080A}…{C080A}\p60 of them left in the end?\pThat's not bad at all. It could\nhave been much worse.\pIf it weren't for you, who knows\nwhat would have happened.
+2c9e7b|Here, EXECUTIVE {V01}.\p5 of these 60 EEVEE{C080A}…{C080A} You'll get\nmore out of them than those\lscumbags who bought the rest.\pThat's for sure!
+2c9f05|YOU GOT 5 Lv.25 EEVEE!!
+2c9f25|Anyway, with 55 EEVEE I can get\nalmost the same results as\lstudying 70. Besides, now I don't\lhave that incompetent working with\lme. I can go much faster and take\lall the credit when I present my\lresults to SILPH.\pI won't forget what you've done for\nme, {V01}.\pYou've saved my career.
+2ca060|Remember, {V01}. He must be in\nthe UNDERGROUND PATH connecting\lCELADON and LAVENDER, or the\lCERULEAN-VERMILION one.\pHurry.
+2ca0da|I've been the victim of a massive\ntheft, by my own colleague.\pOnly someone of your caliber could\nhelp me with this problem.\pIf you agree, I promise you won't\nregret it.
+2ca189|Always up for anything!\nThat's the attitude!\pHere's the story, {V01}!\pMy colleague and I received EEVEE\nin bulk from SILPH.\pIt's one of the rarest POKéMON in\nKANTO. The main goal was to study\lhow its complex evolution process\lworks, why it turns into one type\lor another depending on its\lenvironment{C080A}…{C080A} and also to try\lto discover new ways it could gain\lother evolutions we don't know\labout yet.\pHowever{C0805}…{C0805}
+2ca37b|When I least expected it, from one\nday to the next, my colleague\lvanished with all the EEVEE. Most\llikely he's trying to sell them on\lthe black market, where they're\lworth a fortune. With the 70 EEVEE\lSILPH gave us, he could easily\lmake $70,000,000.\pA million per EEVEE; enough money\nto skip KANTO and disappear\lforever without a trace.
+2ca502|Not only did he leave me in the\nlurch in the worst way possible,\lnow I'm the one in charge and the\lfirst who has to answer to SILPH.\pIf the EEVEE don't turn up, my\nwhole career as a SCIENTIST could\lbe over in a matter of days.\pSo, {V01}{C0805}…{C0805}\pI beg you, find that vile scoundrel\nand get the EEVEE back before it's\ltoo late and he sells them all!\pYou should be able to find him in\nthe underground paths connecting\lVERMILION with CERULEAN, and\lCELADON with LAVENDER.\pHurry, {V01}.\pThe more time goes by, the more\nEEVEE we'll lose.
+2ca728|Oh… You must already have lots of\nother important business.\pI understand.\pIf you find some time, please\nremember me.
+2ca922|A photo of BLAINE\nand MR. FUJI…\pThey're together, grinning from\near to ear.
+2cac98|People like you will never grasp\nthe art of fishing, or the kinds of\lPOKéMON that can grow in the seas.\pAnd I'm glad of it. The last thing\nI want is you lot poking your noses\linto something as pure as water.
+2cad81|When you least expect it, I'll\nget my revenge, ROCKET.\lMy defeat will be nothing more\lthan a footnote.
+2cadf0|What's that?\nMy middle brother sent you to beat\lme, to prove I'm not as good a\lFISHERMAN as everyone says?
+2cae6a|You don't know what you're getting\ninto, ROCKET. Your POKéMON can't\lcompete with the finest catches\lin all of KANTO.\lI don't care if you're HIGH RANK!
+2caf03|I've got more important things to\ndo than fight a ROCKET. If you\lcome to your senses and leave my\lhouse, nothing happened here.\pAgreed?
+2caf8b|Good. Now, get out of my house.
+2cafa8|You like living dangerously, eh,\nROCKET? Curiosity killed the cat.\pNow see what the best FISHERMAN\nin this region can do!
+2cb021|It can't be!\nMy mighty GYARADOS!
+2cb049|This makes no sense. You must be\nsomething more in TEAM ROCKET.\pAn EXECUTIVE, maybe an ADMIN?
+2cb0b0|But{C080F}…{C080F}\pUnfortunately for you,\nI never lose.\pNever…\pHow do you think I've kept my\nreputation spotless until now?\pI always watch my back.
+2cb14b|You've made too much noise,\nROCKET. We can't let you walk\lout of here a winner.
+2cb19e|As the SAFARI ZONE WARDEN, you'll\nunderstand I can't let anyone\ldisturb the order of this city.\lNobody is leaving here saying the\lregion's best guru, from FUCHSIA,\lwas beaten by a ROCKET.
+2cb27a|Now that your POKéMON are\ntired, all that's left is to\ldeliver the finishing blow!
+2cb2c9|It can't be, my SLOWKING!\nWho are you?
+2cb2f5|This was definitely not part of\nour plans.\lNot even KOGA could beat the two\lof us at once!
+2cb360|Whatever happens, nobody will\nbelieve you, because nobody saw\lthese batt{C0805}…{C0805}
+2cb3a9|Wow!\nThat was amazing, a ROCKET taught\lthe FUCHSIA guru a lesson!
+2cb3f8|And more!\nSLOWPOKE too, the SAFARI\lWARDEN!
+2cb433|I can't wait to see my friends'\nfaces when they hear about this!
+2cb474|Do you have any idea what you've\njust done, ROCKET?!
+2cb4a6|I hope my brother's reward is\nworth it to you!\lYou've just started a war!
+2cb516|It's all about connections. I get\nalong with OAK himself and do him\lfavors. The FUCHSIA GURU is famous\lworldwide thanks to my influence.\lThat's how the world works. Those\lwith nothing to offer, like you,\lget erased from history.
+2cb61c|POKéMON photos and fossils.
+2cb641|Old POKéMON merchandise!
+2cb66a|POKéMON DAILY\pBreaking news on KOGA, LEADER of\nthe FUCHSIA GYM.\pAccording to close sources, KOGA\nis very knowledgeable about\lmedicine.\pHe even makes the medicine his\nPOKéMON need himself.
+2cb753|You can't be a good TRAINER with\nonly one strong POKéMON.\lThen again, training several\lPOKéMON at once isn't easy either.
+2cb7e1|The ELITE FOUR will soon put you\nlot in your place. You'll be\lexterminated like the rats you\lare!
+2cb84d|There's a narrow path west of\nVIRIDIAN CITY.\pIt leads to POKéMON LEAGUE HQ.\pThe HQ governs all TRAINERS.
+2cb8cd|Hmm?\nYou've met BILL?\lHe's my grandson!\lHe's always loved collecting\lthings. Ever since he was a boy,\lhe's seen POKéMON as trophies{C0805}…{C0805}
+2cb966|BILL keeps his POKéMON data\non his PC.\pDid he show it to you?
+2cb9b1|The SAFARI ZONE WARDEN is old,\nbut he's still very active.
+2cbb23|ÁSLOWPOKE set up a contest in the\nSAFARI ZONE. The winner gets a\lfabulous prize. Shame people like\lyou can't enter, huh?
+2cbbce|We nicknamed the WARDEN\nSLOWPOKE.\lThey're so alike; they do nothing\lall day!
+2cbc35|SLOWPOKE knows a lot about\nPOKéMON!\pHe even has fossils of rare,\nextinct POKéMON!
+2cbca2|SLOWPOKE came by, but I couldn't\nunderstand a word.\lI don't think he speaks clearly.
+2cbcff|Do you have a SAFARI ZONE flag?\pDo you have cards? Calendars?
+2cbd59|Have you tried X SPEED?\nIt makes POKéMON faster in\lbattle!
+2cbdac|Enjoy the SAFARI and sorry for\nthe inconvenience.
+2cbde5|The SAFARI ZONE was originally a\nproject jointly funded by KOGA and\lan unknown investor. Whoever they\lare, we have them to thank for all\lthe good this place has brought\lto FUCHSIA CITY.
+2cbffe|Hold it right there, ROCKET.\pDid you really think we'd let\nyou in?\pThe LEAGUE COMMITTEE's laws are\nclear: ROCKETS have no access to\lany services, except the POKéMON\lCENTER.\pTurn around if you don't want\ntrouble!
+2cc0f4|Wait{C080F}…{C080F}\nThat pass{C080F}…{C080F}\lLet me see it!
+2cc121|Hmm{C080F}…{C080F}\nSigned by KOGA himself{C080F}…{C080F}\lEverything seems to be in order.\lYou must be someone very important\lto have gotten this.\lI'd advise against going around\ldressed like that, even as a joke.\lLANCE's government keeps getting\lstricter about TEAM ROCKET, and\lwith good reason.
+2cc261|Have a nice day, and sorry for\nthe mix-up.
+2cc2a2|I don't think there's anything\ncooler than watching TRAINERS\lbattle.\pDon't you think?
+2cc308|BILL is so cool, isn't he?\nI even like the way he talks.\pI'd love for him to come by\nhere sometime!
+2cc382|Hm?\nAnd who are you?\pHere to sign up for the CLUB?
+2cc3c2|BROCK is my hero!\nThere's nobody like him.\pI admire him so much I asked my\nmom to embroider his name on my\lpants, heh!
+2cc452|The one everyone's been talking\nabout lately is AGATHA.\pThe way she battles…\nIt's just how I like it.
+2cc4c5|Honestly, LORELEI is\nimposing{C0819}…{C0819} I love her.\pAm I the only one who senses the\naura of solemnity around her?
+2cc54a|Hiyah! I respect only one\nTRAINER.\pMy MASTER. There's nobody like\nhim in the DOJO.\pYou should become his fan, like me.\nHiyah!
+2cc5e2|I'll never give up on SABRINA.\nEven if I'm her only fan!\pMy dream is to be like her;\nsweet, but cool at the same time.\pAnd to master psychic powers,\njust like her!
+2cc692|POKéMON DAILY\pBreaking news on BRUNO, member\nof the ELITE FOUR.\pAccording to close sources, BRUNO\njoined the ELITE FOUR to battle\lthe best TRAINERS.
+2cc762|What?!\nMe, give TM29, PSYCHIC, to one\lof the very ROCKETS who invaded\lus?\lWhat planet are you on?
+2cc816|Everyone here knows SILPH. It's\nbeen a victim of its own fame, but\lthat doesn't give you the right to\ldo what you did.
+2cc898|SAFFRON is KANTO's financial\ncenter. No matter how hard you\ltry, we'll never fall.
+2cc8f7|LANCE himself visited SAFFRON to\nnegotiate with SILPH.
+2cc93b|POKéMON DAILY\pBreaking news on SABRINA, LEADER\nof the SAFFRON GYM.\pAccording to close sources, SABRINA\ncommunicates with her POKéMON in\lbattle without needing to speak.
+2cca14|MAX REPEL lasts longer than\nSUPER REPEL. It keeps weak\lPOKéMON away for longer!
+2cca7c|REVIVE is pricey, but it revives\nfainted POKéMON!
+2ccaea|Thanks for writing.\nI hope to see you soon!\pHey!\nDon't look at my letter!
+2ccb3c|COPYCAT is so cute!\nI'm going to give her a POKé DOLL!
+2ccb7b|I gave you a PP Up as a gift.\nUse it to raise a move's PP. I\lsuggest using it on powerful\lmoves that have little PP.
+2cce16|Damn ROCKETS! Haven't you had\nenough humiliation at SILPH?\lTake one more step and I'll send\lyou back to the CELADON sewers\lwith a PSYCHIC!
+2cceaa|Wait a moment! That LICENSE{C0819}…{C0819}\nOnly the top brass of the LEAGUE\lCOMMITTEE have one like that{C0819}…{C0819}\lPardon the misunderstanding, SIR.\lEverything is in order. I hope you\lenjoy our facilities.
+2ccf98|Hello, title hopeful!\pSABRINA's POKéMON use the power of\nthe mind, not strength!\pFIGHTING-type POKéMON are weak\nagainst PSYCHIC-type POKéMON!\pThey faint almost before they\ncan get ready!
+2cd068|Mind power?\pIf I had that, I'd get rich on\nthe slot machines!
+2cd0f4|SAFFRON POKéMON GYM\nLEADER: SABRINA\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2cd14e|SAFFRON POKéMON GYM\nLEADER: SABRINA\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2cd1ac|SAFFRON POKéMON GYM\nLEADER: SABRINA\pWINNING TRAINERS:\nBLUE and RED
+2cd1ff|SAFFRON POKéMON GYM\nLEADER: SABRINA\pWINNING TRAINERS:\nIt's empty!
+2cd2ea|{C191E}{C080F}…{C080F}\p{C080F}…{C080F}\pHow curious. The same thing\nhappened recently with another\lgirl dressed as a ROCKET.\pYour arrival takes me completely\nby surprise. It seems that, unlike\lmany others who've come through\lhere, you aren't bound by the ties\lof fate. You're an open book yet\lto be written, pure potential.\pMake the most of it. It's a rare\ngift these days…\pAnyway, I'm rambling now{C080F}…{C080F}\pForgive me. The truth is, I'd\nrather talk about such things than\lbattle, but I was given the gift\lof reading minds and predicting\lthe future, which has made me\lextraordinary at training PSYCHIC\lPOKéMON.
+2cd554|{C191E}If you wish, I'll show you!
+2cd579|I'm impressed!\nI accept my defeat.\pI admit I wasn't strong enough,\nand that's why I lost!\pYou've earned the MARSH BADGE!
+2cd601|{C191E}TM04 contains CALM MIND!\pIt makes POKéMON focus to raise\ntheir SP. ATK and SP. DEF.
+2cd66e|{C191E}With the MARSH BADGE, all\nPOKéMON below Lv.70 will obey you!\pStronger POKéMON tend to disobey\norders in battle!\pDon't overtrain your POKéMON\nto avoid this problem!\pWait, take this TM!
+2cd75b|{V01} received TM04\nfrom SABRINA!
+2cd783|{C191E}Actually, we all have mental\npowers, but people don't know it.\pThe mind is very powerful, capable\nof almost anything, but not\leveryone makes use of that power.
+2cd846|Hmmm{C080F}…{C080F}\nIt's true you have a LICENSE, but\leven so, your being here strikes\lme as odd.\pI'll be watching you{C0805}…{C0805}
+2cd8c0|You're definitely not a ROCKET!\pThose wretches could never hold\na candle to our great LT.SURGE!
+2cd974|VERMILION POKéMON GYM\nLEADER: LT.SURGE\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2cd9ce|VERMILION POKéMON GYM\nLEADER: LT.SURGE\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2cda2c|VERMILION POKéMON GYM\nLEADER: LT.SURGE\pWINNING TRAINERS:\nBLUE and RED
+2cda7f|VERMILION POKéMON GYM\nLEADER: LT.SURGE\pWINNING TRAINERS:\nIt's empty!
+2cdb6b|{C191B}Is this for real?!\pYou've got the nerve to come in\nhere after what happened at the\lPOWER PLANT!\lFirst that redheaded friend of\lyours and now you, you damn\linsurgents!\pYou're going to taste the true fury\nof my ELECTRIC POKéMON, and see\lwhy everyone feared me in the\lwar!\pAfter I finish off your POKéMON,\nI'll fry you with a few shocks\ltoo!
+2cdcd2|This can't be true, I lost\nagain!\lI've got no choice but to\lgive you the THUNDER BADGE!
+2cdd33|{C191B}Here's a little advice: get out\nof this region before LANCE's full\lfury blows up in your face.
+2cdda1|{C191B}You may have won the battle,\nbut not the war.\pWhat goes around comes around,\ndon't forget it.
+2cddfb|{C191B}I'm not telling you what the\nTHUNDER BADGE does, if that's what\lyou're hoping, ROCKET.\pYou'll use FLY whenever you\nfeel like it anyway. But I will do\lmy part as a GYM LEADER and give\lyou this TM.
+2cdec9|{V01} received TM34\nfrom LT. SURGE.
+2cdeeb|{C191B}TM34 contains SHOCK WAVE. It's a\nbit weaker than THUNDERBOLT, but it\lnever misses. If I could, I'd have\lmy RAICHU use it on you right now,\lROCKET!\pCount on it!
+2cdfb9|I'm going to file a complaint with\nthe LEAGUE COMMITTEE to ban that\lawful uniform you're wearing. This\ldamn fad of mocking TEAM ROCKET for\ltheir failure at SILPH has to end.
+2ce079|Your look might be terrible, but\nyou gave BROCK a good thrashing!
+2ce0fc|PEWTER POKéMON GYM\nLEADER: BROCK\pWINNING TRAINERS:\nBLUE and RED
+2ce14e|PEWTER POKéMON GYM\nLEADER: BROCK\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2ce1ab|PEWTER POKéMON GYM\nLEADER: BROCK\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2ce289|{C1919}Well, what do we have here…\nanother title hopeful. A girl also\ldressed as a ROCKET came through\ljust now. Seems it's trendy to mock\ltheir failure at SILPH.\pEither way, my ROCK-TYPE POKéMON\nare the toughest you'll ever see.\lDo you really want to challenge me\lknowing you'll lose?
+2ce3a8|{C1919}Driven by TRAINER pride, eh?\pThen show me the best you've\ngot!
+2ce3fa|I underestimated you.\pAs proof of your victory, here's\nthe BOULDER BADGE!
+2ce447|{C1919}Well… today isn't my day. First\nthat girl and now you. Anyway, you\lseem to have talent, kid.\pIf you use it for good, you could\nmake this region a much better\lplace to live{C0805}…{C0805}
+2ce50e|{C1919}Wait!\nTake this with you.
+2ce530|{V01} received TM39\nfrom BROCK.
+2ce54a|{C1919}It contains ROCK TOMB. Not only\ndoes it hit the foe fairly hard,\lit also lowers their Speed by one\lstage. Ideal for slow ROCK types\llike GRAVELER or RHYDON.
+2ce626|Let me give you some advice, kid.\nDon't even think about showing up\llike that before the ELITE FOUR,\lnot even as a joke.
+2ce68e|Looks can be deceiving!\nSo you wore a ROCKET uniform to\lthrow MISTY off, eh!
+2ce730|CERULEAN POKéMON GYM\nLEADER: MISTY\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2ce788|CERULEAN POKéMON GYM\nLEADER: MISTY\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2ce7e4|CERULEAN POKéMON GYM\nLEADER: MISTY\pWINNING TRAINERS:\nBLUE and RED
+2ce835|CERULEAN POKéMON GYM\nLEADER: MISTY\pWINNING TRAINERS:\nIt's empty!
+2ce907|{C191A}Hi! You're not from around here!\pProfessional TRAINERS need a\nstrategy for their POKéMON!\pWhat's your approach to catching\nand training POKéMON?
+2ce9af|{C191A}My approach is all-out offense\nwith WATER-TYPE POKéMON!
+2ce9f2|Wow!\nYou're too much!\pAll right!\pTake the CASCADE BADGE so everyone\nknows you beat me!
+2cea57|{C191A}TM03 contains WATER PULSE. It's\nnot as strong as SURF or SCALD,\lbut it confuses the foe 20% of\lthe time!
+2cead1|{C191A}The CASCADE BADGE makes all\nPOKéMON under Lv.30 obey!\pEven ones you got in trades!\pAnd you'll be able to use CUT\nwhenever you want!\pYou can CUT small bushes\nto open new paths!\pI'll give you my favorite TM!
+2cebc8|{V01} received TM03\nfrom MISTY.
+2cec06|What?\nBut I know you!\lWhat kind of joke is this?\pYou may have fooled the system,\nbut not me!
+2cec66|This is a farce!\nI'm telling the POKéMON LEAGUE!\lI know you're a real ROCKET!
+2cecea|FUCHSIA POKéMON GYM\nLEADER: KOGA\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2ced40|FUCHSIA POKéMON GYM\nLEADER: KOGA\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2ced9a|FUCHSIA POKéMON GYM\nLEADER: KOGA\pWINNING TRAINERS:\nBLUE and RED
+2cee7d|{C191D}{V01}!\pYou're back!\pSo you're walking into the lion's\nden by taking on the POKéMON\lLEAGUE!\pYou have my full support from here,\n{V01}. I'll never forget what\lyou did for the BIKERS and for\lKANTO as a whole.
+2cef46|{C191D}I won't go easy on you!\pNobody handles POISON-TYPE POKéMON\nlike I do, not even the ROCKET\lEXECUTIVES!
+2cefb7|I expected nothing less from you.\pYou deserve the trust of GIOVANNI\nand everyone fighting for a better\lKANTO.\pHere's the SOUL BADGE!
+2cf03b|{C191D}Joining TEAM ROCKET was the best\nthing you could've done. Look at\lyou: it's forged great character\land personality in you, and you\lknow the truth this region hides.\pDo me a favor, {V01}.\pGive those spoiled brats a good\ndose of reality if you run into\lthem at the LEAGUE!
+2cf151|{C191D}Now that you have the SOUL\nBADGE, your POKéMON's DEFENSE\lwill go up!\pAnd you'll be able to SURF\nwhenever you want!\pAh!\nTake this too!
+2cf1e2|{V01} received TM06\nfrom KOGA!
+2cf207|{C191D}TM06 contains TOXIC!\pIt's a secret technique over\n400 years old!
+2cf31f|CINNABAR POKéMON GYM\nLEADER: BLAINE\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2cf377|CINNABAR POKéMON GYM\nLEADER: BLAINE\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2cf3f4|So now dressing up as a ROCKET is\ntrendy because of the SILPH flop?\pServes them right!
+2cf454|I don't know why, but he used a\nstronger team on you than on a\lkid who came through here not\llong ago.\pBut even so, you beat that\nwalking torch!
+2cf4fa|{C191F}Hah!\pI am BLAINE! The CINNABAR GYM\nLEADER!\pMy fiery POKéMON will incinerate\nanyone who challenges me!
+2cf569|{C191F}Hah! You'd better have\nBURN HEAL!
+2cf592|{C191F}On another note, you'll have to\nexcuse my GYM. We've had lots of\lchallengers lately and haven't had\ltime to set up new quizzes.
+2cf62b|{C191F}You should know I don't like this\nfad of cosplaying as TEAM ROCKET.\pThey're traitors to the true KANTO\nand deserve to vanish from its\lhistory. Stunts like that only\lcement them in the public mind,\lget it?
+2cf712|You crushed me!\nI've burned down to nothing!\pYou've earned the VOLCANO BADGE!
+2cf761|{C191F}TM38 contains FIRE BLAST. Very\nfew moves have a better POWER-to-\lACCURACY ratio. It's the go-to\lFire move, bar none.\pMAGMAR or CHARIZARD will wreak\nhavoc with it thanks to their\lgood SPECIAL ATTACK!
+2cf847|{C191F}Hah!\pThe VOLCANO BADGE boosts your\nPOKéMON's SPECIAL abilities!\pHere, I'll give you this too!
+2cf8b1|{V01} received TM38\nfrom BLAINE!
+2cf8d9|{C191F}FIRE BLAST is the ultimate\nburning technique!\pDon't waste it on WATER\nPOKéMON!
+2cf975|CELADON POKéMON GYM\nLEADER: ERIKA\pWINNING TRAINERS:\nBLUE, RED and ANDRA
+2cf9cd|CELADON POKéMON GYM\nLEADER: ERIKA\pWINNING TRAINERS:\nBLUE, RED, ANDRA and {V01}
+2cfa29|CELADON POKéMON GYM\nLEADER: ERIKA\pWINNING TRAINERS:\nBLUE and RED
+2cfb11|{C191C}Hello! Lovely weather, isn't it?\nIt's so pleasant.\pOh, hello!{C0819}…{C0819} I must have dozed\noff! How are you?\pMy name is ERIKA. I am the LEADER\nof CELADON CITY's GYM.\pI teach the art of flower\narranging. My POKéMON are GRASS.\pOh, I'm sorry! I had no idea you\nwanted to challenge me!
+2cfc33|{C191C}Very well! I shall not lose!
+2cfc58|I concede defeat!\pYou are very strong.\pI shall give you the RAINBOW BADGE.
+2cfca2|{C191C}Are you studying POKéMON?\nI admit you've impressed me.\pI wouldn't collect POKéMON if\nthey were unattractive.
+2cfd0f|{C191C}The RAINBOW BADGE will make\nPOKéMON below Lv.50 obey you.\pIt also lets POKéMON use STRENGTH\nwhenever you like.\pOh, please take this too!
+2cfdb8|{V01} received TM19\nfrom ERIKA.
+2cfdd5|{C191C}TM19 contains GIGA DRAIN.\pNot only does it have a more than\ndecent 75 power, it also absorbs\lhalf the HP it takes from the foe\land restores yours with it.\pIsn't that wonderful?
+2cfec7|I lost, but I kept my honor.\pUnlike those PSYCHIC POKéMON in\nthe GYM next door, who shy away\lfrom close combat!
+2cff5b|This POKé BALL is very well\nkept. It must hold a POKéMON\limportant to the DOJO MASTER.
+2d0088|FIGHTING DOJO
+2d009d|There are enemies everywhere.
+2d00c5|Whatever will be, will be.
+2d0153|Stop right there!\nI am the KARATE MASTER!\lAnd I am the LEADER here!\lYou wish to challenge us?\lExpect no mercy!\lFwaaah!
+2d01ca|Hwa!\nArrgh! I lost!
+2d01e0|I have lost!\nBut I beg you, don't take our\lemblem as a trophy!\lIn exchange, I'll give you this\lvaluable item!
+2d0253|A BLACK BELT boosts the power of\nFIGHTING moves by 20%. Held by a\lPOKéMON with already high physical\lattack, like HITMONLEE or MACHAMP,\ltheir FIGHTING moves will wreck\lanything they hit neutrally,\ltrust me!
+2d0339|…\pThese are my secrets!\pSkill: imitating.\nHobby: collecting dolls.\lFavorite POKéMON: CLEFAIRY!
+2d03a9|A game with MARIO wearing a\nbucket on his head!
+2d03e0|This is a rare POKéMON!\nHuh? It's only a doll!
+2d04d8|You got CHOICE SPECS from\nthe COPYCAT!
+2d0507|I'm bored and tired of people only\nbringing me dolls to play with.\lNobody realizes my real talent is\lPOKéMON battling. They treat me\llike a little kid. If only I could\lfind a good TRAINER to hang out\lwith…
+2d0603|Sorry.\pI thought you might be that\nTRAINER, but I see you've still\lgot room to improve.
+2d065e|CHOICE SPECS boost a POKéMON's\nSPECIAL ATTACK by 50%, at the\lcost of locking it into a single\lmove.\pThey're ideal for POKéMON like\nALAKAZAM, CHARIZARD or JOLTEON!
+2d0710|Heyy!\nYou've got all the BADGES!\pYou must be really strong!\pWhy don't we have a battle?\pCome on! If you beat me, I'll give\nyou an item you won't find\lanywhere else!
+2d07bf|So, do you accept the challenge?
+2d07db|Did you hear that, CLEFABLE?\nLet's have some fun!
+2d0810|That was so fun!\nLook!\pI'll show you my secret for\nlaunching SPECIAL ATTACKS that\leven SABRINA would envy!
+2d0893|Oh…\nWhat a shame…\pI thought maybe{C0805}…{C0805}
+2d08c6|My daughter likes to mimic\npeople.\pThat's why folks around here call\nher the COPYCAT!
+2d092d|My daughter is so wrapped up in\nherself, she has very few friends!
+2d097b|This is a hotel for people.\pPOKéMON and criminals like you\nare not allowed in.
+2d09e9|Why did he have to bring his\nbrother along?
+2d0a22|Stay away from us, you\nlow-down thief!
+2d0a5a|My big sister says not to talk\nto people like you.
+2d0a9d|Business is booming, recruit!\pKeep it up!
+2d0adf|So you've come from FIVE ISLAND!\nWelcome to KANTO!
+2d0b1e|Over 2000 POKéMON have been sent\nout as prizes at the GAME CORNER\lin the last few days!
+2d0b81|My POKéMON are weak, so I often\ngo to the drugstore for\lmedicine.
+2d0bd6|COIN CASE?\nGet a life, ROCKET!
+2d0c09|That man in the corner lost\neverything at the GAME CORNER.
+2d0c55|Sorry, but we're on a break\nright now.
+2d0c92|That game hall gives me a really\nbad feeling. I bet you lot have\lsomething to do with it.
+2d0e4a|I want to get that PORYGON!\nBut it's hard to save up that\lmany COINS!
+2d0ea0|Hahaha!\nI'm on a roll today!\lIf only every day were like\lthis{C0805}…{C0805}
+2d0f00|Selling COINS to TEAM ROCKET\nmembers is prohibited. GAME\lCORNER rules.
+2d0f7d|I know you lot have something to\ndo with all this, ROCKETS.\pYou can't fool me.
+2d0fda|I think these machines are\nrigged.
+2d100e|What?\nYou want COINS?\pGet out of here before I call\nthe authorities, you criminal!
+2d1074|You lot should quit all your\nstealing and learn from this\lregion's great businessmen.\pI don't know who runs this casino,\nbut it's clearly a successful\lbusiness model!\pTake notes, ROCKETS!
+2d1146|Winning or losing here is purely a\nmatter of luck, so where's the fun\lin it?\p…\pEven so, I can't stop playing!
+2d11cd|It's so easy to get hooked on\nthese games!
+2d120d|A false sense of control is one\nof the keys to these games'\lsuccess!
+2d1268|The trick is to keep a close\neye on the screen!
+2d12a7|Relax, comrade!\nWith me here, our hideout\lis safe!
+2d130f|The POKé FLUTE wakes up sleeping\nPOKéMON.\pApparently it makes a sound only\nthey can hear.
+2d1387|If I had a BIKE, I'd go to\nCYCLING ROAD!
+2d13bf|I came here from FUCHSIA on\nCYCLING ROAD.\lI'm worn out from pedaling\luphill the whole way!
+2d1427|It's a report on TMs.\p…\pThere are 50 TMs in all.\pAnd seven HMs, which can be used\nover and over again.\pSILPH CO.
+2d149e|Life changes through all those days\nwhen it seems like everything stays\lthe same.
+2d14fd|I know everything about POKéMON. I\nalso know your LEADER GIOVANNI uses\lRHYHORN as his signature POKéMON.\pWhat a weakling!
+2d15a7|Seriously, ROCKET?! Get your filthy\nhands off that POKé BALL. A POKéMON\lof EEVEE's caliber is way out of\lthe league of thieves like you.
+2d163c|I KNOW IT ALL!
+2d1656|You know what?\pI'm the game designer!\pFilling up your POKéDEX is tough,\nbut don't give up!\pWhen you finish, come tell me!
+2d16de|Me?\nI'm the programmer!
+2d1704|I'm the graphic artist!\nBut I didn't draw you!
+2d1744|I wrote the story!\nIsn't ERIKA cute?\pI really like MISTY too!\nAnd I like SABRINA too!
+2d17b9|GAME FREAK Development Room
+2d17e3|It's the game script!\nDon't read the ending!
+2d1817|Someone's playing games instead\nof working!
+2d184c|It's the game program!\nDon't touch it, you might\lbreak it!
+2d189f|GAME FREAK Meeting Room
+2d19b0|Got a problem with me?\nSomeone like you could never\lafford to stay in a MANSION\llike this.\pGet out of here before I lose my\npatience and crush your pathetic\lPOKéMON, ROCKET!
+2d1a73|You have my word. That GURU and\nthat OLD ROD are dead to me.
+2d1ac7|The VERMILION FISHING GURU sent\nyou?! He wants to settle the score\lfor me trashing his OLD ROD?\lWhat kind of joke is this?!
+2d1b4d|Someone like you stands no chance\nagainst my POKéMON, bred to put on\la show. You're a nobody even\lwithin that organization.\pWhat are you going to do?\pUse BITE with your paper ZUBAT?\nMy SANDSLASH will wipe out all\lyour POKéMON with one SLASH.
+2d1c4b|There's still time to change your\nmind. You're lucky I've had a\lgood day and I'm willing to turn\la blind eye and forget your\linsolence.
+2d1ce2|Looks like there are still ROCKETS\nwith brains. Disappear before I\lchange my mind.
+2d1d38|You've run out my patience. I'll\nsend you straight back where you\lbelong.\lThe CELADON CITY sewers!
+2d1da5|SANDSLASH, ARBOK!\nKEEP FIGHTING!
+2d1e31|What?!\nYou're someone important in the\lorganization!\lAnd if I don't stop criticizing\lthat GURU, you'll use all your\lpower and influence to ruin\lmy business?!
+2d1ee1|Fine, you win!\pI'll stop talking about that stupid\nOLD ROD that only catches\lMAGIKARP!\pI promise!\pBut don't you lot mess with my\nbusiness, never that!
+2d1f8b|You should be ashamed of what\nyou're doing, young one!\pA region's problems get solved by\neveryone pulling together, not by\ldeclaring war on your own!
+2d202b|CELADON MANSION\nPresidential Suite
+2d205c|My brother says not to talk to\nTEAM ROCKET people.
+2d20a0|My sister is a TRAINER,\nfor real!\pBut she's so childish she drives\nme crazy!
+2d20fa|ROOFTOP:\nVENDING MACHINES
+2d2132|I came for POKéMON enhancement\nitems!\pPROTEIN raises ATTACK power.\pIRON raises DEFENSE.
+2d21c3|POKéMON enhancement items are only\nsold here!\pHP UP raises a POKéMON's base HP.\pUse CALCIUM to raise SPECIAL\nabilities.\pZINC raises a POKéMON's\nSP. DEF.\pUse CARBOS to raise SPEED.
+2d22c2|4F: PHARMACY
+2d2407|{C190C}$9800?!\pThis is highway robbery!\pA month ago they were $7000!\pAnd a year ago, $3000!
+2d245a|{C190D}I don't set the prices. It's been\ndecided from above that tampering\lwith a POKéMON's training should\lbe expensive.
+2d24dd|{C190C}Expensive?\nNobody will buy VITAMINS at that\lprice.\pPeople will just use the ones\nthey find lying around!
+2d254e|{C190D}These prices are set by the\nPOKéMON LEAGUE COMMITTEE. We're\ljust following orders.
+2d25ae|{C190C}So how am I supposed to raise\nmy MAGNEMITE's SPECIAL ATTACK now?\pIt makes no sense at all!
+2d2609|{C1906}On the contrary.\pIt makes all the sense in the\nworld, in this region.
+2d265b|{C1910}How stupid.\pHe could go up the POKéMON TOWER\nand train his MAGNEMITE there.
+2d26a8|{C1906}Not everyone has had your\neducation, DAISY. Good information\lis scarce these days.\pSome people even still believe that\nold rumor claiming there are only\l150 different species of POKéMON.\pIf only they knew how vast the\nworld is{C0805}…{C0805}
+2d27c6|{C190F}No wonder nobody has come near\nthe POKéMON LEAGUE in recent\lyears. Do you think those two\lstand a chance?
+2d2848|{C1906}They've only just started their\njourney.\pIt's still too early to make\npredictions, but the potential\lthey hold is promising,\lespecially{C0805}…{C0805}
+2d290b|{C1906}I'm needed at POKéMON LEAGUE HQ.\nShopping's over, DAISY.
+2d2957|{C190F}No problem, we already have 50\nVITAMINS for each of the 6 stats.\lThat's enough for this week.
+2d29f2|I heard something!\pYou can escape from a wild POKéMON\nby distracting it with a\lPOKé DOLL!
+2d2a5e|I'm buying a POKé DOLL for my\ngirlfriend!\pI'm sure it's the latest craze\nin gifts.
+2d2ab9|Say it with a gift!\p3F: GIFTS\pSpecial Evolution!\nVarious elemental STONES\lon sale!
+2d2b24|Caught POKéMON have an ID No. and\nan OT, the name of the\pORIGINAL TRAINER who caught\nit!
+2d2b9a|You can identify POKéMON you've\ntraded by their ID No.!
+2d2bea|All right!\pMy buddy's going to trade me his\nKANGASKHAN for my GRAVELER!
+2d2c3d|A GRAVELER!\pI love GRAVELER!\nI collect them!\pWhat?\pThe GRAVELER turned into a\ndifferent POKéMON!

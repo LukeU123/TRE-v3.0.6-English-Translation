@@ -1,0 +1,120 @@
+3de948|PRIMAL AERODACTYL:\pHP: 80\nATTACK: 145\lDEFENSE: 105\lSP. ATK: 60\lSP. DEF: 85\lSPEED: 140\lTOTAL: 615\pTYPE: ROCK/DRAGON\pABILITIES:\nLEVITATE/TOUGH CLAWS/ROCK HEAD\pAERODACTYL's true form in the wild\n300 million years ago. The most\lfeared predator of its era, with\lunmatched SPEED that no prey\lcould ever escape.
+3deac8|NO. 1: MEWTWO\pHP: 106\nATTACK: 110\lDEFENSE: 90\lSP. ATK: 154\lSP. DEF: 90\lSPEED: 130\lTOTAL: 680\pA POKéMON made to rule regions\nwith an iron fist. Its balance of\loffense and defense is unrivaled,\land although its PSYCHIC powers\lhave been surpassed by DEOXYS,\lthey still hold untapped\lpotential that could push this\lstat to a BASE of around 200.
+3dec5b|HO-OH, LUGIA, RAYQUAZA{C080F}…{C080F}\nAll of them are formidable\lPOKéMON, but unsuitable for\lexperiments or for applying\lmodifications that could boost\ltheir already vast power.\lMEW, on the other hand, is\lanother story. It has the finest\lgenetic base, both in malleability\land in possible combinations. This\lleads us to believe that MEWTWO\lgave us only a favorable genetic\lcombination relative to MEW, but\lneither the most favorable one\lpossible, nor the most optimal.
+3deedb|METAGROSS AND DEVON'S GREAT\nDECEPTION IN HOENN:\p…\n…\pIt is well known that HOENN's\nsignature PSEUDO-LEGENDARY is\lSALAMENCE, a dragon that embodies\lthe power stored in a place like\lMETEOR FALLS, with strength on\lpar with DRAGONITE.\pHowever, HOENN is home to another\nPOKéMON with PSEUDO-LEGENDARY\ltraits, and that is none other\lthan METAGROSS.
+3df040|Keep reading?
+3df054|HOENN is the only region where\nthis happens: 2 pseudo-legendaries\lsharing the same territory. Some\lput this coincidence down to the\lhuge variety of flora and fauna\lfound in HOENN. However, the\lbiology of METAGROSS's\levolutionary line has little or\lnothing to do with that flora and\lfauna, and our latest research\lsuggests there are other reasons\lfor 2 pseudo-legendaries existing\lin a single region.
+3df206|DEVON CORP. is HOENN's answer to\nSILPH CO. Yet it has never gone\lpublic with any achievement more\lsignificant than POKé BALLS like\lthe NET BALL, DIVE BALL, REPEAT\lBALL or TIMER BALL, plus the\lPOKéNAV, even though we know it\lhas the resources and capability\lto create an artificial POKéMON\llike PORYGON, just as SILPH did.
+3df345|This is where the son of DEVON's\nPRESIDENT comes in: STEVEN, with\lhis ambition to be recognized as\lHOENN's best TRAINER while also\lbeing an expert on FOSSILS.\lHowever, ARMALDO and CRADILY\laren't enough to be crowned\lCHAMPION, and so DEVON stepped in\lto create a made-to-order POKéMON\lthat would give STEVEN enough\lclout to become CHAMPION.
+3df4d0|There isn't a single BELDUM in\nall of HOENN except for STEVEN's\lMETAGROSS. He has many, yet he\lhas never spoken of where they\lcame from. Then there are the\ltraits and makeup of its\levolutionary line, starting with\la BELDUM that can learn only one\lmove (TAKE DOWN, a trait that in\lthe wild would have led to its\lextinction, as it would have no\lother way to defend itself), and\lending with a METAGROSS that is\lcold, robotic and calculating,\lwith a suspiciously favorable\ltype combination, as if it had\lbeen added to order.
+3df717|If all this is confirmed, we\nwould be looking at the true\lfirst man-made modified POKéMON,\lso successful that it replicated\lthe power of a PSEUDO-LEGENDARY,\lpassing itself off as one and\lbeing accepted as one by all.
+3df996|{C191F}So you're here.
+3df9a8|{C191F}Nobody would've thought a ROCKET\ncould cause so much trouble. You're\lone of a kind, the exception that\lproves the rule. But even that\lexception follows patterns that\lwe've made sure to cover here{C0805}…{C0805}
+3dfa8c|{C191F}Look at this place… Its sole\npurpose is to explore the limits\lthat the laws of this world impose.\pMuch like TEAM ROCKET, our\nultimate goal is a similar one.
+3dfb36|{C191F}MAGMAR, CHARIZARD, ARCANINE…\pThey're just numbers. What sets\nthem apart is how high or low they\lrate in each of the 6 parameters\lthat make up the genetics inherent\lto each species.
+3dfbeb|{C191F}The only thing special about\nLEGENDARIES is a higher total\lacross those 6 parameters.\pThey did nothing to earn it except\nbe -LEGENDARY- by the grace of\lthe -CREATOR-.
+3dfcb2|{C191F}No matter how hard it tries, a\nMAGIKARP will never come close to\lthe worst DRAGONITE there is,\lwhatever either of them does.
+3dfd3b|{C191F}So whoever can manipulate these\n6 variables, along with the\lcombinations of types, abilities\land moves…\pHas the power to control the world.\pSome, like LANCE, bow down to the\ndivine POKéMON. They expect nature\lto hand them everything. We, on\lthe other hand, go further.
+3dfe6f|{C191F}A LEGENDARY is only LEGENDARY\nbecause it won nature's lottery.\lThe most blessed, as I said, by\lthe mere grace of the creator.\pBut not here. Not in this place{C0805}…{C0805}
+3dff30|{C191F}If we know the rules of the game,\nwe can use them to our advantage,\lso we win that lottery not just\lonce, but several times over in\lthe same POKéMON.\pNo more imperfection, randomness\nand chance dictated by nature.
+3e0026|{C191F}Now WE write the rules of\nthe game!
+3e005e|This can't be!\nWhere does that power come from?!
+3e008b|{C191F}It makes no sense. It's absurd{C080F}…{C080F}\pMy fully optimized MAGMORTAR\nbeats every one of your POKéMON!
+3e00fc|{C191F}One FIRE BLAST obliterates\nanything it hits neutrally.\pOne ZAP CANNON…\pBrings MOLTRES to its knees!
+3e0168|{C191F}What keeps you standing?
+3e019b|{C191F}Even so, it won't be enough.\pOAK has reached another level.\nWith just one of his POKéMON, he\lcould take down my entire team.\pYou can't win.
+3e0229|{C191F}His POKéMON will knock you out in\none hit, before you even have time\lto react.
+3e027f|{C191F}We've spent years here, working\nfrom the shadows to reach this\lpoint…\pAnd now we've done it.\pOAK has a perfect team.
+3e030d|{C191F}All you've achieved by coming\nthis far is the privilege of\lknowing what it feels like to face\lsuch power.
+3e0390|{C191F}You'll chase the unreachable,\nand see every path inevitably\llead to you being crushed by the\lbest team a TRAINER ever led.
+3e043e|{C191F}Good luck, {V01}.\pThough{C080F}…{C080F} in this case, there's\nno point talking about luck. Every\lroad leads to the same outcome.
+3e0807|{C190E}As I expected, you've kept your\nword. We'll put an end to all this\lonce and for all.\pRight here. What better place?
+3e0884|{C190E}I thought I'd achieved perfection\nwith RED. An unbeatable TRAINER,\land I still say it: the only flaw\lwas not exposing him to the right\lstimulus.\pIf LANCE had been smart, he'd have\nseen his potential. Had he let him\lovercompensate even a little by\lbattling TRAINERS of your caliber,\lthe snowball effect of his\lintelligence, together with the\lright POKéMON, would have made\lhim unbeatable.
+3e0a1b|{C190E}Only better tools gave you victory\nover RED, but now it's impossible.\pFrom this remote place, we've\nassembled a team that will mark a\lturning point: the best of both\lworlds.
+3e0af5|{C190E}On one hand: DEOXYS's unique\ngenetic combination, impossible to\lreplicate with our current tech.\pThe embodiment of what it means\nto be a LEGENDARY.\pSomething LANCE and so many others\nworship.
+3e0bc1|{C190E}Even though{C080F}…{C080F} these legendaries\nthemselves don't even know where\ltheir powers come from.
+3e0c23|{C190E}It's an insult…\pAn insult to those of us who truly\nknow how to observe and detect\lthe mechanisms that make one\lPOKéMON better or worse than\lanother, while feeling powerless\lat how incredibly difficult it is\lto harness them for our own use.
+3e0d37|{C190E}On the other hand, we have the\nfuture: made-to-order POKéMON\lthat will expose the flaws of\lall the rest.
+3e0daf|{C190E}They'll prove that even LEGENDARIES\nare still just POKéMON, with fewer\lflaws than the others, but POKéMON\lall the same.
+3e0e42|{C190E}All that sets them apart is a\nbetter foundation to build on.\pGenetics can save years of work,\nand sometimes a whole lifetime.
+3e0eca|{C190E}Of them all, the one with the\nfinest genetic base has, of\lcourse, been MEW. The ancestor of\lall POKéMON, thanks to which we\lwere able to create MEWTWO.
+3e0f7f|{C190E}That is proof of the power I speak\nof, a power that can tear the seams\lof even a -MAJOR LEGENDARY-.
+3e0fee|{C190E}With even fewer flaws than a\nCOMMON LEGENDARY, but still room\lto improve, and thus imperfect.
+3e1060|{C190E}MEWTWO matching the power of\nLUGIA or HO-OH is irrefutable\lproof of what I'm saying.\pAnd of what is yet to come.
+3e10df|{C190E}Those idiot TRAINERS who talk about\n-the bond with your POKéMON-, loving\lyour team and all that nonsense,\ldon't realize that what they do is\lirrelevant. Their POKéMON won't\limprove their intrinsic potential\lbecause of it.
+3e11c6|{C190E}They're limited from birth by a\nlaw as unfair as it is arbitrary,\lone that randomly picks who's\lbetter than whom. Training or\lloving your POKéMON will only take\lyou as far as that law allows{C0805}…{C0805}
+3e1292|{C190E}But from here, we'll put an end\nto that{C080F}…{C080F} Whoever's rolling the\ldice up there will stop.\pWe'll end the genetic lottery.\pAll POKéMON will be equal. Equal\nat the top, and perfect!
+3e1374|{C190E}Skill will prevail only when it\nis so superior to the other's that\lwill is never put to the test.
+3e13eb|{C190E}So the best among them will be the\nbest because, through their will\lor their TRAINER's, they truly went\lfurther than the rest. Not because\lthey have a divine gift the rest\llack!
+3e14ac|{C190E}Do you really think this\nis so bad, {V01}?\pWe'll end the greatest\ninjustice in this world!
+3e150d|{C190E}After what I've said, you'll\nunderstand that I can appreciate\lwhat someone like you did in the\lPOKéMON LEAGUE. It shows how far\lsomeone can go by pushing what's\lwithin their control to the limit.
+3e15df|{C190E}But you're still limited by your\nPOKéMON. Like it or not, your\lCROBAT can never exceed 374 HP,\lor 394 SPEED.\pRespectable figures, I'll add.\pNo matter what you do, and no\nmatter how much you love your\lCROBAT, it won't go past that.\lThat's why I brought you here,\l{V01}.
+3e1707|{C190E}I want you to be the first to see\nthe new generation of POKéMON,\lones that can stretch that\llimiting factor to unimaginable\lheights.
+3e1796|{C190E}I'll enjoy watching the despair on\nyour face as your ideals and\lprinciples prove useless against\lsomething you can never touch.
+3e1826|{C190E}Come, {V01}!\nFace the greatest team the\lKANTO region, and the world,\lhas ever seen!
+3e1889|What just happened here?
+3e18a5|{C190E}No{C0819}…{C0819} it makes no sense{C080F}…{C080F} My team\nis unbeatable{C080F}…{C080F} No one, not LANCE{C080F}…{C080F}\lnot GIOVANNI{C080F}…{C080F}
+3e1912|{C190E}Not even God could beat me!
+3e193e|{C190E}Is there some other force?\nAnother law I've overlooked?
+3e197e|{C190E}I just saw something perfect\nemerge as the final product of\lyour POKéMON's imperfection.\pPerhaps not absolutely and\nforever, but for this battle, at\lthis exact moment.
+3e1a4b|{C190E}I thought that, with all these\nadvances, I could prove it was RED\land LANCE who weren't good enough.\pProve that no former CHAMPION\ncould beat this modern team.
+3e1b01|{C190E}Does this mean training alone\ncan raise a POKéMON to\lincalculable levels?
+3e1b6d|{C190E}Then{C080F}…{C080F} I've been a fool to speak\nof limits. They must exist at\lsome point. But… after what I saw\lhere, they're much farther than\lanyone can imagine, perhaps\lfarther than anyone can calculate{C0805}…{C0805}
+3e1c4a|{C190E}I've had enough.{C0819}\pRED{C0819}…{C0819}\pThe creation of MEWTWO{C0819}…{C0819}\pKeeping this lab alive\nin the shadows{C0819}…{C0819}\pAll just to glimpse the tip of\nthe iceberg of how a POKéMON\lreally works.
+3e1d2a|{C190E}Do what you want with this\nlab.\pPerhaps you'll see something\nwe've overlooked here.
+3e1d91|{C190E}I know all of TEAM ROCKET\nis waiting for me.\pDon't worry, I don't intend to do\nanything more. MEWTWO will pass\linto GIOVANNI's hands. Who better\lthan my old rival to carry on\lthis project?
+3e1e5d|{C190E}I'm retiring to PALLET TOWN.\pI need to reflect on my view of\nthe world. Perhaps that ideal…\pThat ideal… is still waiting for me?
+3e200c|{C190E}You know that I generally prefer\nto let people act of their own free\lwill, but I'll ask you this:\ldo you think you did the right\lthing handing FUJI over so lightly?
+3e20bf|{C191F}I thought he could provide\nvital information to GIOVANNI.
+3e20fc|{C190E}FUJI was telling the truth. He\nknows nothing. His life as a\lresearcher died with the war.
+3e2156|{C191F}Then{C0819}…{C0819}\pOnly we know the location?
+3e218e|{C190E}Only us, and it must stay that way.
+3e21b7|{C191F}I don't get it. Why don't we act\nand take back KANTO? GIOVANNI might\leven forgive you if you overthrow\lLANCE{C0819}…{C0819} your way.
+3e2244|{C190E}Our position is stable, BLAINE.\pRight now, we can focus on\nreducing the uncertainty even\lfurther.\pAnd meanwhile, amass more power.
+3e22e8|{C190E}We won't need MEWTWO anymore.\nWe can win even without it{C0819}…{C0819}\pEspecially without it.
+3e234e|{C190E}We'll take control of KANTO in\na quiet, insidious way.\pWithout exposing ourselves, without\nstarting another stupid war.
+3e23d1|{C190E}Everything is in place. After years\nin the mud, with no hope beyond\lsurviving one more day just to keep\lthe odds from hitting absolute\lzero{C0819}…{C0819} at last we can rise from our\lashes, restore this region's former\lglory, {C080F}and surpass it!
+3e24ec|{C191F}You trust that TRAINER that much?
+3e2511|{C190E}I don't trust, BLAINE. I know.\pThe numbers never lie.
+3e2568|SPEED DEOXYS:\pHP: 100\nATTACK: 20\lDEFENSE: 90\lSP. ATK: 120\lSP. DEF: 90\lSPEED: 180\lTOTAL: 600\pTYPE: PSYCHIC\pABILITIES:\nPSYCHIC SURGE/PRESSURE\pAt the time of its discovery, it\nis the fastest POKéMON known.\pIt far outpaces NINJASK (160)\nand ELECTRODE (150).\pDespite this, and despite losing a\nlot of power compared to DEOXYS-A,\lit still has 120 SP. ATK, making\lit the most efficient DEOXYS form.\pIts PSYCHIC SURGE + SPEED make it\na unique POKéMON, one that will\lhardly be replaced as time goes by.
+3e28a1|So you managed to beat\nour HIGH-RANKING officer…\pA TEAM ROCKET ADMIN?\pSo you didn't disband like\neveryone says. Doesn't matter.\lSomeone like you has no business\lhere.
+3e295d|Our LEADER MAXIE spent years\nbuilding the best FIRE- and\lGROUND-type team possible, just\lto prepare, so he'd consider\lhimself worthy of appearing\lbefore GROUDON.
+3e2a18|I don't think you get it yet, ROCKET.\pYour region has no POKéMON on\nGROUDON's level. Those BIRDS don't\lhave its rank, its brute strength\lor its overall power.
+3e2ac6|A pure force of nature that,\nwhen it awakens, will change\leverything forever!
+3e2b24|I see you refuse to listen to\nreason.\pIn that case{C080F}…{C080F}\pPrepare to face the power of\nGROUND POKéMON,\lROCKET ADMIN!
+3e2bae|I thought everyone in TEAM ROCKET\nwas weak!
+3e2be2|You asked for it.\nMAXIE will be the one to end you.
+3e2c15|Do you hear that?\pGROUDON is about to awaken!\pThere's no point staying here.\pI need to get back to our ship and\nprepare for our return to HOENN!
+3e2c9f|If you've got any sense left,\nyou should do the same, before\lGROUDON's fury blows up in your face.
+3e3237|{C193B}You have waited too long.\nBut at last, I come before you as a\lhumble servant of your cause. With\lthe RED ORB I can control you, but\lfear not; I will only carry out your\lwill{C0805}…{C0805}
+3e32fe|{C193B}So my loyal COMMANDER TABITHA\ncouldn't stop you{C080F}…{C080F}\pYou must be an exceptional TRAINER,\nand you've certainly earned the\lright to witness something great.\pEverything is ready.
+3e33c0|{C193B}Come closer, ROCKET!\pNow!
+3e33e0|{C193B}GROUDON rests here.\pAll we need to summon it is to\nmake the RED ORB shine once more.
+3e344f|{C193B}GROUDON!\pAT LAST!\pNow you can finally complete the\nnoble task you were entrusted with!\pThere will be land enough for all!\nThanks to your power, we can\lperfectly control how much needs\lto be added or taken away!\pOnce our theories are proven, the\nworld will have to admit that\lTEAM MAGMA was right!
+3e359c|{C193B}Very well… you've seen enough.\pI hope the show was worth it,\nbecause it's your last: I did\lwarn you.
+3e3628|{C193B}I've spent over a decade traveling\nthe world in search of the finest\lFIRE- and GROUND-type POKéMON.
+3e368e|{C193B}So many options, rejects, changes…\nPOKéMON that fit the essence of my\lplan to varying degrees.
+3e36f2|{C193B}But at last, after so long…\pI've done it.\pNow I have every ingredient\nto build a better world!
+3e3768|{C193B}With GROUDON, lord of the land,\nat the helm{C0805}…{C0805}\pNothing and no one can stop me!
+3e37bd|This can't be!\nWhere does your power come from?
+3e37e6|{C193B}B{C0819}-{C0819}but{C080F}…{C080F}\nI had it all{C080F}…{C080F}\pG{C0819}-{C0819}GROUDON was right here before me,\nunleashing the immense power the\llegends speak of{C080F}…{C080F}
+3e387d|{C193B}How could you counter it with\nnothing but ordinary POKéMON?!\pIt makes no sense!
+3e38d2|{C1906}That's enough, MAXIE.\pThis is as far as you go.
+3e390e|{C193D}Your calculations failed. You\nshould never have come this far.\pThough I have to thank you. Without\nyour obsession with GROUDON, you\lcould never have led me here.
+3e39b2|{C193B}Curse you!\pI won't let GROUDON become just\nanother piece in…!
+3e3a01|{C193D}There's nothing you can do now.\pFLOETTE!\pPSYCHIC!
+3e3a32|-ZEUS took all of MAXIE's POKéMON\nalong with the RED ORB-.
+3e3a84|{C193B}W{C0819}-{C080F}what am I doing here?
+3e3aa2|{C193D}We were wondering the same thing.\nThis cave holds nothing important.\lYour comrades told us about some\lGROUDON, and a BLUE ORB that\lawakens it.\pBut that's in HOENN{C0805}…{C0805}
+3e3b68|{C193B}GROUDON! Yes!\pI must find that BLUE ORB.\nThere's much to be done!\pBack to HOENN!
+3e3bc5|{C193D}Don't worry, {V01}.\pI only erased the part of their\nmemory tied to the RED ORB, and\lthe other regions and journeys\lthey've made all these years.
+3e3c6d|{C193D}Now they're limited to HOENN and\nHOENN alone{C080F}…{C080F} They'll never be\lable to build a team like the one\lyou saw.
+3e3cda|{C193D}It's best for everyone,\neven for MAXIE.\pThanks to his acquired ignorance,\nhe has a clear goal again.
+3e3d4e|{C193D}And even if he got hold of\nthe BLUE ORB, he won't put anyone\lin danger anymore{C0805}…{C0805}
+3e3da7|{C193D}You've impressed me again, {V01}.\pYou know how to fight and bring\nout your POKéMON's full potential.\lI'm starting to believe you truly\lare KANTO's CHAMPION.
+3e3e48|{C193D}There's still ARCHIE.\pHe was south of SIX ISLAND.\pI take it that, after what you've\ndone here, you'll want to go too.
+3e3ec3|{C193D}Part of me says that, deep down,\nyou enjoy this. Am I right?
+3e3f09|{C193D}Anyone else would've run the\nmoment they saw GROUDON, but for\lyou, going through events like\lthese is part of the journey.\pThe one that lets you keep moving\nforward.\pAm I wrong?
+3e42e1|Well{C0805}…{C0805} not many can match\nSHELLY. Seems your presence here\lisn't pure coincidence.
+3e4349|But at this point, what someone\nlike you or me can do is of no\limportance compared to what's\labout to happen beyond this room.
+3e43ed|You have no idea who we are,\nROCKET.\pUnlike those fake captains, like\nthe one on the S.S. ANNE or\lCAPT. STERN, we've sailed the 7\lseas, obeying nothing but our\linsatiable thirst for exploration.

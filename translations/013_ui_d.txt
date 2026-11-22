@@ -1,0 +1,142 @@
+e892bc|ABILITIES
+e892c8|POKéMON INFO
+e892d8|SWITCH
+e892ec|RIBBONS: {V02}
+e892f8|NEXT LV.
+e89308|EXP. POINTS
+e89314|STATUS
+e89328|ACC.
+e89330|POW.
+e89338|TYPE/
+e89350|OT/
+e89358|HP
+e8935c|Speed
+e89364|Sp.Def
+e89374|Defense
+e8937c|Attack
+e89384|Register
+e89390|That's not an EGG.
+e893ac|The other TRAINER can't\naccept that POKéMON.
+e893dc|The other TRAINER's POKéMON\ncan't be traded.
+e89414|You can't trade an EGG.
+e89438|This POKéMON can't be traded.
+e8945c|This POKéMON can't be\ntraded right now.
+e89488|There's only one\nPokémon in battle.
+e894b0|Return to\n{V02}?
+e894c8|Return\noutside?
+e894e8|Cancel?
+e894f4|Return?
+e89500|Cancel?
+e8950c|Cancel?
+e89518|Can't take part.{C09}
+e89530|Fourth
+e89538|Lacks
+e89544|Has
+e8954c|Learned
+e89558|Can't!
+e89564|Can!
+e8956c|Unavailable
+e8957c|Available
+e89588|Third
+e89590|Second
+e89598|First
+e895a0|Available
+e895ac|Unused.
+e895d0|{V02} is already\nholding a {V03}.
+e895e4|Already in use.
+e89630|Move the item where?
+e89648|Send which [PK][MN] to the PC?
+e89664|Choose Pokémon and confirm.
+e89680|Choose Pokémon or cancel.
+e896f0|They can't be the same.
+e89708|{V02} is needed.
+e89718|Not enough HP…
+e8972c|Choose a Pokémon.
+e89740|No Pokémon in battle!
+e8975c|Do what with this item?
+e89778|Raise PP of which move?
+e89794|Restore which move?
+e897ac|Can't be used here.
+e897c4|You're already surfing.
+e897dc|You can't Surf here.
+e897f8|There's nothing to cut.
+e89810|Do what with this [PK][MN]?
+e89828|Give to which Pokémon?
+e89840|Use on which Pokémon?
+e89858|Teach which Pokémon?
+e89874|Move to where?
+e89884|Choose a Pokémon.
+e8989c|{V02}\nwas thrown away.{C09}
+e898b0|Throw away the\n{V02}?
+e898c8|{V02} transformed!{C09}
+e898e0|{V02} got over its\ninfatuation.{C09}
+e89904|{V02} snapped out\nof its confusion.{C09}
+e89924|{V02} became friendly.\nIts {V03} won't drop!{C09}
+e89970|{V02} became friendly.\nIts base {V03} fell!{C09}
+e89998|{V02}'s base {V03}\nrose.{C09}
+e899b0|{V02} gained {V03} EXP. Points\nand grew to LV. {V04}!
+e899dc|{V02} gained {V03} EXP. Points!{C09}
+e89a10|{V02}'s PP increased.{C09}
+e89a3a|  {V02} recovered.{C09}
+e89a50|PP was restored.{C09}
+e89a84|{V02} was defrosted.{C09}
+e89a98|{V02}'s burn\nwas healed.{C09}
+e89ab8|{V02} woke up.{C09}
+e89acc|{V02} was cured of\nparalysis.{C09}
+e89aec|{V02} was cured of\nits poisoning.{C09}
+e89b10|{V02}'s HP was restored\nby {V03} point(s).{C09}
+e89b8c|Which move should be forgotten?{C09}
+e89bb0|{V02} did not learn\n{V03}.{C09}
+e89bc5|   Stop learning\n{V03}?
+e89be0|{V02} wants to learn the\nmove {V03}.\pHowever, {V02} already\nknows four moves.\pShould a move be deleted and\nreplaced with {V03}?
+e89c60|{V02} and {V03}\nare not compatible.\p{V03} can't\nbe learned.{C09}
+e89c9c|{V02} learned\n{V03}!
+e89cb0|The BAG is full.\nThe item can't be removed.{C09}
+e89ce0|It was sent to the PC.{C09}
+e89cfc|This Pokémon is already\nholding an item. You can't do that.{C09}
+e89d34|{V03} was replaced\nwith {V02}.{C09}
+e89d88|{V02} isn't\nholding anything.{C09}
+e89d9c|{V02} is already holding\na {V03}.\pSwap it for this one?
+e89dc4|{V02} was given\nthe {V03} to hold.{C09}
+e89ddc|It was deleted.{C09}
+e89df0|It'll be deleted, okay?
+e89e08|It's full.{C09}
+e89e18|Sent.{C09}
+e89e24|Send to the PC?
+e89e34|No more than {V02} Pokémon\nmay enter.{C09}
+e89e59|   Can't be used until you\nearn a badge.{C09}
+e89e88|An EGG can't battle!{C09}
+e89ea8|You can't swap {V02}\nfor one of yours!{C09}
+e89ed8|{V02} has no energy\nleft to battle!{C09}
+e89f00|{V02} has already\nbeen selected.{C09}
+e89f20|{V02} is already\nin battle!{C09}
+e89f38|{V02} can't be\nswitched out!{C09}
+e89f58|It can't be used on\nthis Pokémon.{C09}
+e89f80|Choose a [PK][MN].
+e89f90|It won't have any effect.{C09}
+e89fac|Sp.Def
+e89fb4|Sp.Atk
+e89fc0|HP
+e89fc8|Sold the {V03}\nand received ${V02}.
+e89fe4|I can pay you ${V02}.\nWould that be okay?
+e8a004|{V03}?\nHow many would you like to sell?
+e8a024|{V03}?\nI can't buy that.{C09}
+e8a044|I'll throw in some PREMIER BALLS, too.{C09}
+e8a070|I'll throw in a PREMIER BALL, too.{C09}
+e8a09c|Is there anything else I can do?
+e8a0bc|Can I help you with anything else?
+e8a0e4|The {V02} space is full.{C09}
+e8a104|You don't have room for\nthis item.{C09}
+e8a128|You don't have enough money.{C09}
+e8a148|Thank you!\nIt'll be sent to your PC.
+e8a168|Thank you!\nIt'll be sent to your PC.
+e8a188|Here you go!\nThank you very much.
+e8a1a8|You want the {V02}?\nThat'll be ${V03}. Okay?
+e8a1d0|{V02}, right?\nThat'll be ${V03}. Do you want it?
+e8a1f4|{V02}? And you want {V03}?\nThat'll be ${V04}.
+e8a218|{V02}? Certainly.\nHow many would you like?
+e8a240|{V02}? Certainly.\nHow many would you like?
+e8a268|Leave the shop.
+e8a27c|In BAG: {V02}
+e8a28c|SOLD OUT
+e8a294|I'm sorry, but this item has\nalready been sold.{C09}

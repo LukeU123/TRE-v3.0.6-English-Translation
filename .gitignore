@@ -1,0 +1,6 @@
+*.gba
+*.sav
+*.zip
+*.pkl
+rom/
+out/

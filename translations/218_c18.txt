@@ -1,0 +1,501 @@
+3643c3|Not from here, but they say that\nfrom the top floor you can see both\lthe BELL TOWER in ECRUTEAK CITY\land the LIGHTHOUSE in OLIVINE CITY.
+364454|We're working hard so that soon\nyou'll be able to listen to the\lradio anywhere.\pStay tuned!
+3644c3|Few people know that if you tune\nthe radio to a certain frequency\linside the RUINS OF ALPH…\pYou'll hear some very weird noises!
+36457d|3F PRODUCTION
+364594|3F STUDIO 2
+3645ea|JOHTO is opening up to the world\nmore and more. Here at the RADIO\lTOWER we handle more contacts\levery day.
+364645|Look at this POKéMON, it's a\nperfect example.
+364675|YOU GOT A Lv.25 ELECTRIKE!
+364697|Apparently ELECTRIKE evolves into a\nfast, powerful and loyal POKéMON.\pI bet the GOLDENROD CITY POLICE\nwill love it.
+364721|I hear SILPH has several basement\nfloors. That wouldn't be possible\lhere, being so close to the sea.
+36478e|BEN: Listening to our music?
+3647bb|It's a bit of a shock seeing a\nbuilding this size right next to\lthe sea, don't you think?\pIf it ever happened to collapse\ntoward the west, the RADIO TOWER is\lso tall that anyone on the upper\lfloors, like us, would end up\lfalling straight into the open sea.\pI just thought of that and it\nblows my mind!
+364905|Our PRESIDENT's office is right\nnext to this room. That's where\lthe most important meetings\ltake place.
+36498e|I still can't believe how much\nGOLDENROD has grown in recent\lyears, and all that's still to come.\pWe sure live in interesting\ntimes!
+364a53|Time flies, doesn't it?\pIt feels like only yesterday we held\nthe 1st GOLDENROD CONFERENCE, but\lKANTO and JOHTO have changed a lot\lsince then.
+364af8|{V01}!\pExplore and enjoy every corner of\nthis region. Everything you can get\lout of it and its TRAINERS\lis a gift.
+364b6e|So that's how it's going to be…\pWe have a lot of work ahead of us\nover the next 2 years. By then,\lKANTO and JOHTO will form\lone single union.
+364c01|4F DIRECTOR'S OFFICE
+364c22|4F STUDIO 1
+364ebe|-{V01} showed the RADIO PASS-
+364ed8|{C194A}You know most of JOHTO couldn't\nhave cared less about the war.\lIt was LANCE who forced it, out\lof his hunger for power.
+364f53|{C1903}That's why I'm here.\pNow that we have LANCE under\ncontrol, it's time to unite the two\lregions like never before.
+364feb|{C1903}That's right. {V01} is the one who\ndefeated LANCE in single combat.\pForcing him to give up his powers.
+36504e|{C194A}A remarkable feat, boy.\pEven more so at your age. But you\nmay not know that JOHTO has several\lTRAINERS who would make LANCE\llook like a toddler.
+3650d5|{C194A}The difference between them and\nthat DRAGON TAMER is that they don't\lgo shouting their power from the\lrooftops; they're too busy seeking\lvirtue to bother with worldly affairs.
+36517f|{C1903}We know, PRESIDENT.\pIn fact, {V01} is here largely\nto learn from those TRAINERS.
+3651e3|{C194A}Then he'd better hurry.\pThey're the last remnant of the\nold JOHTO.\pI doubt the standard of living in\nthe new JOHTO will allow TRAINERS\llike that to emerge.
+365287|{C1903}We know that too, and we want to\nrecord the heights they reached\lbefore it's too late.
+3652ef|{C194A}Ha!\pPurely academic interest, I'm\nsure. Don't make me laugh, ARCHER.\pIn exchange, you'll get valuable\ninformation about just how far\la POKéMON can be pushed.\pWhat will you do with it?
+3653b6|{C1903}A fair price for such\nwork, wouldn't you say?\pWe're no charity, and I doubt\nyou and your company are\leither.
+365426|{C194A}What is it you want?
+365441|{C1903}The same as you.\pTo make sure no new LANCE ever\nappears, and to lay the foundations\lfor a union between KANTO and JOHTO.\pTo do that, we'll gather the most\ninfluential figures of both regions\land decide on the course of action.
+365529|{C194A}B-but right now…\pYour organization is off the\nmap as far as the public knows.
+365581|{C1903}Exactly. That's just what\nGIOVANNI wanted: we have the power\land the anonymity to pull the\lstrings with no one bothering us.
+36560e|{C194A}And how do I know you won't become\nsomething worse than LANCE?
+36564b|{C1903}You don't.\pBut once the summit GIOVANNI has\nproposed takes place, you won't have\lany doubt that all we want is what's\lbest for both regions.\pWe learned something crucial long\nago: win-win is the only business\lthat works in the long run.
+36574d|{C194A}You'll have your meeting.\pI'll be in touch with GIOVANNI\nabout the details.\pThank you both for coming.
+3657bf|{C1903}A pleasure to be back in my\nhome region, PRESIDENT.
+3657ef|{C1903}By the way. Impressive security\nat the RADIO TOWER, but you may not\lknow SILPH had something similar,\land even so it couldn't stop a\l10-year-old kid from reaching its\lPRESIDENT.
+3658a3|{C194A}And what did they do to\nget rid of him?
+3658d1|{C1903}Made him believe he'd won,\nso he'd never learn the truth.
+36590e|{C194A}Interesting.
+36591e|{C194A}So you're going after the JOHTO\nGYM LEADERS? I must confess it\lsaddens me, the transformation the\lGYMS will go through over the next\lcouple of years. It's the price of\lprogress, I suppose.\pHere in GOLDENROD we still have a\nvery capable, strong LEADER.\pBut they're renovating the GYM.\pMaybe you can challenge her before\nshe leaves her post.
+365a79|{C194A}Hope to see you at the big meeting.\pKeep exploring every\ncorner of JOHTO.
+365cf9|You got an ELITE PASS from\nthe POLICE OFFICER!
+365d25|{C1907}{V01}!\pYou too?\pIt's been ages!
+365d4a|{C1907}After OAK fell, GIOVANNI sent\nme to HOENN to study those ruins\lthat look like the ones in the\lSEVII ISLANDS.
+365dbf|{C1907}I see you've moved up too.\nWe're not part of TEAM ROCKET's\lELITE anymore.\pWe ARE TEAM ROCKET.
+365e29|{C1907}Only GIOVANNI and ARCHER will\nattend this meeting, besides us.\pOur good work and battle skills\nhave taken us to the top. Now's\lwhen we can use our position to\lsolve the mysteries of th{C0805}…{C0805}
+365f10|{C1922}You are HEAD ADMIN {V01} and\nHEAD ADMIN ANDRA of TEAM ROCKET.\pAm I right?
+365f6b|{C1922}You must go in now, the meeting\nis about to begin.
+365fa4|{C1907}B{C080F}-{C080F}but{C080F}…{C080F}\nThere's nobody here.
+365fd1|{C1922}Did you seriously think we'd hold\nthe most important meeting of the\ldecade in a place like this?\pAny 10-year-old kid could sneak\ninto this office. A meeting of\lthis magnitude demands the utmost\ldiscretion and security.\pHere.
+3660b8|{C1922}Now, use the computer in the\ncorner, and you'll be able to\laccess the RADIO TOWER's real\lmeeting room.
+36612f|{C1907}I don't know why this feels\nso familiar{C0805}…{C0805}
+36615b|{C1907}Let's go, {V01}!\pThe most influential and powerful\npeople of the 2 regions will\lbe here.\pWe're going to change the course\nof history!
+3662d2|It's unpleasant to think that cruelty\ncould be a driver of progress.
+36631d|10F SUMMIT ROOM
+366bb2|{C1908}{V01}, of course you couldn't\nmiss this meeting.
+366bda|{C1908}LANCE is going to take back the\nCHAMPION title, and GIOVANNI will\lhand me control of the VIRIDIAN\lCITY GYM, along with its\lUNDERGROUND WAREHOUSE.
+366c72|{C1908}I told you, {V01}, your thing was\nexploring new regions and becoming\lthe best TRAINER you could be.\pAnd here you are at last, finding\nJOHTO's limits too.\pIf you ever happen to pass through\nMT. SILVER, I hope you beat RED\lagain, just in case.
+366d78|{C192C}{V01}, isn't it?\pThat's right, they've released me.\pYou're just the one I wanted to see.\pWhat you did at the POKéMON TOWER,\nhanding CUBONE over to me, was very\lnoble of you. That gesture changed\lmy opinion of TEAM ROCKET.\pI saw that those poor devils who\nkilled MAROWAK were just victims\lof their own ignorance. GIOVANNI\lassured me he gave them an\lexemplary punishment for it.\pBut those of you at the top know\nTEAM ROCKET's true purpose, and\lnow I know it too.
+366f60|{C1921}Look who we have here.\pFrom common thief to HIGH-RANKING\nROCKET, EXECUTIVE, HEAD ADMIN{C080F}…{C080F}\land now sitting at the same table\las the 15 most influential people\lin all of KANTO-JOHTO.\pI still owe you a rematch,\n{V01}. This time my new toys\lwill be too much, even\lfor you.
+36708e|{C190E}Hey!\p{V01}!\pWelcome to the world of\nPOKéMON!\pDidn't you want to see it?\pWell, here's the reality!\n15 people carving up 2 regions\llike slices of cake!
+367135|{C1945}You have dishonored our clan,\nLANCE. I am ashamed to have taught\lyou the noble art of training the\loldest and most sacred type. When\lthis is over, I never want to see\lyour face in BLACKTHORN CITY again,\ldo you understand me?
+36721d|{C1907}Come on, {V01}!\pLate as always, just like at\nARCHER's welcome talk!
+36726b|{C194A}Very well, ladies and\ngentlemen. I hope you are all\laware of the efforts we have\lmade to keep this meeting\lconfidential.\pEverything we say, plan or discuss\nhere will remain strictly among\lthose present, namely:
+36736a|{C194A}GIOVANNI, LEADER of TEAM ROCKET,\nthe organization that currently\lcontrols KANTO's government and\lthe POKéMON LEAGUE championship,\land FORMER CHAMPION of KANTO.
+367405|{C194A}ARCHER, HEAD ADMIN of TEAM\nROCKET, GIOVANNI's right hand and\lROCKET BOSS in the SEVII ISLANDS.
+367469|{C194A}The PRESIDENT of SILPH, the most\nsuccessful company in KANTO.\pAn ally of TEAM ROCKET.
+3674bd|{C194A}PROFESSOR ELM, JOHTO's most\nprominent researcher, expert on\lall its flora and fauna.
+36751d|{C194A}PRYCE, eternal LEADER of\nMAHOGANY TOWN and its secrets.
+367557|{C194A}JADEN, master of the BELL TOWER\nand LEADER of ECRUTEAK CITY.\pThe chosen one of HO-OH.
+3675a7|{C194A}BLUE, OAK's grandson, TEAM ROCKET\ncollaborator and interim CHAMPION\lpending further decisions.
+367615|{C194A}FUJI, former ROCKET SCIENTIST.\nVital to the creation of MEWTWO,\land now the most influential person\lin LAVENDER TOWN.
+36768b|{C194A}BILL, the world's most famous\nPOKéMANIAC and SILPH SCIENTIST.\pHe has optimized PORYGON's\nevolutionary line to the extreme.
+367706|{C194A}SAMUEL OAK, KANTO's most\nprominent researcher and FORMER\lCHAMPION of KANTO.
+367753|{C194A}LANCE, FORMER CHAMPION and FORMER\nGOVERNOR of KANTO-JOHTO.
+367788|{C194A}The DRAGON MASTER of BLACKTHORN.\pConsidered JOHTO's most powerful\nTRAINER and an accomplished\lspecialist in the DRAGON TYPE.
+36780a|{C194A}ANDRA, HEAD ADMIN of TEAM ROCKET\nand ROCKET BOSS in HOENN.
+367850|{C194A}And finally…\p{V01}, HEAD ADMIN of TEAM ROCKET,\nROCKET BOSS in JOHTO and KANTO's\lcurrent CHAMPION in his own right.
+3678ca|{C194A}Now that we all know each other,\nwe can move on to the matters\lat hand.\pGIOVANNI, the floor is yours.
+367930|{C1920}I have gathered you all\nhere so that we may finally see a\ltruly united KANTO and JOHTO. Until\lnow, we have all gone our own way,\lwhen most of us were, after all,\lpursuing the same goals.
+367a13|{C1920}The aim of this meeting is to\nguarantee a prosperous future for\lboth regions, while we build an\liron-clad system in which our\lindividual interests never\lclash with one another.
+367add|{C1920}But that's not all. We can now\nopenly say that several of us here\lworked on creating MEWTWO, a match\lfor LUGIA and HO-OH. In response to\lLANCE's attacks, a union between\lKANTO and JOHTO would not only mean\la non-aggression pact, preventing\lanother catastrophe between us.\lIt would allow us to work side by\lside on creating prototypes even\lmore powerful than MEWTWO, which\lwould protect both regions in the\levent of an attack.
+367cae|{C1921}I agree. Not exploring the limits\nof this world would be a sin.
+367cfa|{C1945}And how do we know you won't use\nall that as a weapon, not a defense?\pI know several of those present.\nMost believe they can achieve in a\llab what must come as the fruit\lof complete devotion.
+367ddd|{C1920}I know, master. Until recently,\nI myself had not reached the\lpoint you speak of, but my\lRHYPERIOR and I achieved it.\pNevertheless, numbers are numbers,\nand gathering information and\lknowledge is never in vain.
+367eb8|{C194A}And what are your proposals,\nthen, GIOVANNI?
+367eea|{C1920}The first step will be to reopen\nthe borders at ROUTES 26 and 27.\pSomething that is being carried\nout at this very moment.
+367f65|{C1920}Next, we will announce the return\nof the POKéMON LEAGUE CHAMPIONSHIP\lto JOHTO, making the region's\l8 BADGES valid again.
+367fe4|{C1920}The construction of the MAGNET\nTRAIN and the expansion of OLIVINE\lPORT will complete the link between\lKANTO and JOHTO.
+36804d|{C1920}Everyone present will\nbenefit from this.
+36808b|{C1920}As the current owners of the\nPOKéMON LEAGUE, this is what we\lcan offer.
+3680d7|{C1920}LANCE, you may compete for the\nCHAMPION title again if you so\lwish, and your reputation as a\lDRAGON TAMER will remain intact.\pDon't think I'm doing this out of\nany special sympathy for you.\lI'm doing it only because, as one\lof JOHTO's own, you'd speed up the\lunion, if people see you truly\linvolved in events for both\lregions.
+368229|{C1920}OAK, you may continue all your\nresearch, this time sharing all\lyour results with everyone\lpresent.\pYou'll work with the finest minds\nof the 2 regions: ELM, BILL, and\lBLAINE too. All of your work will\lserve KANTO-JOHTO and nothing\lelse.\pThat's what you wanted, isn't it?\nWhat does the form matter?
+368385|{C1920}As for the companies{C080F}…{C080F} SILPH\nwill be able to sell its products\lin JOHTO, and the RADIO TOWER will\lbe able to broadcast in KANTO.
+368413|{C1920}I know that you, great masters of\nECRUTEAK and BLACKTHORN, care\lnothing for these matters, but\lTEAM ROCKET promises to respect\ltradition, and I'm sure everyone\lwho arrives from KANTO will\lappreciate places like the BELL\lTOWER or the DRAGON'S DEN.\pJOHTO will stay as rural as ever,\nexcept for big cities like\lGOLDENROD.
+368572|{C194A}And how do you plan to fund\nall that research?
+3685ab|{C1920}That's where FUJI and LAVENDER\nTOWN come in, my dear friend.
+3685f4|{C1920}FUJI has already told me\nit's high time the town had a\lchange of scene. It's no place\lfor the few CUBONE left; they'll\lbe moved to ROCK TUNNEL, which\lbetter suits their habitat.\pMeanwhile, a new cemetery will be\nbuilt south of town to house all\lthe graves from the\lPOKéMON TOWER.
+368728|{C194A}And{C080F}…{C080F}\pthe POKéMON TOWER?
+368744|{C1920}The POKéMON TOWER{C0819}…{C0819} will become\nKANTO's RADIO TOWER, where you can\lbroadcast your programs too.\pAre we beginning to understand\neach other, PRESIDENT?
+3687d6|{C194A}We{C080F}…{C080F} we understand each\nother perfectly.
+368802|{C1920}I understand some may see this\nas a controversial decision, but\lit's the best one in the long run.\pIt doesn't just benefit the union\nof both regions; with the profits,\lwe'll also be able to fund a large\lpart of our projects.
+3688e7|{C1920}We must make hard decisions,\ngentlemen. For better or worse,\lthis world is ruled by the law of\lthe strongest POKéMON.
+36895f|{C1920}We saw what happened when LANCE\ndecided to apply that law against\lKANTO. Everything we invest from\lthe new RADIO TOWER's profits will\lgo toward creating a POKéMON that\lgives us total security against\lany attack.
+368a4c|{C1920}I don't know about you, but I'd\nrather save potential lives, even\lat the cost of displacing those\lalready beyond help, than leave\leverything as it is.
+368adf|{C1939}Well said.
+368aee|{C1920}That brings us to the last\nloose end I want to tie up; the\lone that will let us keep all of\lthis in the shadows, and through\lwhich we'll gain all these\lbenefits, along with the growth\lof the 2 regions.
+368bc7|{C1920}SILPH and KANTO's RADIO TOWER\nwill remain closed to the\lpublic. The reason?\pTEAM ROCKET will work directly in\nthese places, alongside their\lstaff. Publicly, we'll cite\lsecurity reasons, because who\lwants a repeat of that horrible\lattack on SILPH HQ?\pRight?
+368cfe|{C1920}And finally, for anyone who\ndoesn't know yet: it's no accident\lthat the most important places in\lthe coming years are all linked\lto radio.
+368d91|{C1935}That's right. We've discovered a\ncorrelation between certain radio\lfrequencies and the growth of\lPOKéMON.\pWe believe they might even induce\ncertain beneficial mutations.
+368e4f|{C1920}That's why LAVENDER TOWN's RADIO\nTOWER, and this one too, will have\ltheir own research labs, off-limits\lto the general public. Meanwhile,\lwe trust that you, PRYCE, will\lprovide us with that old ninja\lhideout in MAHOGANY, to complete\lthis vast network of research and\lbusiness.
+368f70|{C1944}You can count on it.
+368f8b|{C1920}Continuing with the plan, the\ntitle of GOVERNOR will be abolished.
+368fce|{C1920}There will only be SILPH,\nthe RADIO TOWER, TEAM ROCKET, and\lother companies like OLIVINE\lPORT, the MAGNET TRAIN or the\lGAME CORNERS.
+36904f|{C1920}Any questions?
+369064|{C1921}That's all very well, but as\nyou said, what matters in the end\lis the power this system can\lcreate.\pWhat figures do you expect the\nnew prototypes to reach?
+369121|{C1920}Relax, BILL. You'll have the\nchance to work on it directly,\lalong with OAK and ELM.
+36917f|{C1920}As you know, with MEWTWO we\nreached 680 in BASE STATS.
+3691bd|{C1920}Our estimates{C080F}…{C080F}
+3691e8|{C1920}Suggest it's possible to comfortably\nbreak the 700 base barrier, and even\lventure into the 800s.
+36925d|{C1921}You're mad!\pDo you realize the numbers\nyou're talking about?\pA POKéMON's body can't withstand\nfigures that high.
+3692e2|{C1920}Oh, I assure you it\ncan, and when you see the resources\lwe have at our disposal, you'll\lbelieve it too.
+369355|{C1920}That is all, gentlemen.\pIf we all cooperate, we can make\nthese 2 regions the greatest power\lthe world has ever known, and we\lall stand to benefit, from their\lmost venerable, ancient residents\lto their most brilliant SCIENTISTS\land businessmen.
+36945d|{C194A}Any questions?
+369472|{C194A}Then we declare the 1st GOLDENROD\nCONFERENCE closed. Each of you will\lsoon receive the actions to take,\lso we can carry out every point\lset out here. For now, know that\lthe opening of the borders with\lKANTO is imminent.
+369581|{C194A}Very interesting times lie\nahead for all of us.\pThat is all, gentlemen.
+3695d7|{C1907}Intense session, huh?
+3695f3|{C1920}ANDRA, {V01}.\pI'm glad to see the two of you\ntogether again. You've brought TEAM\lROCKET much joy as a team.
+36966d|{C1920}You're doing excellent work in\nHOENN, ANDRA. We'll learn a great\ldeal from the unique power of\lthose REGIS.
+3696e4|{C1920}{V01}. If I'm not mistaken,\nyou already have 5 JOHTO BADGES.\lThe latest data on that POLIWRATH-&\lhas been extremely useful to us.\pIt's a rock in every sense.\pIt beats MACHAMP in all 6 STATS,\nand with IRON FIST, backed by its\lhuge defenses and 145 BASE\lATTACK, it's a real machine for\ldraining the foe's HP while\lrestoring its own.
+369841|{C1920}Now, I want you both to take a\nshort vacation. You've earned it.
+369895|{C1903}Sir. It would be wise for them\nto visit the third and fourth\lfloors of our base on ROUTE 45.\pThey're ready with the latest\nadvances in MEGA STONES.
+36992a|{C1920}Certainly.\pYou'll have fun there, just like\nyou did the first time at the\lDEEP ROCKET BASE.
+3699a1|{C1920}ANDRA, ARCHER, go on ahead.\pShow ANDRA the way to the\nJOHTO BASE.
+3699f2|{C1920}What did you think of the\nmeeting, {V01}?\pAs far as the public is concerned,\nthis never happened, doesn't exist,\land yet it has laid the foundations\lof their lives for years to come.\pFor the better, let's hope{C0805}…{C0805}
+369ab6|{C1920}Look at this splendid view,\n{V01}. From here we can see the\lOLIVINE CITY LIGHTHOUSE and the\lBELL TOWER in ECRUTEAK CITY. JOHTO,\lin the palm of our hand.
+369b5e|{C1920}I assume you paid particular\nattention to the DRAGON MASTER\lof BLACKTHORN CITY.\pI doubt you've seen him before.
+369bd4|{C1920}Together with PRYCE and the GRAND\nMASTER of ECRUTEAK CITY, they are\lthe 3 most powerful LEADERS in JOHTO.\pBut the DRAGON MASTER is on another\nlevel: legend has it he was beaten\lonly once, over 50 years ago, in a\lvery different world and JOHTO.\pI also suspect he has a STRONG BOND\nPSEUDO-LEGENDARY on his team. If\lthat turns out to be true, getting\lits data would be crucial.
+369d55|{C1920}All 3 are the region's living\nhistory. They belong to a dying\lgeneration and have shown that\ltraining POKéMON is very much an\lart.\pHowever hard we try to bring\neverything into our labs. That's\lwhy I want to combine the best of\lboth worlds before it's too\llate.\pIn 3 years it will be impossible\nto find TRAINERS like that, even in\lrural, traditional JOHTO.
+369edf|{C1920}But don't worry, {V01}, time is\nsomething we have now. I know\lyou'll find a way to battle the\llast 3 LEADERS, just as you have\lso far.
+369f85|{C1920}For now, ANDRA will be waiting\nfor you to visit the upper floors\lof the JOHTO BASE.\pThere you'll see some of the\nprogress we've made.
+36a016|{C1920}That is all, {V01}.\pI'm glad to see you again. You're\nclearly in top form.
+36ab4f|{C1931}Surprised to see me here?
+36ab6e|{C1931}What's the matter? Think I'm not\nimportant enough, or not senior\lenough, to sit at this table? I\lthought you were humbler, {V01}.\pYou may be in for a surprise.
+36ac24|{C1908}{V01}, long time no see.\pI'm finally VIRIDIAN CITY's LEADER,\nand LANCE is CHAMPION again.\pObviously he's just a puppet on a\nstring. Maybe that's the worst\lpunishment for someone like LANCE.\pI hope things go well for you.
+36ad04|{C192C}AGATHA is gone, {V01}.\pShe left along with the old POKéMON\nTOWER. We'll never again see her\lGENGAR use SHADOW BALL within\lits walls.\pIs this the price of progress?
+36adb8|{C1921}Wait till GIOVANNI talks about\nthe new prototypes and STATS{C080F}…{C080F}\pIf it were up to me, I'd skip\nstraight to that part. The rest is\ljust formalities!
+36ae52|{C190E}Don't you get tired of going on?\nThat's what you're after, isn't it?\lTo keep dancing and filling up on\lexperiences for as long as you\lcan, until you can't anymore. What\lelse would you do, right?\pWell, you'd better. You've still\ngot far too much to see, young {V01}.
+36af45|{C1926}Who is this guy? Why{C080F}…{C080F}?\pWhy does he know so much about\nENTEI, RAIKOU and SUICUNE?
+36afa5|{C1932}{V01}! I never imagined how far\nyour organization reached. Believe\lme, with my knowledge and your\lresources, we can finally extract\lthe true essence of JOHTO's BEASTS.
+36b05e|{C194A}Ladies and gentlemen{C080F}…{C080F}\nI am honored to be here once more\las host of the 2nd GOLDENROD CITY\lCONFERENCE.
+36b0d8|{C194A}First of all, you'll notice a small\nchange among those present.
+36b12a|{C194A}The GRAND MASTER of ECRUTEAK CITY\nhas been missing for months. The\lcity's SAGES believe HO-OH took\lhim, just as he always prophesied.
+36b1bd|{C194A}Meanwhile, the GRAND MASTER of\nBLACKTHORN CITY refused to take part\lin this any longer. In his own\lwords, JOHTO's fate is now our\lbusiness.
+36b262|{C194A}As you can see, these two absences\nhave been swiftly filled, namely:
+36b2b1|{C194A}MIGUEL, FOSSIL expert and BILL's\nchief collaborator.
+36b2f0|{C194A}And EUSINE, a great expert on the\nJOHTO BEASTS, versed in all the\lculture and tradition of the region.
+36b371|{C194A}Now, gentlemen, I ask that we\nrecap and look back. Let us review\leverything we have achieved since\lthe 1st GOLDENROD CONFERENCE was\lheld, almost 1 year ago now.
+36b422|{C194A}At this moment, the LAVENDER\nRADIO TOWER is about to finish\lconstruction in record time.
+36b48d|{C194A}In addition, thanks to the recent\nefforts of HEAD ADMIN {V01},\lthe GOLDENROD-SAFFRON line can\lopen shortly.
+36b50f|{C1920}Thank you very much, PRESIDENT.
+36b52e|{C1920}Indeed, these were our two main\nmaterial goals, and they've been\lmet. Now, before we move on to more\lrelevant matters, I'd like to tell\lyou about the construction of a\lnew SAFARI ZONE.
+36b5f6|{C1920}The one in FUCHSIA is history. KANTO\nopening up to the rest of the world\lhas worked against it. The region's\ltourism is almost nil, and its\lresidents are now more focused on\ldiscovering new POKéMON.
+36b6d2|{C1920}Even KANGASKHAN is old news now,\nnot to mention the many colonies\lof the species in ROCK TUNNEL.\lSo many that it's become\limpossible to hide them from people.
+36b781|{C194A}What do you propose, GIOVANNI?
+36b79d|{C1920}Building a new SAFARI ZONE.\pThis time west of\nCIANWOOD CITY.
+36b7ef|{C1920}ANDRA and {V01} have visited the\narea, and it's a true paradise.\pFull of exotic POKéMON, something\npure, not yet spoiled by the masses.
+36b875|{C1920}I know of certain areas there that\nwould be best kept hidden. That's\lwhy the path to the new SAFARI ZONE\lwill be free of anything that might\llead tourists into those areas.
+36b95f|{C1920}With it, we'll gain an even bigger\nbase to fund our projects, offering\la service that's in high demand in\la region like JOHTO.
+36b9f3|{C190E}I think that's enough.\pWe should talk about what\nreally matters.
+36ba44|{C1921}Exactly! The new protot{C080F}…{C080F}!
+36ba6b|{C1920}You're right, OAK.\nWe need to talk about DEVON.
+36baa8|{C1920}Many of you know the HOENN\nregion. There's a big company\lthere, the equivalent of SILPH\lin KANTO.
+36bb08|{C1920}On paper, their specialty is making\nPOKé BALLS: NET BALL, TIMER BALL,\lREPEAT BALL, NEST BALL{C080F}…{C080F}\pAll created by DEVON CORP.
+36bb9c|{C1920}They also invented a way to revive\nFOSSILS, before the CINNABAR LAB\ldid.
+36bc07|{C1921}Nonsense. Basic tech we've\nalready mastered.
+36bc37|{C1920}That technology is also just\nthe surface, BILL.
+36bc76|{C1920}DEVON, like us, doesn't make its\nbiggest advances public. We have\lproof of this. We know firsthand\lthat METAGROSS is an artificial\lPOKéMON they created before your\lbeloved PORYGON even existed.\pIs that enough for you, BILL?
+36bd8a|{C1920}We can expect that, today,\nDEVON is more powerful than\lwhen it created METAGROSS.
+36bde1|{C1920}ANDRA and {V01} have already had\nrun-ins with what appear to be\lthe organization's EXECUTIVES. One\lof them right here in JOHTO,\lgathering data on unique POKéMON.
+36be8f|{C1920}This makes me think that, like\nus, their aim is to create\lprototypes that stand apart from\lall the other POKéMON we know.
+36bf38|{C1920}To what end, I don't know. We'll\nhave to find out.
+36bf69|{C1921}Even if they have them, they'll\nnever match the power of ours!
+36bfa6|{C190E}Be careful, BILL.
+36bfb9|{C1920}Indeed. We've made remarkable\pBe that as it may, we've made\nremarkable advances in boosting\la POKéMON's performance.
+36c03d|{C1920}This has led us to sort the\nprototypes we've obtained into\l3 levels.
+36c095|{C1920}First, the level I prototypes\ncover a range of BASE STATS\lfrom 570 to 660 BASE\lSTATS.
+36c112|{C1920}This group includes the vast\nmajority of prototypes we've made\lto date: NIDOKING-X, PORYGON3,\lMAGMORTAR-Y{C080F}…{C080F}
+36c194|{C1921}And now the MEGA STONE and\nPORYGON-Z prototypes.
+36c1c9|{C1920}Exactly, taking its limit to\n645 BASE STATS, 30 points more than\lPORYGON3.
+36c219|{C1920}Next, we have the level II\nprototypes: those ranging from\l660 BASE STATS up to 780{C080F}…{C0805}
+36c289|{C1920}Here, thanks to EUSINE recently\njoining our team, we have the\lhonor of including future\loptimized forms of the\lLEGENDARY BEASTS.
+36c326|{C1920}It's an enormous step forward, as\nit's the closest we've come to\lsimulating the STRONG BOND under\lartificial conditions.
+36c399|{C1907}How is that possible?
+36c3b2|{C1932}There's a connection between these\nPOKéMON and the GRAND MASTER's 3\lSTRONG BOND POKéMON you faced.\lUnder the right exposure, JOHTO's\lBEASTS would undergo a process\lsimilar to the one the GRAND\lMASTER's JOLTEON, FLAREON and\lVAPOREON went through.
+36c4ae|{C1932}By simulating this, and making use\nof this gift from HO-OH, we've\lmanaged to trick nature into\lgiving up its forbidden fruit.
+36c538|{C1907}And so{C080F}…{C080F} turn the sacred into\nthe profane.
+36c569|{C190E}Ha! Now that you're near the real\nlimit, you get vertigo?
+36c5b1|{C190E}Besides, above all, the sacred truly\ndeserves to be put to the test, ANDRA.
+36c60d|{C1920}This means +125 in BASE\nSTATS, putting them squarely among\lthe level II prototypes, with a\ltotal of 705. But there's more{C080F}…{C080F}
+36c698|{C1920}Our biggest breakthrough is the\none that marks the upper limit of\llevel II, at 780 BASE STATS{C080F}…{C080F}
+36c708|{C1920}We managed to synthesize a MEGA\nSTONE that works on MEWTWO, boosting\lits offensive power even further.
+36c779|{C1920}By studying ALDER's VOLCARONA-&,\nwe found a way to raise that\lSPECIAL ATTACK even higher, setting\la new record: 194 points.
+36c820|{C1921}No!\n9 points more than my PORYGONZ-Y!
+36c84f|{C1920}It's also faster, with better\nSP. DEF. The opportunity cost,\lhowever, was that its DEFENSE\ldropped hopelessly.\pAll specialization seems to lead\ninevitably to a drop in some\lother variable.
+36c931|{C1935}For now{C0819}…{C0819} we'll work to make\nthat variable its ATTACK, which is\lno use to it. That abomination has\lmore ATTACK than a TYRANITAR and\ljust sits on it. What we've come to{C080F}…{C080F}
+36c9fb|{C190E}Its overall power is overwhelming.\nWith such an unstoppable force, you\lhave to expect some of the energy\lto leak out inefficiently.
+36ca82|{C1920}Exactly. That's why we built the\nLAVENDER RADIO TOWER. Its waves will\ltake us to the next level: efficiency\lcombined with boundless power.
+36cb10|{C194A}What about the level III\nprototypes?
+36cb3c|{C1920}I'm afraid they're still in the\nexperimental stage. It's too early\lto discuss them{C080F}…{C080F} perhaps at the\l3rd GOLDENROD CONFERENCE{C080F}…{C080F}
+36cbc0|{C194A}Any questions?
+36cbd5|{C1926}There's a vacancy in the\nELITE FOUR.
+36cc00|{C1903}That's right, AGATHA. She left just\nbefore the POKéMON TOWER demolition\lbegan, and there's been no sign of\lher since.
+36cc7a|{C1920}That was to be expected. Luckily,\nwe have the perfect replacement:\lKOGA.\pHe'll join the ELITE FOUR. His\ndaughter is ready to take over in\lFUCHSIA. KOGA is a good TRAINER,\land he's always been loyal to us.
+36cd5d|{C194A}Then we declare the 2nd\nGOLDENROD CONFERENCE closed.\pThank you all for attending, and\nI hope we can soon hold another,\lwith a KANTO and JOHTO that are\lfully consolidated.\pThat is all, gentlemen.
+36ce2f|{C1903}You should have given more detail\nabout the level III prototypes.\pIt would have been a lesson in\nhumility for BILL.
+36ceaa|{C1920}It's not wise to reveal numbers\nlike that{C0819}…{C0819} yet. No one is ready\lto take in figures above 800 BASE\lSTATS, at least not in the current\lclimate.
+36cf6b|{C1920}ANDRA, {V01}{C0819}…{C0819}\pI have good news. Remember the\nSACRED STONE you obtained on one\lof your missions?
+36cfe0|{C1907}Of course{C080F}…{C080F} It was very special.
+36d007|{C1920}As I told you, ARCHER went to\ninvestigate and managed to find one.\pOur SCIENTISTS did the rest of the\nwork in record time.
+36d091|{C1907}What exactly do you mean?
+36d0b3|{C1920}The SACRED STONE can now be\nmass-produced, and it's ready to\llaunch on our market…\lour private one.
+36d120|{C1907}So{C080F}…{C080F}\pEveryone will have access to it?
+36d151|{C1920}No, not everyone.\pIt will be sold on the private\nfloors of the LAVENDER RADIO TOWER.\pSo{C080F}…{C080F} only HIGH-RANKING\nROCKETS and above will be able\lto buy it.
+36d1f8|{C1920}Besides, the LAVENDER RADIO TOWER\nis just what I wanted to discuss.
+36d23b|{C1907}Is that our next destination?
+36d25b|{C1920}Exactly, ANDRA.\pI'd like you both to visit the\nnew LAVENDER RADIO TOWER.\pIt was built against the clock and,\nthough it isn't all there yet, it\lhas the essentials to give you an\lidea of what the future holds.
+36d33c|{C1920}The inside isn't quite finished\nyet, but it will be soon.\pIn the meantime, I suggest you\nrevisit LAVENDER TOWN and{C080F}…{C080F} see\lfor yourselves the makeover we've\lgiven it.
+36d3fd|{C1907}{C0823}…{C0823} I won't miss this date with\nhistory, sir{C0805}…{C0805}
+36d43d|{C1903}We'll look into DEVON. We must\ncall a meeting with OAK and\lBLAINE immediately.
+36d4ae|{C1920}We'll be in touch{C0805}…{C0805}
+36d4cc|{C1907}You heard him, {V01}. See you\nat the POKéMON TOW{C0819}…{C080F}
+36d503|{C1907}{C080F}…{C080F}LAVENDER RADIO TOWER.\pIt'll feel strange never seeing\nthe original again, don't you?
+36d756|{C1906}…And we've come further than\nany of us could have imagined.\lOf that I have no doubt.
+36d7bf|{C1920}As has been explained: the level\nIII prototype, while it won't come\lclose in raw power to that total\lof 900 BASE STATS, the known\llimit…
+36d85c|{C1920}…it will when it comes to efficiency\nin a POKéMON battle. And that,\lgentlemen, at the end of the day,\lis what interests us.
+36d8ec|{C190E}And to think 3 years ago we saw\nMEWTWO as an unbeatable POKéMON…
+36d936|{C1920}The original MEWTWO was good,\nbut it didn't end up being the best.\pTime has proven that.
+36d997|{C1920}Now, I'd like to announce that\nconstruction of the new SAFARI\lZONE in JOHTO is already under\lway.
+36da09|{C1920}Isn't that right, EUSINE?
+36da20|{C1932}Exactly. I've already spoken\nwith the GRAND MASTER.
+36da4e|{C1932}The route to the DUN TOWER and\nthe area around the DUN PILLAR will\lremain hidden from JOHTO's eyes…\lforever.
+36dac8|{C1920}It won't be very hard.\nDestroying the current path and\lbuilding a single new one that veers\lfurther northeast will do it.
+36db3d|{C1920}With that, money to fund all our\nprojects will be the least of our\lproblems.
+36dba2|{C1920}That is all. We declare this mee…
+36dbc5|{C1926}W…wait a moment.
+36dbd6|What wasn't clear?
+36dbf0|{C1926}I… I can't grasp what was laid\nout at the start of the meeting.
+36dc33|{C1926}All that deployment of resources,\nwhat for? What's the point, when\lright now we're far more powerful\lthan all that?
+36dcb3|{C1920}You don't need to understand\nanything, LANCE. Just stick to your\lrole with absolute precision.
+36dd16|{C1920}It was the first item on this\nmeeting's agenda precisely because\lit's the most important.
+36dd71|{C1920}And now, it's imminent. Everything\nis ready. There's no turning back.
+36ddb8|{C1920}After this, the regions of KANTO\nand JOHTO will never be the same.
+36de14|TELEPORT TO RECEPTION
+36de3c|If you don't have a COIN CASE to\nplay and buy here, you can always\lgo to the city's UNDERGROUND. It's\lalways easy to pick up a COIN CASE\ldown there.
+36ded9|Even though I know all the odds\nsay I'll lose in the long run,\lI just can't stop playing!\lIt's the illusion of control!
+36df6e|Dang it…\nCYNDAQUIL keeps going up in\lCOIN value. I think it's because\lthere are fewer and fewer left\lin the wild.
+36dff0|Life is a game.\pAnd I'll play until\nI can't anymore!
+36e034|I don't care if I win or lose\nhere. I'm so loaded that nothing\lreally matters to me anymore.\pI can buy everything, and at the\nsame time nothing!
+36e123|Exchange your COINS for prizes.
+36e142|Which prize would you like?
+36e157|You want the MAGNIFYING GLASS?\nIt'll cost 800 COINS.
+36e5b8|Now go show off at the RADIO TOWER!
+36e5d9|YOU GOT a Lv.60 PORYGON!
+36e5f9|Your loss.
+36e60b|Interested?
+36e642|Want to be one of the first people\nin JOHTO with a PORYGON?
+36e685|I've got the latest in technology,\nimported straight from KANTO.
+36e6e1|They haven't started the works in\nSAFFRON yet. It's no surprise\lthey're behind, with all the mess\lat the POKéMON LEAGUE{C0805}…{C0805}
+36e776|The works in SAFFRON were delayed,\nbut that's it, now we can travel\lfrom JOHTO to KANTO and back in a\lmatter of minutes.\pI guess it was inevitable, right?
+36e822|This door leads to the PRESIDENT's\noffice. Only authorized personnel\lmay enter.
+36e885|Be careful, young man.\pWhile we level the ground to lay\nthe tracks, you can come in and\lhave a look.
+36e900|The MAGNET TRAIN will levitate\nusing magnetism, reaching speeds\lof up to 500 km/h.\pIt'll get to SAFFRON in a matter\nof minutes!
+36e987|The MAGNET TRAIN levitates using\nmagnetism, reaching speeds\lof up to 500 km/h.\pIt gets to SAFFRON in a matter\nof minutes!
+36ea17|KANTO and JOHTO will be closer\nthan ever!\lIsn't that great?
+36ea5c|KANTO and JOHTO are now\ncloser than ever!\pIsn't that great?
+36eafa|{C1922}Sorry, young man, beyond this\npoint only authorized personnel\lare allowed. I hope you\lunderstand.
+36eb78|{C1922}Wait, that's the RADIO PASS.\pYour PRESIDENT funded a good part\nof the project that will connect\lGOLDENROD with SAFFRON.\pYou say you just want to take a\nlook at what's past the tracks?\pAs an honorary member of the\nRADIO TOWER, you could count as\lauthorized personnel, so you\lmay go through. But be careful,\lwe're right in the middle of\lbuilding the tracks.
+36ed08|Bikes?\nSorry, sir, we've only just\lopened and our stock is a bit\llimited.\pWe only sell motorcycles.
+36ed7d|I hope they open a CYCLING ROAD\nin JOHTO too. Can you imagine?
+36edca|Ha ha!\nFrom here, straight to THREE\lISLAND to cause some trouble!\pHeck yeah!
+36ee21|There are some really weird people\ndown there. I just want to buy\lsome exclusive items{C0805}…{C0805}
+36ee87|You can find interesting things\nfor sale down here, but there are\lsome really weird people too…\lI'm scared to go down there.
+36ef50|I'm a new man now. I'm even going\nto open a hair salon!
+36ef90|You got a COIN CASE\nfrom the Super Nerd!
+36efbf|Take it! I never want to see this\nthing again!
+36efef|I'm finished! I lost everything\nI had on the slot machines.
+36f037|Here you can find things even\nmore interesting than at the\lGAME CORNER or the DEPARTMENT\lSTORE.\lThat's the black market for you,\lyou never know what you might\lcome across here!
+36f22a|Got a problem? Get lost, this\nplace isn't for posh kids like you!
+36f281|Want a fight? Those bought POKéMON\naren't going to help you!
+36f2c1|Who sold you those POKéMON?
+36f2e4|Ugh, I got cocky! Wait till I tell\nthe BOSS! You may have bought some\lquality POKéMON, but he always\lkeeps the best ones!
+36f3c0|I bring in rare, powerful POKéMON\nfrom other regions and sell them\lhere at a good price.
+36f41f|Here's what I've got. You won't\nfind anything like it in JOHTO.
+36f4c1|You need a COIN CASE!
+36f4f0|You don't have enough COINS.
+36f50e|You want TRAPINCH? It'll cost\n1,200 COINS.
+36f539|You want BAGON? It'll cost\n6,000 COINS.
+36f561|You want DEINO? It'll cost\n6,000 COINS.
+36f589|You want BELDUM? It'll cost\n6,000 COINS.
+36f5b2|You want WISHIWASHI? It'll cost\n7,500 COINS.
+36f5df|You want the FLAME ORB?\nIt'll cost 1,000 COINS.
+36f60d|You want the EXPERT BELT?\nIt'll cost 2,400 COINS.
+36f63d|You want the ASSAULT VEST?\nIt'll cost 2,800 COINS.
+36f66f|You want the CHOICE SPECS?\nThey'll cost 3,000 COINS.
+36f6a3|You want the TOXIC ORB?\nIt'll cost 1,000 COINS.
+36f6d0|You want the ROCKY HELMET?\nIt'll cost 1,600 COINS.
+36f701|You want the LIFE ORB?\nIt'll cost 2,800 COINS.
+36f72e|You want the CHOICE BAND?\nIt'll cost 3,000 COINS.
+36f75f|You want a TEDDIURSA?\nIt'll cost 500 COINS.
+36f78a|You want a SHUCKLE?\nIt'll cost 1,250 COINS.
+36f7b5|You want a SUDOWOODO?\nIt'll cost 2,400 COINS.
+36f7e2|You want a CYNDAQUIL?\nIt'll cost 4,200 COINS.
+36f80f|You want a HITMONTOP?\nIt'll cost 4,500 COINS.
+36f9ac|You won't find items of this quality\nout there.
+36f9df|Watch!
+36fb65|So you've met my grandson,\nBILL.\lJust between us…\lHe loves showing off rare\lPOKéMON like EEVEE, when they're\las common as can be in ECRUTEAK\lCITY. All he does is travel places\lto bring back exotic stuff, and\lpay whoever needs paying to get\lthe POKéMON. But in today's world,\lthat's all it takes!
+36fcb7|50 years ago, GOLDENROD, just like\nOLIVINE, was just a handful of\lhumble fishermen's houses. I still\lremember STARMIE piling up on the\lshore. Today it's almost impossible\lto see one, even far out at sea{C0805}…{C0805}
+36fd8d|I'm sick of this city's red tape.\nA retreat to MT. MORTAR is just\lwhat I need!\pAll the great masters of the\nFIGHTING TYPE have trained there.
+36fe4a|Years ago we had a great LEADER,\nbut she didn't fit in this city\land decided to leave her post.\pI wonder what became of her.
+36fec9|The atmosphere around GOLDENROD\nkeeps getting more competitive.\lIt didn't use to be like this, and\lthere were much better TRAINERS\lthan now, like the LEADER they\lwant to kick out{C0805}…{C0805}
+36ff87|La la la, la la la la.\nGive it lots of water, honey!
+36ffc0|You see fewer and fewer wild\nSUDOWOODO. They hide deep in\lJOHTO's vegetation.\pKnow why?\pThere's always some joker who\nstarts watering them like they're\la tree!
+3700a3|The KIMONO GIRLS are great\ndancers, as well as skilled\lTRAINERS.\pThey're amazing!
+37010e|Everyone here has an EEVEE at\nhome. Some POKéMANIACS may want\lpeople to think it's very rare,\lbut in ECRUTEAK CITY it's as\lcommon as it gets.
+3701b9|I wonder if the BURNED TOWER was\neven taller than the BELL TOWER.\lThey say they were about the\lsame height{C0805}…{C0805}
+370237|ECRUTEAK CITY is the only place\nthat still sells SACRED ASH, for\l$14000. Even so, I'm telling you,\lin KANTO this item would cost a\llot more.
+3702c4|Can you imagine seeing the whole\nregion from the top of the BELL\lTOWER?\lBut that's impossible. I can't even\lget through the door that leads to\lthe BELLCHIME TRAIL.
+370367|Change…\nChange…\lAnd more change…\lIt's all change!
+3703b7|Ahh!\nI went down out of curiosity to\lsee what was going on, and I saw\lan enormous, incredibly strong\lPOKéMON!\pIt was knocking out all our SAGES'\nPOKéMON in a single hit!\pI wanted to help, but that POKéMON\nis scary.
+370491|If our venerable LEADER doesn't\nshow up, this could end very badly{C0805}…{C0805}
+3704e5|The SAGES of the BELL TOWER are\ngreat TRAINERS. Let's hope they\lcan stop that lunatic.
+370585|In memory of the three POKéMON who\nlost their lives. Your essence remains\lhere, and JOHTO honors you from the\lwestern pagoda.
+370639|WILL-O-WISP burns the foe, killing\nits physical momentum, even for the\lfiercest attackers.
+370696|{V01} got TM72 WILL-O-WISP\nfrom the CHANNELER!
+3706ce|I can still feel the energy of\nthose who suffered the tragedy\lof 150 years ago.
+37072f|There was nothing we could do{C0805}…{C0805}
+370758|If this keeps up, it'll end up\nbringing down what's left of the\lBURNED TOWER{C0805}…{C0805}
+3707b5|That guy…\nWiped out all our POKéMON\lwithout any effort{C0805}…{C0805}
+37080d|I've never seen such brute force.\nCould it be a LEGENDARY from some\lfaraway region?
+370ae1|{C1906}You again?
+370af2|Dong!
+370af8|{C193D}I hoped to find something\ninteresting here, but the\lLEGENDARY LUGIA left this place\llong ago, never to return.
+370b78|{C193D}It was at the BURNED TOWER that HO-OH\nsaved 3 POKéMON from a cruel fate,\lturning them into the 3 roaming\lbeasts.
+370bee|{C193D}Nothing could be further from\nthe truth…\pThe power of those 3 POKéMON is\nmediocre; their greatest virtues\lstill fall short of their creator's\lgreatest flaws.\pLANCE believed he was powerful with\nthem under his control, but he was\ljust another fool.
+370ce0|{C193D}HO-OH, on the other hand{C080F}…{C080F}\pThe BELL TOWER{C080F}…{C080F}\pI sense it will appear again.\nI could get rid of all those SAGES\lwho block the way across the\lBELLCHIME TRAIL, but it's still\ltoo early to make that much noise.\pMy destiny lies elsewhere now.
+370dd0|{C193D}I took our little encounter at\nthe SPROUT TOWER as a coincidence.\lAnd yet, here you are again.\pAgain, by coincidence, just as I\nwas trying to see if this place\lhid anything interesting.
+370ea0|{C193D}{C080F}…{C080F} {C080F}…{C080F}\pIt seems you need reminding of\nthe vast power I command.\p50% wasn't enough{C080F}…{C080F}
+370f15|{C193D}Let's see, then, what you can\ndo against 65% of my power.
+370f50|So 3 MAJOR LEGENDARIES aren't\nenough. How interesting.
+370f94|{C193D}I must applaud you, {V01}.\pYou're one of those who bring out\nthe best in each of their 6 POKéMON\land cling on in battle however they\lcan, until they win. People like\lyou have to be crushed in one blow,\lbefore you have time to react.
+37107f|{C193D}Unfortunately for you and your\nPOKéMON, you've reached your\llimit.\pAdmirable, yes, but not enough.\pMy team, on the other hand…\pIt isn't even a rough sketch of\nwhat it will be once I reach my goal.
+37114a|{C193D}For your sake, I hope there are\nno more coincidences like this one,\lor you'll force me to reveal the\ltrue nature of the gods.
+3711d3|-ZEUS used ESCAPE ROPE-
+3711eb|{C1906}Is he the one who was causing\nall this commotion?
+37121f|{C194B}On the contrary, MASTER JADEN.\pThis TRAINER just defeated the\ntroublemaker in battle.
+37127c|{C1943}Hmm{C080F}…{C080F}\pYou must be {V01}. AGATHA has\ntold me about you.\pOn behalf of ECRUTEAK CITY, I\nthank you for what you've done.
+3712fd|{C1943}You'll be welcome at the BELL\nTOWER, but that will have to wait\la little longer.
+371358|{C1943}I'm fascinated by your friend\nALDER's STRONG BOND POKéMON.\pI must study it carefully.
+3713c1|{C1943}Besides, JOHTO's other GRAND\nMASTER will be visiting me soon.\pI promise you, {V01}, that in\ndue time you'll see the BELL\lTOWER.\pI'll let you know.
+371458|{C1943}Say no more.\pThe BURNED TOWER still stands, and\nthe energy of the 3 roaming beasts,\lwhich I can still sense in this hall,\lis intact!\pLet us return to the BELL TOWER.
+37153b|Winds of change are blowing\nthrough this city.\pSomething tells me we'll soon\nhave a new LEADER.
+371596|You look like you've come a long\nway, though. Take this, so at\lleast you'll have a nice souvenir\lof ECRUTEAK CITY.
+3715fe|Our LEADER?\nSorry, but JOHTO stopped being\lpart of the POKéMON LEAGUE, so\lour LEADER isn't obliged to be\lhere.\pThat's why he spends day and\nnight at the BELL TOWER.
+3716c0|Ah, hello, young challenger!\nOr so I'd say if you could\lchallenge our LEADER. Only the\ldisciples are left. Our LEADER has\lbeen JOHTO's most influential SAGE\lin recent times, and as such, his\lplace is in the BELL TOWER. You'll\lhave to climb to the top if you\lwant to challenge him.
+3718ad|Only a noble person whose bond\nwith their POKéMON is unbreakable\lcan bring the LEGENDARY HO-OH\lback to the BELL TOWER once more.
+371947|The monks of the BELL TOWER are\nfascinating. From the moment they\lget up, they devote themselves to\lperfection, whatever goal they\lpursue.\pYou won't find such discipline\nanywhere else.
+371a1f|What?\nOh, right!\pWe have several EEVEE evolutions,\nand depending on the opponent we\luse better or worse trained ones.\pSome people get angry if they lose.\nWe're not interested in them, so\lwe give them what they want: an\leasy, harmless victory.
+371b0a|All EEVEE come from a single\none.\pWhich one?\pOnly our GYM LEADER knows\nthe answer to that.
+371b87|They say each of the 7 EEVEE\nevolutions stands for one of the\l7 colors of HO-OH's rainbow.\pBut I think there are more than 7\ndifferent EEVEE evolutions{C0805}…{C0805}
+371c39|The KIMONO GIRLS don't just dance,\nthey're also extraordinary with\lPOKéMON.\pI always challenge them, but I've\nnever laid a scratch on them{C080F}…{C080F}\pIf only my POKéMON were as\nelegant as the KIMONO GIRLS{C080F}…{C080F}
+371d1e|Each KIMONO GIRL represents a form\nof EEVEE, and also its specific\lTYPE. You can see it in their\ldancing style.
+371da7|These girls have the art of\ndance in their blood.\pI'll immortalize them on my\nnext canvas!
+371e12|The KIMONO GIRLS are so pretty…\nBut they have to train a lot.\pAnd they have to learn the\ndifferent dances before performing.\pBut if you love something,\nanything is possible.
+371ec2|Shows like this keep the essence\nof JOHTO alive!
+37237c|You got SACRED ASH from\nthe KIMONO GIRL!
+3723c7|Oh!\pWhat nerve!\pNo one simply climbs onto\nour stage.
+372407|If you step onto the stage, you\nmust dance with all of us and\lour POKéMON.\pHave you the courage to do so?
+37247c|You should know that no one has\never kept up with our rhythm.\pWill you be the first?
+3724c9|What rhythm!
+3724da|From KANTO, you say?\pThen enjoy ECRUTEAK CITY.\nNo place in KANTO is like it.
+372533|It is my turn, kind sir.
+37254e|Has my sister KOUME tired you out?\pI would gladly give you SACRED ASH,\nbut our rule is to dance until\lexhaustion.
+3725cc|I have no POKéMON left{C080F}…{C080F}
+3725ee|You are formidable. {V01}, is it?\nI shall not forget that name.
+37261b|Ahem, ahem{C080F}…{C080F}\nMy turn{C080F}…{C080F}
+37263c|You are putting on a grand show.\pDo you see the audience?\pThis is no time to give up!
+372692|Bravo! That was an excellent\nbattle!
+3726b9|One such as you is worthy of\nentering the BELL TOWER.\pThere is no doubt.
+372701|The dance is not over yet.
+37271d|You are exhausted!\nCan you manage another round?
+372749|I admire you. You have shown\ngreat skill with your\lPOKéMON.
+37278e|You have withered my POKéMON like\nan autumn tree on BELLCHIME TRAIL{C0805}…{C0805}
+3727d7|Wait, brave sir.\nYou still have one last dance!
+372814|After dancing with all my\nsisters, victory will taste sweeter.\pOr defeat more bitter!
+372874|You have a special talent.
+372895|We are impressed by your\ncourage and gallantry!
+3728cd|Come, good sir.\pAllow us to present you with this\nitem, so you may revive your friends.
+372928|SACRED ASH.\pIt was once part of the body of\nthe LEGENDARY HO-OH, before it\lburst into flames so it could rise\lagain from its ashes.\pIn the past it was plentiful in\nJOHTO. Now… less and less so.
+3729ec|{C1948}Pardon the intrusion, ladies.\pBut I'd like to ask you\na question.
+372a37|Go on, sir.
+372a48|{C1948}I understand you have access\nto the BELL TOWER and to the\lgrand master of ECRUTEAK CITY.
+372ab5|{C1948}And could you{C0819}…{C0819} bring\ncompanions inside?
+372af0|I'm afraid not.\pECRUTEAK CITY holds faithfully to\nits history and tradition. Some laws\land customs are set in stone.\pAs descendants of the family who\nbuilt the DANCE THEATER, we may\lvisit the BELL TOWER, but the\lprivilege of bringing companions\lis reserved for the GYM LEADER\lof ECRUTEAK CITY and the\lCHAMPION of JOHTO-KANTO.\pOther LEADERS and the ELITE FOUR\nmay also enter, but without\lcompanions.
+372cb8|{C1948}Oh, but then it's\nimpossible{C080F}…{C080F}\pThe LEADER of ECRUTEAK CITY never\nleaves the BELL TOWER, and I hear\lthe current CHAMP{C0805}…{C0805}
+372d3f|{C1948}You{C0819}…{C0819}\pYou're the real CHAMPION!?
+372d6d|{C1948}It can't be true.
+372d85|{C1948}In that case, would you be\nwilling to help me and convince\lthe SAGES there?
+372ddc|{C1948}I'm lost for words…\nTruly, {V01}.\pI won't forget this.
+372e13|{C1948}I'll wait for you at the\nBELLCHIME TRAIL entrance, then.
+372e47|{C1948}Thank you for your time,\nladies.
+372e6e|We understand. Most people would\nrather be spectators than stars.\lHave a good day.
+372f0e|The world has changed. Pragmatism\nhas replaced courage, but I still\ltrust that in the offices of SILPH\land the RADIO TOWER there remain\lpeople of honor.
+372fe7|HISTORY OF ECRUTEAK CITY
+372fff|Do you want to read it?
+373010|Keep reading?
+373023|ECRUTEAK CITY used to have two\ntowers.\pEach was home to a powerful\nFLYING POKéMON.\pBut one of them burned down.\pAnd neither POKéMON has been\nseen since.
+3730cb|Three POKéMON also lived in\nECRUTEAK CITY and ran all over\lthe city. They say they were born\lof water, fire and lightning. But\las they couldn't contain their\lenormous power…\lthey fled to the grasslands.
+3731a4|It happened when I was young.\nThe sky suddenly went dark.\lA huge POKéMON was blocking\lout the sun.\pI wonder what that POKéMON was,\npart bird and part dragon.
+373253|Is there a POKéMON that big?\nIf so, it must be very strong.
+3732a2|ECRUTEAK CITY can't afford another\ntragedy that would endanger\lJOHTO's last historic stronghold:\lthe BELL TOWER. That's why we're\lvery careful about who enters and\lleaves that sacred place. Its\lpreservation is our priority.
+3733a2|When the LEGENDARY POKéMON\nappeared{C0819}…{C0819} they struck terror\linto those who saw them rise.\lAnd{C0819}…{C0819} some even attacked\lin vain. The LEGENDARY POKéMON,\laware of their own power, fled\land abandoned the frightened\lpeople.
+3734b4|The BELLCHIME TRAIL lies beyond\nthese stairs and, in the distance,\lthe BELL TOWER.
+373868|{C1948}Ah, there you are,\n{V01}.
+373882|{C1948}Thanks again. I know I was a bit\nabrupt when we met in AZALEA\lTOWN. We both sensed that energy\lthat marks great TRAINERS, but I\lchose to turn my back on it.\pThe truth is my journey through\nJOHTO is a race against the clock,\land since you've agreed to help me,\lI'll explain why.
+3739b0|{C1948}My faithful friend, VOLCARONA,\ntransformed one last time.\pAfter a lifetime together, it\ngained a power I had never seen,\lgreater even than that of the\lLEGENDARIES I know.
+373a6d|{C1948}But it seems that great power is\neating it up from the inside.\pIt's quite a sight to see it in\nall its glory, yes, but it\lalternates between periods of\labsolute vigor and others when it\lcan barely move, as if it were the\lprice for all the energy it\lspent before.
+373b7f|{C1948}JOHTO is one of the few regions\nthat might have a cure for my\lPOKéMON. Its knowledge of POKéMON\lmedicine and physiology goes back\lthousands of years.
+373c1e|{C1948}The GRAND MASTER of the BELL TOWER\nis one of the people who could\lhelp me. He saw the LEGENDARY\lHO-OH, and has mastered the\lhealing properties of its SACRED\lASH. But to speak with him, I\lhave to climb to the top of the\lBELL TOWER{C0805}…{C0805}
+373d1e|{C1948}You say you're KANTO's CHAMPION.\pI know little of the region's\nrecent history, but I believe\lyou.
+373d81|{C1948}Say no more!\nLet's see if we can get through!
+373db7|{C194B}Access to the BELL TOWER and the\nBELLCHIME TRAIL is reserved for\lcertain people.\pI must ask you to turn\naround, gentlemen.
+373e32|{C1948}The CHAMPION of KANTO-JOHTO\nis one of those people, correct?\pBefore you stands the true\nCHAMPION of KANTO: {V01}.
+373ea5|{C194B}{V01}?\pI'm sorry, but if you can't prove\nwhat you say, you can't pass. The\lPOKéMON LEAGUE is in chaos right\lnow. I understand someone called\lRED won the championship, but now\lBLUE is filling in.\pMeanwhile, ELITE FOUR member\nAGATHA has just resig{C0805}…{C0805}
+373fc3|{C1906}{V01}!\nIt's so good to see you again!
+37401f|{C1925}Who'd have thought you'd end\nup visiting JOHTO? At this rate,\lyou'll end up exploring every\lcorner of the POKéMON world.\pSo active and willing.\nAh, to be young!
+3740c3|{C1925}They're telling the truth.\pI know the BELL TOWER and you,\nits SAGES, are discreet.
+374118|{C1925}So you should know that the\nman before you is the true\lCHAMPION of KANTO.
+374164|{C1925}Please forgive me. It's a great\nhonor for someone like you to\lvisit our temple.
+3741bd|{C1948}So{C080F}…{C080F}\pCan we all go in?
+3741e7|{C194B}This is an exceptional case.\pAGATHA is considered one of us\nhere, but in this situation, the\lfinal word belongs to our\lGRAND MASTER.
+37427e|{C1948}But{C080F}…{C080F}\pMy POKéMON is sick. Your GRAND\nMASTER could help it heal.
+3742cf|{C1925}Your partner is a very special\nPOKéMON. KURT told me so.\pYour POKéMON hasn't just felt\nthe STRONG BOND, it's the most\lextreme case known.
+37436e|{C194B}Oh{C080F}…{C080F}\pI see{C080F}…{C080F}\nI see{C080F}…{C080F}
+37439b|{C194B}This situation must be dealt\nwith at once.\pThere's no doubt our GRAND MASTER\nwould want it so.
+374401|{C1948}Thank you so much.
+374414|{C1925}Don't worry, {V01}.\pI'll talk to the GRAND MASTER and\nhe'll understand completely. You\lcan enter the BELL TOWER once\lthis matter is settled.
+3744a9|{C1948}Without your help, I'd never\nhave got through.\pI'm sure our paths will\ncross again.
+37450a|ALERT!\nALERT!
+37451c|A lunatic is wreaking havoc in\nthe BURNED TOWER!
+374552|{C194B}Send several of our\nSAGES.
+37457d|We already have, but his\nPOKéMON are indestructible.\lNone of us can lay a finger on him.\pIf this goes on, he'll destroy\nwhat's left of the temple.
+37461a|{C194B}Oh{C080F}…{C080F}\pIn that case, we must warn the\nGRAND MASTER. Go up the BELL TOWER\land tell him what happened.\pHurry!
+3746f8|{C194B}No one may pass beyond here\nwithout our GRAND MASTER's\lconsent. You'll have to wait.
+3747bc|Here we learn the unity of\nopposites. One must be mobile and\limmobile, defensive and\loffensive.
+37482e|The wise don't give up after\ncolliding with reality. They just\ladjust expectations and move on.
+37489b|It is said the LEGENDARY POKéMON\nembody three powers…\pThe lightning that struck the tower…\pThe fire that burned the tower…\pAnd the rain that put out that fire{C0805}…{C0805}
+374946|What LANCE did is unforgivable.\pConfining the roaming beasts\nlike that…\pLuckily, they're running free\nacross JOHTO's meadows again,\lall thanks to you.
+374a06|The BELL TOWER was built in honor\nof HO-OH, just as the BURNED\lTOWER, once the BRASS TOWER, was\lbuilt in honor of LUGIA.\pThose who knew the ultimate\nconnection between the two towers\lare no longer with us.
+374aeb|Of the LEGENDARY POKéMON, it's said\nthat SUICUNE is the closest to HO-OH.\pAnd the UNOWN…\pThe UNOWN must share some\nbond with SUICUNE.
+374b8f|Those who seek the truth run the\nrisk of finding it.
+374bd2|Sometimes the bridge between idle\nhours is fragile and unsafe, but\leven so, we must cross it.
+374c3a|A fool never recovers\nfrom a success.
+374c6c|Place a dead ember beside a burning\none, and either the first will put\lout the second, or the second will\lset the first alight.
+374ce4|Experience is something you don't\nget until just after you need it.
+374d3d|A true TRAINER is not\nimmune to fear.\pThey fight in spite of it.
+374d8d|The more data we have, the more\nlikely we are to drown in it.
+374de6|Every battle is a closed space,\na bubble.\pAnd in that bubble, only the two\nTRAINERS and their POKéMON exist.\pYou must leave everything else\noutside: the excuses, the lack of\ltraining, all the problems…\pA battle is a whole lifetime.
+374edf|Pressure is a double-edged sword.\nIt keeps you alert, with all\lyour senses awake, but it can\lalso freeze you up and turn into\lanxiety.\pEven so, it's still a privilege,\none more sign that we're alive,\land that we're fighting for the\lthings that matter.
+375000|You have nothing to prove,\nexcept to yourself.\pAs long as you have a little air\nleft, you have a chance.
+3750a7|If we could truly understand,\nwe could no longer\ljudge.
+3750f6|The decline of philosophical\nschools is itself the result of\lthe mistaken belief that one can\lphilosophize without having been\lpushed to it by problems outside\lof philosophy.
+3751c9|I would give all I know for half\nof what I don't.
+37520d|It's essential to understand that,\nin any situation, many factors are\lbeyond your control, and even if\lyou give your best, you're only\lone part of the whole.\pDwelling on everything beyond\nour control is just a distraction\land a waste of energy. All that\lmatters is to feel passion for\lwhat you do and to want to give\lyour very best.
+37538b|Numbing the pain for a while\nonly makes you feel it more\lintensely later.
+375416|Like flowers, we are slowly dying,\nbut everything we do in life\lechoes in eternity.
+375499|A good rest won't hurt you.\nThe BELL TOWER is long and hard.
+3754db|Your POKéMON are now ready to\ncontinue your journey.
+375521|Our psychology conspires against\nus: we people prefer to head for\la clear destination rather than\lface a degree of uncertainty,\leven when it would do us good.
+375661|It's not common to see young\npeople like you these days.
+3756a1|I can see the respect you show\nfor this place. Despite being\lsurrounded by the temptations that\lcome with your position, you\lhaven't forgotten your roots.
+375739|That's why I'm giving you this\nPOKéMON. If you train it well, it\lwill be your shield in the most\ladverse of situations.
+3757b6|YOU GOT A Lv.10 HONEDGE!
+3757d6|HONEDGE can be your shield in the\nmost adverse of situations.\lSomething to keep in mind, given\lthe circles you move in.
+375869|The bond with your POKéMON is the\nonly reality in this world.
+3758b4|Set the bird's wings in gold\nand it will never fly again.
+375900|We accept the reality of the\nworld as it is presented to us.
+375941|The plan we make for a battle is\nalmost never followed. Surprises\lalways come up, and therein lies\lthe genius of POKéMON battles,\lwhat makes them magic, an art.
+375a5e|Body and mind go hand in hand.\nAs long as both are in\lbalance, all will flow.
+375ab4|{V01} got TM93 FLASH CANNON\nfrom the SAGE!
+375aef|FLASH CANNON brings out the zen\nside that even STEEL TYPES have.
+375b40|Knowing things others don't is\nmore effective when the others\ldon't know you know things they\ldon't.
+375bb1|The 2 GRAND MASTERS of JOHTO\nhave seen something in you.\pOtherwise, your presence here\nwouldn't be possible.
+375c28|All other EEVEE descend from\nour GRAND MASTER's EEVEE.\pIt masters every type, and is as\nancient as ECRUTEAK CITY itself.
+375cb6|The greatest obstacle to living is\nwaiting for tomorrow and losing\ltoday.
+375d12|So…\pGASTLY, HAUNTER and GENGAR aren't\nthe only GHOSTS reflected by\lthe beyond…\pThey're just the surface, but\nit's best not to show the depths\lto those not ready to face\lthem{C0805}…{C0805}
+375e1e|It is our choices, far more than\nour abilities, that show who\lwe truly are.
+375e80|Tomorrow will be worth it because\ntoday is worth it.

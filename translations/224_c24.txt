@@ -1,0 +1,122 @@
+3cdaf7|{C1906}You must be very strong to have\nmade it all the way here alone.
+3cdb33|{C1906}I don't care whether you got here\nby chance, whether you just found\lthe secret entrance open, or whether\lyou planned it, as we did.\pYou're just one more obstacle\nthat has to be eliminated.
+3cdbfe|{C1906}Deal with him. He mustn't follow us.
+3cdc25|{C1918}Right away, sir.
+3cdc3b|{C1918}You got lucky. If our commanding\nofficer had chosen to deal with you\lhimself, neither you nor your POKéMON\lwould've walked away from the beating.
+3cdccc|Oh{C0819}…{C0819} what an unusual specimen we\nhave here.
+3cdcfc|{C1918}Even with those POKéMON, you could\nnever compete with one of our\lEXECUTIVES.
+3cdd4c|{C1918}Seems people in this region have a\nbad habit of sticking their noses\lwhere they don't belong.\pI'll show you how we deal with\nbusybodies like you back home!
+3cdde8|So you're resisting. Then we'll\nshow you no mercy.
+3cde1a|{C1918}However much skill you have,\nwithout our technology you don't\lstand a chance.
+3cde6c|{C1918}A more than admirable effort, still\nbeing on your feet, but your little\ltrip to the lake ends here.
+3cded7|No way! Your POKéMON should be\nexhausted by now!
+3cdf0f|{C1918}If you knew how much power our\nEXECUTIVE wields, you'd already be\lmiles away from this LAKE and\lMAHOGANY TOWN.
+3cdf94|Thanks to you, we won't get to see\nthe LAKE POKéMON appear live. We\lcan't show our faces there after\llosing, but we can't stop you\lanymore either{C0805}…{C0805}
+3ce04f|Looks like that POKéMON is even\nfiercer than GYARADOS itself…\pWhat do you think its BASE STATS are?
+3ce0c2|By our calculations, the LAKE\nPOKéMON must be about 20 meters long.\lIf so, it would be the largest\lPOKéMON ever recorded, beating WAILORD.
+3ce551|{C194D}I told you, there's nothing here.
+3ce572|{C1906}No, it must be here. This is the\nend of the underground cavern.\pThis little patch of water must\nconnect to the rest of the LAKE\lthrough a narrow tunnel.
+3ce610|{C1906}As soon as it appears, my POKéMON\nwill subdue it, and we'll take it\laway for in-depth study.
+3ce671|{C194D}You can't do that to a POKéMON\nlike that!
+3ce69d|{C1906}So you admit it exists?\pI ought to leave you here and make\nyou go back alone. I'm sure with\lyour mediocre POKéMON you couldn't{C0805}…{C0805}
+3ce72e|{C1906}Speaking of mediocre POKéMON, you\ndon't exactly look like the type.
+3ce771|{C1906}I've heard of those legendary\nTRAINERS in JOHTO who call themselves\lMASTERS. You're far too young to be\lone of them, and yet here you are.
+3ce818|{C1906}But you lack the tools to stand\nup to my POKéMON.
+3ce85d|{C1906}You'll need more than wandering the\ntowns and routes of this primitive\lregion to defeat one of the\lEXECUTIVES of the almighty DEVON!
+3ce8f1|Who are you?! No route TRAINER in\nthis region could ever defeat me!
+3ce93e|{C1906}Those POKéMON{C0819}…{C0819} They've lived through\nmore than aimless wandering on\lroutes and towns. They're{C0819}…{C0819} a blend\lof our technology, but also of the\lbond with POKéMON this region is\lknown for.
+3cea07|{C1906}You{C0819}…{C0819} You must belong to some\nkind of organizat…!
+3cea43|-The wild POKéMON\nwants to battle!-
+3cea70|-The wild POKéMON disappeared!-
+3cea93|{C194D}S{C0819}…{C0819} So the legends were true.
+3ceac1|{C1906}I thank you, TRAINER.\pYou've done our work for us.\pThanks to your battle with the\nbeast of the LAKE, we were able\lto record its core data.
+3ceb64|{C1906}So, 82 BASE SPEED{C0819}…{C0819}\pIt must have evolved over millions\nof years into a predator of\lGYARADOS. Its solid DEFENSE, and\lBASE STAT total just 1 point higher\lthan MEGA GYARADOS, back this\lup{C0805}…{C0805}
+3cec61|{C1906}Hmm{C0819}…{C0819} This POKéMON sits halfway\nbetween a MINOR LEGENDARY and a\lMAJOR LEGENDARY, in power at least.\lIts huge HP could even suggest some\ldistant kinship with LAPRAS{C0805}…{C0805}
+3ced39|{C1906}Expectations met. This is all we\nneed. Pity you scared the monster\laway; neither of us gets to keep it\lin the end.\pBut at least we have the data\nwe wanted.
+3cee03|{C1906}Have a good day, all of you. For\nyour sake, I hope we never meet\lagain. If we do, your fate will be\lvery different from what happened\lhere.
+3cee97|{C194D}You saved me.\p{V01}, was it? I owe you a big\nfavor. Who knows what those guys\lwould've done to me once they got\lwhat they wanted.
+3cef16|{C194D}He was right about one thing,\nthough. That POKéMON seems made to\lorder for beating GYARADOS. It's\lstronger and faster. There must be\lvery few left, or else there'd be no\lGYARADOS left in the LAKE.\pI wonder if this was the last one\nstill aliv{C0805}…{C0805}
+3cf032|{C194D}Wait!
+3cf03e|Looks like the POKéMON left an\nEGG behind!
+3cf069|{C194D}So it's not LEGENDARY?\pDoes it have an evolutionary line\nlike every other POKéMON?
+3cf0c9|{C194D}I doubt those guys will be happy\nthey missed this.
+3cf111|{C194D}If anyone should have this EGG,\nit's you. You've shown you care for\lyour POKéMON like the wisest of our\lmasters in JOHTO would.
+3cf1a1|You obtained a MYSTERIOUS EGG!
+3cf1c1|{C194D}I'll always be grateful. If you\never want to visit my house by the\lLAKE, you'll always be welcome.
+3cf221|{C194D}Want to head back outside with me?
+3cf2a9|I think I saw a PINSIR farther west,\nbut it looked kind of different.
+3cf2f5|VIRIDIAN CITY is north. That's\nnearly 80% of the GOLDENROD-SAFFRON\ltrip.
+3cf349|The tracks are almost finished. We\njust need the final link to SAFFRON,\land everything will be ready.
+3cf3ee|That POKéMON's electric powers were\nunmatched. I think it's drawn to the\lmagnetism of these tracks.
+3cf470|We've passed CELADON.\pSAFFRON is right next door!
+3cf8c6|{V01}? Finally! You have to catch it,\n{V01}. None of us can.
+3cf903|It's developed a synergy with the\ntechnology used to build the tracks.\lIt's as if it absorbed all that\lmagnetism into its body, and now its\lpowers have been amplified.
+3cf9bb|Only you can stop it, and you have\nto catch it. These tracks will stay\lin danger as long as that POKéMON\lis on the loose.
+3cfa29|{C1906}Hold on!
+3cfa39|{C1903}Good to see you, {V01}.\pYou must be wondering why I'm here.
+3cfa77|{C1903}The 2nd GOLDENROD meeting is close.\nI came to let you know, but\lalso{C0805}…{C0805}
+3cfaca|{C1903}I heard rumors about this POKéMON,\nthe last of the 3 PRIMALS without a\lTRAINER{C0805}…{C0805}
+3cfb28|{C1903}A POKéMON like this would fit my\nteam perfectly, the perfect partner\lfor my HOUNDOOM and FERALIGATR{C0819}…{C0819}\lMy duty and ambition as HEAD ADMIN,\ljust like yours, is to build the most\lruthless team possible.
+3cfc05|{C1903}That's why I challenge you to a\nbattle right here, {V01}. Whoever\lwins earns the right to face\lZAPDOS-P and claim it.
+3cfc80|{C1903}I expected no less from you. Like\nANDRA, your code of honor won't let\lyou turn down a great battle when\lit's right in front of you.
+3cfcff|{C1903}The winner will unite technology\nand tradition like no TRAINER has\lever done before. Show me you\ldeserve that great power!
+3cfd87|We've reached tremendous heights of\npower here. ZAPDOS-P will surely\lbe impressed{C0805}…{C0805}
+3cfdd8|{C1903}Well{C0819}…{C0819} So be it{C0819}…{C0819} ANDRA told me\nas much: with you, just improving\lyour POKéMON team more and more isn't\lenough. It takes something more to\lbreak the aura you've built around\lyour own.
+3cfea2|{C1903}May this PRIMAL ZAPDOS aid you on\nyour endless journey, {V01}.\pI only hope you don't get complacent\nwith such a POKéMON in your hands.
+3cff2d|{C1903}Because{C0819}…{C0819} unlike justice,\nstrength is recognized plainly and\lbeyond dispute. Chasing its fruits,\land keeping others from getting\lthem, is what truly drives us to\limprove.
+3cfffd|{C1903}You've probably sensed it, but\nANDRA refuses to admit this. Her\lstrength lies in boundless optimism\land a great drive to improve. She\lbelieves in herself and her POKéMON\llike no one else, and trusts the\lprocess. But all that has a limit,\la{C0819}…{C0819} biological one.
+3d00f4|{C1903}Harsh as it sounds, you know it's\nalways been this way, {V01}. That's\lwhy we're all meeting in GOLDENROD.\pWeakness has no place here, and\nso{C0819}…{C0819} I can't imagine any life\lother than the full pursuit of that\lstrength, even if it's artificial.
+3d01e8|{C1903}See you at the RADIO TOWER.\nWe have a lot to talk about there.
+3d022e|-ZAPDOS-P flew off at high speed-
+3d025a|This is a unique moment in \nhistory!
+3d0285|For the first time, and forever,\nGOLDENROD and SAFFRON are linked.
+3d02c7|This was bound to happen sooner or\nlater. Not the BIKERS, not KANTO's\lunderground paths, which will soon\lbe closed, not even ZAPD{C0805}…{C0805}
+3d035e|Yes? {C0819}…{C0819} No{C0819}…{C0819} How is that possible?{C0819}\nThat can't be happening!{C0819}\pStop it! Now!
+3d03ba|{V01}{C0819}…{C0819} it seems ZAPDOS-P has\nflown to the renovated POWER PLANT.\lIt's absorbing all the electricity\lthere. If this keeps up, we won't\lhave the power to run the MAGNET\lTRAIN.
+3d047e|You have to stop it once and for\nall. Until it's caught, we won't\lhave any peace.
+3d04e6|SAFFRON CITY is farther east.\pThe POWER PLANT is on ROUTE 10.\pI'm counting on you.
+3d05e0|The people of KANTO forgot us\ncountless generations ago, but KANTO\lis much more than its people.\pNothing escapes the ESSENCE POKéMON.
+3d0678|You won't get to see the ESSENCE\nPOKéMON, if that's your aim.\pNo one has seen it in centuries.
+3d06de|The devil cannot take away the\ntalents God gave you, but he can\lmake you blind to them.
+3d0748|So… the legend is still\ncirculating around the region,\lready to serve whoever\lpays it heed…\pVery well{C0805}…{C0805}
+3d0827|You haven't seen anything yet.\nPrepare to question everything\lyou thought you knew until now.
+3d0894|Watch every step you take here.\nYou're walking on living history.
+3d08db|The truth, even if only a few\nknow it, is still the truth.\pNo one can undo the fact that\nyou were CHAMPION of KANTO.
+3d0977|How have we lived here for\ncenturies without going outside?\pYou're not ready to know the true\nscale of this place; everything\lwe need, we already have here.\pThese chambers were forged over\ncenturies, and they're larger than\lany city you know.\pA tribute to the eternal and\nimperishable.
+3d0c20|If you don't believe in a system,\nyou'll be enslaved by another's.
+3d0c68|Most people are neither ready for\nnor worthy of access to our cult.
+3d0cc5|Pity the souls who confuse what\nthey want with what they crave.\pThinking themselves free, they're\nnothing but puppets moved by\lwhatever their chemistry and\limpulses command.
+3d0d81|The essence held within this place\ntranscends our own existence.\pYou won't find a place like this\nanywhere in KANTO.
+3d0e01|This place gives us everything we\nneed.\pWhy would we change that?
+3d0e55|I can't remember the last time we\nhad a visitor from outside, but\lit didn't end well{C0805}…{C0805}
+3d0eba|The essence is here!\nCan't you see it?\pIt's yours!\pTake it now, before it slips\nthrough your fingers!
+3d0f37|This place is older than the\nPOKéMON TOWER itself, which was\lbuilt merely as an annex for the\lgentler rituals.
+3d0fb4|We lost contact with the outside so\nlong ago that this great underground\lchamber has been erased from memory,\leven for the oldest elders of\lLAVENDER TOWN.
+3d1075|Infinite potential. That's what I\nfeel when I close my eyes and\ladmire the energy of this place.
+3d10e8|We are mere observers of\neverything that happens in KANTO.\pLong ago, down here, we built an\nalternative reality to the power\lgames that rule the outside world.
+3d11a7|Everything flows, out and in;\neverything has its tides; all\lthings rise and fall; everything\lswings like a pendulum.\pThe measure of its swing to the\nright is the measure of its swing\lto the left.\pRhythm compensates.
+3d12ae|Inner freedom can lift a person\nabove an adverse fate.
+3d1308|…\n…\pA less pleasant place, but one\nwhere the most important things\lhappen.\p…\p{C0805}…{C0805}
+3d136e|Those who embrace their fate live\nlong years, and those who rebel\lreceive their punishment.
+3d13ce|The flower that blooms in adversity\nis the most beautiful of all.
+3d1425|Why honor and raise some souls\nabove others?\pDo ancient legends and great deeds\ndeserve to be remembered?\p… … … …\pWe believe that what we do in life\nechoes in eternity.\pHonoring them somehow lifts us up\ntoo, and inspires everyone else.
+3d153d|GASTLY, HAUNTER and GENGAR aren't\nthe only ghosts LAVENDER TOWN\lkeeps in its most hidden corners.\pBut you already know that, right?
+3d15d0|The perfect flower is a rare thing…\pYou could spend your life searching\nfor just one, and it would not be a\lwasted life.
+3d164c|The gifted, even when pushed aside,\ncling all the more to the doctrine.\pThe more they are snubbed, the more\nthey lean toward their true nature.
+3d16df|No matter the means, serve\nyour ideals.
+3d1716|It is your light, not your darkness,\nthat you fear most: fear of how\lbrightly you could shine, and of\ldiscovering your infinite potential.
+3d17ac|Self-exploitation is more\neffective than being exploited by\lothers, because it comes with a\lfeeling of freedom.
+3d1838|Try placing man in the most\nprosperous, idyllic and fantastic\lof utopias.\p… … …\pShelter him in vast bubbles of\nhedonistic pleasure, shielded from\lall contact with the harsh cosmos.\p… … …\pGrant him all he ever dreamed of,\nwithout any frustration, hardship\lor disappointment.
+3d1966|… … …\pI assure you that, sooner or later,\nthis enigmatic creature will find\lsome way to feel miserable.
+3d19e1|The frog in its pond\nknows nothing of the ocean.
+3d1a1a|You can never bathe in the same\nriver twice, because of you and\lbecause of the river. Both are\lconstantly, endlessly changing.\pYou'll never be as you are today;\nwe'll never be here again in\lquite the same way.
+3d1af7|Every cause has its effect, every\neffect has its cause; everything\lhappens according to law. Luck or\lchance is just the name we give\lto a law not yet recognized.
+3d1b9e|There are many planes of chance,\nbut nothing escapes the law.
+3d1be6|Everything is dual; everything has\npoles; everything has its pair of\lopposites; like and unlike are the\lsame; opposites are identical in\lnature, but different in degree;\lextremes meet; all truths are but\lhalf-truths; all paradoxes may be\lreconciled.
+3d1d0d|Whether you think you can or you\nthink you can't, you're right.
+3d1d60|Before the vast universe, how\ndoes a child of 3 days differ\lfrom an old man of 95?\pNo one is so young they can't die\ntomorrow, nor so old they can't\llive one more day
+3d1e26|Those who feel so free, so\nunfettered, will end up\lfeeling empty.\pFor to live is to have to do\nsomething specific, to fulfill a\ltask; insofar as we avoid\lcommitting our existence to\lsomething, we empty our lives.
+3d1f24|Sometimes people don't want to hear\nthe truth because they don't want\ltheir illusions destroyed.
+3d1f95|Serenity to accept the things\nthat are beyond our control.\pCourage to change the\nthings we can.\pWisdom to know the\ndifference.
+3d202d|We humans can avoid our\nresponsibility without realizing\lit, look the other way precisely\lso as not to recognize the danger,\lpretend it doesn't exist just to\lstay sane.
+3d2104|Sometimes you reach a point where\nyou can only make sense of who\lyou've been by reaching the end\lof the wrong road.

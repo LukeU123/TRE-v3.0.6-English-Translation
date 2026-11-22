@@ -1,0 +1,2091 @@
+8e5968|Lucky Punch
+8e5974|Lucky Punch
+8e5980|When held, CUBONE\nor MAROWAK has its\nATTACK raised 100%.
+8e59bc|Thick Club
+8e59cc|FARFETCH'D family\ngets +2 to its\ncritical-hit ratio.
+8e5a00|Leek
+8e5a08|When held, PIKACHU\nhas its SP. ATK and\nATTACK doubled.
+8e5a44|Light Ball
+8e5e90|Turns FAIRY-type\nmoves into\nZ-Moves.
+8e5ec0|Fairium Z
+8e5ecc|Turns STEEL-type\nmoves into\nZ-Moves.
+8e5efc|Steelium Z
+8e5f0c|Turns DARK-type\nmoves into\nZ-Moves.
+8e5f40|Darkinium Z
+8e5f4c|Turns DRAGON-type\nmoves into\nZ-Moves.
+8e5f80|Dragonium Z
+8e5f8c|Turns GHOST-type\nmoves into\nZ-Moves.
+8e5fc0|Ghostium Z
+8e5fd0|Turns ROCK-type\nmoves into\nZ-Moves.
+8e6000|Rockium Z
+8e600c|Turns BUG-type\nmoves into\nZ-Moves.
+8e603c|Buginium Z
+8e604c|Turns PSYCHIC-type\nmoves into\nZ-Moves.
+8e6080|Psychium Z
+8e608c|Turns FLYING-type\nmoves into\nZ-Moves.
+8e60c0|Flyinium Z
+8e60cc|Turns GROUND-type\nmoves into\nZ-Moves.
+8e6100|Groundium Z
+8e610c|Turns POISON-type\nmoves into\nZ-Moves.
+8e6140|Poisonium Z
+8e614c|Turns FIGHTING-type\nmoves into\nZ-Moves.
+8e617c|Fightinium Z
+8e6188|Turns ICE-type\nmoves into\nZ-Moves.
+8e61b8|Icium Z
+8e61c4|Turns GRASS-type\nmoves into\nZ-Moves.
+8e61f8|Grassium Z
+8e6204|Turns ELECTRIC-type\nmoves into\nZ-Moves.
+8e6238|Electrium Z
+8e6248|Turns WATER-type\nmoves into\nZ-Moves.
+8e6278|Waterium Z
+8e6284|Turns FIRE-type\nmoves into\nZ-Moves.
+8e62b4|Firium Z
+8e62c0|Turns NORMAL-type\nmoves into\nZ-Moves.
+8e62f4|Normalium Z
+8e6300|+40% power for one\nFAIRY-type move.\nSingle use.
+8e6330|Fairy Gem
+8e633c|+40% power for one\nSTEEL-type move.\nSingle use.
+8e636c|Steel Gem
+8e6378|+40% power for one\nDARK-type move.\nSingle use.
+8e63ac|Dark Gem
+8e63bc|+40% power for one\nDRAGON-type move.\nSingle use.
+8e63ec|Dragon Gem
+8e63f8|+40% power for one\nGHOST-type move.\nSingle use.
+8e642c|Ghost Gem
+8e643c|+40% power for one\nROCK-type move.\nSingle use.
+8e646c|Rock Gem
+8e6478|+40% power for one\nBUG-type move.\nSingle use.
+8e64a8|Bug Gem
+8e64b4|+40% power for one\nPSYCHIC-type move.\nSingle use.
+8e64e8|Psychic Gem
+8e64f8|+40% power for one\nFLYING-type move.\nSingle use.
+8e652c|Flying Gem
+8e653c|+40% power for one\nGROUND-type move.\nSingle use.
+8e656c|Ground Gem
+8e6578|+40% power for one\nPOISON-type move.\nSingle use.
+8e65a8|Poison Gem
+8e65b4|+40% power for one\nFIGHTING-type move.\nSingle use.
+8e65e4|Fighting Gem
+8e65f0|+40% power for one\nICE-type move.\nSingle use.
+8e6620|Ice Gem
+8e662c|+40% power for one\nGRASS-type move.\nSingle use.
+8e665c|Grass Gem
+8e6668|+40% power for one\nELECTRIC-type move.\nSingle use.
+8e6698|Electric Gem
+8e66a4|+40% power for one\nWATER-type move.\nSingle use.
+8e66d4|Water Gem
+8e66e0|+40% power for one\nFIRE-type move.\nSingle use.
+8e6710|Fire Gem
+8e671c|+40% power for one\nNORMAL-type move.\nSingle use.
+8e674c|Normal Gem
+8e6758|Transforms\nFALINKS into\nits MEGA form.
+8e6780|Falinksite
+8e678c|Transforms\nDRAMPA into\nits MEGA form.
+8e67b4|Drampanite
+8e67c0|Transforms\nZYGARDE into\nits MEGA form.
+8e67e8|Zygardite
+8e67f4|Transforms\nHAWLUCHA into\nits MEGA form.
+8e681c|Hawluchanite
+8e682c|Transforms\nDRAGALGE into\nits MEGA form.
+8e6854|Dragalgite
+8e6860|Transforms\nBARBARACLE into\nits MEGA form.
+8e688c|Barbaracite
+8e689c|Transforms\nMALAMAR into\nits MEGA form.
+8e68c4|Malamarite
+8e68d0|Transforms\nFLOETTE into\nits MEGA form.
+8e68f8|Floettite
+8e6904|Transforms\nPYROAR into\nits MEGA form.
+8e692c|Pyroarite
+8e6938|Transforms\nGRENINJA into\nits MEGA form.
+8e6960|Greninjite
+8e6970|Transforms\nDELPHOX into\nits MEGA form.
+8e6998|Delphoxite
+8e69a4|Transforms\nCHESNAUGHT into\nits MEGA form.
+8e69d0|Chesnaughtite
+8e69e0|Transforms\nCHANDELURE into\nits MEGA form.
+8e6a0c|Chandelurite
+8e6a1c|Transforms\nEELEKTROSS into\nits MEGA form.
+8e6a48|Eelektrossite
+8e6a58|Transforms\nSCRAFTY into\nits MEGA form.
+8e6a80|Scraftinite
+8e6a8c|Transforms\nSCOLIPEDE into\nits MEGA form.
+8e6ab8|Scolipite
+8e6ac4|Transforms\nEXCADRILL into\nits MEGA form.
+8e6af0|Excadrite
+8e6b00|Transforms\nEMBOAR into\nits MEGA form.
+8e6b28|Emboarite
+8e6b34|Transforms\nFROSLASS into\nits MEGA form.
+8e6b5c|Froslassite
+8e6b68|Transforms\nSKARMORY into\nits MEGA form.
+8e6b90|Skarmorite
+8e6b9c|Transforms\nFERALIGATR into\nits MEGA form.
+8e6bc8|Feraligite
+8e6bd8|Transforms\nMEGANIUM into\nits MEGA form.
+8e6c00|Meganiumite
+8e6c0c|Transforms\nDRAGONITE into\nits MEGA form.
+8e6c38|Dragoninite
+8e6c44|Transforms\nSTARMIE into\nits MEGA form.
+8e6c6c|Starminite
+8e6c78|Transforms\nVICTREEBEL into\nits MEGA form.
+8e6ca4|Victreebelite
+8e6cb4|Transforms\nCLEFABLE into\nits MEGA form.
+8e6cdc|Clefablite
+8e6ce8|Transforms\nDIANCIE into\nits MEGA form.
+8e6d10|Diancite
+8e6d1c|Transforms\nAUDINO into\nits MEGA form.
+8e6d44|Audinite
+8e6d50|Transforms\nGALLADE into\nits MEGA form.
+8e6d78|Galladite
+8e6d84|Transforms\nABOMASNOW into\nits MEGA form.
+8e6db0|Abomasite
+8e6dbc|Transforms\nLUCARIO into\nits MEGA form.
+8e6de4|Lucarionite
+8e6df0|Transforms\nGARCHOMP into\nits MEGA form.
+8e6e18|Garchompite
+8e6e24|Transforms\nLOPUNNY into\nits MEGA form.
+8e6e4c|Lopunnite
+8e6e58|Transforms\nLATIOS into\nits MEGA form.
+8e6e80|Latiosite
+8e6e8c|Transforms\nLATIAS into\nits MEGA form.
+8e6eb4|Latiasite
+8e6ec0|Transforms\nMETAGROSS into\nits MEGA form.
+8e6eec|Metagrossite
+8e6efc|Transforms\nSALAMENCE into\nits MEGA form.
+8e6f28|Salamencite
+8e6f34|Transforms\nGLALIE into\nits MEGA form.
+8e6f5c|Glalitite
+8e6f64|Transforms\nABSOL into\nits MEGA form.
+8e6f8c|Absolite
+8e6f98|Transforms\nBANETTE into\nits MEGA form.
+8e6fc0|Banettite
+8e6fcc|Transforms\nALTARIA into\nits MEGA form.
+8e6ff4|Altarianite
+8e7000|Transforms\nCAMERUPT into\nits MEGA form.
+8e7028|Cameruptite
+8e7034|Transforms\nSHARPEDO into\nits MEGA form.
+8e705c|Sharpedonite
+8e706c|Transforms\nMANECTRIC into\nits MEGA form.
+8e7098|Manectite
+8e70a4|Transforms\nMEDICHAM into\nits MEGA form.
+8e70cc|Medichamite
+8e70d8|Transforms\nAGGRON into\nits MEGA form.
+8e7100|Aggronite
+8e710c|Transforms\nMAWILE into\nits MEGA form.
+8e7134|Mawilite
+8e7140|Transforms\nSABLEYE into\nits MEGA form.
+8e7168|Sablenite
+8e7174|Transforms\nGARDEVOIR into\nits MEGA form.
+8e71a0|Gardevoirite
+8e71b0|Transforms\nSWAMPERT into\nits MEGA form.
+8e71d8|Swampertite
+8e71e4|Transforms\nBLAZIKEN into\nits MEGA form.
+8e720c|Blazikenite
+8e7218|Transforms\nSCEPTILE into\nits MEGA form.
+8e7240|Sceptilite
+8e724c|Transforms\nTYRANITAR into\nits MEGA form.
+8e7278|Tyranitarite
+8e7288|Transforms\nHOUNDOOM into\nits MEGA form.
+8e72b0|Houndoominite
+8e72bc|Transforms\nHERACROSS into\nits MEGA form.
+8e72e8|Heracronite
+8e72f4|Transforms\nSCIZOR into\nits MEGA form.
+8e731c|Scizorite
+8e7328|Transforms\nSTEELIX into\nits MEGA form.
+8e7350|Steelixite
+8e735c|Transforms\nAMPHAROS into\nits MEGA form.
+8e7384|Ampharosite
+8e7390|Mewtwonite Y
+8e73a0|Mewtwonite Y
+8e73b0|Mewtwonite X
+8e73c0|Mewtwonite X
+8e73d0|Transforms\nAERODACTYL into\nits MEGA form.
+8e73fc|Aerodactylite
+8e740c|Transforms\nGYARADOS into\nits MEGA form.
+8e7434|Gyaradosite
+8e7440|Transforms\nPINSIR into\nits MEGA form.
+8e7468|Pinsirite
+8e7474|Transforms\nKANGASKHAN into\nits MEGA form.
+8e74a0|Kangaskhanite
+8e74b0|Transforms\nGENGAR into\nits MEGA form.
+8e74d8|Gengarite
+8e74e4|Transforms\nSLOWBRO into\nits MEGA form.
+8e750c|Slowbronite
+8e7518|Transforms\nALAKAZAM into\nits MEGA form.
+8e7540|Alakazite
+8e754c|Transforms\nPIDGEOT into\nits MEGA form.
+8e7574|Pidgeotite
+8e7580|Transforms\nBEEDRILL into\nits MEGA form.
+8e75a8|Beedrillite
+8e75b4|Transforms\nBLASTOISE into\nits MEGA form.
+8e75e0|Blastoisinite
+8e75f0|Charizardite Y
+8e7600|Charizardite Y
+8e7610|Charizardite X
+8e7620|Charizardite X
+8e7630|Transforms\nVENUSAUR into\nits MEGA form.
+8e7658|Venusaurite
+8e7664|A shiny blue gem.\nIt is said to hold\nan ancient power.
+8e76a0|Blue Orb
+8e76ac|A shiny red gem.\nIt is said to hold\nan ancient power.
+8e76e8|Red Orb
+8e777c|Makes SILVALLY\nFAIRY-type. +30%\nATK and SP. DEF.
+8e77b0|Fairy Memory
+8e77bc|Fairy Memory
+8e77c8|Makes SILVALLY\nSTEEL-type. +30%\nATK and SP. DEF.
+8e77fc|Steel Memory
+8e7808|Steel Memory
+8e7814|Makes SILVALLY\nDARK-type. +30%\nATK and SP. DEF.
+8e784c|Dark Memory
+8e785c|Dark Memory
+8e786c|Makes SILVALLY\nDRAGON-type. +30%\nATK and SP. DEF.
+8e78a4|Dragon Memory
+8e78b4|Dragon Memory
+8e78c4|Makes SILVALLY\nGHOST-type. +30%\nATK and SP. DEF.
+8e78fc|Ghost Memory
+8e790c|Ghost Memory
+8e791c|Makes SILVALLY\nROCK-type. +30%\nATK and SP. DEF.
+8e7950|Rock Memory
+8e795c|Rock Memory
+8e7968|Makes SILVALLY\nBUG-type. +30%\nATK and SP. DEF.
+8e799c|Bug Memory
+8e79a8|Bug Memory
+8e79b4|Makes SILVALLY\nPSYCHIC-type. +30%\nATK and SP. DEF.
+8e79ec|Psychic Memory
+8e79fc|Psychic Memory
+8e7a0c|Makes SILVALLY\nFLYING-type. +30%\nATK and SP. DEF.
+8e7a44|Flying Memory
+8e7a54|Flying Memory
+8e7a64|Makes SILVALLY\nGROUND-type. +30%\nATK and SP. DEF.
+8e7a9c|Ground Memory
+8e7aac|Ground Memory
+8e7abc|Makes SILVALLY\nPOISON-type. +30%\nATK and SP. DEF.
+8e7af4|Poison Memory
+8e7b04|Poison Memory
+8e7b14|Makes SILVALLY\nFIGHTING-type. +30%\nATK and SP. DEF.
+8e7b48|Fighting Memory
+8e7b54|Fighting Memory
+8e7b60|Makes SILVALLY\nICE-type. +30%\nATK and SP. DEF.
+8e7b94|Ice Memory
+8e7ba0|Ice Memory
+8e7bac|Makes SILVALLY\nGRASS-type. +30%\nATK and SP. DEF.
+8e7be4|Grass Memory
+8e7bf4|Grass Memory
+8e7c04|Makes SILVALLY\nELECTRIC-type. +30%\nATK and SP. DEF.
+8e7c3c|Electric Memory
+8e7c48|Electric Memory
+8e7c54|Makes SILVALLY\nWATER-type. +30%\nATK and SP. DEF.
+8e7c88|Water Memory
+8e7c94|Water Memory
+8e7ca0|Makes SILVALLY\nFIRE-type. +30%\nATK and SP. DEF.
+8e7cd4|Fire Memory
+8e7ce0|Fire Memory
+8e7cec|+30% DEF & SP. DEF\nfor GENESECT. Makes\nTECHNO BLAST ICE.
+8e7d20|Chill Drive
+8e7d2c|+30% DEF & SP. DEF\nfor GENESECT. Makes\nTECHNO BLAST FIRE.
+8e7d60|Burn Drive
+8e7d6c|+30% DEF & SP. DEF\nfor GENESECT. Makes\nTECHNO BLAST ELEC..
+8e7da0|Shock Drive
+8e7dac|+30% DEF & SP. DEF\nfor GENESECT. Makes\nTECHNO BLAST WATER.
+8e7de0|Douse Drive
+8e7dec|An ancient tablet\nof unknown origin.\n+30% FAIRY moves.
+8e7e24|Pixie Plate
+8e7e34|An ancient tablet\nof unknown origin.\n+30% STEEL moves.
+8e7e6c|Iron Plate
+8e7e78|An ancient tablet\nof unknown origin.\n+30% DARK moves.
+8e7eb4|Dread Plate
+8e7ec4|An ancient tablet\nof unknown origin.\n+30% DRAGON moves.
+8e7f00|Draco Plate
+8e7f0c|An ancient tablet\nof unknown origin.\n+30% GHOST moves.
+8e7f48|Spooky Plate
+8e7f58|An ancient tablet\nof unknown origin.\n+30% ROCK moves.
+8e7f90|Stone Plate
+8e7fa0|An ancient tablet\nof unknown origin.\n+30% BUG moves.
+8e7fd8|Insect Plate
+8e7fe4|An ancient tablet\nof unknown origin.\n+30% PSYCHIC moves.
+8e8020|Mind Plate
+8e8030|An ancient tablet\nof unknown origin.\n+30% FLYING moves.
+8e806c|Sky Plate
+8e8078|An ancient tablet\nof unknown origin.\n+30% GROUND moves.
+8e80b4|Earth Plate
+8e80c4|An ancient tablet\nof unknown origin.\n+30% POISON moves.
+8e8100|Toxic Plate
+8e8110|An ancient tablet\nof unknown origin.\n+30% FIGHTING moves.
+8e8148|Fist Plate
+8e8158|An ancient tablet\nof unknown origin.\n+30% ICE moves.
+8e8190|Icicle Plate
+8e81a0|An ancient tablet\nof unknown origin.\n+30% GRASS moves.
+8e81dc|Meadow Plate
+8e81ec|An ancient tablet\nof unknown origin.\n+30% ELECTRIC moves.
+8e8228|Zap Plate
+8e8238|An ancient tablet\nof unknown origin.\n+30% WATER moves.
+8e8270|Splash Plate
+8e827c|An ancient tablet\nof unknown origin.\n+30% FIRE moves.
+8e82b4|Flame Plate
+8e82f8|A magic stone that\nstops its holder\nfrom evolving.
+8e832c|Everstone
+8e8474|Love Sweet
+8e84c4|Boosts BLISSEY's\nDEFENSE and SP. ATK\nby 30%.
+8e84f8|Oval Stone
+8e8504|Boosts AROMATISSE's\nDEFENSE and SP. DEF\nby 30%.
+8e853c|Sachet
+8e854c|Boosts SLURPUFF's\nSP. ATK and SP. DEF\nby 30%.
+8e8580|Whipped Dreams
+8e8590|Whipped Dream
+8e85a0|Boosts MILOTIC's\nSP. DEF and SPEED\nby 30%.
+8e85d4|Prism Scale
+8e85e4|Boosts DUSKNOIR's\nATTACK and SPEED\nby 30%.
+8e8618|Reaper Cloth
+8e8628|Reaper Cloth
+8e8638|Boosts PORYGON-Z's\nSP. ATK and DEFENSE\nby 30%.
+8e866c|Dubious Disc
+8e8678|Boosts MAGMORTAR's\nSP. ATK and SP. DEF\nby 30%.
+8e86ac|Magmarizer
+8e86bc|Boosts ELECTIVIRE's\nATTACK and SP. DEF\nby 30%.
+8e86f0|Electirizer
+8e8700|Boosts RHYPERIOR's\nDEFENSE and SP. DEF\nby 30%.
+8e8740|Boosts PORYGON2's\nSP. ATK and SPEED\nby 30%.
+8e8774|Up-Grade
+8e877c|Boosts GYARADOS's\nDEF and SP. DEF\nby 30%.
+8e87ac|Red Scale
+8e87b8|Boosts KINGDRA's\nDEFENSE and SPEED\nby 30%.
+8e87ec|Dragon Scale
+8e888c|Devon Stone
+8e891c|A very tart apple\nthat makes certain\nPOKéMON evolve.
+8e8950|Tart Apple
+8e8960|A very sweet apple\nthat makes certain\nPOKéMON evolve.
+8e8994|Sweet Apple
+8e89a4|Dawn Stone
+8e89b0|Dusk Stone
+8e89c0|Shiny Stone
+8e89cc|Moon Stone
+8e89dc|Sun Stone
+8e89ec|Ice Stone
+8e89fc|Leaf Stone
+8e8a08|Thunder Stone
+8e8a18|Water Stone
+8e8a24|Fire Stone
+8e8a34|Mail featuring the\ndrawings of three\nPOKéMON.
+8e8a5c|Retro Mail
+8e8a64|Retro Mail
+8e8a6c|A gorgeous print.\nTo be held by\na POKéMON.
+8e8a98|Fab Mail
+8e8aa4|Fab Mail
+8e8ab0|Dream Mail
+8e8abc|Dream Mail
+8e8ac8|A BELLOSSOM print.\nTo be held by\na POKéMON.
+8e8af4|Tropic Mail
+8e8b00|Tropic Mail
+8e8b0c|A DUSKULL print.\nTo be held by\na POKéMON.
+8e8b34|Shadow Mail
+8e8b40|Shadow Mail
+8e8b4c|Bead Mail
+8e8b58|Bead Mail
+8e8b64|A WAILMER print.\nTo be held by\na POKéMON.
+8e8b8c|Wave Mail
+8e8b94|Wave Mail
+8e8b9c|A SLAKOTH print.\nTo be held by\na POKéMON.
+8e8bc4|Wood Mail
+8e8bd0|Wood Mail
+8e8bdc|A MAGNEMITE print.\nTo be held by\na POKéMON.
+8e8c08|Mech Mail
+8e8c10|Mech Mail
+8e8c18|A PIKACHU print.\nTo be held by\na POKéMON.
+8e8c40|Glitter Mail
+8e8c4c|Glitter Mail
+8e8c58|A WINGULL print.\nTo be held by\na POKéMON.
+8e8c80|Harbor Mail
+8e8c8c|Harbor Mail
+8e8c98|A ZIGZAGOON print.\nTo be held by\na POKéMON.
+8e8cc4|Orange Mail
+8e8cd0|Orange Mail
+8e8d84|A nut from a tree\nin Galar called\nGalarica.
+8e8db4|Galarica Twig
+8e8dc8|Triggers DYNAMAX\nraids under special\nconditions.
+8e8e00|Wishing Piece
+8e8e40|Black Apricorn
+8e8e80|White Apricorn
+8e8ebc|Pink Apricorn
+8e8efc|Green Apricorn
+8e8f3c|Yellow Apricorn
+8e8f78|Blue Apricorn
+8e8fb0|Red Apricorn
+8e917c|Sail Fossil
+8e922c|Skull Fossil
+8e92a8|Armor Fossil
+8e92b8|Claw Fossil
+8e92c4|Root Fossil
+8e92d0|A piece of amber\nwith the genes of\nan ancient POKéMON.
+8e9304|Old Amber
+8e9310|The shell of an\nancient POKéMON\nthat lived at sea.
+8e9344|Dome Fossil
+8e9350|A seashell from an\nancient POKéMON\nthat lived at sea.
+8e938c|Helix Fossil
+8e93c8|Strange Souvenir
+8e93d8|A crown more than\n3,000 years old.
+8e9404|Relic Crown
+8e9410|A statue more than\n3,000 years old.
+8e943c|Relic Statue
+8e944c|A band more than\n3,000 years old.
+8e947c|Relic Band
+8e9488|A vase more than\n3,000 years old.
+8e94b4|Relic Vase
+8e94c0|An ancient relic.\nIt sells for a\nhigh price.
+8e94f0|Relic Gold
+8e94fc|An ancient relic.\nIt sells for a\nmoderate price.
+8e9530|Relic Silver
+8e953c|An ancient relic.\nIt sells for a\nlow price.
+8e956c|Relic Copper
+8e9578|+30% SPEED, ATTACK\nand SP. ATK for\nregional birds.
+8e95a8|Pretty Feather
+8e95b4|Boosts SPIRITOMB's\nSP. ATK and SP. DEF\nby 30%.
+8e95e8|Odd Keystone
+8e95f4|A very rare bone.\nIt can be sold for\na high price.
+8e9628|Rare Bone
+8e9634|Sweet honey that\nattracts wild\nPOKéMON.
+8e9664|Honey
+8e966c|Honey
+8e9674|A lovely scale.\nIt is coveted by\ncollectors.
+8e96ac|Heart Scale
+8e96b8|Green Shard
+8e96c4|Yellow Shard
+8e96d0|Blue Shard
+8e96dc|Red Shard
+8e96e8|A seashell found\ndeep inside the\nSHOAL CAVE.
+8e9720|Shoal Shell
+8e972c|Salt found deep\ninside the\nSHOAL CAVE.
+8e9764|Shoal Salt
+8e9774|Shoal Salt
+8e9784|A blue gem shard\nthat sells for a\nvery high price.
+8e97b8|Comet Shard
+8e97c4|A red gem shard\nthat sells for a\nhigh price.
+8e97f4|Star Piece
+8e9800|Lovely red sand\nthat sells for a\nhigh price.
+8e9830|Stardust
+8e9840|Stardust
+8e9850|Ancient pearls\nthat sell for a\nvery high price.
+8e9884|Pearl String
+8e9894|A large, lovely\npearl that sells\nfor a high price.
+8e98c8|Big Pearl
+8e98d8|A pretty pearl\nthat sells for a\nlow price.
+8e9904|Pearl
+8e990c|Balm Mushroom
+8e9918|Big Mushroom
+8e9924|A common mushroom.\nIt sells for a\nlow price.
+8e9948|Tiny Mushroom
+8e9954|A big nugget of\npure gold that sells\nfor a high price.
+8e9988|Big Nugget
+8e9994|A nugget of pure\ngold that sells for\na high price.
+8e99c4|Nugget
+8e9a14|Sets one stat's IV\nto 31 on a POKéMON\nof Lv. 50 or more.
+8e9a48|Bottle Cap
+8e9a54|A very rare\nmushroom. It sells\nfor a high price.
+8e9a84|Big Mushrooms
+8e9a90|Big Mushroom
+8e9aa8|Fluffy Tail
+8e9ab4|Poké Doll
+8e9ac0|Prevents stat\nreduction during\na battle.
+8e9b0c|Guard Spec.
+8e9b1c|Raises the critical-\nhit ratio during\none battle.
+8e9b50|Dire Hit
+8e9b58|Raises the ACCURACY\nof moves during\none battle.
+8e9b88|X Accuracy
+8e9b94|Raises SPEED\nduring one\nbattle.
+8e9bc0|X Speed
+8e9bcc|Raises SP. DEF\nduring one\nbattle.
+8e9bf4|X Sp. Def
+8e9c04|Raises SP. ATK\nduring one battle.
+8e9c28|X Sp. Atk
+8e9c34|Raises DEFENSE\nduring one\nbattle.
+8e9c5c|X Defense
+8e9c68|Raises ATTACK\nduring one\nbattle.
+8e9c90|X Attack
+8e9c9c|Use to escape from\na cave or other\nenclosed places.
+8e9cd4|Escape Rope
+8e9da0|Repels weak wild\nPOKéMON for\n250 steps.
+8e9dd8|Repels weak wild\nPOKéMON for\n200 steps.
+8e9e04|Super Repel
+8e9e10|Repels weak wild\nPOKéMON for\n100 steps.
+8e9e3c|Repel
+8e9e48|A glass flute that\nattracts wild\nPOKéMON.
+8e9e7c|White Flute
+8e9e84|A glass flute that\nkeeps away wild\nPOKéMON.
+8e9eb8|Black Flute
+8e9ec0|A glass flute that\nsnaps POKéMON out\nof infatuation.
+8e9ef0|Red Flute
+8e9ef8|A glass flute that\nsnaps POKéMON out\nof confusion.
+8e9f30|Yellow Flute
+8e9f3c|A glass flute that\nwakes up sleeping\nPOKéMON.
+8e9f74|Blue Flute
+8e9f7c|Raises a POKéMON\nbetween Lv. 95 and\nLv. 100 by 1 level.
+8e9fb0|Candies-XXXL
+8e9fc0|Candy-XXXL
+8e9fd0|Raises a POKéMON\nbetween Lv. 85 and\nLv. 95 by 1 level.
+8ea004|Candies-XXL
+8ea014|Candy-XXL
+8ea024|Raises a POKéMON\nbetween Lv. 75 and\nLv. 85 by 1 level.
+8ea058|Candies-XL
+8ea068|Candy-XL
+8ea074|Raises a POKéMON\nbetween Lv. 65 and\nLv. 75 by 1 level.
+8ea0a8|Candies-L
+8ea0b4|Candy-L
+8ea0c0|Raises a POKéMON\nbetween Lv. 45 and\nLv. 65 by 1 level.
+8ea0f4|Candies-M
+8ea100|Candy-M
+8ea10c|Raises a POKéMON\nbetween Lv. 30 and\nLv. 45 by 1 level.
+8ea140|Candies-XM
+8ea150|Candy-XM
+8ea15c|Raises a POKéMON\nbetween Lv. 15 and\nLv. 30 by 1 level.
+8ea190|Candies-S
+8ea19c|Candy-S
+8ea1a8|Raises a POKéMON\nbetween Lv. 1 and\nLv. 15 by 1 level.
+8ea1dc|Candies-XS
+8ea1ec|Candy-XS
+8ea1f8|Raises a POKéMON's\nDYNAMAX Level\nby 1.
+8ea228|Dynamax Candy
+8ea264|Exp. Candies XL
+8ea278|Exp. Candy XL
+8ea2b4|Exp. Candies L
+8ea2c8|Exp. Candy L
+8ea2d8|Gives a POKéMON\n3000 EXP. POINTS.
+8ea300|Exp. Candies M
+8ea314|Exp. Candy M
+8ea324|Gives a POKéMON\n800 EXP. POINTS.
+8ea34c|Exp. Candies S
+8ea360|Exp. Candy S
+8ea370|Gives a POKéMON\n100 EXP. POINTS.
+8ea398|Exp. Candies XS
+8ea3ac|Exp. Candy XS
+8ea3c0|Raises a POKéMON\nby 1 level.
+8ea3e0|Rare Candies
+8ea3f0|Rare Candy
+8ea400|Changes Nature.\nKeeps all stats\nbalanced.
+8ea438|Serious Mint
+8ea444|Changes Nature.\nRaises SPEED and\nlowers SP. DEF.
+8ea480|Naive Mint
+8ea490|Changes Nature.\nRaises SPEED and\nlowers SP. ATK.
+8ea4c8|Jolly Mint
+8ea4d8|Changes Nature.\nRaises SPEED and\nlowers DEFENSE.
+8ea514|Hasty Mint
+8ea524|Changes Nature.\nRaises SPEED and\nlowers ATTACK.
+8ea55c|Timid Mint
+8ea56c|Changes Nature.\nRaises SP. DEF and\nlowers SPEED.
+8ea5a8|Sassy Mint
+8ea5b8|Changes Nature.\nRaises SP. DEF and\nlowers SP. ATK.
+8ea5f0|Careful Mint
+8ea5fc|Changes Nature.\nRaises SP. DEF and\nlowers DEFENSE.
+8ea634|Gentle Mint
+8ea644|Changes Nature.\nRaises SP. DEF and\nlowers ATTACK.
+8ea67c|Calm Mint
+8ea68c|Changes Nature.\nRaises SP. ATK and\nlowers SPEED.
+8ea6c4|Quiet Mint
+8ea6d0|Changes Nature.\nRaises SP. ATK and\nlowers SP. DEF.
+8ea708|Rash Mint
+8ea718|Changes Nature.\nRaises SP. ATK and\nlowers DEFENSE.
+8ea750|Mild Mint
+8ea760|Changes Nature.\nRaises SP. ATK and\nlowers ATTACK.
+8ea798|Modest Mint
+8ea7a8|Changes Nature.\nRaises DEFENSE and\nlowers SPEED.
+8ea7e4|Relaxed Mint
+8ea7f4|Changes Nature.\nRaises DEFENSE and\nlowers SP. DEF.
+8ea82c|Lax Mint
+8ea838|Changes Nature.\nRaises DEFENSE and\nlowers SP. ATK.
+8ea870|Impish Mint
+8ea880|Changes Nature.\nRaises DEFENSE and\nlowers ATTACK.
+8ea8b8|Bold Mint
+8ea8c4|Changes Nature.\nRaises ATTACK and\nlowers SPEED.
+8ea900|Brave Mint
+8ea90c|Changes Nature.\nRaises ATTACK and\nlowers SP. DEF.
+8ea948|Naughty Mint
+8ea958|Changes Nature.\nRaises ATTACK and\nlowers SP. ATK.
+8ea990|Adamant Mint
+8ea99c|Changes Nature.\nRaises ATTACK and\nlowers DEFENSE.
+8ea9d8|Lonely Mint
+8ea9e8|Changes a POKéMON's\nHidden Ability.
+8eaa10|Ability Patch
+8eaa20|Ability Patch
+8eaa30|Changes a\nPOKéMON's\nAbility.
+8eaa54|Ability Capsule
+8eaa64|Swift Feather
+8eaa74|Clever Feather
+8eaa80|Genius Feather
+8eaa8c|Resist Feather
+8eaa9c|Muscle Feather
+8eaaac|Health Feather
+8eaab8|Raises the PP of a\nselected move to\nits maximum.
+8eaae8|PP Maxes
+8eaaf0|PP Max
+8eaaf8|Raises the maximum\nPP of a selected\nmove.
+8eab28|PP Up
+8eab30|Raises the SPEED\nof one POKéMON.
+8eab54|Carbos
+8eab60|Carbos
+8eab6c|Raises the SP. DEF\nof one\nPOKéMON.
+8eab98|Raises the SP. ATK\nof one POKéMON.
+8eabb8|Calcium
+8eabc0|Raises the DEFENSE\nof one POKéMON.
+8eabe4|Iron
+8eabec|Raises the ATTACK\nof one POKéMON.
+8eac10|Protein
+8eac1c|Raises the HP\nof one POKéMON.
+8eac3c|HP Up
+8eac9c|A local specialty\nthat heals all\nstatus problems.
+8eaccc|Lava Cookie
+8eacdc|RageCandyBar
+8ead14|Big Malasadas
+8ead20|Big Malasada
+8ead60|Sweet Heart
+8ead6c|Fully revives all\nfainted POKéMON.
+8ead9c|Sacred Ashes
+8eadac|Sacred Ash
+8eadbc|100% pure juice\nthat restores 20 HP.
+8eade4|Berry Juice
+8eadf0|Berry Juice
+8eadfc|Restores the PP of\nall moves of one\nPOKéMON.
+8eae3c|Restores 10 PP of\nall moves.
+8eae6c|Restores the PP of\na selected move.
+8eae94|Max Ether
+8eaea0|Restores 10 PP of\na selected move.
+8eaec8|Ether
+8eaed0|Full Heal
+8eaedc|Wakes up a\nsleeping POKéMON.
+8eaefc|Awakening
+8eaf08|Thaws out a frozen\nPOKéMON.
+8eaf24|Ice Heal
+8eaf30|Heals a burned\nPOKéMON.
+8eaf4c|Burn Heal
+8eaf58|Heals a paralyzed\nPOKéMON.
+8eaf78|Paralyze Heal
+8eaf84|Heals a poisoned\nPOKéMON.
+8eafa4|Antidote
+8eafb0|A bitter herb that\nrevives a fainted\nPOKéMON.
+8eafe8|Revival Herb
+8eaff8|A bitter powder\nthat heals all\nstatus problems.
+8eb02c|Heal Powder
+8eb03c|Heal Powder
+8eb04c|A bitter root that\nrestores 200 HP.
+8eb070|Energy Root
+8eb080|A bitter powder\nthat restores 50 HP.
+8eb0a4|Energy Powder
+8eb0b4|Energy Powder
+8eb0c4|Nourishing milk\nthat restores\n100 HP.
+8eb0ec|Moomoo Milk
+8eb0f8|Moomoo Milk
+8eb104|A sweet drink that\nrestores 80 HP.
+8eb128|Lemonade
+8eb134|A fizzy soda that\nrestores 60 HP.
+8eb158|Soda Pop
+8eb164|Mineral water that\nrestores 50 HP.
+8eb188|Fresh Water
+8eb194|Max Revive
+8eb1a4|Revives a fainted\nPOKéMON with half\nits HP.
+8eb1dc|Revive
+8eb1e4|Fully restores the\nHP and status of\none POKéMON.
+8eb218|Full Restore
+8eb228|Fully restores the\nHP of one POKéMON.
+8eb250|Max Potion
+8eb25c|Restores 200 HP\nof one POKéMON.
+8eb27c|Hyper Potion
+8eb288|Restores 50 HP\nof one POKéMON.
+8eb2a8|Super Potion
+8eb2b8|Restores 20 HP\nof one POKéMON.
+8eb2d8|Potion
+8eb314|Cherish Ball
+8eb320|A BALL designed to\ncatch ULTRA\nBEASTS.
+8eb348|Beast Ball
+8eb378|Park Ball
+8eb3b8|Sport Ball
+8eb3c8|A special BALL\nthat is used in\nthe SAFARI ZONE.
+8eb438|Dream Ball
+8eb444|Works better on\nheavier POKéMON.
+8eb470|Heavy Ball
+8eb47c|Works better on\nfaster POKéMON.
+8eb4a8|Fast Ball
+8eb4b4|Works better on\nPOKéMON of the\nopposite gender.
+8eb4e8|Love Ball
+8eb4f4|Makes a POKéMON\nfriendly once\ncaught.
+8eb520|Friend Ball
+8eb52c|Works better on\nPOKéMON that evolve\nwith a MOON STONE.
+8eb55c|Moon Ball
+8eb568|Works better on\nPOKéMON hooked\nwith a ROD.
+8eb59c|Lure Ball
+8eb5a8|Works better on\nlower-level\nPOKéMON.
+8eb5d8|Level Ball
+8eb5e4|A cozy BALL that\nmakes POKéMON\nmore friendly.
+8eb61c|Luxury Ball
+8eb628|Works better on\nPOKéMON you've\ncaught before.
+8eb664|Repeat Ball
+8eb670|Works better if\nused in the first\nfew turns.
+8eb6a4|Quick Ball
+8eb6b0|Works better as\nthe battle goes on.
+8eb6d8|Timer Ball
+8eb6e4|Works better on\nPOKéMON found in\ncaves.
+8eb714|Dusk Ball
+8eb720|Works better on\nPOKéMON at the\nbottom of the sea.
+8eb754|Dive Ball
+8eb760|Works better\non lower-level\nPOKéMON.
+8eb790|Nest Ball
+8eb79c|Works well on\nWATER- and BUG-type\nPOKéMON.
+8eb7d0|Net Ball
+8eb80c|Heal Ball
+8eb818|A rare BALL made\nto commemorate\nan event.
+8eb84c|Premier Ball
+8eb85c|The best BALL. It\ncatches a POKéMON\nwithout fail.
+8eb890|Master Ball
+8eb89c|A very good BALL.\nBetter catch rate\nthan a GREAT BALL.
+8eb8e4|A good BALL. It\nhas a higher rate\nthan a POKé BALL.
+8eb91c|Great Ball
+8eb928|Used for catching\nwild POKéMON.
+8eb99c|Boosts GLISCOR's\nATTACK and DEFENSE\nby 30%.
+8eb9d0|At equal priority,\nholder moves last.\n+35% ATTACK.
+8eba04|Makes several\nspecies of\nPOKéMON evolve.
+8eba34|Transforms\nTOXTRICITY into\nits MEGA form.
+8eba60|Transforms\nNOIVERN into\nits MEGA form.
+8eba88|Transforms\nDUSKNOIR into\nits MEGA form.
+8ebab0|Transforms\nBUTTERFREE into\nits MEGA form.
+8ebadc|Transforms\nSTARMIE into\nits MEGA form.
+8ebb04|Transforms\nMILOTIC into\nits MEGA form.
+8ebb2c|Transforms\nFLYGON into\nits MEGA form.
+8ebbb8|The key to one of\nthe cabins on the\nABANDONED SHIP.
+8ebbec|When held, restores\nHP, but may cause\nconfusion.
+8ebc24|Boosts SLOWKING's/\nPOLITOED's DEFENSE\nand SP. ATK by 30%.
+8ebc60|When held, it\nrepels wild\nPOKéMON.
+8ebc8c|When held, doubles\nthe money earned\nin a battle.
+8ebcc4|When held, boosts\nGRASS-type moves\nby 20%.
+8ebd00|When held, it\nmakes the POKéMON\nslower.
+8ebd30|When held, boosts\nROCK-type moves\nby 20%.
+8ebd68|When held, boosts\nPSYCHIC-type moves\nby 20%.
+8ebda0|When held, boosts\nWATER-type moves\nby 20%.
+8ebdd8|Transforms\nMEWTWO into\nits MEGA form.
+8ebe00|Transforms\nCHARIZARD into\nits MEGA form.
+8ebe64|Makes several\nspecies of\nPOKéMON evolve.
+8ebe94|Mail featuring a\nsketch of the\nholding POKéMON.
+8ebef4|Fossil of an ancient\nPOKéMON that lived\non the sea floor.
+8ebf30|Part of an ancient\nitem. It sells for\na low price.
+8ebf64|A rare mushroom.\nIt sells for a\nhigh price.
+8ebf90|Raises a POKéMON's\nbase SPEED\nby 2 EVs.
+8ebfc0|Raises a POKéMON's\nbase SP. DEF\nby 2 EVs.
+8ebff0|Raises a POKéMON's\nbase SP. ATK\nby 2 EVs.
+8ec020|Raises a POKéMON's\nbase DEFENSE\nby 2 EVs.
+8ec050|Raises a POKéMON's\nbase ATTACK\nby 2 EVs.
+8ec080|Raises a POKéMON's\nbase HP\nby 2 EVs.
+8ec0ac|Revives a fainted\nPOKéMON with all\nits HP.
+8ec0e8|Use to flee from a\nbattle with a wild\nPOKéMON.
+8ec120|Heals all status\nproblems of one\nPOKéMON.
+8ecd28|Time
+8ecd88|Badges
+8ece78|The save is corrupted.\nLoading the previous save.
+8eceac|The save is corrupted.\nLoading the previous save.
+8ecee4|The internal battery has run dry.\nThe game can still be played.\pHowever, clock-based events\nwill no longer occur.
+8ecf45|   New Game
+8ecf61|   Rocket Timeline
+8ecf78|Continue
+8ecf82|  Rocket Timeline
+8ecf95|   Rocket Timeline
+8ed2a0|ROUTE 45
+94831c|Soul-Stealing 7-Star Strike
+948368|Light That Burns the Sky
+9483bc|Menacing Moonraze Maelstrom
+948408|Searing Sunraze Smash
+948450|Guardian of Alola
+94849c|Clangorous Soulblaze
+9484e0|Let's Snuggle Forever
+94852c|Splintered Stormshards
+948578|Oceanic Operetta
+9485c8|Malicious Moonsault
+948610|Sinister Arrow Raid
+94866c|Genesis Supernova
+9486bc|Pulverizing Pancake
+948704|Extreme Evoboost
+948754|Stoked Sparksurfer
+9487a0|10,000,000 Volt Thunderbolt
+9487f0|Catastropika
+948804|Plays with the foe in a\ncharming space. Power varies.
+948840|Twinkle Tackle
+948854|Swallows the target in\na black hole.
+948880|Black Hole Eclipse
+94889c|Devastating ancient\nenergy. Power varies.
+9488d0|Devastating Drake
+9488e8|Drops to absolute zero and\nfreezes the foe. Power varies.
+948924|Subzero Slammer
+94893c|Controls the foe's mind,\ndealing immense damage.
+948978|Shattered Psyche
+94898c|Strikes with a maximum-\nvoltage current. Power varies.
+9489c8|Gigavolt Havoc
+9489e0|Gathers the energy of\nplants to attack.
+948a14|Bloom Doom
+948a24|A huge whirlpool swallows\nthe foe. Power varies.
+948a5c|Hydro Vortex
+948a70|Hurls an intense fire at\nthe foe. Power varies.
+948aa4|Inferno Overdrive
+948ab8|Spins at high speed and\nrams. Power varies.
+948aec|Corkscrew Crash
+948b00|Deep-seated grudges trap\nthe foe. Power varies.
+948b38|Never-Ending Nightmare
+948b48|Binds the foe with spat\nsilk threads. Power varies.
+948b80|Savage Spin-Out
+948b90|Raises a rocky mountain\nthat crushes the foe.
+948bc0|Continental Crush
+948bdc|Opens a deep fissure that\nswallows the foe.
+948c10|Tectonic Rage
+948c24|A poison swamp that\nswallows the target.
+948c50|Acid Downpour
+948c64|Plummets down onto\nthe target.
+948c90|Supersonic Skystrike
+948ca4|Rams with an orb of\nenergy. Power varies.
+948cd4|All-Out Pummeling
+948ce8|Builds momentum and\ncrashes into the foe.
+948d18|Breakneck Blitz
+948d30|Toxic chain that may (50%)\nbadly poison the foe.
+948d68|Malignant Chain
+948d80|Beats priority moves, 100%\nflinch. Fails otherwise.
+948db8|Upper Hand
+948dc8|Stops the target from\nhealing for 2 turns.
+948df8|Psychic Noise
+948e04|If it misses, the user\nloses 50% of its max HP.
+948e38|Supercell Slam
+948e4c|Double damage if the\nuser's last move failed.
+948e84|Temper Flare
+948e98|Confuses the foe if its\nstats rose this turn.
+948ed0|Alluring Voice
+948ee4|+1 crit ratio for allies\nand user. +2 for Dragons.
+948f1c|Dragon Cheer
+948f2c|Hard Press
+948f3c|Atomic blades. Strikes\ntwice and never misses.
+948f78|Tachyon Cutter
+948f88|Mighty Cleave
+948f98|Thunderclap
+948fac|Protects and burns the\nfoe if it makes contact.
+948fdc|Burning Bulwark
+948ff0|If all 3 heads line up\n(33%), power becomes 160.
+949024|Fickle Beam
+949034|Attacks by unleashing the\npower of its crystals.
+949060|Tera Starstorm
+9490a8|Electro Shot
+9490b8|Type depends on the mask.\n+1 critical-hit ratio.
+9490ec|Ivy Cudgel
+949100|Lowers the foe's Speed\nfor 3 turns in a row.
+949130|Syrup Bomb
+949178|Matcha Gotcha
+949188|Unleashes the blood moon.\nCan't be used twice in a row.
+9491bc|Blood Moon
+9491c8|Boiling water that does\n50% more damage in sun.
+9491fc|Hydro Steam
+949208|An ethereal blade. +50%\npower on Electric Terrain.
+949240|Psyblade
+949254|Magical Torque
+949268|Combat Torque
+94927c|Noxious Torque
+949290|Wicked Torque
+9492a4|Blazing Torque
+9492b0|Slices with pressurized\nwater. +1 crit ratio.
+9492ec|Aqua Cutter
+9492fc|Returns 150% of the damage\nfrom the last move taken.
+949330|Comeuppance
+949340|A crushing hammer. Can't\nbe used twice in a row.
+94937c|Gigaton Hammer
+9493d0|Double Shock
+9493e0|A spite-filled slash.\nAbsorbs 1/2 the damage.
+949410|Bitter Blade
+949458|Armor Cannon
+949468|Gains +50 power for each\ntime the user was hit.
+94949c|Rage Fist
+9494a8|Fires two light beams\nthat strike twice.
+9494dc|Twin Beam
+9494e8|Pierces barriers such as\nProtect and Detect.
+949518|Hyper Drill
+94952c|Icy water that lowers the\ntarget's Attack.
+94955c|Chilling Water
+94956c|Attacks suddenly, raising\nthe user's Speed.
+94959c|Trailblaze
+9495ac|Pounces on the target and\nlowers its Speed.
+9495e0|Pounce
+9495e8|Summons a snowstorm that\nlasts five turns.
+949614|Snowscape
+949624|Removes all hazards and\nraises Attack and Speed.
+94965c|Tidy Up
+949670|A bad joke that makes snow.\nThe user switches out.
+9496a8|Chilly Reception
+9496b8|Makes a substitute and\nswitches with a Pokémon.
+9496e8|Shed Tail
+9496f4|Futuristic electricity. +33%\ndamage if super effective.
+949730|Electro Drift
+949740|Primeval blast. +33% damage\nif super effective.
+94977c|Collision Course
+949788|A catastrophe that halves\nthe target's HP.
+9497c0|Ruination
+9497d4|Attacks with a rain of\ncoins. Lowers Sp. Atk.
+949808|Make It Rain
+949818|Breaks barriers. Type depends\non the user's form.
+949850|Raging Bull
+949864|An elegant, flowing dance\nthat raises Speed.
+949898|Aqua Step
+9498ac|Raises the user's\nSp. Atk.
+9498cc|Torch Song
+9498dc|A trick bouquet. Never\nmisses, +1 crit ratio.
+949914|Flower Trick
+949924|Strikes a target off guard.\nNever misses.
+94995c|Kowtow Cleave
+94996c|Sharply raises Atk, Def and\nSpd. Costs 50% of max HP.
+9499a4|Fillet Away
+9499ac|Swaps the user's Ability\nwith the target's.
+9499dc|Doodle
+9499f0|Poisons the foe and removes\nLeech Seed, binds, etc.
+949a28|Mortal Spin
+949a38|Hits the target three\ntimes in a row.
+949a60|Triple Dive
+949a78|Hurts the foe every turn,\ndouble to Water and Steel.
+949ab0|Salt Cure
+949ab8|Revives a fainted ally and\nrestores half of its HP.
+949af8|Revival Blessing
+949b08|Takes double damage until\nits next attack.
+949b3c|Glaive Rush
+949b4c|Destroys the active terrain\nin battle.
+949b74|Ice Spinner
+949b84|Hits one to ten times\nin a row.
+949bac|Population Bomb
+949bf8|Spin Out
+949c04|Sharply raises the target's\nAtk but -2 to its Def.
+949c34|Spicy Extract
+949c48|A punch wrapped in a torrent.\n+1 priority.
+949c74|Jet Punch
+949c84|Raises a stat depending\non the Tatsugiri.
+949cb0|Order Up
+949cc0|A strange light that harshly\nlowers the foe's Sp. Def.
+949cf4|Lumina Crash
+949d04|Avenges fallen allies. +50\npower for each one.
+949d3c|Last Respects
+949d88|Axe Kick
+949d98|Protects and lowers Speed\nof foes that make contact.
+949dc8|Silk Trap
+949dd8|If the user Terastallizes,\nattacks with its Tera Type.
+949e10|Tera Blast
+949e20|Cures status conditions.\n+1 to Sp. Atk and Sp. Def.
+949e54|Take Heart
+949e64|Heals 25% of HP and\nstatus conditions.
+949e90|Lunar Blessing
+949edc|Sandsear Storm
+949f2c|Wildbolt Storm
+949f78|Bleakwind Storm
+949fbc|Ceaseless Edge
+94a008|Infernal Parade
+94a024|+1 crit ratio, and 50% to\nlower the foe's Defense.
+94a058|Triple Arrows
+94a068|Hardens its skin to sharply\nraise its Defense.
+94a098|Shelter
+94a0a8|Hits the foe with cold\nspite, lowering its Attack.
+94a0e0|Bitter Malice
+94a0f8|Raises Speed.\n+1 critical-hit ratio.
+94a124|Esper Wing
+94a134|50% to poison. x2 power if\nthe foe is already poisoned.
+94a164|Barb Barrage
+94a1ac|Headlong Rush
+94a1b8|A frenzied dance that raises\nAttack, Defense and Speed.
+94a1e8|Victory Dance
+94a22c|Mountain Gale
+94a240|Concentrated chlorophyll.\n50% recoil damage.
+94a270|Chloroblast
+94a280|Charges wrapped in water.\n33% recoil damage.
+94a2b4|Wave Crash
+94a2c8|Violent flames. Confuses\nthe user after 2-3 turns.
+94a2f8|Raging Fury
+94a30c|Unleashes a mysterious power.\n100% to raise Sp. Atk.
+94a344|Mystical Power
+94a388|Springtide Storm
+94a3cc|Stone Axe
+94a3dc|Swaps the user's Attack\nand Defense.
+94a404|Power Shift
+94a414|Rams with psychic energy.\n100% to raise Defense.
+94a450|Psyshield Bash
+94a464|High critical-hit ratio.\nMay paralyze, poison or sleep.
+94a49c|Dire Claw
+94a4b0|A strong psychic attack.\nCuts 3 PP from the last move.
+94a4e4|Eerie Spell
+94a4f4|Sends out spirits to\nstrike the foe.
+94a520|Astral Barrage
+94a530|Skewers the foe with a\nlance of icicles.
+94a568|Glacial Lance
+94a578|A lightning-charged kick.\nLowers the foe's Defense.
+94a5ac|Thunderous Kick
+94a5f0|Fiery Wrath
+94a600|Fires a beam from its eyes.\n10% to freeze the foe.
+94a638|Freezing Glare
+94a644|Does more damage the more\nHP the user has.
+94a670|Dragon Energy
+94a6bc|Thunder Cage
+94a6cc|3 torrential strikes that\nare always critical hits.
+94a704|Surging Strikes
+94a710|A dark blow that always\nlands a critical hit.
+94a744|Wicked Blow
+94a754|Restores HP and status of\nthe user and its allies.
+94a788|Jungle Healing
+94a7c8|Scorching Sands
+94a7d4|Strikes with its wings\ntwice in a row.
+94a7fc|Dual Wingbeat
+94a804|3 kicks that get stronger\nwith each hit.
+94a848|Attacks, then rushes back\nto switch with an ally.
+94a884|Flip Turn
+94a88c|Coaches its allies to raise\ntheir Attack and Defense.
+94a8c4|Coaching
+94a8d0|A corrosive gas that melts\nall held items.
+94a908|Corrosive Gas
+94a918|Controls the foe's item\nand attacks it with it.
+94a958|Power doubles if its stats\nwere lowered this turn.
+94a98c|Lash Out
+94a99c|Burns foes whose stats\nhave been boosted.
+94a9d0|Burning Jealousy
+94aa00|foe's Sp. Atk.
+94aa14|Skitter Smack
+94aa20|Its power and type vary\nwith the active terrain.
+94aa54|Terrain Pulse
+94aa60|Its power doubles on\nElectric Terrain.
+94aa8c|Rising Voltage
+94aa9c|Glides and strikes. Goes\nfirst on Grassy Terrain.
+94aad0|Grassy Glide
+94aadc|Hits all and faints the user.\nStronger on Misty Terrain.
+94ab18|Misty Explosion
+94ab24|Á  ÑUses its higher attacking\nstat. 20% to poison.
+94ab5c|Shell Side Arm
+94aba8|Meteor Beam
+94abb8|Fires 2 to 5 scales. Raises\nSpeed, lowers Defense.
+94abec|Scale Shot
+94abfc|Destroys the terrain. Fails\nif there is no terrain.
+94ac30|Steel Roller
+94ac40|On Psychic Terrain, hits\nharder and hits all foes.
+94ac70|Expanding Force
+94ac80|A powerful beam of molten\nsteel. 50% recoil.
+94acac|Steel Beam
+94acb8|A stochastic force of\nimmense power. 50% recoil.
+94acec|Eternabeam
+94ad34|Meteor Assault
+94ad44|Bows and then stabs the\nfoe. Never misses.
+94ad74|False Surrender
+94ad84|Protects and harshly lowers\nDefense on contact.
+94adb8|Obstruct
+94adc4|Sprays water to restore the\nHP of the user and allies.
+94adfc|Life Dew
+94ae40|Strange Steam
+94ae50|A spirit-breaking force.\nLowers the foe's Sp. Atk.
+94ae84|Spirit Break
+94ae98|Drops an apple that lowers\nthe foe's Defense.
+94aecc|Grav Apple
+94aedc|Apple acid that lowers the\nfoe's Sp. Def.
+94af10|Apple Acid
+94af20|Strums a guitar, causing\nstrong vibrations.
+94af50|Overdrive
+94af60|Strikes with a sharp,\npointed branch.
+94af80|Branch Poke
+94af94|Swings its tail to attack.\nLowers the Attack of foes hit.
+94afcc|Breaking Swipe
+94afe0|Raises Speed if it hits.\nIts type varies with form.
+94b01c|Aura Wheel
+94b028|A shield bash. Deals double\ndamage to Dynamax foes.
+94b05c|Behemoth Bash
+94b06c|A huge sword slash. Deals\ndouble damage to Dynamax foes.
+94b0a0|Behemoth Blade
+94b0b4|Kicks a blazing ball at the\ntarget. 10% to burn.
+94b0e8|Pyro Ball
+94b130|Snap Trap
+94b13c|Plays its drum to attack.\nLowers the foe's Speed.
+94b174|Drum Beating
+94b180|Sharply raises the target's\nAttack and Sp. Atk.
+94b1b8|Decorate
+94b1c4|Deals damage based on the\nuser's Defense.
+94b1f4|Body Press
+94b204|Uses some HP to raise\nall of its stats.
+94b238|Clangorous Soul
+94b248|Swaps the effects on each\nside of the field.
+94b278|Court Change
+94b288|Power doubles if the user\nmoves first.
+94b2b8|Fishious Rend
+94b2c4|Power doubles if the user\nmoves first.
+94b2f4|Bolt Beak
+94b300|Traps the foe. Lowers Def.\nand Sp. Def every turn.
+94b334|Octolock
+94b340|All Pokémon eat their\nBerries at teatime.
+94b378|Teatime
+94b384|Hits twice. Two foes are\nhit one time each.
+94b3bc|Dragon Darts
+94b3cc|A magic powder that turns\nthe target Psychic-type.
+94b404|Magic Powder
+94b414|Lowers the foe's Speed and\nmakes it weak to Fire.
+94b44c|Tar Shot
+94b45c|Raises all stats but the\nuser can't escape.
+94b490|No Retreat
+94b4a0|The user eats its Berry and\nsharply raises its Defense.
+94b4d4|Stuff Cheeks
+94b4e4|Stops both the foe and the\nuser from escaping.
+94b50c|Jaw Lock
+94b51c|Ignores effects that draw\nin moves.
+94b548|Snipe Shot
+94b558|Fires a huge beam. Deals\ndouble damage to Dynamax foes.
+94b590|Dynamax Cannon
+94b5d4|Double Iron Bash
+94b5e4|Eevee's love boosts its\npower. Never misses.
+94b614|Veevee Volley
+94b624|An aromatic whirlwind. Heals\nthe party's status.
+94b658|Sparkly Swirl
+94b66c|A misty crystal. Eliminates\nall stat changes.
+94b6a4|Freezy Frost
+94b6b8|Scatters seeds that drain\nHP every turn.
+94b6e4|Sappy Seed
+94b6f8|A wicked attack that\nlowers Attack.
+94b71c|Baddy Bad
+94b72c|A telekinetic force that\nlowers Sp. Atk.
+94b758|Glitzy Glow
+94b7a0|Sizzly Slide
+94b7e8|Buzzy Buzz
+94b7f4|An attack that absorbs\nall the damage dealt.
+94b824|Bouncy Bubble
+94b830|Pikachu's love boosts its\npower. Never misses.
+94b860|Pika Papow
+94b8a4|Floaty Fall
+94b8e4|Splishy Splash
+94b92c|Zippy Zap
+94b938|Category depends on whether\nAtk or Sp. Atk is higher.
+94b970|Photon Geyser
+94b984|Strikes with electric fists.\nNormal moves become Electric.
+94b9bc|Plasma Fists
+94b9cc|The user blows up its head\nto damage everything around.
+94ba04|Mind Blown
+94ba14|An attack whose type varies\nwith the held Memory.
+94ba44|Multi-Attack
+94ba50|Halves the foe's HP.
+94ba78|Nature's Madness
+94bac0|Zing Zap
+94bad0|The user looks pitiful.\nLowers foe's Atk and Sp. Atk.
+94bb08|Tearful Look
+94bb18|A lunar strike that\nignores Abilities.
+94bb40|Moongeist Beam
+94bb4c|A solar strike that\nignores Abilities.
+94bb74|Sunsteel Strike
+94bb84|Steals the foe's stat\nboosts, then attacks.
+94bbb0|Spectral Thief
+94bbf0|Prismatic Laser
+94bc38|Liquidation
+94bc44|Hits with a speedy rock\nthat always goes first.
+94bc78|Accelerock
+94bcbc|Shadow Bone
+94bccc|Stomps around in anger.\nStronger if it failed before.
+94bd04|Stomping Tantrum
+94bd10|Bites with psychic fangs.\nDestroys barriers.
+94bd44|Psychic Fangs
+94bd80|Fleur Cannon
+94bd90|Sets a shell trap that\ndamages on contact.
+94bdc4|Shell Trap
+94bdd4|Weakens attacks. Only works\nin a hailstorm.
+94be0c|Aurora Veil
+94be18|A violent move that hits\neverything around it.
+94be4c|Brutal Swing
+94be58|Uses its whole body to\nstrike like a hammer.
+94be8c|Dragon Hammer
+94bed4|Clanging Scales
+94bee4|Heats its beak, then attacks.\nBurns on contact.
+94bf14|Beak Blast
+94bf20|Makes the target use its\nlast move again.
+94bf54|Instruct
+94bf60|An intense tropical kick.\nLowers Attack.
+94bf8c|Trop Kick
+94bfa0|A punishing beam that\nnullifies the foe's Ability.
+94bfd4|Core Enforcer
+94c014|Revelation Dance
+94c020|Heals the foe's status and\nrestores the user's HP.
+94c058|Purify
+94c068|Strikes with a precise horn\nthat never misses.
+94c098|Smart Strike
+94c0a4|Swaps its Speed with the\ntarget's.
+94c0d4|Speed Swap
+94c118|Burn Up
+94c124|The more the foe's stats\nhave risen, the stronger.
+94c158|Power Trip
+94c168|Wraps the foe in flames\nand lowers its Defense.
+94c19c|Fire Lash
+94c1b0|Lunges at the foe and\nlowers its Attack.
+94c1e0|Lunge
+94c1e8|Makes a weird terrain for\n5 turns. Blocks priority.
+94c220|Psychic Terrain
+94c230|Strangles the foe with\nchains. It can't switch out.
+94c268|Anchor Shot
+94c270|Damages foes.\nRestores allies' HP.
+94c2a0|Pollen Puff
+94c2b0|Strikes the throat to\nstop sound-based moves.
+94c2e4|Throat Chop
+94c2f4|Powers up Pokémon with\nPlus or Minus.
+94c320|Gear Up
+94c32c|Makes sure the next hit\nis a critical hit.
+94c358|Laser Focus
+94c360|Attacks with a thread that\npoisons and lowers Speed.
+94c394|Toxic Thread
+94c3a4|Makes foes attack the\nPokémon in the spotlight.
+94c3d4|Spotlight
+94c3dc|Attacks with a flurry of\nsmall leaves.
+94c404|Leafage
+94c43c|Solar Blade
+94c448|Restores HP equal to the\nfoe's Attack and lowers it.
+94c480|Strength Sap
+94c490|Slams into the foe with\nits whole body.
+94c4b8|High Horsepower
+94c4c8|Restores the target's HP.\nMore effective on grass.
+94c500|Floral Healing
+94c544|Ice Hammer
+94c554|Sings with bubbles. Heals\nburns on contact.
+94c588|Sparkling Aria
+94c598|Strikes with its arms.\nIgnores stat changes.
+94c5cc|Darkest Lariat
+94c5e0|Stops foes that hit you\nfrom escaping.
+94c610|Spirit Shackle
+94c620|Protects the user and\npoisons on contact.
+94c64c|Baneful Bunker
+94c654|Hits first and hard.\nOnly works on the 1st turn.
+94c688|First Impression
+94c694|Restores 1/2 of the user's\nHP, 2/3 in a sandstorm.
+94c6c4|Shore Up
+94c6d8|Hyperspace Fury
+94c6fc|Stone blades that strike\nboth foes.
+94c72c|Precipice Blades
+94c738|A huge blue light beam\nthat hits both foes.
+94c76c|Origin Pulse
+94c77c|A powerful light beam with\n33% recoil.
+94c7b0|Light of Ruin
+94c7c0|Unleashes the land's energy\nto attack the foes.
+94c7f8|Land's Wrath
+94c808|Stops those it hits from\nescaping.
+94c834|Thousand Waves
+94c844|Can hit foes in the air and\nknock them to the ground.
+94c878|Thousand Arrows
+94c884|Oblivion Wing
+94c898|A strong punch that raises\nthe user's Attack.
+94c8c8|Power-Up Punch
+94c90c|Infestation
+94c914|Hold Back
+94c924|Rubs its cheeks against the\nfoe, paralyzing it.
+94c958|Nuzzle
+94c968|Lowers the foe's Attack\nbefore it can move.
+94c99c|Baby-Doll Eyes
+94c9ac|Happily holds hands with\nits allies.
+94c9d8|Hold Hands
+94c9e8|Wishes you a happy\nbirthday.
+94ca08|Celebrate
+94ca14|Damages foes with a\nbeam of dazzling light.
+94ca48|Dazzling Gleam
+94ca58|Electrifies the field for\n5 turns. Prevents sleep.
+94ca8c|Electric Terrain
+94ca98|Doubles the amount of\nprize money received.
+94cac0|Happy Hour
+94cacc|Raises the Defenses of\nthose with Plus or Minus.
+94cafc|Magnetic Flux
+94cb08|Raises Sp. Atk, Sp. Def and\nSpeed on the 2nd turn.
+94cb40|Geomancy
+94cb4c|Damages first if the foe\nuses a Fire-type move.
+94cb80|Powder
+94cb90|Lowers the Attack, Sp. Atk\nand Speed of a poisoned foe.
+94cbc4|Venom Drench
+94cbd0|Exposes the foe to waves,\nharshly lowering Sp. Atk.
+94cc04|Eerie Impulse
+94cc13| Raises an ally's\nSp. Def.
+94cc3c|Aromatic Mist
+94cc4c|Evades attacks and hurts\nphysical attackers.
+94cc80|Spiky Shield
+94cc94|Magical fire that always\nlowers the foe's Sp. Atk.
+94ccc8|Mystical Fire
+94ccd8|Throws 2 to 5 stars that\nalways strike first.
+94cd10|Water Shuriken
+94cd24|Hyperspace Hole
+94cd6c|Steam Eruption
+94cd80|Unleashes a storm of\ndiamonds. 50% to raise Def.
+94cdb4|Diamond Storm
+94cdc4|Shares a secret, lowering\nthe foe's Sp. Atk.
+94cdf8|Confide
+94ce04|Charms the foe, lowering\nits Attack. Never misses.
+94ce38|Play Nice
+94ce44|Blocks damage and lowers\nthe attacker's Attack.
+94ce70|King's Shield
+94ce7c|Locks everyone on the field\nuntil the next turn.
+94ceb4|Fairy Lock
+94cec0|Attacks everything with a\ndestructive sound wave.
+94cef0|Boomburst
+94cf00|Attacks with lunar power.\n30% to lower Sp. Atk.
+94cf30|Moonblast
+94cf40|Stirs up fairy dust and\nstrikes the foe.
+94cf6c|Fairy Wind
+94cf7c|Plays rough and may (10%)\nlower the foe's Attack.
+94cfb0|Play Rough
+94cfbc|Makes the foe's next move\nElectric-type.
+94cff0|Electrify
+94cffc|Covers the field in mist for\n5 turns. Prevents status.
+94d030|Misty Terrain
+94d040|Makes a grassy terrain for\n5 turns. Restores HP.
+94d074|Grassy Terrain
+94d084|Raises the Defense of\nGrass-type Pokémon.
+94d0b4|Flower Shield
+94d0c0|Blocks status moves for\n1 turn.
+94d0f0|Crafty Shield
+94d0fc|Draining Kiss
+94d10c|Reverses the target's\nstat changes.
+94d144|Topsy-Turvy
+94d150|Lowers foe's Attack and\nSp. Atk, then switches out.
+94d188|Parting Shot
+94d198|A charming cry that can't\nbe evaded.
+94d1c4|Disarming Voice
+94d1d8|Super effective on Water\ntypes. 10% to freeze.
+94d208|Freeze-Dry
+94d218|Stirs up a violent petal\nblizzard to attack.
+94d24c|Petal Blizzard
+94d25c|Curses the foe and turns\nit into a Grass type.
+94d290|Forest's Curse
+94d2a0|Damages adjacent Pokémon\nand heals half of that.
+94d2d8|Parabolic Charge
+94d2e4|Ions electrify Normal-type\nmoves.
+94d31c|Ion Deluge
+94d32c|Intimidates the foe,\nlowering Attack and Sp. Atk.
+94d360|Noble Roar
+94d370|Tricks the foe and turns\nit into a Ghost type.
+94d3a8|Trick-or-Treat
+94d3b8|Phantom Force
+94d3c4|If it knocks out the foe,\nAttack goes up.
+94d3ec|Fell Stinger
+94d3fc|Lays a web that slows\nfoes that switch in.
+94d434|Sticky Web
+94d440|Raises Attack and Sp. Atk\nof Grass-type Pokémon.
+94d474|Rototiller
+94d484|Lets out a huge belch.\nMust have eaten a Berry.
+94d4b4|Belch
+94d4bc|Blocks damaging moves for\n1 turn.
+94d4ec|Mat Block
+94d4fc|Deals Fighting- and\nFlying-type damage.
+94d52c|Flying Press
+94d53c|Summons a lightning bolt.\nPairs well with a fireball.
+94d570|Fusion Bolt
+94d57c|Summons a fireball. Pairs\nwell with a lightning bolt.
+94d5b0|Fusion Flare
+94d5c4|Strong, but lowers Defense,\nSp. Def and Speed.
+94d5f8|V-create
+94d640|Icicle Crash
+94d64c|Yells at the foe, lowering\nits Sp. Atk.
+94d670|Snarl
+94d67c|Blazing flames charged with\nice. 33% recoil.
+94d6ac|Ice Burn
+94d6c0|A blazing bolt charged\nwith ice. 33% recoil.
+94d6f0|Freeze Shock
+94d700|Dances cloaked in flames.\n50% to raise Sp. Atk.
+94d730|Fiery Dance
+94d774|Blue Flare
+94d7bc|Bolt Strike
+94d7cc|Blows cold air at foes.\nMay lower Speed.
+94d800|Glaciate
+94d810|Slashes with a horn that\ndoes physical damage.
+94d848|Secret Sword
+94d85c|Attacks with an ancient\nsong. 10% to sleep.
+94d88c|Relic Song
+94d89c|Its type varies with the\nheld Drive.
+94d8cc|Techno Blast
+94d8e8|Throws two gears that\nhit 2 times.
+94d914|Gear Grind
+94d920|Charges with its whole head.\n25% recoil damage.
+94d954|Head Charge
+94d998|Hurricane
+94d9a4|Strikes the foe with its\ntail 2 to 5 times.
+94d9d4|Tail Slap
+94d9e0|Psystrike
+94da20|Night Daze
+94da2c|Wraps its body in cotton,\ndrastically raising Def.
+94da5c|Cotton Guard
+94daa4|Steamroller
+94dab8|Wraps the foe in leaves.\n50% to lower accuracy.
+94daf4|Leaf Tornado
+94db04|Heat Crash
+94db14|Throws sharp shells at the\nfoe. 50% to lower Def.
+94db48|Razor Shell
+94db54|Sacred Sword
+94db64|Horn Leech
+94dba8|Heart Stamp
+94dbb4|Attacks brutally, striking\ntwice.
+94dbdc|Dual Chop
+94dbe8|Spins like a huge drill.\nHigh critical-hit ratio.
+94dc1c|Drill Run
+94dc28|An electric charge that\nalso hurts (25% recoil).
+94dc5c|Wild Charge
+94dc70|Traps the foe in an electric\nnet and lowers Speed.
+94dcac|Electroweb
+94dcb8|The user rouses itself.\nRaises Attack and Sp. Atk.
+94dcf0|Work Up
+94dcf8|Dragon Tail
+94dd04|Frost Breath
+94dd14|Stomps hard on the ground.\nLowers Speed.
+94dd44|Bulldoze
+94dd58|Resists the foe while\nattacking. Lowers Sp. Atk.
+94dd88|Struggle Bug
+94dd94|Volt Switch
+94dda4|A column of grass. May\ncreate a swamp.
+94dddc|Grass Pledge
+94dde8|A column of fire. May set\nthe grass ablaze.
+94de20|Fire Pledge
+94de2c|A column of water. May\nmake a rainbow.
+94de64|Water Pledge
+94de74|Strong and sure to burn,\nbut inaccurate.
+94dea4|Inferno
+94deb0|The user gives its held\nitem to the foe.
+94dee0|Bestow
+94dee8|Sacrifices itself to deal\ndamage equal to its HP.
+94df20|Final Gambit
+94df2c|Does more damage if an\nally fainted last turn.
+94df60|Retaliate
+94df6c|The user reflects the\nfoe's type and copies it.
+94dfa0|Reflect Type
+94dfac|Double damage if the user\nisn't holding an item.
+94dfe0|Acrobatics
+94dfec|Suppresses the foe and\nmakes it move last.
+94e020|Quash
+94e034|Burns up Berries and Gems,\nmaking them unusable.
+94e05c|Incinerate
+94e068|Circle Throw
+94e074|Turns its gears to raise\nAttack and Speed.
+94e0a8|Shift Gear
+94e0b8|Carries the foe into the\nsky until the next turn.
+94e0f0|Sky Drop
+94e0fc|Double damage if the foe\nhas a status problem.
+94e138|Hex
+94e144|Restores half of the\ntarget's max HP.
+94e178|Heal Pulse
+94e184|Raises offensive stats but\nlowers defensive ones.
+94e1bc|Shell Smash
+94e1fc|Scald
+94e208|The user switches places\nwith its partner.
+94e238|Ally Switch
+94e248|Blocks priority moves for\n1 turn.
+94e274|Quick Guard
+94e280|More damage the more the\nuser's stats are raised.
+94e2b4|Stored Power
+94e2c4|=   A beam of light that removes\nall stat changes.
+94e2fc|Clear Smog
+94e30c|Chip Away
+94e31c|Does more damage each\nturn it is used.
+94e344|Echoed Voice
+94e350|A song that inflicts damage.\nOthers can join in.
+94e388|Round
+94e390|Helps the foe, making\nit move next.
+94e3c4|After You
+94e3d0|The foe mimics the user,\ngaining its Ability.
+94e408|Entrainment
+94e414|A beam that changes the\nfoe's Ability to Simple.
+94e440|Simple Beam
+94e44c|The higher the foe's\nAttack, the more damage.
+94e480|Foul Play
+94e490|Sprays a melting acid.\nHarshly lowers Sp. Def.
+94e4c4|Acid Spray
+94e4d4|Strikes the legs to\nlower Speed.
+94e500|Low Sweep
+94e50c|Coils up to raise Attack,\nDefense and Accuracy.
+94e540|Coil
+94e550|Attacks cloaked in flames.\nRaises Speed.
+94e580|Flame Charge
+94e58c|Drenches the foe and makes\nit a Water type.
+94e5bc|Soak
+94e5c4|Hurls an orb that damages\nslower foes more.
+94e5f4|Electro Ball
+94e600|An odd wave that only hits\nPokémon of the same type.
+94e638|Synchronoise
+94e648|Heavy Slam
+94e658|Dances to raise Sp. Atk,\nSp. Def and Speed.
+94e68c|Quiver Dance
+94e6a0|Floods the foe with a wave.\n10% to poison.
+94e6d4|Sludge Wave
+94e6e0|;   A searing flame that hits\nall foes.
+94e718|Flame Burst
+94e724|Storm Throw
+94e730|Throws a rock that knocks\nthe foe to the ground.
+94e760|Smack Down
+94e76c|Held items don't work\nfor 5 turns.
+94e7a4|Magic Room
+94e7b0|The foe floats for 3 turns\nand is easier to hit.
+94e7e8|Telekinesis
+94e7f8|Scatters powder so foes\nattack only the user.
+94e828|Rage Powder
+94e834|Sheds weight to sharply\nraise Speed.
+94e864|Autotomize
+94e870|Double damage if the foe\nis poisoned.
+94e8a8|Venoshock
+94e8b8|Psyshock
+94e8c4|Swaps Defense and Sp. Def\nfor 5 turns.
+94e8fc|Wonder Room
+94e90c|Shares its attacking power\nequally with the foe.
+94e940|Power Split
+94e94c|Shares its defenses\nequally with the foe.
+94e984|Guard Split
+94e990|Blocks multi-target moves\nfor one turn.
+94e9c0|Wide Guard
+94e9d0|Sharpens its claws to raise\nAttack and Accuracy.
+94ea08|Hone Claws
+94ea18|Shadow Force
+94ea2c|A repulsive attack. 10% to\nraise all stats.
+94ea60|Ominous Wind
+94ea70|Creates a shock wave. 40%\nto harshly lower Sp. Def.
+94eaa8|Seed Flare
+94eab4|Drags the foe into a\ndeep, dark sleep.
+94eae4|Dark Void
+94eb28|Magma Storm
+94eb38|Grips the foe with\nsupernatural strength.
+94eb64|Crush Grip
+94eb6c|Lunar Dance
+94eb78|Tears space apart.\nHigh critical-hit ratio.
+94ebac|Spacial Rend
+94ebbc|Strong, but leaves the\nuser immobile for 1 turn.
+94ebf0|Roar of Time
+94ebfc|Strikes the foe with its\ntail twice.
+94ec28|Double Hit
+94ec34|A reckless headbutt that\nhurts the user (50% recoil).
+94ec68|Head Smash
+94ec74|Underlings appear and\nrestore half of its HP.
+94eca8|Heal Order
+94ecb0|Raises Defense and Sp. Def\nwith a living shield.
+94ecf0|Underlings attack.\nHigh critical-hit ratio.
+94ed24|Attack Order
+94ed30|Strikes first by lunging\nat the foe.
+94ed60|Aqua Jet
+94ed6c|A huge body slam that\nalso hurts the user.
+94eda0|Wood Hammer
+94edac|An electric beam that may\n(70%) raise Sp. Atk.
+94ede0|Charge Beam
+94edf0|Bug Bite
+94edfc|Its type varies with the\nheld Plate.
+94ee2c|Judgment
+94ee3c|Attacks with a sound wave\nthat causes confusion.
+94ee6c|Chatter
+94ee78|A snare that does more\ndamage to heavier foes.
+94eeac|Grass Knot
+94eeb8|Scatters rocks that hurt\nfoes when they switch in.
+94eeec|Stealth Rock
+94eefc|Harshly lowers Sp. Atk of\nthe opposite gender.
+94ef28|Captivate
+94ef34|Stabs with sharp stones.\nHigh critical-hit ratio.
+94ef6c|Stone Edge
+94ef7c|Launches a magnet that\nhits the foe without fail.
+94efac|Magnet Bomb
+94efec|Iron Head
+94f030|Gunk Shot
+94f040|A slash that may (10%)\npoison. +1 crit ratio.
+94f070|Cross Poison
+94f08c|Whips the foe with vines\nor tentacles.
+94f0b8|Power Whip
+94f0f4|Leaf Storm
+94f144|Discharge
+94f188|Draco Meteor
+94f198|Slower Pokémon move first\nfor 5 turns.
+94f1c8|Trick Room
+94f1d8|Clears away obstacles and\nlowers the foe's evasion.
+94f20c|Defog
+94f250|Rock Climb
+94f260|Fires a flash of light that\nmay (10%) lower Sp. Def.
+94f298|Flash Cannon
+94f2d8|Mirror Shot
+94f31c|Zen Headbutt
+94f32c|Uses psychic blades.\nHigh critical-hit ratio.
+94f360|Psycho Cut
+94f3a0|Mud Bomb
+94f3ac|Strikes first using the\nuser's shadow.
+94f3dc|Shadow Sneak
+94f3f0|May cause flinching or a\nburn (10% each).
+94f420|Fire Fang
+94f434|May cause flinching or\nfreezing (10% each).
+94f468|Ice Fang
+94f47c|May cause flinching or\nparalysis (10% each).
+94f4b0|Thunder Fang
+94f4bc|Strikes with a shadowy claw.\nHigh critical-hit ratio.
+94f4f4|Shadow Claw
+94f504|Hurls a chunk of ice that\nalways goes first.
+94f534|Ice Shard
+94f544|Avalanche
+94f54c|Strikes with a very fast\npunch. Always goes first.
+94f580|Bullet Punch
+94f58c|Thinks bad thoughts to\nsharply raise Sp. Atk.
+94f5bc|Nasty Plot
+94f5d8|Swaps items with the\nfoe at high speed.
+94f608|Switcheroo
+94f618|Causes a huge eruption.\n10% to lower Sp. Def.
+94f64c|Earth Power
+94f658|A low-altitude charge that\nalso hurts the user.
+94f68c|Brave Bird
+94f6a0|Attacks with nature's power.\n10% to lower Sp. Def.
+94f6d0|Energy Ball
+94f6e0|An all-out attack.\n10% to lower Sp. Def.
+94f710|Focus Blast
+94f720|Whirls its fists to send\nwaves that strike first.
+94f758|Vacuum Wave
+94f764|Drain Punch
+94f774|Attacks with rays of light\nthat sparkle like diamonds.
+94f7a8|Power Gem
+94f7e8|Dragon Rush
+94f7f8|Generates a shock wave to\ndamage the foe.
+94f82c|Dragon Pulse
+94f840|A huge sound wave that may\n(10%) lower Sp. Def.
+94f870|Bug Buzz
+94f878|Slashes the foe with\nblades, scythes, etc.
+94f8a8|X-Scissor
+94f8ec|Air Slash
+94f8f8|Bombards the foe with\na huge seed.
+94f924|Seed Bomb
+94f934|Swings its tail like a\nwave to attack.
+94f960|Aqua Tail
+94f96c|Has a high critical-hit\nratio.
+94f998|Night Slash
+94f9d8|Dark Pulse
+94fa24|Poison Jab
+94fa30|Polishes its body to\nsharply raise Speed.
+94fa60|Rock Polish
+94fa6c|A sphere filled with aura.\nIt can't be evaded.
+94fa9c|Aura Sphere
+94fae8|Force Palm
+94faf4|A charge that may (10%)\nburn. 33% recoil.
+94fb24|Flare Blitz
+94fb34|The user levitates using\nelectromagnetism.
+94fb64|Magnet Rise
+94fb6c|Makes a veil of water that\nrestores HP.
+94fb94|Aqua Ring
+94fba0|Swaps stat changes with\nthe foe.
+94fbd8|Heart Swap
+94fbe8|Scatters spikes that poison\nPokémon that switch in.
+94fc20|Toxic Spikes
+94fc30|Sucker Punch
+94fc3c|Changes the target's\nAbility to Insomnia.
+94fc6c|Worry Seed
+94fc78|Can only be used after all\nother moves have been used.
+94fcb0|Last Resort
+94fcbc|Does more damage if the foe\nhas raised stats.
+94fcf4|Punishment
+94fcfc|Swaps Def. and Sp. Def\nchanges with the foe.
+94fd34|Guard Swap
+94fd44|Swaps Atk. and Sp. Atk\nchanges with the foe.
+94fd7c|Power Swap
+94fd8c|Copies the last move\nused by the foe.
+94fdc0|Copycat
+94fdc8|Uses the foe's move with\ngreater power.
+94fdfc|Me First
+94fe08|Prevents critical hits\nfor 5 turns.
+94fe38|Lucky Chant
+94fe40|Nullifies the foe's Ability\nwith gastric juice.
+94fe74|Gastro Acid
+94fe7c|Swaps the user's Attack\nand Defense.
+94feac|Power Trick
+94febc|Wring Out
+94fec8|Prevents the foe from\nrecovering HP.
+94feec|Heal Block
+94fef8|The fewer PP it has, the\nmore damage it does.
+94ff20|Trump Card
+94ff2c|Transfers the user's status\nproblem to the foe.
+94ff58|Psycho Shift
+94ff64|Its power varies with the\nheld item.
+94ff94|Fling
+94ffa0|Prevents the foe from\nusing items.
+94ffc4|Embargo
+94ffcc|Gains power if the foe has\nbeen hurt this turn.
+950004|Assurance
+950010|Gains power if the user\nattacks last this turn.
+950048|Payback
+950064|U-turn
+950074|Retaliates against any hit\nwith great power.
+9500a0|Metal Burst
+9500ac|Sharply raises one\nrandom stat.
+9500d8|Acupressure
+9500e4|Whips up a turbulent wind\nthat raises Speed.
+950118|Tailwind
+950128|Pluck
+950134|Feint
+95013c|Its power varies with the\nheld Berry.
+95016c|Natural Gift
+950178|Double damage to a foe\nat half HP or less.
+9501ac|Brine
+9501b8|Healing Wish
+9501c4|A fast spin that does more\ndamage to faster foes.
+9501fc|Gyro Ball
+950240|Hammer Arm
+950284|Wake-Up Slap
+950290|Makes Dark types and evasive\nfoes easy to see.
+9502c4|Miracle Eye
+9502d0|Intensifies gravity,\nnegating flight and levitation.
+950308|Gravity
+950314|Restores up to half of\nthe user's HP.
+950344|Roost
+950388|Psycho Boost
+950394|Gathers intense sunlight\nand strikes 2 turns later.
+9503cc|Doom Desire
+950410|Water Pulse
+95041c|A very fast electric attack\nthat can't be evaded.
+950448|Shock Wave
+950454|Hurls boulders at the foe\n2 to 5 times in a row.
+95048c|Rock Blast
+950494|A mystic dance that raises\nAttack and Speed.
+9504c8|Dragon Dance
+9504d8|Slashes with a sharp leaf.\nHigh critical-hit ratio.
+950514|Leaf Blade
+950520|Focuses the mind to raise\nSp. Atk and Sp. Def.
+950554|Calm Mind
+950560|Soaks the user to resist\nFire-type attacks.
+950594|Water Sport
+9505a0|Attacks with a strange leaf\nthat can't be evaded.
+9505d8|Magical Leaf
+9505e8|A risky tackle that also\nhurts the user a little.
+950620|Volt Tackle
+950630|Cutely begs the foe for\nits held item.
+950660|Covet
+95066c|May (10%) poison. High\ncritical-hit ratio.
+95069c|Poison Tail
+9506ac|Shoots mud at the foe and\nlowers its Speed.
+9506dc|Mud Shot
+950720|Bounce
+950728|Bulks up the body to raise\nAttack and Defense.
+95075c|Bulk Up
+950768|Category depends on whether\nAtk or Sp. Atk is higher.
+9507a0|Frenzy Plant
+9507b0|Rakes the foe with sharp\nclaws.
+9507d4|Dragon Claw
+9507e4|A howl that lifts spirits\nand raises Attack.
+950814|Howl
+95081c|Blocks the foe's path so\nit can't escape.
+950854|Block
+95085c|Hardens the body to\nsharply raise Defense.
+950884|Iron Defense
+950890|Attacks by firing 2 to 5\nvolleys of icicles.
+9508c0|Icicle Spear
+9508cc|An extremely fast attack\nthat can't be evaded.
+9508f8|Aerial Ace
+950904|Fires 2 to 5 seeds in\nrapid succession.
+950938|Bullet Seed
+950978|Muddy Water
+9509c0|Sheer Cold
+950a00|Sand Tomb
+950a0c|A powerful, soaring\nuppercut.
+950a30|Sky Uppercut
+950a40|A very strange energy.\n10% to cause flinching.
+950a6c|Extrasensory
+950a78|An unavoidable punch\nthat comes from the shadows.
+950aa8|Shadow Punch
+950ab8|A strange beam attack.\n10% to cause confusion.
+950ae8|Signal Beam
+950af4|The more HP the user has,\nthe greater the damage.
+950b2c|Water Spout
+950b38|Raises Defense and Sp. Def\nwith mystic energy.
+950b6c|Cosmic Power
+950b7c|Makes the foe laugh to lower\nAttack and Defense.
+950bac|Tickle
+950bb8|A pleasant melody that\nlulls the foe to sleep.
+950be4|Grass Whistle
+950bec|A horrible screech that\nharshly lowers Sp. Def.
+950c1c|Metal Sound
+950c30|Silver dust that may (10%)\nraise all stats.
+950c68|Silver Wind
+950c7c|Hurls rocks at the foe to\nstop it and lower Speed.
+950cb4|Rock Tomb
+950cc0|Negates the foe's attempts\nto raise its evasion.
+950cf8|Odor Sleuth
+950d34|Overheat
+950d3c|A cutting wind that lashes.\nHigh critical-hit ratio.
+950d74|Air Cutter
+950d84|Crocodile tears that\nharshly lower Sp. Def.
+950db8|Fake Tears
+950dc8|Heals all status problems\nwith a soothing aroma.
+950e00|Aromatherapy
+950e10|The move's type and power\nvary with the weather.
+950e44|Weather Ball
+950e88|Astonish
+950ec8|Meteor Mash
+950ed8|Category depends on whether\nAtk or Sp. Atk is higher.
+950f10|Hydro Cannon
+950f1c|Category depends on whether\nAtk or Sp. Atk is higher.
+950f54|Blast Burn
+950f68|Tears at the foe and may\n(50%) lower Defense.
+950f9c|Crush Claw
+950fb0|Sharp fangs that may\n(50%) poison.
+950fe0|Poison Fang
+950ff0|High-frequency sound\nwaves that hurt.
+951020|Hyper Voice
+95102c|The user slacks off and\nrestores half its max HP.
+951060|Slack Off
+9510a4|Needle Arm
+9510b4|Lasts 5 turns and gains\npower each turn.
+9510e0|Ice Ball
+9510ec|Covers itself in mud to\nresist Electric attacks.
+951120|Mud Sport
+951134|High critical-hit ratio\nand may (10%) burn.
+95116c|Blaze Kick
+95117c|Confuses all Pokémon\non the field.
+9511ac|Teeter Dance
+9511b8|Wraps the foe in down to\nlower its Attack.
+9511f0|Feather Dance
+951200|A mist ball that may\n(50%) lower Sp. Atk.
+951230|Mist Ball
+951244|A flash of light that may\n(50%) lower Sp. Def.
+951278|Luster Purge
+951284|A burst of light that\ndrastically raises Sp. Atk.
+9512b4|Tail Glow
+9512bc|Changes the Pokémon's type\nto match its surroundings.
+9512f4|Camouflage
+951300|Throws straight punches\n2 to 5 times.
+95132c|Arm Thrust
+951354|Dive
+951360|This move's effects vary\nwith the location.
+951394|Secret Power
+9513a4|Steals the effect of the\nmove the target uses next.
+9513dc|Snatch
+9513e4|If the user faints, wipes the\nPP of the foe's last move.
+951420|Grudge
+951428|Heals poison, paralysis\nand burns.
+951458|Refresh
+951460|Stops the foe from using\nmoves the user knows.
+951490|Imprison
+951498|Swaps Abilities with\nanother Pokémon.
+9514cc|Skill Swap
+9514d8|The more HP the user has,\nthe more damage it does.
+951510|Eruption
+95151c|Gains power if the user\nhas less HP than the foe.
+951554|Endeavor
+951560|Knocks away the foe's\nheld item.
+951590|Knock Off
+951598|Makes the foe yawn and\nfall asleep next turn.
+9515c0|Yawn
+9515c8|Shatters barriers such as\nReflect and does damage.
+9515f8|Brick Break
+951604|Revenge
+951610|Recycles a used item so\nit can be used again.
+951644|Recycle
+951650|Reflects special effects\nback at the attacker.
+951688|Magic Coat
+9516d0|Superpower
+9516e0|Puts down roots to restore\nHP, but can't switch out.
+951718|Ingrain
+951720|Uses a random move known\nby a party member.
+951754|Assist
+95175c|Takes time, but grants the\nwish to restore HP.
+951790|Wish
+951798|Mimics the foe and copies\nits Ability.
+9517c8|Role Play
+9517d4|Tricks the foe into\nswapping held items.
+951804|Trick
+95180c|Powers up the target's\nmoves.
+951834|Helping Hand
+951840|Makes the foe use only\nattacking moves.
+951864|Taunt
+95186c|Charges power to boost the\nnext Electric move.
+9518a4|Charge
+9518ac|The type of attack\nvaries with the location.
+9518d4|Nature Power
+9518e0|Draws attention to make\nfoes attack only the user.
+951910|Follow Me
+951954|Smelling Salts
+951960|Slow, but fails if the\nuser is hit before it moves.
+951998|Focus Punch
+9519a8|Boosts Attack when burned,\nparalyzed or poisoned.
+9519e0|Facade
+9519e8|Faints the user and harshly\nlowers the foe's stats.
+951a18|Memento
+951a20|A very intense fire that\ninflicts a burn.
+951a4c|Will-O-Wisp
+951a58|Confuses the foe, but\nraises its Sp. Atk.
+951a84|Flatter
+951a8c|Torments the foe so it\ncan't use a move twice.
+951abc|Torment
+951ac8|A hailstorm that strikes\nevery turn.
+951af8|Hail
+951b04|Exhales a fiery breath\nthat may (10%) burn.
+951b34|Heat Wave
+951b40|Absorbs stockpiled energy\nto restore HP.
+951b6c|Swallow
+951b74|Releases stockpiled energy.\nThe more, the better.
+951ba4|Spit Up
+951bac|Stockpiles energy up to\n3 times.
+951bcc|Stockpile
+951c08|Uproar
+951c18|Strikes first on the first\nturn and may cause flinching.
+951c4c|Fake Out
+951c58|An attack by the whole\nPokémon party.
+951c7c|Beat Up
+951cc4|Whirlpool
+951cd4|An attack of brute force.\n50% to lower Defense.
+951d08|Rock Smash
+951d14|Builds inner energy to\nstrike 2 turns later.
+951d50|Future Sight
+951d94|Shadow Ball
+951da4|May (10%) raise all\nstats.
+951dd4|Ancient Power
+951de4|An extremely fast and\ndevastating attack.
+951e10|Extreme Speed
+951e20|Copies the foe's stat\nchanges onto the user.
+951e50|Psych Up
+951e5c|Counters a special attack\nwith double the force.
+951e8c|Mirror Coat
+951ed0|Crunch
+951edc|Boosts Fire-type moves\nfor 5 turns.
+951f10|Sunny Day
+951f1c|Boosts Water-type moves\nfor 5 turns.
+951f50|Rain Dance
+951f98|Twister
+951fa0|A double chop with a high\ncritical-hit ratio.
+951fd4|Cross Chop
+951fe4|Its effectiveness varies\nwith the user.
+952008|Hidden Power
+952018|Restores HP. The amount\nvaries with the weather.
+952048|Moonlight
+952054|Restores HP. The amount\nvaries with the weather.
+952084|Synthesis
+952090|Restores HP. The amount\nvaries with the weather.
+9520c0|Morning Sun
+9520cc|Takes its time, but never\nmisses.
+9520ec|Vital Throw
+9520fc|A claw attack that may\n(10%) raise the user's Attack.
+952134|Metal Claw
+95217c|Iron Tail
+952188|Allures the foe to lower\nits evasion.
+9521b4|Sweet Scent
+9521c4|Removes the foe's traps\nand raises Speed.
+9521f4|Rapid Spin
+952200|Hits hard if the foe\nswitches out.
+952230|Pursuit
+95223c|The foe repeats its last\nmove 2 to 6 times.
+952270|Encore
+95227c|Switches with a partner,\npassing on stat changes.
+9522a8|Baton Pass
+9522e4|Dragon Breath
+9522f4|A violent charge with\ntwisted horns.
+952320|Megahorn
+952330|Inaccurate, but confuses\nthe foe if it hits.
+952360|Dynamic Punch
+952370|A seismic shock of\nvarying intensity.
+95239c|Magnitude
+9523ac|A mystical fire that\nmay (50%) burn.
+9523d4|Sacred Fire
+9523e4|Adds the user's HP to the\nfoe's and shares it evenly.
+952418|Pain Split
+952428|A mystical force that\nprevents status problems.
+952458|Safeguard
+952468|Stronger the less the\nPokémon likes its Trainer.
+952498|Frustration
+9524a4|A bomb-shaped gift.\nIt may restore HP.
+9524dc|Present
+9524e8|An attack whose effect\ngrows with friendship.
+952518|Return
+952524|A chime that heals\nstatus problems.
+952550|Heal Bell
+952560|While asleep, uses a\nrandomly chosen move.
+952590|Sleep Talk
+95259c|Reduces the chance\nthat the foe attacks.
+9525cc|Attract
+9525d8|An evil eye that stops the\nfoe fleeing or switching.
+952610|Mean Look
+952620|Strikes the foe with\nstiff wings.
+952644|Steel Wing
+952654|Grows stronger when\nused repeatedly.
+952684|Fury Cutter
+9526cc|Spark
+9526d4|Restores up to half\nof the user's max HP.
+952700|Milk Drink
+952708|Causes confusion, but\nalso raises Attack.
+952738|Swagger
+952744|False Swipe
+952754|A 5-turn attack that\ngrows stronger each time.
+952784|Rollout
+95278c|Charms the foe to\nsharply lower its Attack.
+9527bc|Charm
+9527c4|Endures attacks for 1\nturn, leaving at least 1 HP.
+9527f8|Endure
+952800|Absorbs half the\ndamage it deals.
+952828|Giga Drain
+952834|A sandstorm that lasts\nseveral turns.
+952860|Sandstorm
+952870|A rampage lasting 2 or 3\nturns that confuses you.
+9528a0|Outrage
+9528a8|Locks on to the target so\nthe next attack can't miss.
+9528e0|Lock-On
+9528f0|Clubs the foe with a bone\n2 to 5 times.
+952924|Bone Rush
+952930|Detect
+952940|An icy attack that\nlowers Speed.
+952968|Icy Wind
+952978|After 3 turns of singing,\nfoe and user both faint.
+9529ac|Perish Song
+9529bc|If the user faints, the\nfoe faints with it.
+9529f0|Destiny Bond
+952a00|Negates the foe's attempts\nto raise its evasion.
+952a38|Foresight
+952a48|Inaccurate, but causes\nparalysis if it hits.
+952a78|Zap Cannon
+952a88|Scatters spikes that hurt\nfoes switching in.
+952abc|Spikes
+952ac8|Shoots ink to attack and\nlower (50%) accuracy.
+952b00|Octazooka
+952b10|Hurls mud in the foe's\nface to lower accuracy.
+952b40|Mud-Slap
+952b8c|Sludge Bomb
+952b98|Cuts the user's HP to\nboost Attack.
+952bc0|Belly Drum
+952bc8|Sweetly asks for a kiss and\noften causes confusion.
+952bfc|Sweet Kiss
+952c08|Draws close to the foe so\nthe hit never misses.
+952c38|Feint Attack
+952c40|Scares the foe to lower\nits Speed.
+952c6c|Scary Face
+952c78|A punch thrown so fast\nit strikes first.
+952ca8|Mach Punch
+952cb4|Protect
+952cc4|Blasts snow that may\n(10%) freeze the foe.
+952cf8|Powder Snow
+952d04|Spitefully cuts the PP of\nthe last move it took.
+952d34|Spite
+952d3c|The lower the user's HP,\nthe greater the damage.
+952d74|Reversal
+952d80|Sticks spores on the foe\nto lower its Speed.
+952db4|Cotton Spore
+952dc0|Shoots a blast of air that\noften lands a critical hit.
+952df8|Aeroblast
+952e04|Makes the user resistant\nto the last move's type.
+952e3c|Conversion 2
+952e48|Does more damage when\nthe user's HP is low.
+952e70|Flail
+952e78|Has a different effect\non Ghost types.
+952ea8|Curse
+952eec|Snore
+952efc|A fire attack that may\n(10%) inflict a burn.
+952f30|Flame Wheel
+952f3c|A sleeping foe loses\n1/4 of its HP each turn.
+952f6c|Nightmare
+952f78|Reads the foe's moves\nand acts accordingly.
+952fac|Mind Reader
+952fb8|Entangles the foe so it\ncan't flee or switch.
+952ff0|Spider Web
+952ffc|Removes the foe's held\nitem, if any. +50% power.
+953030|Thief
+953038|Kicks 3 times in a row,\nharder each time.
+953068|Triple Kick
+953078|Always copies the foe's\nlast move.
+9530a4|Sketch
+9530b0|Used only when out of PP.\nAlso hurts the user.
+9530e4|Struggle
+9530f0|Makes a decoy using\n1/4 of the user's max HP.
+95311c|Substitute
+953128|Slashes with claws, etc.\nHigh critical-hit ratio.
+953160|Slash
+95316c|Sharp fangs that cut the\nfoe's HP in half.
+9531a4|Super Fang
+9531b4|Fires three kinds of beams.\nMay have secondary\neffects.
+9531f0|Tri Attack
+9531fc|Changes the user's type to\nthat of a move it knows.
+953230|Conversion
+95323c|Raises the user's\nAttack.
+953260|Sharpen
+95326c|Attacks with sharp fangs.\nMay (10%) cause flinching.
+9532a8|Hyper Fang
+9532f4|Rock Slide
+953300|Sleeps for 2 turns to\nfully restore itself.
+953334|Rest
+953340|Throws a bone like a\nboomerang that hits twice.
+953374|Bonemerang
+953380|Rakes rapidly 2 to 5\ntimes.
+9533a4|Fury Swipes
+9533b4|Deals huge damage, but\nthe user faints.
+9533d8|Explosion
+9533e4|Pinches hard. High\ncritical-hit ratio.
+953414|Crabhammer
+953420|Turns liquid to sharply\nraise Defense.
+953450|Acid Armor
+953460|Has no effect at all.\nIt just splashes.
+953488|Splash
+953494|A psychic wave of\nvarying intensity.
+9534c8|Psywave
+9534d4|A flash that absorbs\n75% of the damage dealt.

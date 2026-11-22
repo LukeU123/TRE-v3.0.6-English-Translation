@@ -1,0 +1,320 @@
+2f5941|PRIMAL MOLTRES\pHP: 90\nATTACK: 85\lDEFENSE: 100\lSP. ATK: 185\lSP. DEF: 110\lSPEED: 110\lTOTAL: 680\pTYPE: FIRE/DRAGON\pABILITIES:\nDROUGHT/MULTISCALE/LEVITATE\pWe believe all other MOLTRES may\ndescend from this PRIMAL MOLTRES,\lone of a kind, and a member of\lthe DRAGON TYPE.\pIts offensive power rivals the\ndefensive power of PRIMAL\lARTICUNO.\pA MAJOR LEGENDARY in every sense.
+2f5b09|DELPHOX-&\pHP: 85\nATTACK: 79\lDEFENSE: 82\lSP. ATK: 164\lSP. DEF: 130\lSPEED: 119\lTOTAL: 659\pTYPE: FIRE/PSYCHIC\pABILITY: MAGIC BOUNCE\pThe second known starter to reach\nSTRONG BOND, wielding devastating\lPSYCHIC powers.\pIts FIRE TYPE gives it excellent\ncoverage against STEEL.\pIt trails ALAKAZAM-M and GENGAR-M\nin SP. ATK/SPEED ratio, but\lfactoring in its bulk and overall\lstats, its numbers (580 useful\lstats, 116 per stat on average)\lare all but unbeatable for any\lmere mortal.
+2f5d36|HYPNO-&\pHP: 95\nATTACK: 63\lDEFENSE: 110\lSP. ATK: 143\lSP. DEF: 165\lSPEED: 32\lTOTAL: 608\pTYPE: PSYCHIC\pABILITY: MAGIC BOUNCE\pIts psychic powers rose drastically\nthrough syncing with its TRAINER\land decades of seclusion. All of\lthis made it immune to any status\lchange, which, combined with\lBARRIER and RECOVER, can make it\lindestructible.
+2f5ed5|VOLCARONA-&\pHP: 95\nATTACK: 50\lDEFENSE: 75\lSP. ATK: 190\lSP. DEF: 135\lSPEED: 130\lTOTAL: 675\pTYPE: BUG/FIRE\pABILITY: MAGIC GUARD\pA POKéMON as unexpected as it was\nsurprising to us.\lIt shattered every expectation by\lcrossing what we thought was the\lhighest reachable SP. ATK, set by\lDEOXYS at 180 points.\pA POKéMON with the power of the sun,\nreflected in that infernal\l190 points of SP. ATK.\pNature is unlikely to ever again\nproduce a NON-LEGENDARY with such\lcharacteristics; with just 50\lATTACK points out of a total of\l675, it averages 125 points per\luseful stat, surpassing ARCEUS's\lsacred average (120).
+2f6195|MAMOSWINE-&\pHP: 120\nATTACK: 170\lDEFENSE: 105\lSP. ATK: 70\lSP. DEF: 85\lSPEED: 105\lTOTAL: 655\pTYPE: ICE/GROUND\pABILITY: REFRIGERATE\pSurprisingly, it reaches power\nlevels on par with a full MEGA\lPSEUDO-LEGENDARY; comparisons with\lMEGA-GARCHOMP are inevitable.\pMAMOSWINE-& matches it in ATTACK\n(170), beats it in SPEED, and their\ldefenses are similar.\pIt spent so long in extreme cold\nthat its body adapted, gaining\lREFRIGERATE as its ability.\pWith access to HEAD CHARGE, its\nramming power equals that of 5\ladult TAUROS lined up in a row.
+2f6413|PRIMAL ARTICUNO\pHP: 90\nATTACK: 85\lDEFENSE: 100\lSP. ATK: 115\lSP. DEF: 185\lSPEED: 105\lTOTAL: 680\pTYPE: ICE/WATER\pABILITIES:\nSNOW WARNING/LEVITATE/FUR COAT\pRanked as a MAJOR LEGENDARY, it's\nbelieved only one exists in the\lentire world, and all common\lARTICUNO descend from it.\pIts defenses are out of this world;\nits hide is impenetrable armor\lagainst physical attacks, while\lits SP. DEF is already absurdly\lhigh by nature.
+2f662e|EEVEE-&\pHP: 130\nATTACK: 60\lDEFENSE: 110\lSP. ATK: 130\lSP. DEF: 110\lSPEED: 110\lTOTAL: 650\pTYPE: NORMAL\pABILITY: PROTEAN\pA unique case: it evolves from\nEEVEE and directly receives the\l+125 boost relative to its other\levolved forms.\pIt changes to the type of any\nmove right before using it,\lgaining STAB from it.\pIt has BOOMBURST as a powerful\nSTAB for its default type.\pA movepool on par with MEW's, with\nendless options and possible\lstrategies.
+2f6852|SKELETON AERODACTYL\pHP: 80\nATTACK: 145\lDEFENSE: 95\lSP. ATK: 70\lSP. DEF: 105\lSPEED: 120\lTOTAL: 615\pTYPE: FLYING/GHOST\pABILITIES:\nSHADOW TAG/MOLD BREAKER\pA remnant of AERODACTYL's true wild\nform. The magic of the RUINS OF\lALPH sapped its SPEED, but it\lgained ATTACK and offensive range.\pAnother singular POKéMON guarding\nthe way to the most important\lchambers of the RUINS OF ALPH.
+2f6a10|MAROGHOST\pHP: 100\nATTACK: 140\lDEFENSE: 120\lSP. ATK: 50\lSP. DEF: 90\lSPEED: 70\lTOTAL: 570\pTYPE: GROUND/GHOST\pABILITIES:\nIRON FIST/UNSEEN FIST/SHADOW TAG\pThe spirit of a MAROWAK that cannot\ncross into the afterlife until\lthe wrong done in life is set\lright.\pMeanwhile, its power is used to\nguard the most hidden corners of\lthe RUINS OF ALPH.
+2f6b95|GHOST\pHP: 90\nATTACK: 60\lDEFENSE: 60\lSP. ATK: 165\lSP. DEF: 150\lSPEED: 115\lTOTAL: 640\pTYPE: GHOST/NORMAL\pABILITIES:\nLEVITATE/INTIMIDATE/SOUL-HEART\pWith one foot in our world and\nthe other in the afterlife, this\lduality makes its special powers\luncontrollable, granting it 4\limmunities to the most earthly\ltypes: NORMAL, GROUND, FIGHTING\land even GHOST itself.\pIt represents the peak a GHOST\nTYPE can aspire to, above GENGAR.
+2f6d94|GOLDEN UNOWN\pHP: 104\nATTACK: 104\lDEFENSE: 104\lSP. ATK: 156\lSP. DEF: 156\lSPEED: 104\lTOTAL: 728\pTYPE: FAIRY/STEEL\pABILITY: GOOD AS GOLD\pWe believe it's directly linked to\nthe ESSENCE POKéMON, forming part\lof it, with the sole purpose of\lguarding the deepest chambers of\lthe RUINS OF ALPH.\pIt pushes the FAIRY TYPE to its\nlimits, with more offense than\lMEWTWO and far, far sturdier\ldefenses.\pOnly the chosen few can take it\ndown before it takes them down.
+2f6fb0|COMPLETE KYUREM\pHP: 125\nATTACK: 170\lDEFENSE: 120\lSP. ATK: 170\lSP. DEF: 120\lSPEED: 95\lTOTAL: 800\pTYPE: DRAGON/ICE\pABILITY: NO GUARD\pThe incomplete form of the ORIGINAL\nDRAGON, the result of forcibly\lreuniting the TAO TRIO without the\ldirect intervention of the ESSENCE\lPOKéMON.\pEven so, it radiates power from\nevery pore, but unleashes it\linefficiently, with low SPEED and\lseveral weaknesses from its type\lcombination that still leave it\lvulnerable to mortals.
+2f71c8|PRIMAL HO-OH\pHP: 106\nATTACK: 70\lDEFENSE: 120\lSP. ATK: 150\lSP. DEF: 194\lSPEED: 140\lTOTAL: 780\pTYPE: FIRE/FAIRY\pABILITY: GOOD AS GOLD\pHO-OH's original form, only\nunleashed in the presence of the\lESSENCE POKéMON.\pTheories suggest the thinkers of\nthe BELL TOWER knew of this\lultimate form and of its closeness\lto the ESSENCE POKéMON, knowledge\lthat was lost in the fire 150\lyears ago.\pDragons flee from it. It shed its\npowerful PHYSICAL ATTACK, raising\leverything else to the highest\lheights its golden build allows.
+2f7431|PRIMAL LUGIA\pHP: 106\nATTACK: 70\lDEFENSE: 150\lSP. ATK: 120\lSP. DEF: 194\lSPEED: 140\lTOTAL: 780\pTYPE: PSYCHIC/WATER\pABILITY: ICE SCALES\pLUGIA's original form, only\nunleashed in the presence of the\lESSENCE POKéMON. Theories suggest\lthe thinkers of the ancient TIN\lTOWER knew of this ultimate form\land of its closeness to the\lESSENCE POKéMON, knowledge that\lwas extinguished along with the\lfire at that same TIN TOWER 150\lyears ago.\pGROUND and ROCK TYPES can do\nnothing against it. Its defenses\lare matched only by the 3 GREAT\lONES, and even then, with ICE\lSCALES, it is without a doubt the\lgreatest special wall of all time.
+2f7705|UNOWN KING\pHP: 114\nATTACK: 171\lDEFENSE: 114\lSP. ATK: 171\lSP. DEF: 114\lSPEED: 114\lTOTAL: 798\pTYPE: DARK/POISON\pABILITY: DARK AURA\pSent by ARCEUS to protect its\nresting place. We believe that\lcreating this UNOWN KING is\lwhere ARCEUS truly lost much of\lits energy.\pBuilt specifically to tear apart\nanything trying to enter the\lfinal chamber, its offensive\lpower is terrifying, and no\lPOKéMON is safe from it.
+2f78fc|PRIMAL ARCEUS\pHP: 150\nATTACK: 150\lDEFENSE: 150\lSP. ATK: 150\lSP. DEF: 150\lSPEED: 150\lTOTAL: 900\pTYPE: NORMAL\pABILITY: PROTEAN\pOne of the 3 GREAT CREATORS: the\none who made our own universe.\pIts score is perfect, golden and\nimpossible to equal, with 150 in\levery STAT, for a total of 900.\pIt has no gap or weakness at all,\nits offense is flawless and thanks\lto its ability it can turn into\lany type before using a move.\pThis POKéMON is considered\ninvincible in the wild, but mortal\lonce placed in the hands of a\lhuman, who is prone to error.
+2f7b87|ORIGINAL DRAGON\pHP: 125\nATTACK: 195\lDEFENSE: 120\lSP. ATK: 195\lSP. DEF: 120\lSPEED: 150\lTOTAL: 905\pTYPE: DRAGON\pABILITY: NO GUARD\pOne of the 3 GREAT CREATORS, it\nexisted even before the universe\lwas born.\pIts destructive power is\nunmatched, bringing it to a total\lof 905 BASE STATS, the greatest\loverall power of the 3 CREATORS.\pEverything about IT surpasses\nMEGA-RAYQUAZA, cementing its place\las the ancestor of all dragons.\pThis POKéMON is considered\ninvincible in the wild, but mortal\lin the hands of a human, who is\lprone to error.
+2f7dfd|MISSINGNO\pHP: 128\nATTACK: 130\lDEFENSE: 129\lSP. ATK: 196\lSP. DEF: 156\lSPEED: 156\lTOTAL: 895\pTYPE: GHOST/FAIRY\pABILITY: MAGIC GUARD\pOne of the 3 GREAT CREATORS, it\nmediates between the other 2 and\ldistributes its qualities the\lmost efficiently.\pWe had doubts as to whether its\npower was even measurable, but it\ltops out at a base 196 SP. ATK,\lthe highest ever recorded, and is\lalso extraordinary in every other\larea; nothing with a defined form\lcould ever reach these numbers.\pThis POKéMON is considered\ninvincible in the wild, but mortal\lin the hands of a human, who is\lprone to error.
+2f8090|RESEARCH ZONE FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pKANTO
+2f80e2|RESEARCH ZONE FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pJOHTO
+2f8134|RESEARCH ZONE FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pHOENN
+2f8461|{V01} received a DETECTOR-&\nfrom GIOVANNI!
+2f8492|{C1920}I suppose that after what happened\nat NAVEL ROCK, you're expecting news\labout LUGIA and HO-OH.
+2f84f4|{C1920}I regret to say we have nothing.\nI've already sent a team to\linvestigate the RUINS OF ALPH, and\lthe site, chambers and all, remains\lexactly as it was.
+2f8590|{C1920}Either way, the answer must lie in\nJOHTO. LUGIA and HO-OH have returned\lto their home region, I'm sure of\lit; perhaps ECRUTEAK CITY, the\lWHIRL ISLANDS{C080F}…{C080F}\pThey've been sighted in all those\nplaces in the past.\pPerhaps there we'll find answers\nthat will finally lead us to the\lESSENCE POKéMON.
+2f86cc|{C1920}But I didn't send you to JOHTO\njust to hunt LEGENDARIES. I also\lsent you to{C0819}…{C0819} record a part of\lits history before it's lost.
+2f8787|{C1920}Most of the documents you see\nhere are empty. You must be\lwondering what they're for.
+2f87ea|{C1920}This is NIDOKING-X. Remember it?\pI used it to test you before you\nfaced OAK. Feel free to look over\lall of its data if you like.
+2f8884|{C1920}We also have NIDOQUEEN-Y, which\nfocuses on SP. ATK.\pBoth POKéMON are the product of\nartificially enhancing the base\lpower of the NIDORAN family;\lspecifically, by 100 BASE STATS\lover NIDOKING and NIDOQUEEN.
+2f895d|{C1920}Other examples of POKéMON created\npurely through genetic engineering\lwould be BILL's PORYGON3 or\lBLAINE's MAGMORTAR-Y.
+2f89de|{C1920}But no. This room isn't reserved\nfor our most successful experiments\lalone; we'll also study every\lPOKéMON that nature and, above all,\lthe bond with its TRAINER, has\lgifted with the extraordinary.
+2f8ac5|{C1920}This is the main reason you'll be\ntraveling through JOHTO, {V01}.
+2f8b05|{C1920}That's right, RHYPERIOR.\pDon't confuse this POKéMON with\nthe previous two. This POKéMON was,\land still is, my RHYHORN, the same\lone that has been by my side for\ldecades. It didn't reach this form\lthrough any scientific alteration.
+2f8bf5|{C1920}I was the first to be surprised\nwhen my RHYPERIOR evolved\lonce more.
+2f8c44|{C1920}Our best SCIENTISTS have run\ncountless tests on it, and we've\ldecided to name this phenomenon\l-STRONG BOND-.\pIn battle, it is represented by\na -&-.
+2f8cf6|{C1920}The term STRONG BOND has been used\nin JOHTO since ancient times, and\lonly now are we beginning to\lunderstand its true meaning.
+2f8d89|{C1920}Only an extremely powerful\nconnection between a TRAINER and\ltheir POKéMON, unique and\lunrepeatable, seems capable of\ltriggering this phenomenon.
+2f8e1c|{C1920}We recently gained knowledge of\nMEGA EVOLUTION, which, together\lwith the experiments I mentioned,\lmakes it possible to raise a\lPOKéMON's power by 100 BASE\lSTATS.
+2f8ed0|{C1920}However, the STRONG BOND\nphenomenon surpasses those two\lother processes; it's the most\lpowerful method we know of for\lboosting a POKéMON's performance.\pTests revealed that my RHYPERIOR's\nSTATS rose by 125.
+2f8fbb|{C1920}What's more, those STATS seem\nto be distributed more efficiently\lthan with MEGA EVOLUTION or\lartificial modification.
+2f903b|{C1920}And that's not all.{C0819}\pThe most shocking discovery was the\nincrease in HP. This stat has always\lbeen tied to the deepest level of a\lPOKéMON's genetic code; it's the\lbackbone, unchangeable, the essence\lthat gives it its identity as a\lspecies.
+2f913b|{C1920}That STRONG BOND can alter\nHIT POINTS shatters everything we\lthought we knew, and opens up a new\lrange of possibilities that we're\lonly beginning to explore.
+2f91f0|{C1920}Do you see now why I want you\nto travel through JOHTO?\pNo other region has a tradition\nlike it, and the secrecy around its\lmost prominent TRAINERS, who didn't\leven deign to take part in the war,\lmakes me suspect that I'm not the\lone who discovered the STRONG BOND\lphenomenon.\pIn JOHTO, people have always spoken\nof that -bond- with your POKéMON,\land temples like SPROUT TOWER or\lthe BELL TOWER exist to honor the\lrelationship, the -bond-, between\lhumans and POKéMON.
+2f93ec|{C1920}That's why, {V01}, I want you\nto scour the region for its best\lTRAINERS. They'll be easy to\lspot, since the GYMS, though no\llonger valid for the POKéMON\lLEAGUE, are mostly still open.
+2f94e1|{C1920}That's what all the documents you\nsee here are for: to be filled in\lwith data on every exceptional and\lunique POKéMON.\pIf it's a STRONG BOND, all the\nbetter.\pTake this. It'll be vital for us\nto carry out this great project.
+2f95c7|{C1920}With this device, all information\non a POKéMON will be recorded just\lby having that POKéMON battle.\pThe data it gathers during battle\nwill be sent immediately to this\lroom's database.
+2f96ad|{C1920}I'm sure I needn't tell you to\nprepare well: if more STRONG BONDS\lreally exist, I'd rather not\limagine the power of a team of 6\lin the hands of such a TRAINER.
+2f9762|{C1920}I have nothing more to tell you,\n{V01}. Now you're probably\lwondering how to get to JOHTO:\lit's easy. Technically, it's right\lnext door.
+2f97dd|{C1920}Just use our teleportation\nsystem, in the room at the far\least end of our DEEP BASE.
+2f9860|{C1920}That's all. You'll hear from me\nsooner rather than later, {V01}.\pI have important business and deals\nto close in JOHTO as well{C0805}…{C0805}
+2f98f0|{C1920}You know something?\nThere's one thing that intrigues me…\pPerhaps the secrecy and frugality\nthese people live with is one of\lthe keys to reaching that state of\l-flow- with your POKéMON.
+2f99b6|{C1920}It was during my deepest seclusion,\nafter all the lies spread about me,\lthat RHYPERIOR and I, with nothing\lleft to lose, were able to reach\lthat point.
+2f9adf|GIOVANNI is very demanding of all\nof us. We work day and night,\lthough he never asks more of us\lthan he's willing to give himself.
+2f9b67|That's why sometimes I need an\nextra push to keep up the pace.
+2f9bb9|RESEARCH ZONE ON THE PROPERTIES\nOF THE EVIOLITE
+2f9c08|RESEARCH ZONE ON THE\nPROPERTIES OF THE\lSUPER EVIOLITE
+2f9c5d|POKéMON that benefit from EVIOLITE:\pCHANSEY, RHYDON, MAGMAR, ELECTABUZZ,\nPORYGON2, YANMEGA, RAICHU, MAROWAK,\lPINSIR, SCYTHER, SLOWBRO,\lURSARING, NOCTOWL, LEDIAN, XATU,\lGIRAFARIG, STANTLER, PILOSWINE,\lOCTILLERY, LINOONE, DUSCLOPS,\lBISHARP, DOUBLADE.
+2f9d61|POKéMON incompatible with EVIOLITE:\pNIDOKING, NIDOQUEEN, TAUROS,\nELECTRODE, AERODACTYL, ELECTIVIRE,\lMAGMORTAR, CROBAT, LEGENDARIES and\lpossible REGIONAL FORMS.
+2f9e0e|POKéMON that benefit from the\nSUPER EVIOLITE:\pABRA, PIKACHU, MAGNEMITE, SLOWPOKE,\nMANKEY, GASTLY, RHYHORN, PORYGON,\lELEKID, MAGBY, DUNSPARCE, YANMA,\lPAWNIARD, HONEDGE.
+2f9ebd|POKéMON incompatible with the\nSUPER EVIOLITE:\pMAGMAR, ELECTABUZZ, NIDORINO,\nNIDORINA, VOLTORB, GOLBAT, LILEEP,\lANORITH.
+2f9f8e|ROCKET HEAD ADMIN clearance is\nrequired to open this door.
+2f9fed|The EVIOLITE gives us valuable\ninformation on which POKéMON can or\lcan't evolve, although with some,\llike URSARING or RAICHU, it works\ltoo.
+2fa086|Could it mean those POKéMON have an\nevolution we don't know about, or\lthat the EVIOLITE activates under\lother conditions?
+2fa122|Some POKéMON can reach absurd\ndefenses with the EVIOLITE.\pDUSCLOPS can top REGIROCK in\nDEFENSE and REGICE in SP. DEF.\pPORYGON2 can have more DEFENSE\nthan REGISTEEL, and more SP. DEF\lthan LUGIA.\pEven non-defensive POKéMON like\nELECTABUZZ or MAGMAR can reach\lvery impressive levels.
+2fa27e|But that analysis leaves out a few\nthings, like the low HP these\lPOKéMON tend to have, the need to\linvest everything in defenses to\lget the most out of the EVIOLITE,\land the opportunity cost of giving\lup another possible item.
+2fa37a|The SUPER EVIOLITE is extremely\nrare.\pIt affects POKéMON that can still\nevolve twice, raising their\lATTACK, DEFENSE, SP. ATK and\lSP. DEF by 50%.\pIt also raises their SPEED\nby 30%.\pIt's believed a few may still be\nleft in JOHTO.
+2fa493|Some first-stage POKéMON can turn\ninto true offensive machines with\lthe SUPER EVIOLITE.\pABRA can outspeed MEWTWO, while\nalso beating its own evolved form,\lALAKAZAM, in SP. ATK.\pPORYGON can beat PORYGON-Z in\nSP. ATK, DEFENSE and SP. DEF.\pELEKID falls just a few points\nshort of ZERAORA in SPEED and edges\lit out slightly in ATTACK.\pPlus, POKéMON like DUNSPARCE or\nSLOWPOKE become great defensive\lwalls, balanced and with good HP,\lsomething very rare in first-stage\lPOKéMON.
+2fa7d4|{C1921}Not one step further, ROCKET.
+2fa7f4|{C1921}3 police officers should have\nbeen more than enough.\pMaybe my mistake was not hiring\n20 instead of 3.
+2fa868|{C1921}Either way, you've got no way\nout. Even if you beat me, the\lentire CERULEAN POLICE force is\lon its way.\pYou acted rashly{C0805}…{C0805}
+2fa8f6|{C1921}Still, it's not every day you\nsee someone take on and beat 3\lofficers at once.
+2fa956|{C1921}Since you'll be spending a long\ntime reflecting behind bars, I'll\lat least give you the honor of\lbattling me. Count yourself lucky.
+2fa9d8|{C1921}It's not every day someone gets\nto witness the great collection\lof BILL, the number 1\lPOKéMANIAC!
+2faa44|This has to be a joke.
+2faa60|-{V01} stole the patent-.
+2faa76|{C1922}MR. BILL?\pWe'd like to inform you that we\nhave the shed in your secret\lgarden completely surrounded.\pThat ROCKET has no way out.
+2faaf7|{C1921}Perfect.\nMake sure you take the patent off\lhim before you haul him away.
+2fab40|{C1921}It's over. Do whatever you like.\pYour only option is to go out and\nturn yourself in. Enjoy your last\lmoments with the patent in your\lhands.
+2fac0f|…\n…\pThis poster is covering a small\ntunnel that leads somewhere\lelse.\pDo you want to crawl through the\ntunnel?
+2fae73|{C1922}You're under arrest, ROCKET.\pYou've committed multiple crimes\nagainst the region and resisted\lauthority. Now hand over the\lstolen patent.
+2faefe|{C1921}Well… Shame it had to end like\nthis. Someone should have told you\lwhat happens when you mess with\lthe great BILL in this region.
+2faf8b|{C1921}What a waste, losing a TRAINER\nof your caliber in such a\lridiculous way. Seems your\lADMINS and EXECUTIVES aren't so\lgood when it comes to making\ldecisions.
+2fb03f|{C1921}How does it feel, knowing your\nown superiors sent you to the\lslaughter?\pI'm not surprised. You're nothing\nbut a bunch of thieves with no\lprinciples or judgment at all.
+2fb0e6|{C1921}Now you're all al…!
+2fb0fc|{C1906}You're wrong.
+2fb10d|{C1921}HEAD ADMIN ARCHER{C0805}…{C0805}
+2fb130|{C1903}I couldn't help overhearing\ncertain attacks on our\lorganization.\pAs you can see, here I am.\pYou're wrong. In TEAM ROCKET, we\nnever leave behind those who\ldeserve better.
+2fb1db|{C1903}No principles?\pThieves?\pI'm afraid those words fall far\nshort of what you people do in\lthis region.
+2fb25a|{C1921}STOP THEM, BOTH OF THEM!\pDON'T LET THEM ESCAPE!
+2fb286|{C1903}SKARMORY, FLY!
+2fb2a7|Time to face the consequences\nof your actions.
+2fb2e5|Say goodbye to your freedom. This\nlovely garden was your last\lcontact with the outside world.
+2fb368|English text.
+2fb3d7|SIR! You've become a true legend\nof TEAM ROCKET!\pYou've brought great honor to\nFIVE ISLAND, and I'd like to\lreward you with a POKéMON for it.
+2fb47c|We made a deal with a researcher\nfrom KALOS: in exchange for 5\lOMANYTE, he gave us 5 of this\lancient FOSSIL.\pOne is for you.
+2fb505|You obtained a Lv. 25 TYRUNT!
+2fb524|We tend to underestimate the new\ngenerations. I never imagined\lthat recruit induction would\lproduce two ADMINS as competent\las ANDRA and you.
+2fb5cc|Just do your job, recruit. What\nwe do here is way out of your\lleague.
+2fb633|That's right, our FIVE ISLAND\nbranch has this hidden basement.\pThis is where we inspect the\nPOKéMON before exporting them\lto KANTO.
+2fb6db|What you pulled off at the POKéMON\nLEAGUE was incredible! I feel\llucky to work for you, sir!
+2fb746|Consider yourself lucky, you work\nfor TEAM ROCKET now!
+2fb7a1|Winds of change are blowing\nthrough KANTO.\pDo you think they'll reach\nARCHI7 too?
+2fb7eb|Don't you have a job to do?\nWhat are you waiting for?\pYou're losing efficiency, and\nthat's not tolerated here!
+2fb85d|…\n…\lThere's a KINGLER inside.\lBetter not touch it too\lmuch…
+2fb8ad|…\n…\lThere's a NIDORINO inside.\lBetter not touch it too\lmuch…
+2fb8fe|Few people know that this\nwarehouse is actually our main\lsource of POKéMON trafficking.\lWe also run various experiments.\pAlthough our labs in KANTO are\nbetter equipped, here on FIVE\lISLAND we've reached some very\linteresting conclusions about\lmanipulating radio\lwaves{C0805}…{C0805}
+2fba45|That poor recruit…\pNothing annoys our best ADMIN\nmore than a do-the-bare-minimum\lattitude.\pDid he really expect us to just\nhand him a DRATINI for nothing?\pWe're a criminal organization,\nnot a charity!
+2fbb48|ROCKET CODE OF ETHICS AND CONDUCT:\p1. My place in the organization is\na privilege, not a right, and I\lmust earn it through action.\p2. Total loyalty and commitment to\nthe organization are\lnon-negotiable.\p3. Insubordination and betrayal\nare paid for with death.\p4. We act as a single body, unity\nabove individuality, which…\p5. …does not mean every Rocket\nshouldn't show initiative, always\lseeking to improve and become a\lbetter TRAINER.\p6. Arrive, analyze, adapt and\nwin.\p7. Every member of the\norganization counts, from the\llowliest Grunt to the highest\lranks. We work as one huge\lmachine where no one is left\lbehind.
+2fbe0f|…\n…\lThere's a RHYHORN inside.\lBetter not touch it too\lmuch…
+2fbe74|Everyone's at their posts. I\ncan't leave now.
+2fc10e|{C1903}Good, we're all here.
+2fc129|{C1903}For those who haven't heard yet,\nyou are now part of TEAM ROCKET,\lwith everything that entails.\pI am ARCHER, GIOVANNI's right\nhand, chief HEAD ADMIN and\lLEADER here in the SEVII\lISLANDS{C0805}…{C0805}
+2fc1f0|{C1903}Most of you will be transferred\nto KANTO immediately. Don't expect\la warm welcome from its citizens;\lyou'll be seen as the lowest scum\lin the region.\pMeanwhile, let's hand out your\nPOKéMON. You belong to the 4th\lsquad, so each of you will receive\la ZUBAT, imported directly from\lMT. MOON.\pAny questions?
+2fc362|{C1904}S{C0819}…{C0819}\pSir, I couldn't help noticing\nall those powerful POKéMON in the\lback, and I was wondering: how\ldoes our LEADER GIOVANNI expect us\lto do our job as well as\lpossible if he doesn't give us\lthe right tools for it?\pI don't mean to criticize, but a\nZUBAT isn't exactly a great tool.\lMaybe a NIDOR{C0805}…{C0805}
+2fc4be|{C1903}Enough.
+2fc4cd|{C1903}Here's what we'll do.\pSince you've prejudged GIOVANNI's\ndecisions and you're unhappy with\lour policy toward new recruits,\lthere's no reason for you to\lremain part of our\lorganization{C0819}…{C0819}\lFor your own sake, I hope you\ldon't say a single word about\lanything you've seen here.
+2fc5fc|{C1903}GUARDS!!\pTake him out of the BASE!
+2fc629|{C1903}{C0819}…{C0819}\pThe last thing this organization\nneeds is entitled people who\ldemand privileges before they've\lproven anything.
+2fc6a9|{C1903}A ZUBAT, though many of you\nthink it useless, can become one\lof the best POKéMON if you take\lcare of it.
+2fc71a|{C1903}GOLBAT is a POKéMON worthy of a\nROCKET ADMIN; none other than\lELITE FOUR member AGATHA has one\lon her team.
+2fc797|{C1903}CROBAT is one of the 5 best\nPOISON-TYPE POKéMON there\lare{C0819}…{C0819} Agile as an\lAERODACTYL, sturdy, yet lethal.
+2fc81b|{C1903}And you'd turn down that chance\njust because you'd have to go\lthrough training a ZUBAT?
+2fc881|{C1903}Here we give you the starting\ntool from which you can build\lbetter tools. That is GIOVANNI's\lwill: that you learn to climb\lyour way up from the very\lbottom.\pLet's begin handing out\nstarters.
+2fcb29|{C1903}RECRUIT NO. 4!!\pYou're not on the blacklist yet,\nand I hope I won't have to add\lyou on your first day!\lTake your starter, get back to\lyour post and stop wasting our\ltime!
+2fce67|So you want ZUBAT, the PLAGUE\nPOKéMON, as your starter?
+2fcea5|This POKéMON doesn't seem to have\nmuch energy.
+2fced1|No?\nToo bad, it's your only option\lanyway.
+2fcf03|You obtained a Lv. 5 ZUBAT!
+2fcf20|{C1903}Good. Now that you all have a\nPOKéMON, let me explain what your\lrole in our organization will\lbe.\pI'll keep it short: you're\nbasically here to do the dirty\lwork. Extortion, theft, settling\lscores; you'll clear the ground\land rake in as much dirty money\las possible.\pRight now, to me and the rest of\nthe world, you're the lowest of\lthe low. If you're competent, you\limprove and you do your job well,\lyou'll slowly earn respect,\lrewards and stripes. Not before.
+2fd118|{C1903}Recruits 5 through 13, the last\ntwo rows, you'll be transferred\lto KANTO immediately.\lThere's a ship waiting at the\lFIVE ISLAND port. Get your\lthings ready, you sail in 1 hour.
+2fd1cd|{C1903}Now, out of my sight!
+2fd1e8|{C1903}That leaves you 4.\pIt's tradition to keep a few of\nthe new ROCKETS we export to\lKANTO from FIVE ISLAND, at least\lto do jobs here. And you're in\lluck: this way you'll put off\lwitnessing the circus that\lregion has become.
+2fd2de|{C1903}Stop by my office and I'll give\nyou the details of your mission.\lIn the meantime, try out your\lPOKéMON. The recruits in the\lWAREHOUSE will be happy to battle\lyou.
+2fd387|{C1904} So we're staying on FIVE\nISLAND for now. That ARCHER\ldoesn't mess around. They don't\lsay only GIOVANNI is above him\lfor nothing. Did you see that\lrecruit's face when ARCHER went\lup to him to answer?\lI doubt he'll ever rest easy\lafter this.
+2fd4a0|{C1905} I seriously doubt he'll live.\pHe's seen enough that they won't\ntake the risk.\lAs for us, like ARCHER said,\lwe're TEAM ROCKET now. We'd\lbetter get to his office\lsoon.\pThere's not much else to do on\nthis island, after all.
+2fd5a5|This is the box ZUBAT\ncame from.
+2fd63b|Welcome to the ROCKET express\nhealing CENTER{C0805}…{C0805}
+2fd6d1|Ha!\pThe KANTO lot think we're idiots,\nbut we've got way more weapons\lthan they think!\pNever show all your cards,\nRECRUIT! Ho ho ho!
+2fd772|PETREL, the ADMIN in charge of\nthis BASE, is the kind of rival\lnobody wants to face. An expert\lin poisoning and self-destruct\ltactics, he can put any opponent\lin a tight spot. His WEEZING is\lalso very hard to take down for\lnon-PSYCHIC POKéMON, especially\lon the PHYSICAL side.
+2fd8b9|I've heard we have another BASE in\nJOHTO, where they're making great\lprogress on radio waves and their\lpossible effects on POKéMON.\pI'd love to visit it someday.
+2fd97b|{C080F}…{C080F}\n{C080F}…{C080F}\l(It seems to be resting, but at\lthe same time ready and waiting\lfor any order its superior might\lgive.)
+2fda15|We have a finite amount of\nwillpower that dwindles as we use\lit. Willpower isn't an expression\lof character, nor a resource you\lcan deploy without limit; rather,\lit works like a muscle that tires.\pBut like any muscle, it can be\ntrained.
+2fdb4d|I don't see anything wrong with\nwhat we do here. Everyone wins.\lJust look at those POKéMON.\pThey're happy in the company of\ntheir own kind.\pThey get stronger.\pThe TRAINERS are happy.\pAnd we make money!\pThat's life: whoever comes up with\nthe idea ends up making the money!
+2fdca2|We own over 70% of the POKéMON\ntrafficking market in the KANTO\lregion, thanks to the GAME CORNER\land the constant flow of POKéMON\lcoming from this BASE, the FIVE\lISLAND one and others.\pNobody comes close to us in that\ndepartment.
+2fdd96|Looks like it contains a SCYTHER.\nThey must get at least $110,000\lselling this POKéMON at the\lCELADON GAME CORNER.
+2fde16|Looks like it contains a DRATINI.\nThey must get at least $53,000\lselling this POKéMON at the\lCELADON GAME CORNER.
+2fde95|Apparently ARCHER, the EXECUTIVE\nwho runs the FIVE ISLAND\lWAREHOUSE, is the strongest of the\l3 ROCKET ADMINS. I heard he has a\lSCYTHER that can slice through\lanything with its blades.
+2fdf75|It feels great working knowing\nyou act on your own free will!\lNot like those KANTO citizens,\lmeek as lambs under the will of\lthe ELITE FOUR!
+2fe029|Nothing beats the freedom of\nliving outside the law!\lTEAM ROCKET RULES!!
+2fe08b|This BASE takes in over $1,000,000\na week in POKéMON care fees.\lWhat no outsider knows is that\lit's just a front for the real\lbusiness!\pSelling the EGGS made here earns\nus up to 20 times more than\lcaring for the POKéMON that lay\lthem!
+2fe1ce|Maybe it's a bit cruel to separate\nPOKéMON from their EGGS, but\lgenerally TRAINERS treat their\lPOKéMON well, even us ROCKETS.\pWhipping our POKéMON is a\nstereotype that's caught on,\lthough there really are people\llike that in our ranks.
+2fe2fe|We have cameras set up all over\nROUTE 5 that connect to this\lBASE.\pThat way we always have enough\ntime to set up the DAY CARE\lwithout raising suspicion!
+2fe6fa|{C1906}Welcome to our ROUTE 5\nDAY CARE BASE, new RECRUITS.\lYou're the last to join our\loperations in KANTO.\pI am PETREL, ROCKET ADMIN and\nthe boss in charge of this base.
+2fe7b7|{C1917}I'll keep it short.\pThis BASE's main purpose is to\nprovide financial support for\lour projects.
+2fe824|{C1917}Here we stick to researching\npotentially profitable businesses\land putting them into practice,\lall to bring in money for the\ltruly important\lprojects{C0805}…{C0805}
+2fe8e7|{C1917}I hear your performance on\nFIVE ISLAND was acceptable.\pWe'll see how you develop\nin KANTO.
+2fe94f|{C1917}As the rookie RECRUITS you are,\nfor your 2nd OFFICIAL MISSION,\lyour first in KANTO, you'll meet\lup with other recruits at\lMT. MOON, west of CERULEAN.
+2fe9f2|{C1917}Once there, you'll clear the\nplace of every FOSSIL, MOON STONE,\lNUGGET or other valuable. Give\lthe FOSSILS priority. They're\lworth a fortune on the black\lmarket, more than any POKéMON we\lcould sell at the CELADON GAME\lCORNER.
+2feaed|{C1917}When the job's done, come back\nhere so we can tally up the haul\land set your reward accordingly.\pAny questions?
+2feb83|{C1907}Hmmm{C080F}…{C080F} {C080F}…{C080F} I was wondering, SIR,\nhow our performance on the\lmission will be judged. Since\lthere'll be a lot of us, will you\lassess only the group, or each of\lus individually too?
+2fec40|{C1917}So we have a competitive\nRECRUIT{C080F}…{C080F} If what worries you\lis never rising through the\lranks because you're lost in the\laverage, let me make it very\lclear.\pThere are two ways to climb here:
+2fed19|{C1917}1 - For every group mission, we\nassess each individual's\lperformance.
+2fed70|{C1917}2 - We don't send RECRUITS en\nmasse on every mission. Some are\lsolo or in pairs, like yours at\lthe CONSUL'S HOUSE.\pOn those missions, your credit,\nor your blame, is greater.
+2fee24|{C1907}Understood.\pWe won't let TEAM ROCKET and its\nambitions down!
+2fee69|{C1917}Off you go.\pYour arrival in KANTO coincided\nwith this mission, so now you're\lracing the clock. There'll be time\llater to explain how things work\laround here.
+2fef07|{C1917}Bring me those FOSSILS and take\nout anyone who gets in your way!
+2fef44|{C1907}UNDERSTOOD, SIR!
+2fef58|{C1907}We're in luck, {V01}.\pWe've only just arrived and we\nalready have work. Let's grab all\lthose FOSSILS no matter who gets\lin our way. See you at the east\lentrance of MT. MOON.
+2ff057|A small jump is all it takes to\nreach the stairs up to the\lDAY CARE.\pDo you want to leave the BASE?
+2ff241|{C1917}RECRUIT {V01}…\pYour little stunt at MT. MOON\ndidn't go unnoticed. HIGH-RANKING\lGRUNT FRANK has already given me\lhis version of events, and told\lme how we could have ended up\lwith two more FOSSILS in our\lpockets.\pDo you have any idea how much\nmoney that is?\pHow many projects and resources\nwe could fund with it?
+2ff38d|{C1917}Right now, I could send you\nstraight to the cells and leave\lyou there long enough to think\labout what you did, or worse,\lkick you out of the\lorganization.
+2ff436|{C1917}However, your commander on the\nMT. MOON mission may be too harsh\land impatient, but away from the\lheat of the field his assessments\lare completely objective and\limpartial.
+2ff4fe|{C1917}It's not every day an ordinary\nRECRUIT stands up to and beats a\lcommanding officer.\pYou're either incredibly brave or\nincredibly stupid, or both.\pEither way, we'll find out.
+2ff5b4|{C1917}I have a mission for you. We'll\nsee how far your worth as a\lTRAINER and that -ROCKET code of\lhonor- you talked about at\lMT. MOON really go.
+2ff643|{C1917}But first, you must take\nresponsibility for your poor\lperformance.\pOn the black market, the estimated\nvalue of the lost FOSSILS is more\lthan everything you've contributed\lto TEAM ROCKET so far.
+2ff70c|{C1917}So, to make up for those lost\nearnings, you'll hand over to\lTEAM ROCKET all the cash you\lhave on you.\pAs punishment and as\nproof of loyalty.
+2ff7a5|You're left with $0.
+2ff7bc|{C1917}A fair price for a second\nchance, don't you think?\pI assure you, if you pull off\nthis job, money will be the least\lof your problems. If you succeed,\lTEAM ROCKET will save a fortune\lin transport and logistics.
+2ff89e|{C1917}You see, as you may know,\nVERMILION CITY's PORT has been our\llink between KANTO and ARCHI7.\pBut{C080F}…{C080F} the KANTO POLICE are\nwatching more and more closely.\lIt's getting harder and pricier\lto bribe sailors to import our\lgoods and recruits from\lFIVE ISLAND.
+2ff9be|{C1917}Your work silencing the CONSUL\nput a stop to that, but it's only\la matter of time before they shut\lus down{C0805}…{C0805}
+2ffa35|{C1917}Now, what's your mission?\pRumor has it that BILL, that idiot\nwho sees POKéMON as nothing but\lcollectible cards, has developed\la teleportation system that can\lcover great distances.
+2ffb0c|{C1917}Your mission is to pay him a\nvisit at his house north of\lCERULEAN CITY. He lives at the end\lof ROUTE 25. There you'll get the\lpatent or any information on that\lnew teleportation system.
+2ffbd6|{C1917}If you do manage to get useful\ninformation, our SCIENTISTS will\lbe able to build long-distance\llink points between FIVE ISLAND\land KANTO.
+2ffc71|{C1917}That would save us millions,\nand we'd stop relying on others.
+2ffcb4|{C1917}Here's your chance, {V01}.\pDon't disappoint me again.
+2fff41|{C1917}Now you, ANDRA.
+300200|{C1906}This is unacceptable, PETREL.
+30021b|{C1903}You should know that BILL is\nthe spoiled darling of this\lregion's elite. That guy always\lhas a personal guard watching\lhim from a safe distance.
+3002c6|{C1903}As if that weren't enough, the\nentire CERULEAN CITY POLICE\lforce keeps an eye on him.\lIt was reckless to send one of\lours to steal something so\limportant like that.
+300375|{C1903}Luckily for us, I managed to\nrescue {V01} at the last moment,\land with him the patent that will\lsave us millions in transport\land logistics.
+300413|{C1903}{V01}'s actions, beating\nmultiple officers, getting the\lpatent and holding on to it to\lthe very end, were decisive in\lthis mission's success.
+3004c1|{C1917}That's true, ARCHER.
+3004d6|{C1917}I apologize to you, {V01}.\pI ignored the risk you were taking.\nI should have guessed a figure\llike BILL would be better\lprotected.\pI was told you were a good TRAINER\nand figured you were strong enough\lto beat that show-off in a\lbattle, but I didn't count on the\lPOLICE reacting so quickly.
+3005f8|{C1917}How did you hear about this\nmission, ARCHER?\pI thought you were still in charge\nof our bases in the SEVII\lISLANDS.
+30066d|{C1903}And I still am.\pANDRA found out about the mission\nand told me right away.\pMy SKARMORY did the rest.
+3006e0|{C1903}I'll take my leave. There's\nwork to do on the islands.
+300715|{C1903}PETREL!\pMake sure these 2 recruits are\nproperly rewarded. From now on,\ltheir work is going to save us\lprecious time and millions.
+3007a8|{C1917}Understood, HEAD ADMIN ARCHER.
+3007c7|{C1903}Don't think I saved you because\nI have any special fondness for\lyou. You're a valuable asset to\lour organization and you acted\lin line with our values. That's\lenough{C080F}…{C080F}\pI'll see you both at future\nevents.
+3008a6|{C1917}ARCHER is efficiency\npersonified. That's why he's the\lhighest-ranking ADMIN in\lTEAM ROCKET.
+30090d|{C1917}As for you two, I apologize\nagain, especially to you,\l{V01}. Many thought FIVE ISLAND\lwas full of weaklings and\lincompetents.\pYou've proven them wrong.
+3009b9|{C1917}For the performance and loyalty\nyou've shown TEAM ROCKET, you're\lboth being promoted.
+300a0e|{C1917}You go from common foot soldiers\nto HIGH-RANKING GRUNTS.\lThat gives you the authority to\llead certain missions, like FRANK\ldid with you at MT. MOON, plus\lhigh enough rank to attend\lprivate meetings with our LEADER\lGIOVANNI.
+300b17|{C1917}Also access to certain privileged\ninformation, but all in good\ltime{C0805}…{C0805}
+300b6d|{V01} was promoted to\nHIGH-RANKING GRUNT!!
+300b9a|{C1917}To celebrate your new rank, and\nas payment for succeeding in\lyour respective missions, here\lare your rewards{C080F}…{C080F}\pTo you, {V01}, given the savings\nthat patent will bring, and to\lmake up for leaving you with\l$0 earlier{C080F}…{C080F}\pYou're entitled to the\nfollowing{C0805}…{C0805}
+300ca7|You pocketed $125,000!
+300cc3|{C1917}As for you, ANDRA…\pTipping off ARCHER was also\ncrucial, and you completed the\ljob I gave you in VERMILION CITY.\pIn your case, the reward\nis $75,000.
+300d61|{C1917}And now{C0819}…{C0819}\pLet's talk about your next\nmission. You both know about the\lS.S. ANNE, right?
+300dba|{C1907}The famous ocean liner\nthat just docked in\lVERMILION CITY.
+300dfd|{C1917}Exactly.\pIt's tradition to throw a big\nannual party there before it\lfinally sets sail{C0805}…{C0805}
+300e63|{C1917}I don't want you using the\noccasion to steal POKéMON or goods.\pWhat I want is much smaller and\nmuch more valuable{C0819}…{C0819} a jar.
+300ef6|{C1907}A jar?
+300f05|{C1917}The S.S. ANNE's CAPTAIN has\ntraveled to countless regions and\lmade innumerable voyages around\lthe world.\pOn one of them, he found what\ncould be a fragment of a POKéMON.\pSomething that doesn't match\nanything we know.
+300fea|{C1917}We know he keeps that fragment\nin a jar.\lHe's shown it off in several\linterviews; he always carries it\lwith him and never parts with it.
+30107e|{C1917}So you'll get into his cabin\nand take it from him by force.\pYou'll have no choice but to\nbattle, which is why I'm sending\lyou two.
+3010fe|{C1907}And how will we sneak onto\nthe ship?\lI understand that without a\lTICKET, they'll never let you on.
+301164|{C1917}I've arranged a way around\nthat, a bit crude but effective.\lYour partner will be waiting for\lyou at VERMILION's PORT. Don't\lworry, you'll pick him out from\lthe rest in no time.
+30123e|{C1917}One more thing.\nKnow that this mission comes at\lGIOVANNI's express request{C0805}…{C0805}
+30128f|{C1917}Our LEADER believes that material\nmay belong to an extremely\lpowerful LEGENDARY POKéMON.\lHe doesn't want to miss the\lchance to get his hands on it\land study it before the S.S. ANNE\lvanishes from KANTO until next\lyear.
+301388|{C1907}Consider it done!
+30139c|{C1917}I trust you both. You've\nboth proven you can handle\lyourselves in battle.
+3013e4|{C1917}That CAPTAIN has been hardened\non seas all over the world. Only\la remarkable TRAINER could\ldisarm him.
+30144e|{C1907}We'll be outstanding, SIR!
+301478|{C1917}That's all, gentlemen.\nThe sooner you reach the\lS.S. ANNE, the more time you'll\lhave before it sails. Good\lafternoon.
+3014f0|{C1907}Let's go, {V01}.\pThe S.S. ANNE is ours!
+301803|{C1917}Excellent work, recruits.\pGIOVANNI will be eager to start\nstudying the contents of that\lrelic.
+301875|{C1917}Here's your reward.
+301898|You pocketed $80,000!
+3018b3|{C1917}Also, take these.\p20 GREAT BALLS each. Two\nrecruits like you ought to have\lthe means at your disposal.
+301929|{C1917}Now, make yourselves comfortable.\nWe have a lot to discuss.
+301965|{C1917}First of all…\pThanks to the patent {V01}\nstole, our SCIENTISTS are about\lto create instant long-distance\llink points.
+3019fb|{C1917}The new invention will let us\nlink this base with the FIVE\lISLAND one, and above all with\lour main center of operations,\lthe CELADON BASE.
+301a9e|{C1917}Back at MT. MOON, you showed a\ncertain quirk that broke the\lmold of the average soldier.\pYou were given a chance, with two\nfairly complex missions to test\lyou, and you've lived up to\lexpectations.
+301b84|{C1917}In light of recent events,\nGIOVANNI himself informed me that,\lif you also pulled off the theft\lon the S.S. ANNE, you're to be\ltransferred to the main base\limmediately.
+301c43|{C1917}In other words, from now on,\nyou'll be part of GIOVANNI's\lpersonal guard.
+301c9f|{C1917}Count yourselves lucky, and\nabove all, measure up. There,\lyou'll work with the damn elite\lof our organization.
+301d0f|{C1907}We're ready, ADMIN\nPETREL!
+301d3d|{C1917}I hope so. Your transfer will\ntake place once we finish fine-\ltuning the teleport network.\lThat way, you won't have to walk\lall the way to CELADON CITY.
+301dd7|{C1917}In the meantime, you've earned a\nwell-deserved rest. Since you\larrived, you've pulled off three\lmissions in a row with good\lresults, so I'm granting you this\lperiod, until your transfer, as\lfree time.
+301eb4|{C1917}I recommend you relax and\nexplore KANTO.\pUse the time to train your\nPOKéMON too, catch some new\lones, and above all prepare\lyourselves mentally for your\ltransfer. You must present\lyourselves to GIOVANNI in the\lbest possible shape.
+301fb8|{C1917}This BASE is a stinking,\nRATTATA-infested shed compared to\lthe clean, spotless offices of our\lunderground HQ in CELADON.
+30204a|{C1917}And one more thing. When you\narrived, I promised to give you\la general overview of KANTO.\lBut the urgency of the MT. MOON\lmission meant you ended up\lmissing that basic training.
+302110|{C1917}Now that you've been here a\nwhile and things are calmer,\lI'll ask you:\pWhat do you make of the people\nof KANTO?
+30218f|{C1907}They're a bit different from the\npeople of FIVE ISLAND. Being a\lROCKET here seems to carry a huge\lstigma. People point at you with\lcontempt, even when you haven't\lgiven any sign of doing anything\lwrong.
+302266|{C1907}In general, KANTO hates us.\nIt's as if{C080F}…{C080F}
+302297|{C1917}…someone convinced them that we're\nthe villains of the story.\pExactly, ANDRA, exactly.
+3022f9|{C1917}LANCE now governs KANTO, and\none consequence is that he can\ltwist the narrative however he\llikes.
+302361|{C1917}The reality is that we're a\nprivate organization with no\lchoice but to turn to organized\lcrime to take back what's ours;\lnot the amoral, murderous crime\lsyndicate they make us out to be\lfrom the gates of INDIGO PLATEAU.
+30245e|{C1917}You'll learn how things work\naround here soon enough,\lespecially now that you're\lheading to CELADON CITY.\lGIOVANNI will be delighted to\lfill in two capable youngsters\llike you.
+302521|{C1917}That's all. Enjoy the free time\nyou've earned, and when the\lmachine is ready, you'll get a\lcall.
+30259a|{C1907}YES, SIR, ADMIN PETREL!
+3025bb|{C1907}{V01}!\pI'm going to train on ROUTES 9\nand 10, east of CERULEAN CITY.\lNow that we have CUT, we can\lget there.\pIf you're looking for me, that's\nwhere I'll be!
+302708|{C1907}Looks like LANCE is making an\nofficial announcement. It's on\lTV right now.\pWe're going to miss it!
+30288c|{C1904}This is horrible!\pWhat are we going to do now?!
+3028bd|{C1917}Calm down, RECRUIT.\pWe have more than enough\nresources to manage on our own.\lAll this means is that they see\lus as a threat.
+302950|{C1917}Why are you all standing around?!\nEveryone, back to work!
+302993|Yes, sir, ADMIN PETREL!
+3029ae|{C1917}ANDRA, {V01}, my office,\nright now.\pI have news for you.
+3029f4|{C1907}Right away, SIR!
+302a4c|{C1918}HIGH-RANKING GRUNT {V01}, at\nlast! Thanks to the patent you\lstole from BILL, we've finished\lthe teleport link project between\lbases. You can use it whenever\lyou like from now on.
+302b17|{C1918}ANDRA just teleported to the\nCELADON base as you were both\lassigned. They're waiting for you\lto arrive at HQ to get you two\lsettled into your new\lsurroundings.
+302bd8|…\n…\l-This machine's development\lseems to still be in its very\learly stages-.
+302c5c|The machine is ready for use.\nDo you want to teleport to the\lCELADON BASE?
+302db5|Thanks for your purchase!
+302e8d|How's it going, comrade?\pWhat can I do for you?
+302ebe|Sure you want VOLTORB?\nIt'll cost $9,000.
+302eed|Sure you want KOFFING?\nIt'll cost $11,000.
+302f1d|Sure you want MANKEY?\nIt'll cost $8,000.
+302f4b|Sure you want RATTATA?\nIt'll cost $3,000.
+302fa5|{C1917}Kid, you should know that\nROCKET ADMINS aren't to be\linterrupted over trivialities.\lOur time is far too valuable.
+30302a|{C1917}It was an honor for me to be\nyour HEAD ADMIN during your first\ltaste of KANTO. You've proven\lthere are still ROCKETS worth\ltheir salt. I only hope you and\lANDRA live up to the demands of\lour great LEADER, GIOVANNI.
+303155|We're working on a long-distance\nteleport system to connect the\lCELADON CITY base with this one.\pDo you know how much money we'd\nsave on transport if we pull it\loff?
+303229|We did it!\pAll thanks to your successful\nmission stealing the patent from\lthat spoiled brat BILL!\pUse the system as much as you\nlike. Just interact with the\lmachine to access teleport mode!
+30335d|Choose the POKéMON to enhance.
+303385|As you wish, HEAD ADMIN.
+3033a3|It'll cost just $100,000.\nAre you interested?
+3033d1|We've developed technology that can\nunlock 100% of a POKéMON's genetic\lpotential.
+30342c|Thanks to it, any POKéMON that\nundergoes our treatment will have\l31 IVs in all 6 STATS.
+3034b4|Welcome to the express healing\nCENTER{C0805}…{C0805}
+3034e3|And done!\pAll your POKéMON are in top\nshape again!
+30352b|We want KANTO to think we're a\nbunch of brainless losers. You\lcan't properly defend yourself\lagainst something you don't know.
+3035bc|GIOVANNI is the best LEADER we\ncould have. He'll never let\lTEAM ROCKET fall.
+30361d|Every great business is built\naround a great secret hidden from\lthe outside world, kid.\pThis place is one of our great\nhidden secrets.
+3036b6|You're in AREA 1 of the real\nROCKET BASE. Here we try to\lunderstand and draw out the full\llatent potential NON-LEGENDARY\lPOKéMON can offer us, which in\lsome cases is no small thing.
+303788|They say Dr. Stephen Covey's\n-The 7 Habits of Highly Effective\lPeople- helped GIOVANNI boost the\lorganization's tangible\lperformance by 20%.
+30383e|Right now, KANTO looks like a\nparody of those great dystopian\lnovels of the 20th century: -1984-\land -Brave New World-. KANTO isn't\las controlled as Orwell describes,\lthough its citizens are swamped\lwith overwork.\pAs for -Brave New\nWorld-{C0819}…{C0819} the illusion of the\lPOKéMON LEAGUE and the dream of\lbecoming a POKéMON master could be\lthe modern dose of soma that keeps\lKANTO sane.
+3039ed|Try to automate the transitions\nbetween activities as much as you\lcan. Don't give them any slack or\lyou'll get lost in them, and lose\lhours of your time every day.
+303a96|Those in power know the laws so\nwell it looks like they're\lcheating. In fact, they've set up\lthe laws to cheat, so the only\lalternative is to rise up by\lforce, since there's no such\lthing as justice.
+303b8e|Comfort imprisons people in a\nvery low tolerance for pain.\lThat's why the people of KANTO\lare the way they are.
+303c18|The last century has shown how\nheavily the economy depends on\lscience. Either way, we have to\laccept the rules of the game, and\lif we have to sell PORYGON at\l$200,000 apiece, so be it.
+303ce7|Sometimes the laws of nature can\nbe stronger than our personal\ldesires. PIDGEOT is KANTO's\lbenchmark bird among the\lNON-LEGENDARIES, the most\lpowerful, with 479 BASE STATS to\lits name. It must have gone\lthrough a long process to become\la majestic PIDGEOT, which, showing\loff all its latent power and full\lpotential, can undergo the\lphenomenon of MEGA EVOLUTION,\lcatapulting it to 579 BASE\lSTATS{C0819}…{C0819} Just 1 point short of\lthe 580 that mark the 3\lLEGENDARY BIRDS. A coincidence?\lI don't think so.\pIt's as if those legendaries were\ntelling it: -No matter what you\ldo, we're cut from a different\lcloth. We're the chosen ones. Do\lwhat you like, you'll never catch\lus.- Although we believe here\lthat potential can be amplified\lto unimaginable limits, we also\laccept that there's a ceiling set\lby the very laws of the\luniverse.
+3040aa|Parkinson's law holds that work\nexpands to fill the time\lavailable for its completion. So\lif you have 12 hours to do a\ltask, you'll tend to finish it in\l12, whereas if you were given 9\lhours for that same task, you\lcould just as well finish it in 9.\pThat's why I say: pay yourself\nfirst. Start the day with the\lkind of tasks that are important\lbut not urgent, the ones that\lwould make a huge difference for\lyou in the long run. That way you\lput this law to work, since\lyou'll be forced to do those\ltasks, now important and urgent,\lin less time. And believe me, you\lwill. When a human is forced to\lengage all their senses, their\lintuition, when they're pushed\lagainst the ropes, they perform\lbetter than they'd ever imagine.\lOtherwise, Parkinson's law\lwouldn't exist.
+3043ea|Fate or free will?\pThe answer to that question isn't\nup to you, so shut your damn\lmouth and get off your backside\lalready. That much might be up\lto you, and that's enough.
+3044bc|KANTO belongs to us now.\pLANCE ended up resting on his\nlaurels, and you made him pay\lfor it.
+30451a|LANCE's government is very\ncomfortable in its position, and\lthat's exactly its weak spot.\lThey're resting on their laurels\land they'll pay for it.
+3045ae|Genetics. A crucial word.\pWhy is MAGIKARP so weak?\pWhy are the sacred birds so\nstrong?\pIt's all in the genes. Here we\nresearch the limits of genetics,\ltrying to draw out the maximum\lpotential of the region's\lstrongest POKéMON.
+3046c6|This room was meant for reviewing\nour progress and setting new\lgoals.\pHowever, other areas handle that\nnow. I guess that's the risk you\lrun building a place like this:\lthe bigger it is, the more spare\lspace. Still, better to overshoot\lthan fall short.
+30480a|You won't see many TRAINERS with\nPOKéMON like PINSIR, SCYTHER,\lTAUROS, KANGASKHAN or EEVEE's\levolutions.\pWhat they all have in common is\nthat they're considered both\lstrong and rare, and they can be\lfound in the SAFARI ZONE.
+3048f7|The feeling of anticipation,\noptimism, planning and big plans\lfor the future in the air here is\lunique, can't you feel it?\lSpend a week here and you'll be\labsolutely certain you can achieve\lanything you set your mind to.
+3049e9|Someone once said obsession is the\nword lazy people use to describe\lthe dedicated. It's almost a\lgiven that as soon as you start\lto stand out at something, to\lsome degree, they'll call you\lobsessed. But what's wrong with\lwanting to explore your limits in\lany area?\pIt can only make you stronger\nand more aware of the parameters\lthat govern this world.
+304b7a|Here we champion steady, gradual\nprogress, but we also know the\lunmatched potential of intuition\land spontaneity. Just look at an\linspired athlete to see that\lpotential. When someone is in the\lso-called -flow state-, they can\lscore 5 goals in 10 minutes, or\ltear apart the 11-time champion\lwith a 7-game run to love.\lControlling all the variables\lthat lead to those states is\lbrutally complicated, but if we\lcould reach that state and\lsustain it over time, we'd unlock\lpractically 100% of human\lpotential.
+304df6|Few people know TEAM ROCKET wasn't\nactually founded by GIOVANNI, but\lby his mother, MADAME BOSS.\pShe poured all her efforts into\ncatching the legendary MEW, the\lancestor of all POKéMON, back\lin 1975.\pIf she could see all we've\nachieved today{C0805}…{C0805}
+304efb|Out there, reality gets warped in\nevery way possible, and it's\lunderstandable. In politics or\lreligion, two and two can make\lfive. Here, though, it's\limpossible to ignore physical\lfacts. You can't cheat the\lfundamental laws of this world.\lIf you want to optimize a\lPOKéMON's performance, or find\lthe ideal BASE STAT spread, two\land two must make 4.
+30509b|Why do we put so much weight on\nnumbers and results?\pWe believe that everything, from\nthis city to the whole region,\lthrough the seasons of the year,\lthe passing of generations and\llife itself, all of it exists\lprecisely so we can see what can\lbe done with it, what changes we\lcan make and how far the\lpotential of all these natural\llaws can be stretched. Making\lvisible progress in a reasonable\lperiod of time is one of the\lgreatest purposes through which\lwe can come into contact with\lwhat many in LAVENDER TOWN call\l-the essence-. That will make us\lappreciate both our surroundings\land the time we have more. And to\lachieve that, we need constant,\lregular assessments. Numbers are\lfundamental.
+3053be|Competition these days is fierce,\nkid. Never again in history will\lany single sector be so important\lthat just taking part in it is\lenough to build a great company.
+3054b8|If people knew the benefits of\nsustaining a small improvement\lover the long term, they'd start\lbeing consistent in everything\lthey do. Do you think adding\l2 KG a month to your bench press\lis a lousy improvement?
+30558e|Keep it up for a year and you'll\ngain 24 KG. If you already lifted\l130 KG, going from 130 KG to 154\lis a huge difference.\lSounds harder now, huh?
+305621|But if you do about 10 workouts a\nmonth, you can see each one as a\lunique chance to build and\lachieve those 2 KG.
+3056b2|From that angle, psychologically\nit feels like you could keep\lprogressing forever, though at a\lcertain point, the limits hit\lhard{C0805}…{C0805}
+305761|Heh heh heh!\pFunny thing, we're 40 meters\nunderground, but we've got\lCELADON CITY right above us.\lFrom here, we'll control it all!
+305804|Nothing is lost in the past. For\nbetter or worse, nothing can undo\lyour past actions. It's all\lstored forever, not wiped out by\ltransience{C0819}…{C0819} and that's\lanother kind of immortality too.
+3058ea|They say thinking is free.\nHow ironic.\pNot doing it is costing the\npeople of KANTO a fortune!
+30595e|Your team is imperfect, I can see\nthat, though I'll admit that for\lyour resources, it's a much\lbetter team than all that scum\lroaming the ordinary routes and\lcities calling themselves\lTRAINERS{C0819}…{C0819} The best TRAINERS\lin this region don't show\lthemselves so easily.
+305a8a|NIDOKING and NIDOQUEEN are two of\nthe POKéMON our organization\lprizes most. Get your hands on\leither one, and everyone here\lwill respect you.
+305b2b|The fountain is a great symbol of\npower, abundant resources and\lhierarchy. No one can outdo\lTEAM ROCKET. That's why we had a\lfountain built 1.5 times bigger\lthan SILPH's.
+305bfa|This place is one of the greatest\nexamples of the power of science.\lDo we lose performance, capacity\land health by being cut off from\lnature?\pThen we bring nature right into\nour offices! HAIL GIOVANNI!
+305ce0|SILPH's PRESIDENT and GIOVANNI\nhave always had an intense\lrivalry. If SILPH found out about\lthis pool, their PRESIDENT would\lbuild an even bigger one just to\lcome out on top, even if he had\lto put it on the roof. But he'd\lbuild it{C0805}…{C0805}
+305e06|The price of items that boost a\nPOKéMON's effort level (PROTEIN,\lIRON…) and the price gap between\lthis place and the outside says\lit all.\pOut there, they put all kinds of\nobstacles in front of the average\lTRAINER, who can't afford those\lsky-high prices.\pYou pay for speed and convenience.\pIf you train your POKéMON\nproperly, in the long run you\lwon't need VITAMINS, but few\lknow how to train properly these\ldays…
+305fd7|The truth is, there's nothing\nspecial about our region. Many\lthink we have the best POKéMON,\lsome even believe only KANTO's\l150 exist, but the reality is\lthat other regions have POKéMON\lfar more powerful than anyone\lhere in KANTO could imagine.\pSome, like HOENN, have 2\npseudo-legendaries. In JOHTO,\lLUGIA and HO-OH have power we\lcan't even come close to here.\lHOENN too.\pBut here in our KANTO, our\npseudo-legendary DRAGONITE and\lthe legendary MEW are the peak.\pSo the only weapon KANTO can use\nto compete with other regions is\lits technology{C0805}…{C0805}

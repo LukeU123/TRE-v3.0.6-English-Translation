@@ -1,5 +1,8 @@
 # Pokémon Team Rocket Edition v3.0.6: English Translation (work in progress)
 
+> **Note on the official translation (23 Nov 2026):** the Team Rocket Edition developers have said their own official English translation, for **v3.1.0**, is close to completion and expected in the next 1–2 months.
+> This project is an **unofficial** fan translation of **v3.0.6**. It isn't affiliated with or endorsed by the developers. Work continues in the meantime, but once the official v3.1.0 English release is out, please use and support that version. This project will then be kept only as an archive of the v3.0.6 translation.
+
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
 **Status:** about 20,000 strings translated, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.

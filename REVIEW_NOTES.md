@@ -50,4 +50,5 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 - Type icons: VENENO, VOLAD., SINIE., PLANTA, ... (all 18 types plus "?")
 - The "Nv" level glyph (the font tile for [Lv]; it should read "Lv")
 - Naming screen: ELEGIR / OK / VOLVER header, plus the minús., SELEC., ATRÁS and BOTÓN B buttons
+- PC storage screen: the EQUIPO PkMn (PARTY PKMN) and CERRAR CAJA (CLOSE BOX) buttons, and the INFO PkMn header
 Fix approach (a separate task): find the LZ77-compressed tile sheets, decompress them, redraw the English labels in the same pixel font, recompress, then repoint or write them back. Mostly in the summary-screen, menu and font graphics.

@@ -26,7 +26,7 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 - [x] Chunk c36 (Pokédex entries)
 - [x] Consistency pass, round 1 (KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling)
 - [x] Redo of the mid-sentence strings (23 of 27; the rest are fragments or species names)
-- [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
+- [x] Chunks c33–c35 (items, moves, battle text, Pokédex). The lines still untranslated there are deliberate skips: already English (expansion data), species names, music/debug labels, or junk bytes
 
 ### To do
 - [x] Chunk c38: natures, ability descriptions, place names, bag/shop UI, trainer quotes

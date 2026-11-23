@@ -38,3 +38,5 @@ c36 507/507 translated
 c37 410/410 translated
 c38 1183/2036 translated
 cAB 318/320 translated
+
+Note: c33, c34 and c35 are complete. Their untranslated lines are deliberate skips (already English, species names, MUS-/debug labels, junk bytes, or mid-word fragments that were redone at their true start).

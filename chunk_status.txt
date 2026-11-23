@@ -30,11 +30,11 @@ c28 675/678 translated
 c29 806/806 translated
 c30 617/643 translated
 c31 595/595 translated
-c32 496/1231 translated
+c32 682/1231 translated
 c33 1466/2472 translated
 c34 2091/2303 translated
 c35 820/1589 translated
 c36 507/507 translated
-c37 240/410 translated
+c37 410/410 translated
 c38 1183/2036 translated
 cAB 318/320 translated

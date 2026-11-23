@@ -31,7 +31,7 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 ### To do
 - [ ] Chunk c32: the last story chunk
 - [x] Chunk c38: natures, ability descriptions, place names, bag/shop UI, trainer quotes
-- [ ] Chunk c37: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
+- [x] Chunk c37: Pokédex entries
 - [ ] Any other strings the extractor missed (found during playtesting)
 - [ ] Check the fast-forward stutter (it didn't happen on a later run). The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
 - [ ] Final consistency pass (`REVIEW_NOTES.md`)

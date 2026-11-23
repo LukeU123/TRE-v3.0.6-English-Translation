@@ -494,3 +494,189 @@
 472db2|MUK!\pYour only job is to latch onto one\nof the DIRECTOR's POKéMON and\lself-destruct.\pRemember that!
 472e20|{C190B}I'll show you why I earned my\nplace as an EXECUTIVE…
 472e6e|{C190B}If my partner goes down, I'll step\nin immediately with TAUROS and\lits Giga Impact.\pWe won't give him a moment's rest.
+4be9ba|   ÑÓ STUDENT
+4bea5f| PARASOL LADY
+4beb2b|  Ó  BIRDKEEPER
+4beb4a|   É  SUPER NERD
+4beb5b|  Ó  BIKER
+4beb9a|   Ó  BALDY
+4bebed|É  PAINTER
+4bec3a|   º  KIMONO GIRL
+4bec5a|   É  KEEPER
+4bed3b|  Í  DOME ACE
+4beddb|  &  CONSUL
+4bee0c| Ñ  POKéMANIAC
+4bee1c| Ñ  POKéMANIAC
+4bee2c| Ñ  HEAD ADMIN
+4bee6a|   ó  GRUNT
+4beecb|  ó  LEGEND
+4bef1b|  Ñ  WILD
+4beffd|ó  GRAND MASTER
+4bf130|None
+4bf15f|  a Normal move
+4bf180|Fighting
+4bf186|   Fighting move
+4bf1a8|Flying
+4bf1b0| a Flying move
+4bf1d0|Poison
+4bf1d7|  a Poison move
+4bf1f8|Ground
+4bf1ff|  a Ground move
+4bf220|Rock
+4bf248|Bug
+4bf24e|   a Bug move
+4bf270|Ghost
+4bf279|a Ghost move
+4bf298|Steel
+4bf29e|   a Steel move
+4bf2e8|Fire
+4bf2ee|   a Fire move
+4bf310|Water
+4bf338|Grass
+4bf33f|  a Grass move
+4bf360|Electr
+4bf367|  Electric move
+4bf388|Psychic
+4bf391|a Psychic move
+4bf3b0|Ice
+4bf3b6|   an Ice move
+4bf3d8|Dragon
+4bf3df|  a Dragon move
+4bf400|Dark
+4bf408| a Dark move
+4bf428|Fairy
+4bf458| a Stellar move
+4bfcd8| (foe)
+4bfce4| (wild)
+4bfd3c|opposing
+4bfd44|opposing
+4bfd4c|opposing
+4bfd54|ally
+4bfd5c|ally
+4bfd64|ally
+4bfd78|ally
+4bfd80|ally
+4bfd88| (foe)
+4bfd94|opposing
+4bfda0|opposing
+4bfdb8| (wild)
+4bfdc4|Wild {V06} appeared!\p
+4bfe28|You defeated {V20}\nand {V21}!
+4bfe44|You're challenged by {V1C}\n{V1D}!\p
+4bfe60|You're facing the SACRED BIRD\nARTICUNO!\p
+4bfed4|{V20}\nwants to battle!
+4bff18|{V20} and {V21}\nwant to battle!
+4bff34|Wild {V06} appeared!\p
+4bff48|Wild {V06} appeared!{C087F}
+4bff5c|Wild {V06} and\n{V08} appeared!\p
+4bff78|Go! {V05}!
+4bff88|Your foe's weak!\nGet 'em, {V00}!
+4bffb0|{V20} sent out\n{V0A}!\p{V21} sent out\n{V0C}!
+4bffe8|{V1C} {V1D} sent\nout {V06} and {V08}!
+4c000c|Go! {V00}!
+4c003c|Go! {V05} and\n{V07}!
+4c0050|{V1F} sent out\n{V0B}!\pGo! {V09}!
+4c0080|{V1C} {V1D}\nsent out {V06}!
+4c00a8|{C101100}Got away safely!\p
+4c00c8|{V00}, come back!
+4c00d8|{V1C} {V1D}\nwithdrew {V00}!
+4c0108|Good job, {V00}!\nCome back!
+4c0124|Well done, {V00}!\nCome back!
+4c0140|That's enough, {V00}!\nCome back!
+4c015c|You lost to\n{V20} and {V21}!
+4c017c|{V43} withdrew\n{V00}!
+4c01a0|{V42} and {V43} challenge you!\p
+4c01b8|You defeated {V42} and {V43}!\p
+4c01e0|You drew with\n{V20} and {V21}!
+4c0200|{V1C} {V1D} \nsent out {V00}!
+4c0228|You can do it, {V00}!
+4c0528|You lost to {V42}!
+4c0540|You lost to {V42}!
+4c068c|Round 2
+4c0698|Round 1
+4c06a4|Battle Tournament
+4c06b8|{C0200}Bracket
+4c06c4|{C0200}Loss
+4c06d0|{C0200}Win
+4c06e0|Bad Egg
+4c0708|in love
+4c0714|confused
+4c071c|frozen
+4c0726|  paralyzed
+4c0734|burned
+4c073c|poisoned
+4c0748|asleep
+4c0785|   {C0505}{C040D0E0F}Switch\nwhich?
+4c07b2|  {C0505}{C040D0E0F}Which move\nshould be forgotten?
+4c07fe|  TYPE/
+4c080c|BALL{C1338}TEAM\nGO NEAR{C1338}RUN
+4c082c|Fight{C1338}Bag\nPokémon{C1338}Run
+4c0854|What will\n{V23} do?
+4c086c|What will\n{V00} do?
+4c088c|Huh? {V02}\nstopped evolving!\p
+4c08a8|Congratulations! Your {V02}\nevolved into {V03}!{C0A}\p
+4c08d4|What?\n{V02} is evolving!
+4c1650|{V0F}'s Ability is protected by the effects of {V16}!
+4c168c|{V0F} transformed into its Complete Forme!
+4c16b4|You sense the presence of many!
+4c16d8|Would you like to forfeit? That counts as losing the battle.
+4c178c|Add {V39} to your party?
+4c17a4|It doesn't affect {V3F} and {V3C}…
+4c17bc|It's not very effective on {V3F} and {V3C}!
+4c17dc|It's super effective on {V3F} and {V3C}!
+4c17f8|{V3F} stayed awake!
+4c1814|Waggling a finger let it use {V14}!
+4c1838|The battlefield seems weird!
+4c1860|An electric current runs across the battlefield!
+4c1898|Mist swirls around the battlefield!
+4c18d4|Grass is covering the battlefield!
+4c18f8|It's snowing!
+4c1908|It's hailing!
+4c191c|The sunlight is scorching!
+4c1934|The POKéMON woke up!
+4c19cc|{V0F} is going all out for this attack!
+4c1a2c|The mist cleared.
+4c1a44|The snow is heavy…
+4c1a58|The mist is as thick as pea soup!
+4c1a80|{V13} used its {V16} to activate {V1A}!
+4c1ac4|Cleanup complete!
+4c1b78|The dimensions were twisted!
+4c1ba0|A super-sweet aroma wafts from the syrup covering {V3E}!
+4c1be0|{V0F} became wrapped in a radiant light!
+4c1c08|{V0F} shed its tail to create a decoy!
+4c1c3c|{V0F} lost its {V00} type!
+4c1c54|The {V16} was used up…
+4c1c68|{V0F} absorbed electricity!
+4c1c84|{V11} drank down everything {V41} made!
+4c1ca8|{V0F} is getting ready to tell a bad joke!
+4c1cd4|The swamp around {V38}'s team disappeared!
+4c1d08|A swamp enveloped {V3B}'s team!
+4c1d30|The sea of fire around {V38}'s team disappeared!
+4c1d6c|{V0F} was hurt by the sea of fire!
+4c1d90|A sea of fire enveloped {V3B}'s team!
+4c1dbc|{V0F} is waiting for {V0E}'s move…{C0810}
+4c1de4|The rainbow on {V38}'s side disappeared!
+4c1e10|A rainbow appeared in the sky on {V38}'s side!
+4c1e44|The two moves combined into one!{C0810}
+4c1e74|{V13} underwent a heroic transformation!
+4c1e9c|The move was blocked by the power of Gigantamax!
+4c1f08|{V3A}'s POKéMON were surrounded by rocks!
+4c1f6c|{V3A}'s POKéMON were surrounded by fire!
+4c1fc4|{V3A}'s POKéMON were surrounded by a water vortex!
+4c2034|{V3A}'s POKéMON got trapped by vines!
+4c206c|The pieces of steel surrounding {V38} disappeared!
+4c20a8|{V0F} blew away the sharp steel!
+4c20c4|The sharp steel bit into {V3F}!
+4c20e4|Sharp-pointed pieces of steel started floating around {V3B}!
+4c2128|{V10} got covered in sticky syrup!
+4c2150|{V0F} is hurt by {V00}!
+4c2168|{V10} is being salt cured!
+4c2188|{V00} can't be used!\p
+4c21a4|The rest of your team gained EXP. Points too!\p
+4c21e0|{V0F} regained its true power through Ultra Burst!
+4c2220|A bright light surrounds {V3E}!
+4c2240|{V0F} corroded\n{V3F}'s {V16}!
+4c225c|It started to snow!
+4c2274|The snow stopped.
+4c2284|The snow continues.
+4c2298|It started to snow!

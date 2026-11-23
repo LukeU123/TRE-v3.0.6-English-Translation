@@ -4,7 +4,7 @@
 9dd8b4|At a meeting of POKéMON scholars, it was\nannounced that simultaneous exposure to\nelectricity from a PLUSLE and a MINUN\nimproves blood circulation and vitality.
 9dd97c|It always cheers on its POKéMON friends.\nIt short-circuits the electricity it\nreleases from its paws to make pom-poms\nof sparks and cheer the others on.
 9dda18|Electricity builds up in its body,\nputting it in a foul mood. It unleashes\nits explosive power at lightning speed.
-9ddab0|Because lightning strikes near where it\nis, MANECTRIC was thought to be born of\nlightning. In battle, it makes\nthunderclouds.
+9ddab0|Lightning strikes near it, so MANECTRIC\nwas thought to be born of lightning.\nIn battle, it creates thunderclouds.
 9ddb5c|It generates electricity using friction\nfrom the atmosphere. In seasons with\nespecially arid winds, its body bristles\nand violently throws off sparks.
 9ddbf0|It possesses limitless spiritual power.\nIt uses its mind to materialize evil\narms to strike down its foes.
 9ddc8c|Through grueling yoga training, it has\ngained the ability to foresee its foe's\nactions. It battles with elegant,\nrhythmic movements.
@@ -238,3 +238,173 @@
 9e8710|Thanks to Mega Evolution, it can now\nfly. Perhaps that is why it is so happy\nit rarely touches the ground.
 9e87c0|Its horns are strong enough to smash\nlarge logs. Because they hate the cold,\nthey dig burrows underground where they\nsleep when temperatures drop.
 9e8890|Its arms fire balls of flame hotter\nthan 3,600 degrees Fahrenheit. It\nlives in volcanic craters.
+9e8920|In battle, it blows out violent flames\nto intimidate its foe. These bursts of\nfire create heat waves that scorch the\ngrass and trees around it.
+9e89f4|MAGBY's breathing shows its state of\nhealth: if it blows out yellow flames, it\nis fine. But if black smoke comes out\nalong with the flames, it is tired.
+9e8acc|It touches its foe with the tips of its\ntwo tails and unleashes a shock of\n20,000 volts.
+9e8b64|When a storm breaks out, they compete to\nsee who can reach high places where\nlightning may strike first. Some cities\nuse them as lightning rods.
+9e8c3c|It stores electricity. If it touches\nmetal and accidentally discharges all of\nits stored electricity, it swings its\narms in circles to recharge itself.
+9e8cfc|It walks rhythmically, swaying and\nswinging its hips as if it were dancing.\nIts moves are so captivating that no one\ncan resist shaking their hips too.
+9e8dc4|SMOOCHUM runs around everywhere, but it\nalso falls over a lot. Whenever it gets\nthe chance, it checks its reflection in a\nlake to see if its face has gotten dirty.
+9e8e64|Its two crude axes let it fell trees while\nits rocky skin protects it. Given its\naggressive nature, it is wise to flee if\nyou come across a wild one.
+9e8f10|It can barely contain its tremendous\nenergy, which is always on the verge of\noverflowing. It cannot battle for long\nperiods.
+9e8fa4|SCIZOR has a body as hard as steel that\nordinary attacks barely dent. This\nPOKéMON flaps its wings to regulate its\nbody temperature.
+9e90a0|Its speed is spectacular to behold. That\nspeed boosts the power of the already\nformidable scythes on its arms, which can\nslice through thick logs in one stroke.
+9e9144|It is an accomplished tap dancer. It\nwaves its cane of ice while showing off\nits skill with graceful steps.
+9e92b8|It is a master of pantomime. With its\ngestures, it can convince onlookers that\nsomething invisible exists, and once they\nbelieve it, the illusions become real.
+9e93d4|When someone is in front of it, it\nmimics their expressions and movements\nto share their feelings.
+9e9454|Its movements have become more human.\nIt is unknown whether it wants to\ncommunicate with people or seeks to\nreplace humanity.
+9e94fc|In the past, STARMIE was thought to be\nborn of the reflections of stars gently\ntwinkling in the night sky.
+9e95c4|At night, they gather and make their red\ncores glow. The flashes mingle with the\ntwinkling stars. If any part of their\nbody is torn off, they regenerate it.
+9e9688|It bores holes in boulders in riverbeds.\nThis protects its eggs from any attack\nand keeps the current from washing them\naway.
+9e9768|In spring, schools of GOLDEEN can be\nseen swimming up waterfalls and\nrivers. It causes serious damage when\nit rams with its single horn.
+9e9808|It sleeps peacefully on the seafloor.\nWhen it rises to the surface, it\ncreates a huge whirlpool that can\nswallow entire ships.
+9e98c8|The poisonous barbs covering its body are\nhighly valued for making traditional\nherbal remedies. If anything threatens\nits nest, it attacks without mercy.
+9e99a4|By deftly flapping the fins on its back,\nit can move in any direction as it\nswims. If it senses danger, it spits\nink to escape.
+9e9a48|Watching her baby grow after Mega\nEvolving, the mother starts to think\nabout the inevitable moment when they\nmust part.
+9e9adc|If you come across one at play, don't\nbother it or try to catch it. A parent\nis sure to be nearby and will react with\nanger and violence.
+9e9ba8|It catches its own prey by spreading\nthe branches on its arms, which it\ndoesn't mind losing to predators.
+9e9c60|Its tentacles come off the moment they\nare grabbed. Not only does it not hurt,\nbut it lets it escape quickly. What's\nmore, new ones grow back the next day.
+9e9d1c|It senses sadness with its silky fur. If\nit sees that someone is sad, it will rush\nto their side and share a lucky egg to\ncheer them up.
+9e9df8|Every day, it lays eggs that are highly\nnutritious. They are so tasty that even\nsomeone who isn't hungry will eat them\nin the blink of an eye.
+9e9eec|It walks around carrying a small rock.\nSometimes it slips between people's\nfeet and makes them trip.
+9e9f74|By tensing and flexing its muscles\nvery quickly, it can fire the rocks\nin its hands like missiles.
+9ea008|Its horn spins like a drill and can\ndestroy tall buildings in one pass. It\ncan stand on its hind legs and has a\nvery well-developed brain.
+9ea0e0|Once it starts running, it won't stop:\nits tiny brain makes it so dim that it\ncan't even remember why it started\nrunning in the first place.
+9ea174|It took on this form long ago, when the\nmany chimneys of factories polluted the\nair. It absorbs polluting particles and\nexpels clean air.
+9ea234|When its toxic gases are diluted by a\nspecial process, a delightful perfume\ncan be extracted. To WEEZING, the gases\ngiven off by garbage are a delicacy.
+9ea324|Up close, you can see the toxic gases\nswirling inside a KOFFING through its\nthin skin. It explodes at the\nslightest provocation.
+9ea3e4|Its long tongue is always dripping\nwith drool. Contact with its saliva\ncauses numbness.
+9ea48c|Whenever it comes across something new,\nit gives it a big lick. That is how it\nremembers things: by texture and taste.\nIt can't stand sour flavors.
+9ea544|Its technique of kicking while spinning\nrapidly upside down is both offensive\nand defensive. It gets around faster\nby spinning than by walking.
+9ea610|It is said to have the soul of a boxer\nwho trained for a world championship. It\nhas an indomitable spirit that never\nbends in the face of adversity.
+9ea6c0|It delivers devastating kicks by\nretracting and extending its legs.\nAfter a battle, it massages them to\nrelax its muscles and rest.
+9ea7b8|It gets too agitated if it isn't taken\nout to train every day. For this reason,\nits TRAINER must keep up a regular\ntraining routine while raising it.
+9ea8bc|The evolved form of CUBONE. It is\nstronger because it has overcome the\ngrief of losing its mother. Its spirit\nhas toughened, so it is hard to rattle.
+9ea9e0|It grieves that it will never see its\nmother again. The full moon reminds it of\nher, and it starts to cry out. The stains\non the skull it wears come from its tears.
+9eaac0|The intense sunlight that bathes the\nAlola region awakened Exeggcute's\nhidden power and gave it this\nappearance.
+9eab74|It originally comes from the tropics.\nWhen exposed to strong sunlight, its heads\nstart to grow. It is said that if they\nfall off, they join to form an EXEGGCUTE.
+9eac74|It is made up of six eggs that form a\ntight, rotating cluster. If the shells\nstart to crack, it is surely about to\nevolve.
+9ead30|Curiously, its surface looks very much\nlike an Apricorn. When it gets angry,\nthe electricity it emits is 20 times\nthat of a lightning bolt.
+9eade8|It looks rather like a Poké Ball. The\nmore agitated it gets, the bigger the\nshock it releases from its belly,\nfollowed by a loud cackle.
+9eaec8|Many of them gather near power plants.\nBecause they feed on electricity, they\ncause major, chaotic blackouts in\nnearby cities.
+9eafac|It bears a curious, inexplicable\nresemblance to a POKé BALL. Because it\nexplodes at the slightest touch, even\nveteran TRAINERS handle it with care.
+9eb040|It can pulverize anything with its\nleft pincer, which has grown to\ncolossal size thanks to the\nGigantamax phenomenon.
+9eb0d4|It has an enormous pincer that it waves\nin the air to communicate with others.\nThe trouble is, it is so heavy that it\ntires out quickly.
+9eb19c|They live on beaches, buried in fine\nsand. When food is scarce, they are\noften seen facing off belly to belly\nto defend their territory.
+9eb25c|It holds a pendulum whose swinging and\nshine plunge its foe into a deep state\nof hypnosis. While it searches for prey,\nit polishes its pendulum.
+9eb334|If your nose itches while you sleep, it's\nsurely because one of them is on your\npillow, trying to draw your dreams out\nthrough your nose to eat them.
+9eb3d0|It uses magnetism to control the plates\nthat have broken off its hard body, and\nuses them to protect itself from enemy\nattacks.
+9eb474|It lives even deeper underground than\nONIX. It is known for digging toward the\nearth's core. Records show it has dug as\ndeep as over half a mile.
+9eb544|It has a magnet in its brain that acts as\na compass so it doesn't lose its bearings\nwhile digging tunnels. As it grows, its\nbody becomes rounder and smoother.
+9eb5ec|It exudes negative energy. Its huge\nmouth is said to be a portal that\nleads to the other world.
+9eb660|It longs to put an end to all living\nthings and even tries to curse its own\nTrainer.
+9eb6d4|If on a dark night your shadow\nsuddenly overtakes you, what you are\nreally seeing is a GENGAR pretending\nto be your shadow.
+9eb79c|It is a dangerous POKéMON. If you see one\nfloating in the dark and beckoning you,\nstay away. This POKéMON will try to lick\nyou to steal your energy.
+9eb880|It is mostly made of gas. When it is\nswept up by a gale, it shrinks. They\ngather under the eaves of houses to\nshelter from the wind.
+9eb92c|It can swim through the sea by taking in\nwater and expelling it through a vent at\nits rear. It fires the spikes on its\nshell in the same way.
+9eba00|At night, it uses its broad tongue to dig\na hole in the seafloor in which to rest.\nWhen it sleeps, SHELLDER closes its\nshell but leaves its tongue sticking out.
+9ebad0|Its body harbors over a hundred kinds\nof poison.\nThe chemical reactions between them\nare its source of energy.
+9ebb84|They eagerly devour any kind of garbage,\nwhich makes them very useful and welcome\nat landfills.
+9ebc28|It prefers warm, humid habitats. In\nsummer, the toxic substances in its body\nintensify and make it reek like rotten\ngarbage.
+9ebd00|Born from polluted sludge in the sea,\nGRIMER's favorite food is garbage. It\nfeeds on whatever it finds in factory\nwastewater.
+9ebdb4|It loves to doze on cold ice. A sailor\nwho once saw one asleep on a glacier\nmistook it for a mermaid.
+9ebe70|It hunts prey in icy waters under sheets\nof ice. When it needs to breathe, it\nopens a small hole in the ice with the\nprotrusion on its head.
+9ebf3c|It belongs to a rare species of POKéMON\nwith three heads. It runs energetically\nacross green meadows even in dry seasons\nwith very little rain.
+9ec014|Even while it eats or sleeps, one of its\nheads stays on guard to detect any\ndanger. If threatened, it flees at\n60 mph.
+9ec108|Its leek, which it cares for body and\nsoul, is its reason for being. It wields\nit masterfully in battle to achieve\ngreat feats.
+9ec1b4|It has strengthened its body by\ncarrying a huge, heavy leek. When it\nattacks, it goes for a single\ndevastating blow.
+9ec28c|It always carries a stalk from some kind\nof plant, and some stalks are said to be\nbetter than others. It is known to fight\nother POKéMON over stalks.
+9ec350|It evolved through exposure to a\nspecial magnetic field. Three units\ngenerate magnetism.
+9ec40c|Three MAGNEMITE linked together. It\ngenerates powerful radio waves that raise\nthe temperature by 3.6 degrees F within\na radius of 3,300 feet.
+9ec4e4|The units at its sides are powerful\nmagnets. They generate enough magnetism\nto draw in iron objects from as far as\n330 feet away.
+9ec598|The shock of evolution combined with\ntoxins has boosted the Shellder's\nintellect to the point that it fully\ncontrols the Slowking.
+9ec63c|The shock of the Shellder's bite\ntriggered a chemical reaction with the\nspices it had eaten, after which it\ngained the Poison type.
+9ec6fc|The seeds of certain plants native to\nGalar that it eats give its tail a\nspicy flavor.
+9ec77c|The energy of Mega Evolution has\nturned Shellder into impenetrable\narmor. There is no apparent change in\nSlowpoke.
+9ec830|SLOWKING researches the world's unsolved\nmysteries every day, but it apparently\nforgets everything it learned if the\nSHELLDER on its head comes off.
+9ec914|A SHELLDER is latched onto its tail by\nthe teeth. Since SLOWBRO can no longer\nfish with its tail, it reluctantly wades\ninto the water in search of prey.
+9ec9f8|It catches foes with its tail, dragging\nthem underwater at riverbanks. It often\nforgets what it was doing and spends\nentire days lazing about on the shore.
+9ecab8|The Psycho Cut it performs with its\nhorn is so destructive that it can\neven slice through thick metal\nplates.
+9ecb60|It can read anyone's mind just by\nlooking them in the eye. If it senses\nany wicked thoughts, it vanishes\ninstantly.
+9ecc14|It usually trots aimlessly across fields\nand plains. But when it needs to go\nsomewhere, its mane flares up and it\ngallops off in flames at 150 mph.
+9eccf8|When it is born, it is very weak and can\nbarely stand. Even so, it grows stronger\nby stumbling and falling as it tries to\nkeep up with its parents.
+9ecdc8|It hurls electrically charged rocks.\nA mere graze is enough to numb a foe\nso badly that it loses\nconsciousness.
+9ece94|When two Graveler fight each other,\nthe air fills with flashes and bangs.\nLocals often compare it to\nfireworks.
+9ecf60|The magnetic field around its rocky\nhead conducts electricity. Carelessly\nstepping on this Pokémon can earn you\na painful shock.
+9ed024|It is said to live in volcanic craters\non high peaks. Once a year, it sheds\nits skin and grows. The shed skin\ncrumbles and is absorbed by the soil.
+9ed100|It rolls down mountains along steep\nslopes. It is so sturdy that it\nsmashes trees and boulders when it\ncrashes into them.
+9ed1c0|It climbs mountain paths using only the\nstrength of its arms. Because it looks\nlike a boulder marking the path, some\nhikers end up tripping over it.
+9ed284|It lives in complex rock formations on\nthe seafloor and catches prey with its 80\ntentacles. When it gets agitated, the red\norbs on its head glow.
+9ed364|It is made almost entirely of water. It\ncatches its foe with its two long\ntentacles and jabs it with the poison\nstingers on their tips.
+9ed424|After Mega Evolving, its volume of\nacid has increased until it\ncompletely fills its mouth. If it\nisn't careful, it overflows.
+9ed4c4|It has a vine growing from its head. When\nit waves and wiggles the vine, it looks\nlike a small animal and lures in prey. If\na foe comes near, it swallows it whole.
+9ed5ac|It has a hook on its rear end that it\nuses at night to hang from a branch and\nsleep. If it moves in its sleep, it may\nend up on the ground.
+9ed684|It has a slender, flexible body that\nlets it bend and sway to dodge attacks.\nIt spits a corrosive fluid that can\neven melt iron.
+9ed720|Thanks to its tremendous boost in\nstrength, it can carry large ships in\ndistress and bring them to port.
+9ed7d4|It is impossible to defend against the\npunches and blows it rains down with its\nfour arms. If a strong foe appears, it\ngets a huge urge to fight.
+9ed8b4|MACHOKE wears a belt to rein in its\noverwhelming energy. It is so dangerous\nthat no one has ever taken it off.
+9ed964|It trains to the point of exhaustion to\nmaster every kind of martial art. It is\nso strong it can carry a sumo wrestler\non its shoulders.
+9eda1c|It sacrifices its muscles in exchange\nfor unleashing the true scale of its\npower. With its psychic powers, nothing\nescapes its notice.
+9edabc|Although it has great psychic ability\nand exceptional intelligence, ALAKAZAM's\nmuscles are very weak. It uses psychic\npowers to move around.
+9edb94|It is said that a boy with psychic\nabilities suddenly turned into a KADABRA\nwhile assisting with research into\nextrasensory powers.
+9edc64|This POKéMON sleeps 18 hours a day. It\nhas been shown to use TELEPORT every\nhour to change location.
+9edd00|POLITOED's curly lock of hair confirms\nits status as king. It is said that the\nlonger and curlier it grows, the more\nrespect it receives from its subjects.
+9eddb0|It has well-developed, brawny muscles\nthat never tire no matter how much it\nuses them. Crossing the Pacific Ocean a\ncouple of times is no effort at all.
+9ede9c|Its skin is moist and slick with an oily\nfluid. Thanks to this greasy film, it\ncan slip free of any foe's grasp in the\nmiddle of battle.
+9edf68|Its skin is so thin that its spiral-shaped\ninnards show through. However, this skin\nhas the advantage of being flexible, so it\ncan bounce back many a swipe of claws.
+9ee02c|It bites with fangs wreathed in intense\nfire. Despite its large size, it is a\nmaster of feints and toys with its\nopponents by circling them.
+9ee0f0|They patrol their territory in pairs.\nThe igneous rocks dotting their fur may\nbe the result of volcanic activity in\nthe area.
+9ee1a4|It is known for its speed. It is said to\nbe able to run 6,200 miles in 24 hours.\nThe fire blazing within it is its\nsource of energy.
+9ee28c|It has an exceptional sense of smell and\nkeen scent memory: it never forgets a\nscent and can even identify the emotions\nof other living things.
+9ee32c|When its explosive rage passed the\ncritical point, it gained a power that\nfreed it forever from the limits of\nits physical body.
+9ee3f4|When PRIMEAPE gets angry, its heart\nrate rises and its muscles grow\nstronger, but it also loses some\nof its intelligence.
+9ee4b4|If it starts to tremble and breathe\nheavily, it is about to get angry. But\nseeing it coming is no help: it flares\nup too fast for anyone to flee.
+9ee574|It is an expert swimmer. It sometimes\ntrains with professional swimmers.\nWhen its forehead glows, it is using\npsychic powers.
+9ee62c|When its headache gets worse, it starts\nto use strange powers. However, because\nit never remembers using them, it always\nlooks dazed and bewildered.
+9ee6c8|The engraving on the large coin adorning\nits forehead is thought to hold the key\nto unlocking the secret of the Dynamax\nphenomenon.
+9ee74c|The hair on its head has hardened\nuntil it looks like an iron helmet.\nIt has a very combative\ntemperament.
+9ee7e0|The darker the coin on its forehead,\nthe more respect it earns from others\nof its kind.\nIt is very bold and knows no fear.
+9ee870|It is arrogant toward every other\ncreature. It fights with sneaky,\ncowardly tactics, attacking by surprise\nor from the shadows.
+9ee930|Its fickle, selfish, and capricious\nnature makes it popular with Trainers\nwho like indulging their Pokémon's\nwhims.
+9ee9d4|It has six striking whiskers that give it\na fierce look and let it detect any\nthreat. If it is grabbed by the\nwhiskers, it turns docile.
+9eeaac|It retracts the sharp claws in its paws\nand sneaks about stealthily, going\nunnoticed. For some reason, it adores\nshiny coins that gleam in the light.
+9eeba0|The shining golden filaments on its\nhead are powerful sensors. It can\ndetect sounds from miles away.
+9eec58|The metallic hairs on its head are the\nresult of a mutation. It communicates\nwith its companions by wiggling them.
+9eed10|DUGTRIO are triplets that emerged from\none body, so they all think alike. When\ndigging, they work as a team without\nrest.
+9eede4|Many farms raise them because wherever\nthey dig, they leave the soil well tilled\nfor sowing. The ground is left ready for\nplanting delicious vegetables.
+9eeee4|It is nocturnal and acts only in the\ndark. Its favorite food is the small\ninsects that gather around lights at\nnight.
+9eefb4|It is said to have evolved a thin coat\nof stiff hair for protection. Its eyes\nare so large that no prey escapes its\nnotice.
+9ef06c|They destroy large trees by sucking out\ntheir nutrients. When a blighted tree\ndies, PARASECT move on to the next one\nat once.
+9ef164|It carries two parasitic mushrooms\ncalled tochukaso that feed on PARAS's\nown nutrients. The mushrooms are used\nas an elixir of life.
+9ef244|The colors of its petals grow more vivid\nwhen exposed to sunlight. When cloudy\nweather persists, it is said to summon\nthe sun by performing a ritual dance.
+9ef304|In seasons when it produces more pollen,\nVILEPLUME turns the air yellow as it\nwalks. The pollen is highly toxic and\ncauses paralysis.
+9ef3d8|A very harmful honey drips from its\nmouth, giving off a stench that can\ncause memory loss. Even so, some claim\nto relish its foul odor.
+9ef4b4|This POKéMON grows by absorbing\nmoonlight. During the day, it buries\nitself in the ground, leaving only its\nleaves above, to avoid detection.
+9ef7b8|Its fur is of luxurious quality.\nSleeping next to a WIGGLYTUFF is a\ndream. When it inhales, it swells to\nan enormous size.
+9ef87c|Anyone who hears its song falls asleep.\nThe sound waves of its singing voice sync\nwith the listener's brain waves and send\nthem into a deep sleep.
+9ef96c|It is soft, flexible, and bouncy.\nWhen it sings nonstop with all its\nmight, it turns a deeper and deeper\nshade of pink.
+9efa24|It lives on sacred mountains covered\nin eternal snow. It is said to appear\nbefore kindhearted people who are lost\nand guide them.
+9efae8|When it is hot out, it makes chunks of\nice with its six tails and scatters\nthem around to cool the area.
+9efb94|Each of its nine tails is said to hold\nmagical powers. Over time, NINETALES's\nfur takes on a golden hue.
+9efc60|It can control fire at will and breathes\nflames from its mouth. Its six tails\nheat up dramatically just before it\nevolves.
+9efd10|It floats about using the power of\nmoonlight, which lets it control\ngravity within a radius of 33 feet.
+9efda0|It uses its wings to hop and skip across\nwater, but it can't actually fly. It is\nknown to love strolling around lakes on\nquiet nights with a full moon.
+9efe74|When the moon is full, they come out in\ngroups to play. At dawn, the exhausted\nCLEFAIRY return to their mountain\nretreats to sleep huddled together.
+9f0034|NIDOKING's thick tail is destructive.\nOne swing can topple even a transmission\ntower. Once it goes on a rampage, no one\ncan stop it.
+9f0100|Its horn is harder than diamond. If it\nsenses a hostile presence, the spikes on\nits back bristle and it confronts the\nfoe with all its might.
+9f01d8|The male NIDORAN has developed muscles\nthat move its ears to face any\ndirection. This lets it pick up even the\nfaintest sound.
+9f02a8|It is covered in extremely hard scales.\nIt often sends foes flying by striking\nthem violently. It defends its young\nwith great ferocity.
+9f0368|When with its family or friends, it\nretracts its barbs so it won't hurt\nanyone. It apparently gets very nervous\nif separated from its group.
+9f0444|Because of its small size, it is thought\nto have developed poisonous barbs for\nprotection. When angered, it releases a\nhorrible toxic substance from its horn.
+9f0518|Its huge claws let it carve a path\nthrough the snow covering its habitat\nand get around faster than any other\nPokémon.
+9f05dc|It lives on snowy mountains. Its steel\nshell is very tough, but it is so rigid\nthat it can't curl up all the way.
+9f0694|It curls up to protect itself from foes\nand from the scorching heat of the day,\nwhen temperatures rise.
+9f0750|When it curls up into a ball, it repels\nany attack. Because it lives in the\ndesert, its skin is rough and tough.
+9f0908|It focuses its psychic power in its\ntail and glides along on it. It is\nknown as the Surfer of Dry Land.
+9f09c4|If it stores too much electricity, it\nturns violent. To prevent this, it\noften discharges excess energy, which\nkeeps it calm.
+9f0b64|It is tremendously strong and can\nconstrict anything with its body, even\ncrushing steel drums. Once it catches\nits victim, there is no escape.
+9f0c44|It coils up to rest. This position lets\nit react quickly to threats, since it\nneed only raise its head fiercely in\nany direction.
+9f0d14|It is recognized by its long neck and\nbeak, which let it hunt both in water\nand on land. It moves its beak deftly\nto catch prey.
+9f0de8|Its cry can be heard over half a mile\naway. If its shrill screech is followed\nby a kind of echo, it is other SPEAROW\nanswering the warning of danger.
+9f0f00|It gets into houses by gnawing through\ndoors with its incisors. It wiggles its\nwhiskers to find food and steal it.
+9f0fc4|RATICATE grows firm, strong fangs.\nTo keep them sharp, it gnaws on\nrocks, logs, and even the walls of\nhouses.

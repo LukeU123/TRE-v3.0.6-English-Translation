@@ -53,3 +53,14 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 - PC storage screen: the EQUIPO PkMn (PARTY PKMN) and CERRAR CAJA (CLOSE BOX) buttons, and the INFO PkMn header
 Fix approach (a separate task): find the LZ77-compressed tile sheets, decompress them, redraw the English labels in the same pixel font, recompress, then repoint or write them back. Mostly in the summary-screen, menu and font graphics.
 - Stutter (23 Nov 18:53): it's back after a ~5 minute session; other GBA ROMs don't do it. Test plan sent to Luke: (1) the ORIGINAL Spanish ROM for 5+ minutes; (2) TEST_inplace_only.bps (built with NOMOVE=1 OUT=out/TEST_inplace_only python3 tools/build.py; it skips the 6,002 moved strings, so no pointer edits) for 5+ minutes; (3) the full patch. Original stutters too = the hack itself. Only the full patch stutters = pointer updates or free-space use -> bisect the moved strings.
+
+## NEXT FIX (Luke's screenshot, 23 Nov 19:08): stat-change format strings still Spanish
+Battle shows "¡ATTACK de Zubat fell!". These short battle templates were missed (mostly codes). Translate them as "{mon}'s {stat}\n{change}!", reordering the codes:
+- 4c5e30, 4c5e40, 4c5e50, 4c7610: '¡{V00} de {V10}\n{V01}!' -> '{V10}'s {V00}\n{V01}!' (14-byte FIXED unless refs: 's adds 2 bytes, so check budget/refs, or repoint)
+- 4c2664 '¡{V00} de {V13} aumentó!' -> "{V13}'s {V00} rose!"
+- 4c3d0c / 4c6f84 '...\nno subirá más!' -> "{V10}'s {V00}\nwon't go any higher!"
+- 4c6f68 '...\nno bajará más!' -> "won't go any lower!"
+- 4c4f88 '¡{V1A} de {V13}\nlo hizo ineficaz!' -> "{V13}'s {V1A}\nmade it ineffective!"
+- 4c53d0 '...\nprevino que su {V00} baje!' -> "{V13}'s {V1A}\nprevents {V00} loss!"
+- 4c7000 '¡{V00} de {V13} paralizó a {V40}, quizás no se mueva!' -> "{V13}'s {V00} paralyzed {V40}! It may be unable to move!"
+Then scan the battle region 0x4b0000-0x4d0000 for any other '¡{Vxx} de {Vxx}' / ' de {V' patterns (regex rb'\x52\xfd.\x00\xd8\xd9\x00\xfd'), plus other short Spanish templates.

@@ -48,7 +48,8 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 ## GRAPHICS (text drawn as images; can't be fixed by editing text). Luke's screenshots, 23 Nov
 - Summary-screen section headers: PERFIL, HABILIDAD, NOTAS ENTR., OBJETO, CINTAS, CARACT., EXPERIEN., MOVIMIENTOS, DESCRIPCIÓN
 - Type icons: VENENO, VOLAD., SINIE., PLANTA, ... (all 18 types plus "?")
-- The "Nv" level glyph (the font tile for [Lv]; it should read "Lv")
+- The "Nv" level glyph (the font tile for [Lv], plus the battle healthbox "Nv" tile) and the "PS" label on the HP bar (should read "HP"). Top priority: they appear in every battle and on the summary screen
 - Naming screen: ELEGIR / OK / VOLVER header, plus the minús., SELEC., ATRÁS and BOTÓN B buttons
 - PC storage screen: the EQUIPO PkMn (PARTY PKMN) and CERRAR CAJA (CLOSE BOX) buttons, and the INFO PkMn header
 Fix approach (a separate task): find the LZ77-compressed tile sheets, decompress them, redraw the English labels in the same pixel font, recompress, then repoint or write them back. Mostly in the summary-screen, menu and font graphics.
+- Stutter (23 Nov 18:53): it's back after a ~5 minute session; other GBA ROMs don't do it. Test plan sent to Luke: (1) the ORIGINAL Spanish ROM for 5+ minutes; (2) TEST_inplace_only.bps (built with NOMOVE=1 OUT=out/TEST_inplace_only python3 tools/build.py; it skips the 6,002 moved strings, so no pointer edits) for 5+ minutes; (3) the full patch. Original stutters too = the hack itself. Only the full patch stutters = pointer updates or free-space use -> bisect the moved strings.

@@ -14,6 +14,8 @@ def decode(d,o,maxlen=2000):
         elif b==0xFA: s.append('\\l');i+=1
         elif b==0xFB: s.append('\\p');i+=1
         elif b==0xFD: s.append('{V%02X}'%d[i+1]);i+=2
+        elif b==0xF7: s.append('{D%02X}'%d[i+1]);i+=2
+        elif b==0xF9: s.append('{F%02X}'%d[i+1]);i+=2
         elif b==0xFC:
             c=d[i+1];n=FCARGS.get(c,0)
             s.append('{C'+''.join('%02X'%x for x in d[i+1:i+2+n])+'}');i+=2+n
@@ -28,6 +30,8 @@ def encode(s):
         if s[i]=='{':
             j=s.index('}',i);tok=s[i+1:j]
             if tok[0]=='V':out+=bytes([0xFD,int(tok[1:],16)])
+            elif tok[0]=='D':out+=bytes([0xF7,int(tok[1:],16)])
+            elif tok[0]=='F':out+=bytes([0xF9,int(tok[1:],16)])
             else:out.append(0xFC);out+=bytes.fromhex(tok[1:])
             i=j+1;continue
         if s[i]=='[':

@@ -1,0 +1,8 @@
+e89020|{D00}{D02}{D01}{D05} nature.\nHatched somewhere,\nat [Lv]{D00}{D03}{D01}.
+e8905c|{D00}{D02}{D01}{D05} nature.\nMet somewhere,\nat [Lv]{D00}{D03}{D01}.
+e89094|{D00}{D02}{D01}{D05} nature.
+e890ac|{D00}{D02}{D01}{D05} nature,\napparently met at {F05}{D00}{D03}{D01},\nin {D00}{D04}{D01}.
+e890f0|{D00}{D02}{D01}{D05} nature,\nobtained in a fateful\nencounter at {F05}{D00}{D03}{D01}.
+e89134|{D00}{D02}{D01}{D05} nature,\nobtained in a trade.
+e89164|{D00}{D02}{D01}{D05} nature,\nhatched at {F05}{D00}{D03}{D01},\n{D00}{D04}{D01}.
+e89198|{D00}{D02}{D01}{D05} nature,\nmet at {F05}{D00}{D03}{D01},\n{D00}{D04}{D01}.

@@ -101,3 +101,4 @@
 2fcb29|{C1903}RECRUIT No. 4!!\pYou're not on the blacklist yet,\nand I hope I won't have to add\lyou on your first day!\lGrab your starter, get back to\lyour post, and stop wasting\lour time!
 8ecd14|Player
 e86a01|   Player: {C1110}{C0104}{C0305}{V01}{C0102}{C0303}\n\nThis document certifies\nthat you have successfully\ncompleted your\n{V02} POKéDEX.\n\n{C1342}{C0104}{C0305}GAME FREAK
+e8936c|Sp.Atk

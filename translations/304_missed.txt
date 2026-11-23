@@ -1,0 +1,232 @@
+20dcb3|Huh?\nYour {V02}…{C0805}
+214f26|{C1907}Another one?
+217e68|{C1961}I{C080F}-{C080F}I'll{C0819}…{C0819} try.
+21a1fd|{C1906}{C0819}…{C0819} …{C0819} It's been a long time.
+23a4b8|You{C0805}…{C0805}\nYou're really strong{C0805}…{C0805}
+2406c6|I've heard some lowlifes are\nstealing POKéMON and METEORITES.
+24e722|How utterly shameful…{C0805}
+25135a|How utterly shameful…{C0805}
+258b04|{C1906}FUJI?
+263938|{V01} found {V02} {V03}!
+264134|{V01} handed over {V02}!
+26417a|{V01} found {V02}\n{V03}!
+266006|{V02} used {V03}!
+271f2c|… … … … … …\n… … … … … …\lWant to battle?
+271f5f|… … … … … …\n… … … … … …\lI'll train harder…{C0805}
+27242b|I lost!\nHow can I ever hide this shame?
+276fa3|I'm the one who challenged you, and\nI still lost. How shameful…{C0805}
+27be0d|My… soul…{C0805}
+287aa7|I see…{C0805}
+28fb44|Ah, yes…{C0805}
+290220|Yeah, I see…{C0805}
+295760|That's right…{C0805}
+298df5|I see…{C0805}
+29fa38|{V01} used the\n{V03}.
+2abc27|{C192B}HEY, YOU!
+2abefc|{C1907}Now, {V01}!
+2b5383|Ah{C0819}…{C0819} right?
+2d28d2|{C1906}Hello? {C080F}… {C0823}MR. LANCE.{C0823} Yes.{C0823} Right away.{C0823}
+2d5066|You're a ROCKET!\nAnd you have the nerve to waltz\linto an official venue certified\lby the POKéMON LEAGUE!
+2d656f|You're a ROCKET!\nSo you won't mind putting a\lscoundrel in his place who's\lruining my reputation!\lRight?
+2d82c9|Oh{C080A}…{C080A} No{C080A}…{C080A} Please{C080A}…{C080A}
+2d9d06|{C1918}You're a disgrace to\nthe scientific community!
+2dd8a5|{C1907}Bingo!
+2de237|{C1907}Why…?
+2e04c9|{C1908}Th{C080F}-{C080F}thank you, sir{C0805}…{C0805}
+2e3da1|{C1920}Ever since then, everything tied to\nmy name, once one of the most\lprestigious in KANTO, became\lthe greatest dishonor and disgrace.
+2e58bc|{C1920}It can't be{C0805}…{C0805}
+2ed010|{C1907}DEVON?
+312fbe|{C1903}You should be ashamed, failing\nagainst one of our own, even after\lhaving a legendary encounter.
+31311f|{C191B}Shame on you for not backing\nsomeone from your own region.
+313ef4|{C1929}W{C080F}-{C080F}-{C080F}Wait, old man{C080F}…{C080F}\nTh{C080F}-{C080F}There's no need to{C080F}…{C0805}
+314099|{C192C}Oh{C0823}…{C0823} So…{C0823} you{C0819}…{C0819}?
+319eba|{C190E}Oh{C0819},{C0819} LANCE{C0819}…{C080F}\nI{C0819}-{C0819}I{C0819}…{C0819}\pI was{C0805}…{C0805}
+31a5f9|{C190E}Wh{C0819}-{C0819}what are you going to do?
+31c4d8|{C1922}You! Out of the way!\pSiding with this scum?\pYou're a disgrace to OAK.
+31c651|{C1907}9 police officers{C0819}…{C080F}
+31c850|{C1907}{V01}!\pRun!
+31f305|{C1907}Why?
+31f8e3|{C1907}Who knows{C0819}…{C0819}
+3201c5|{C191F}So the BIRDS{C0805}…{C0805}
+324d0a|{C1939}I didn't mean{C0805}…{C0805}
+32db59|{C1920}STOP!
+32db8c|{C1928}B{C080F}-{C080F}but sir{C080F}…{C080F}
+32dded|{C1928}At Lv. 29, sir.
+3313b5|{C191F}B{C080F}-{C080F}But{C0819}…{C0819} what's the reas…?
+3317f0|{C191F}One{C0819}…{C0819}?! More like 3!
+3320c6|{C1920}Well?
+3320d2|{C1904}W{C0823}…{C0823} well what, s{C080F}-{C080F}sir?
+3355ad|{C1913}One moment{C080F}…{C080F}
+3356b1|{C190C}Yes, yes!
+335c35|{C192B}But{C0819}…{C0819} Not you, right, {V01}?
+338f32|{C1927}Hughh!
+3403bd|{C1909}Oh{C080F}…{C080F}no{C080F}…{C080F}
+340491|{C1907}{C080F}…{C080F}\n{C080F}…{C080F}\l{C080F}See you at HQ.
+3461de|{C191D}Wh-{C0819}what{C0819}…{C0819} will you do?
+3476f2|{C1924}If you refuse{C080F}…{C080F}
+349cf0|{C1906}Bah! An organization packed with\nunderlings that, when it counts,\llets itself be beaten by a kid.\pHow shameful!
+34a00d|{C1906}ALL BY MYSELF!
+356141|{C1907}What!?
+356e58|{C1932}What?
+35918c|{C1906}But{C0819}…{C0819} that's over now.
+360582|{C1948}Is there{C0819}…{C0819} nothing{C0819}…{C0819} I can do?
+364fe0|{C194A}Is that him?
+365f60|{C1907}That's right.
+36ba9d|{C1921}DEVON?
+36d4a3|{C1920}That's right.
+372aaa|{C1948}That's right.
+377274|{C1943}It's{C080F}…{C080F}\pHO-OH{C080F}…{C080F}
+37728e|{C1943}Do you get it, {V01}?
+37ddc7|{C1927}LT.SURGE told me about you lot,\nand he didn't have kind words\lfor TEAM ROCKET. He warned me\labout thieves of the lowest\lsort.\pIn his words, KANTO's disgrace.
+384778|{C1945}{V01}!\pYou came!
+384e42|{C1945}You were the one who caught\nHO-OH in cold blood… you should be\lashamed, locking up something so\lpure, taking advantage of the great\lbattle M.JADEN and {V01} had.
+38709b|{C1922}A{C080F}-{C080F}ARCHER, I didn't kn{C0805}…{C0805}
+393ed6|{C1907}Wh{C080F}-{C080F}what?
+394f10|{C1920}D{C0819}…{C0819} did it work?
+39ae6e|{C1913}Hey, girl!
+39b0fe|{C1910}What!?
+39b3f9|{C193D}Ram!
+39b523|{C193D}Rest easy, legend of the\nforest. I have no interest in\lexposing your shameful secrets.
+39f3bd|Yes…\nThat's it{C0805}…{C0805}
+3a6e9e|{C1907}{V01}{C0819}…{C0819} to something even bigger.
+3a7088|{C1932}I{C080F}-{C080F}I guess.
+3ad1da|{C1931}Oh, yes!
+3ad3df|{C1907}{V01}! Your team!
+3ad435|{C1931}Why?
+3b5153|{C1907}You{C0819}…{C0819} What are you doing here?
+3b5205|{C1907}Of course!
+3b5a14|{C1907}DEOXYS? {C080F}…{C080F} {C080F}…{C080F} Are you mocking me?
+3b5b0e|{C1907}Start?!
+3c7b06|{C1920}{V01}{C0823}…{C0819} You look{C080F}…{C080F} ready.\pCome in.
+3ca4e7|Oh{C0819}…{C0823} That{C080F}…{C0819} That's it! Yes!
+3cb667|Oh{C0823}…{C0819} It can't be!
+3cccee|{C1931}No, I didn't{C0819}…{C0819} that phenomenon only{C0819}…{C0805}
+3ccd9c|{C1931}{C0819}…{C0819}that's right{C0805}…{C0805}
+3cd291|{C1931}It was, although{C0805}…{C0805}
+3db17a|{C1921}Really, {V01}?
+3db3d5|{C1921}Not so fast, {V01}!
+3e22d7|{C190E}Besides{C0819}…{C0805}
+3eb8fb|{C1922}Oh{C0819}…{C0819} You{C0819}…{C0819} Sir{C0819}…{C0819}
+3effb9|{C192C}I{C0819}-{C0819}I think{C0819}…{C0819} he's forgiven me.
+3f2918|{C1906}Ah{C0819}…{C0819} You're {V01}, right?\pI'm FRIDA.
+3f66c0|It's{C0819}…{C0819} impossible?
+3f8935|Oh, I didn't know{C0805}…{C0805}
+3fd073|Wrong answer {C0819}…{C0819}\n{C0819}…{C0819} You insist?\pYou say there are only 2?{C0819} …{C0819}\pVIOLET's and ECRUTEAK's?{C0819} …{C0819}\p…{C0805} …{C0805} …{C0805} …{C0805} …{C0805} …{C0805}\pWrong answer.
+40645c|{C1917}SURGE!
+406eb9|{C1907}I see{C0819}…{C0819} You lot{C0819}…{C0819}
+40717f|{C191D}That{C0819}…{C0819} that would be{C0819}…{C0819}
+40a4d6|{C1907}That{C0819}…{C080F} can't be possible!
+40a5d6|{C1907}But{C0819}…{C0819} what was it?
+40a896|{C1907}Oh{C0819}…{C0819} The first one?
+40a998|{C1907}What?
+40af3c|{C1907}What?{C0819} Wait!
+40c61f|Oh{C0819}…{C0819} now I see{C0805}…{C0805}
+411921|{C1907}OAK?
+413262|{C1906}DEVON?
+414f03|{C1920}{V01}? {C0819}…{C0819} …{C0819} Tell me\neverything.
+416f1a|{C1951}Come on, {V01}!
+41d05d|{C192C}Wh-What?!
+41d37a|{C1953}Wh{C080F}-{C080F}what?!
+41d5e4|{C1953}{V01}{C080F}…{C080F} {V01} is{C080F}…{C080F}?\pHe's the one who beat LANCE?!
+41e4b8|R-o-a-r!
+41ec6f|{C1953}Why?
+421ec5|{C192C}Ho, ho, ho!
+423509|{C1907}Wh… wha…?!
+42424c|{C1907}Oh, no{C080F}…{C080F} REST…
+424315|{C1907}Oh, no…
+424984|{C1907}And now{C0819}…{C0819} what do you see?
+425cc8|{C1907}It is.
+427b3c|{C1931}Y{C080F}…{C080F} Yes! You're right!
+4283c8|{C1931}Wh{C080F}-{C080F}what?
+4287e8|{C1931}So{C080F}…{C080F} that's how it is{C080F}…{C080F} huh?
+428814|{C1931}In that case{C080F}…{C080F}
+428866|{C1907}MIGUEL, wai{C0805}…{C0805}!
+42adbf|{C1951}Hmm{C080F}…{C080F} I{C080F}…{C080F} don't.
+42bf2b|{C1907}Hmm{C080F}…{C080F} 7 and 8.
+42e0e2|{C1907}{V01}, come here!
+42fade|{C1907}{V01}? Let's go!
+433080|{C1921}What about you, {V01}?
+434f0e|{C1906}CHAMPION{C080F}…{C080F}?
+434f22|{C1906}{C080F}…{C080F} let's see{C080F}…{C080F}
+434fdb|{C1906}Let's look back{C0819}…{C0819} 50 years{C080F}…{C080F}
+435a43|{C1925}Let's go!
+4362f3|{C1925}Sure is!
+43699f|{C190E}What!?
+436dfe|{C1925}Wow!
+4371ed|{C190E}What?
+437b3e|{C192F}Ah, yes!
+437d67|{C192F}Also{C0823}…{C0823}
+43927d|{C1906}10 years. Maybe 12.
+43e7d9|{C1963}The world{C0823}…{C0823}
+43e7ec|{C1963}…is a business, {V01}.
+442bfe|-January 18, 1994-
+4434b6|-January 21, 1995-
+4438e1|-March 10, 1997-
+444138|-July 10, 1997-
+446e06|{C1907}What?
+447522|{C1920}What?!{C0837}…{C0837} Understood{C082D}…{C082D} Right away{C0823}…{C0823}
+44ac11|{C1906}Hmm{C0814}…{C0814} No.
+45ad2e|{C1907}So: 16-6 = 10.
+45bd4d|{C1945}You're not going to{C0819}…{C0819}?
+4655b0|November 1991 - $3,000\nJanuary 1992 - $1,600\lMay 1992 - $1,100\lFebruary 1993 - $1,300\lJune 1993 - $700\lSeptember 1993 - $250\lApril 1994 - $400\lMay 1995 - $650\lSeptember 1996 - $1,000
+469a70|{C1903}I'm counting on you, {V01}.
+46ae58|{C1983}{C080F}…{C080F} …{C080F}…{C080F} CHANSEY! {C0823}That's it!
+46b27a|{C1984}POLI…!
+46c2f6|{C1981}What?!
+46cbb2|{C1980}There's more?
+46dd1e|{C1906}Grrr{C080F}…{C080F} Finally…
+46e2a5|{C192A}Grr{C0823}…{C0823} How is this possible?!
+46e9ff|{C192A}Ha, ha, ha!
+46fffb|{C197F}{V01}? {C0823}…{C0823} I won't forget your name.
+4bfdd5|   {V42} sent out {V06}!\p{V43} sent in {V08}!
+4bfdf7| {V20} withdrew\n{V00}!
+4bfe09|   {V22} sent out\n{V00}!
+4bfe1c|{V0F} used\n{V34}!
+4bfe88|{V43} sent out {V00}!
+4bfe98|{C101100}{V20} and\n{V21} got away!
+4bff03| {C101100}{V20} got away!
+4bffcf| {V20} sent out\n{V06} & {V08}!
+4c001b| {V44} sent out {V07}! Go, {V05}!
+4c006f| {V20} sent\nin {V06}!
+4c00f3| {V22} withdrew\n{V00}!
+4c0194|Go! {V00}!
+4c01d0|{V20} sent out\n{V00}!
+4c194d|   {V23} played {V16}!
+4c3ec4|{V13} gave {V16}\nto {V40} with {V17}!
+4c49a0|{V10} obtained\n {V19}!
+4c4fef| {V45}\nused {V16}!
+4c53a2|  {V10}'s {V19}\nnegated {V14}!
+4c5441|   {V10}'s {V19}\nblocks {V14}!
+4c5ddc|{C0820}1, {C080F}2, and{C080F}… {C080F}… {C080F}… {C080F}{C103800}Poof!\p
+4c6692|  {V0F} stole\n {V3F}'s {V16}!
+4c690e|  {V23} picked up\n${V00}!\p
+4c70c0|{V41}'s {V13}\nfroze {V11}!
+4c710d|   {V41}'s {V00}\nburned {V11}!
+4c71a5|   {V41}'s {V00}\npoisoned {V11}!
+4c71fe|  {V41}'s {V13}\nmade {V11} sleep!
+97344e|  Traded for {D00}.
+9734fc|{D00} is back!
+97358e|  Bye, {D00}!
+9c2e10|The sturdiness of its lower body made\nit invincible in ancient times, but it\nwent extinct after eating all the\nplants it fed on.
+9c66f0|In ancient times it was revered for\nits power to create iron. After\nthree millennia, it has returned.
+9d01d2|  It is feared as an omen of ill\nfortune. It wanders in search of the\nsouls of those who have passed on.
+9f321e|  They have lived alongside humans\nsince ancient times. They sense when\ntheir Trainer is sad and will not\nleave their side.
+e6891e|  At full HP, dmg x0.5.
+e85cd1|   {C0820}1, {C080F}2 and {C080F}…{C080F}… {C080F}… {C080F}{C103800}Poof!\p
+e85ffc|RECORDS W/{V02} L/{V03} D/{V04}
+e8664f| {V02} sent {V04}.
+e8665f| Bye, {V03}!
+e8712f| Great score! You receive\nthis many {D00}: {D01}.
+e87243| The winner gets {D00}!
+e87c84|{D00} saved the game.
+e87d71|   {D00} disconnected!
+e87d8c|{D00} joined the group!
+e87e50|{V02}'s {V03} won!
+e8994f| {V02} loves you!\nIts {V03} fell!{C09}
+e899f7| {V02} grew to\nLv. {V03}.
+e89b3b| {V02} knows\n{V03}.{C09}
+e89b4f| 1, {C080F}2 and{C080F}…{C080F}…{C080F}…{C080F}{C103800}Poof!\p{V02} forgot\n{V03}.\pAnd…{C09}
+e89d73| Got {V03}\nfrom {V02}.{C09}
+e8a4f2|  {V01} used\n{V03}{C09}
+e8a54f| Threw {V03}\n{V02}(s)
+e8af21|   -Your Pokémon team will be erased and\nyou may pick any 10 Pokémon at Lv. 110.

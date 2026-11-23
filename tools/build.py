@@ -1,5 +1,5 @@
 # usage: build.py  -> applies all work/tr/*.json, writes out/*.gba + .bps, prints warnings
-import sys,json,glob,struct,zlib,re;sys.path.insert(0,'tools');from g3text import *
+import os,sys,json,glob,struct,zlib,re;sys.path.insert(0,'tools');from g3text import *
 src=open('rom/PkmnTeamRocket.gba','rb').read();d=bytearray(src)
 S={x['off']:x for x in json.load(open('work/strings.json'))}
 old={x['off']:x for x in json.load(open('work/kept.json'))}
@@ -30,14 +30,14 @@ for off,en in sorted(tr.items()):
     if lead(x['text'])!=lead(en): warn.append('%x LEADING SPACES differ'%off)
     n=x['end']-off
     if len(b)<=n: d[off:off+n]=b+b'\xff'*(n-len(b));inp+=1
-    elif goodrefs(x):
+    elif goodrefs(x) and not os.environ.get('NOMOVE'):
         d[FREE:FREE+len(b)]=b
         for r in goodrefs(x): struct.pack_into('<I',d,r,FREE+0x08000000)
         FREE=(FREE+len(b)+3)&~3;mov+=1
     else: warn.append('%x TOO LONG and unpointed (%d>%d): %s'%(off,len(b),n,en))
 print('strings',len(tr),'in place',inp,'moved',mov,'free ptr',hex(FREE))
 for w in warn:print('WARN',w)
-open('out/PkmnTeamRocket_EN.gba','wb').write(d)
+open(os.environ.get('OUT','out/PkmnTeamRocket_EN')+'.gba','wb').write(d)
 def vi(n):
     o=bytearray()
     while True:
@@ -56,4 +56,4 @@ while i<N:
         p+=vi(((j-i-1)<<2)|1)+d[i:j]
     i=j
 p+=struct.pack('<II',zlib.crc32(src),zlib.crc32(d));p+=struct.pack('<I',zlib.crc32(p))
-open('out/PkmnTeamRocket_EN.bps','wb').write(p)
+open(os.environ.get('OUT','out/PkmnTeamRocket_EN')+'.bps','wb').write(p)

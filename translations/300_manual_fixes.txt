@@ -102,3 +102,4 @@
 8ecd14|Player
 e86a01|   Player: {C1110}{C0104}{C0305}{V01}{C0102}{C0303}\n\nThis document certifies\nthat you have successfully\ncompleted your\n{V02} POKéDEX.\n\n{C1342}{C0104}{C0305}GAME FREAK
 e8936c|Sp.Atk
+4c07a4|{C0505}{C040D0E0F}Yes\nNo

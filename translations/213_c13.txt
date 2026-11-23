@@ -140,7 +140,7 @@
 30dccf|From the energy this POKé BALL\ngives off, it's plain to see\lthere's a pretty powerful\lPOKéMON inside{C0805}…{C0805}
 30ddb8|I still can't believe it.\pI'll remember the day ARCHER came\nback from KANTO on the SEAGALLOP\land announced his LEAGUE win for\lthe rest of my life, SIR.
 30de3c|I found this BALL years ago,\nwalking through PATTERN BUSH.\pI know you'll be exploring the\nislands thoroughly. It'll come in\lhandy, I'm sure.
-30debd|Ordinary people wait for ARCHI7 to\nreveal its secrets to them, but for\la few, for the chosen ones, those\lmysteries are revealed before the\lveil has even been drawn back.
+30debd|Ordinary people wait for SEVII to\nreveal its secrets to them, but for\la few, for the chosen ones, those\lmysteries are revealed before the\lveil has even been drawn back.
 30df6e|ARCHER is waiting for you along\nwith the other ROCKET who managed\lto beat me. Go in and get the\ldetails of your mission.
 30e106|{C1903}The prodigal son returns home.\nEh, {V01}?
 30e131|{C1903}After beating a team of nothing\nbut LEGENDARIES and\lPSEUDO-LEGENDARIES, whatever you\lcan find in the cramped space of\lthese islands won't be enough for\lyou, right?

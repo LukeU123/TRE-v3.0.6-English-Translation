@@ -149,7 +149,7 @@
 43eec7|There's great power in ambiguity, and\nmany use it for evil ends.
 441670|U..I....E  P....CT\pHP: 126\nATTACK: 90\lDEFENSE: 154\lSP. ATK: 216\lSP. DEF: 154\lSPEED: 90\lTOTAL: 830\pTYPE: PSYCHIC/STEEL\nABILITY: - - - - - 
 442533|{C1907}A{C0823}…{C0823} TV?
-44b7a1|Hellooooo! Where are you from?\p(...)\pFIVE ISLAND? ARCHI7? Hmmm.\pNever heard of it, to be honest.\pBut I bet JUBILIFE CITY is way\nbigger. You might even\pget lost!
+44b7a1|Hellooooo! Where are you from?\p(...)\pFIVE ISLAND? SEVII? Hmmm.\pNever heard of it, to be honest.\pBut I bet JUBILIFE CITY is way\nbigger. You might even\pget lost!
 4619c9|{C197E}Today, the vastness of a world\nunknown to us has come crashing\ldown on us; it doesn't matter if it's\l150, 500, 1000 or 10000 species.
 46a248|{C1920}{V01}? {C080F}…{C080F} {C080F}…{C080F}\pHow's the raid going?
 46ab84|{C1983}Hello to all the TRAINERS\nwatching me!\lHello, hello and hello!\p……… ……… ………\pCome on, I can't hear you!\nEveryone with me: HELLOOOOOOO!\pIt's your very own POKéLOTODO!\pToday, your POKéLOTODO is going\nto talk to you about HIT POINTS.
@@ -248,7 +248,6 @@
 9c113f|         The yeast in its breath is very\nuseful in cooking, so people have\ncared for this Pokémon for ages.
 9c12f0|They always travel in pairs. When they\nfind food, they split it into two\nidentical halves to share.
 9c13ec|It uses a martial art characterized\nby striking with its front paws while\nreleasing electric shocks at the\nsame time.
-9c187c|  \n     ú               ú       It eats only the finest delicacies.\nIts body gives off a grassy scent\nthat Bug-type Pokémon hate.
 9c4728|It emerges onto land in search of\nfood. Its extreme curiosity makes it\nlash its tentacles at anything that\nenters its field of vision.
 9c4ac8|It secretes toxins through its skin\nand stores them in an internal poison\nsac. Touching it gives you a shock.
 9c7418|This Pokémon is said to come from\nanother world. Something seems to\naccumulate around the black core\nhoused in its hard shell.
@@ -269,3 +268,4 @@ e84f7c|Cosmic Egg  -    $1,200,000
 e850c0|1 Silver Real -    x2 Max Ether
 e850e0|1 Copper Real -    x2 Ether
 e89a2c|{V02} was healed.{C09}
+9c187c|  \n     ú               ú       It eats only the finest delicacies.\nIts body gives off a grassy scent\nthat Bug-type Pokémon hate.

@@ -50,7 +50,7 @@
 33f55f|VERO: Don't push your luck!\pWe weren't going to give you\nthe other PINSIR!\pWe spent all our candy getting\nit up to the same level as\lthe rest of our POKéMON!
 33f5ed|JUAN: Let's go, VERO. I hear\nJOHTO has even better bugs\lthan the ones here.\pAnd an old man who gives you a\nDRATINI if you pass his test!
 33f67d|VERO: Say no more, then.\pOn to the next destination!
-33f6ce|My CHANSEY loves healing the\nweary travelers who make it all\lthe way here. This is the biggest\lisland in all of ARCHI7.
+33f6ce|My CHANSEY loves healing the\nweary travelers who make it all\lthe way here. This is the biggest\lisland in all of SEVII.
 33f757|I'm 1.70 meters tall.\pI know because my neighbor\nmeasured me.
 33f794|I love HERACROSS. I think it's\nbetter than PINSIR, though I\lbelieve they both come from the\lsame ancestor.
 33f889|Oh, my. Looks like you're one of\nthose TRAINERS who never got\lanything handed to them. Lots of\lkids think they're special just\lbecause they got some rare or\lpowerful POKéMON without doing\lanything to earn it.\pThat doesn't seem to be you.\nI'd like to see for myself.
@@ -346,7 +346,7 @@
 34c301|{V01} received 5 ULTRA BALLS\nfrom the Rocket Executive!
 34c339|{C190B}HEAD ADMIN {V01}!
 34c34c|{C190B}It's been a long time, but you've\nbecome TEAM ROCKET's greatest\llegend.\pHere on FIVE ISLAND, you're an\nidol.
-34c3c9|{C190B}As you can see, I've climbed the\nranks too. I'm now a ROCKET\lEXECUTIVE and ARCHER's right hand\lin Archi7.
+34c3c9|{C190B}As you can see, I've climbed the\nranks too. I'm now a ROCKET\lEXECUTIVE and ARCHER's right hand\lin Sevii.
 34c43e|{C190B}Forgive my forwardness, sir…\pIt would be a real honor to\nbattle you and make my POKéMON\leven stronger.
 34c4ba|{C190B}Would you like to battle?
 34c4d4|{C190B}I understand.\pSomeone like you must have matters\nof great importance waiting.
@@ -370,7 +370,7 @@
 34cc1c|{C1904}You've got great potential, comrade.\pIf you stay on track, you'll go\nfar in TEAM ROCKET.\pTake this!
 34cc8e|{C1904}If you run from battles, the most\nyou'll ever be is a lowly\lGRUNT, trust me!
 34ce18|{C1908}Ah, {V01}.\pBack to your roots, huh?
-34ce42|{C1908}ARCHER's been filling me in on\neverything I can explore around\lthese islands. Archi7 is perfect\lfor a breather after everything\lthat went on at the POKéMON\lLEAGUE.
+34ce42|{C1908}ARCHER's been filling me in on\neverything I can explore around\lthese islands. Sevii is perfect\lfor a breather after everything\lthat went on at the POKéMON\lLEAGUE.
 34cef2|{C1908}Technically I'm the CHAMPION of the\nPOKéMON LEAGUE, but we both know\lwhat happened there was different.\lYou're the one who beat the best\lTRAINERS{C0819}…{C0819}and RED.
 34cfa1|{C1908}That's when I realized I only\nwanted to be CHAMPION to prove my\lworth to others, to be above RED\land come out as the better of the\ltwo.\pNot purely because I wanted it.
 34d054|{C1908}Now that I'm CHAMPION, I realize\nthis title is worthless.\pI'm only the best in the eyes of\nthe masses, but reality is very\ldifferent.
@@ -386,7 +386,7 @@
 34d9bd|Hmm, I see. Doesn't seem like a\nvery friendly guy, honestly.
 34da00|Here lies my ONIX, TECTONIX.\nI built this place in his honor,\lso everyone remembers his name.
 34db2f|TECTONIX loved lemonade. I'd love\nto leave some here as a\ltribute.
-34db88|But they stopped selling it in\nArchi7 a long time ago.
+34db88|But they stopped selling it in\nSevii a long time ago.
 34dbbc|There is a cook, though… He often\nstops by the island's POKéMON\lCENTER.
 34dbff|He's got lemonade, all right. The\nproblem is he only uses it for his\lrich clients, who pay through the\lnose for it with the rest of his menu.
 34dc99|Say, could you convince him to\nsell me some?

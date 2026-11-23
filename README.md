@@ -24,6 +24,7 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 - [x] Pokédex entries
 - [x] Strings repointed to their real start where the pointer landed mid-sentence
 - [x] Consistency pass, round 1: KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling
+- [x] Playtest fixes: battle stat messages, Yes/No box, continue screen, trainer memo, Rocket Timeline menu, ~550 missed short lines, ARCHI7 → SEVII
 
 ### To do
 - [ ] Full playtest

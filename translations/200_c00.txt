@@ -34,7 +34,6 @@
 2100d1|POKéMON.\pWhen I grow up, I'm going to\ntravel with a POKéMON too.
 210122|The POKéMON TRAINER'S SCHOOL!\pIf I go there, will I learn how\nto catch rare POKéMON easily?
 21018a|If a POKéMON gains experience in\nbattle, its appearance may change.
-2101fc|to me, I'd be stunned!
 210219|POKéMON you get in trades grow\nvery quickly.\pBut without certain GYM BADGES,\nthey may not obey you.
 21031a|DEVON CORP.\p"We make what you need."
 21034d|RUSTBORO CITY POKéMON GYM\nLEADER: ROXANNE\p"The ROCK-type POKéMON\nexpert!"
@@ -567,7 +566,6 @@
 225ffa|I collect official merchandise\nfrom LILYCOVE CITY.\pI've got official dolls\nfrom CELADON CITY…,\pdesigner clothes\nfrom GOLDENROD CITY…\pand official picture books\nfrom CANALAVE CITY.\pAnd it's all mine!\nYou can look, but don't touch!
 2260d2|I saw "{V02}"\nand it was totally rad.\pIt blew my mind.\pIt was amazing!\nThe best of the best!
 226134|Oh, no, no, no.\pYou think you saw\n"{V02}"…\lBut it was fake…\pTo be genuine, it needs…\nhow should I put it?… power and\ldelicacy at the same time…\pBah, whatever… It's super cool!
-226243|listen!\pOh, oh, {V02}!\nLa, la, la!\pJust {V02}!\nLa, la, la!
 22627f|Geez, pal…\pBefore you trash\n"{V02}",\lyou should learn to sing…
 2262c6|But like I said before, we\nshould get together and throw a\l"{V02}"\lparty on the island.
 22631c|What a great idea!\pAt last we'll know who's the ace\nof "{V02}".\lWhat a great idea!\pFrom now on, it's all about\n"{V02}"!

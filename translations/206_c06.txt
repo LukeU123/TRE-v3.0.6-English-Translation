@@ -751,7 +751,7 @@
 299eb9|TEAM ROCKET has let us down.\nYou've sold out to the NEW ORDER!
 299f00|You dare betray us?
 299f15|We still remember what KANTO was\nlike before the war. Back then we\lcould sell whatever we liked here!
-299f83|With all due respect, someone from\nARCHI7 could never understand why\lwe fight for this place.\pI'll pulverize you!
+299f83|With all due respect, someone from\nSEVII could never understand why\lwe fight for this place.\pI'll pulverize you!
 299ffc|You still don't get it!
 29a014|You might be good…\pBut we'll crush you together\nif we have to!
 29a05d|You TEAM ROCKET lot got too\nclever for your own good.\pIn here, we're in charge!

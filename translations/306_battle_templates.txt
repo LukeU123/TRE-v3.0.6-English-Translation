@@ -1,0 +1,41 @@
+4c5c80|It doesn't affect\n{V3F}…
+4c7318|It doesn't affect\n{V3F}…
+4c7328|It doesn't affect\n{V3F}…
+4c5544|{V16} snapped it out of its confusion!
+4c5e30|{V10}'s {V00}\n{V01}!
+4c5e40|{V0F}'s {V00}\n{V01}!
+4c5e50|{V0F}'s {V00}\n{V01}!
+4c7610|{V10}'s {V00}\n{V01}!
+4bf229|a Rock move
+4bf319|a Water move
+4bf431|a Fairy move
+4c0705|& 
+4c0884|……?\p
+8de047| VERMILION-SEVII\nferry ticket.
+e8b270|Sevii
+44b1b4|Dialogue TBD
+44b335|Dialogue TBD
+44b656|Dialogue TBD
+44c4dd|Dialogue TBD
+44c6d5|Dialogue TBD
+44c753|Dialogue TBD
+44c770|Dialogue TBD
+44c78d|Dialogue TBD
+44d268|Dialogue TBD
+44d285|Dialogue TBD
+44d8e3|Dialogue TBD
+44d9f4|Dialogue TBD
+44dea9|Dialogue TBD
+44dec6|Dialogue TBD
+44df4c|Dialogue TBD
+44e705|Dialogue TBD
+44e722|Dialogue TBD
+44ff8d|Dialogue TBD
+44ffab|Dialogue TBD
+44ffca|Dialogue TBD
+450088|Dialogue TBD
+450149|Dialogue TBD
+450167|Dialogue TBD
+450184|Dialogue TBD
+45035e|Dialogue TBD
+45037b|Dialogue TBD

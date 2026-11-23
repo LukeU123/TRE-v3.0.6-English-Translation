@@ -220,7 +220,7 @@
 32257d|{C1906}Who's there?
 322591|{C1939}But… how is this possible?\pMy security, defeated by a\nmember of TEAM ROCKET.\pWhat's your name, kid?
 3225fc|{C1939}{V01}? {C080F}…{C080F} You must be from out of\ntown. No one from KANTO would ever\ldare barge into the HQ in their\lcapital like this.
-32267e|{C1939}So, ARCHI7{C080F}…{C080F} I see. Let me tell you\nsomething: you haven't seen anything\lof this region yet. KANTO's POKéMON,\lthe real ones, are nothing like those\lweak SENTRET or SPINARAK you grew up\lwith.
+32267e|{C1939}So, SEVII{C080F}…{C080F} I see. Let me tell you\nsomething: you haven't seen anything\lof this region yet. KANTO's POKéMON,\lthe real ones, are nothing like those\lweak SENTRET or SPINARAK you grew up\lwith.
 32274b|{C1939}It's an insult that someone like you,\nwith such a poor culture and such\lshallow roots in POKéMON BATTLING,\lhas made it this far. It's just more\lproof of the decay plaguing this\lregion; the values that made us great\lhave been completely lost.
 322857|{C1939}Unfortunately for you, there are\nstill TRAINERS who haven't been\linfected by the virus of\lmediocrity and conformity.
 3228d6|{C1939}For the first time, you're going to feel\nwhat it's like to face an old-school\lKANTO team!
@@ -380,7 +380,7 @@
 327b01|If our LEADER GIOVANNI decided\nto fight with all his power, I\ldon't think there's a TRAINER in\lthe whole region today who could\lkeep up with him. He's become\lextraordinarily strong.\pAll these years of being stoned by\nthe media have only hardened him\leven more than he was when he\lfirst won the title of KANTO\lCHAMPION.
 327c64|If all goes well, we'll lie low\nfor a while, but we'll keep\lgetting stronger{C0805}…{C0805}
 327cd6|Very important things are going\nto happen here today.
-327d10|SILPH's power reaches across\nARCHI7, but TEAM ROCKET's will\lreach across the whole world!
+327d10|SILPH's power reaches across\nSEVII, but TEAM ROCKET's will\lreach across the whole world!
 327d7c|In TEAM ROCKET we act as a single\nbody. That's what makes us strong.
 327dce|The workers here aren't used to\nseeing us. They live in a city cut\loff from reality. I wouldn't be\lsurprised if lots of them wet\lthemselves, even though we won't\lhurt them, of course.
 327e9e|SILPH CO. HEAD OFFICE\nLOBBY
@@ -401,7 +401,7 @@
 32921c|{C1920}Go to the POKéMON MANSION, {V01},\nand show OAK how a TRAINER in tune\lwith his POKéMON fights.
 32928e|{C1920}Perhaps that secret entrance is in\nthe old parts of LAVENDER TOWN.\pHave you looked in POKéMON TOWER?
 3292ff|{C1920}Talk to the SILPH receptionist.\nShe'll show you the great private\llibrary they keep in the basement.\pAccording to the PRESIDENT, the\ndata on that ESSENCE POKéMON is\lon B3F, in the last room.
-3293de|{C1920}Relax and enjoy ARCHI7.\pThere's a lot to do there if you\nknow where to go. Maybe if you visit\lARCHER at our HQ, he'll show you\lsome of its secrets.\pNo one knows ARCHI7 better than\nARCHER.
+3293de|{C1920}Relax and enjoy SEVII.\pThere's a lot to do there if you\nknow where to go. Maybe if you visit\lARCHER at our HQ, he'll show you\lsome of its secrets.\pNo one knows SEVII better than\nARCHER.
 3294b7|{C1920}You can take on the GYMS in\nwhatever order you like, {V01}, but\lI recommend the traditional order.\lIn any case, the CINNABAR GYM is\lcurrently closed.\pWe'll have to wait for that scoundrel\nBLAINE to reopen it. And remember,\lonce you have the first 7 BADGES,\lthere's still our very own\lVIRIDIAN CITY GYM.
 329618|{C1920}I'm counting on you, {V01}. SILPH's\nsecurity is known to be ruthless,\lbut they've never faced TRAINERS\llike ANDRA or you.\pGo to SILPH and show them how a real\nROCKET EXECUTIVE fights!
 3296f3|{C1920}We've located an ARTICUNO on the\nSEAFOAM ISLANDS. To get there, you'll\lfirst need to cross ROUTES 12, 13,\l14 and 15, south of LAVENDER TOWN,\land then the sea off FUCHSIA CITY.\pDon't get overconfident, {V01}.\pMy advice: treat the whole journey\nto ARTICUNO as training. It takes\lmore than battle skills to defeat a\lSACRED POKéMON.

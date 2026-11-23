@@ -22,7 +22,6 @@
 9f1f2c|CHARIZARD flies around in search of\nstrong opponents. It breathes fire hot\nenough to melt anything, but it will\nnever use it on a foe weaker than itself.
 9f2008|It shows its foes no mercy, tearing\nthem apart with its sharp claws. Against\nstrong opponents it turns aggressive,\nand its tail flame burns bluish.
 9f20d8|The flame on the tip of its tail burns\naccording to its feelings. It flickers\ngently when it's happy and blazes\nfiercely when it's angry.
-9f2170|It scatters huge amounts of pollen\nwith the force of a volcanic eruption.\nBreathing in too much of it can cause\ndizzy spells.
 9f2200|Its legs and back have grown stronger\nto bear the weight of its flower,\nwhich has grown considerably.
 9f2280|VENUSAUR's flower apparently takes on\nvivid colors when it is well nourished\nand gets plenty of sun. The flower's\ndelicate scent has a calming effect.
 9f2348|Its sturdy legs and trunk support the\nweight of its bulb. If it spends a lot\nof time in the sun, the bulb blossoms\ninto a huge flower.
@@ -36,7 +35,6 @@
 9f2bec|Its fangs can pierce even the thickest\nfur. It gorges on the blood of people\nand other POKéMON. It flutters in the\ndark and attacks from behind.
 9f2c8c|After so long spent in dark caverns,\ntheir eyes have withered away and lost\nall sight. They use ultrasonic waves\nto detect obstacles.
 9f2d28|It fights bravely with its fists,\nwhich are covered in steel scales.\nIt has a formidable hook punch.
-9f2d88|It's saddened whenever its identity\nmight be uncovered. It never forgives\nanyone who breaks its disguise and\nwon't rest until it gets revenge.
 9f2e04|Its true appearance is a total mystery.\nA researcher who tried to peek inside\nits sack was quite literally scared to\ndeath.
 9f2e8c|When it feels threatened, it bristles\nthe quills on its back to prick anyone\nwho dares attack it.
 9f2ee8|If its core is exposed, its life is in\ndanger, but it can survive if it gets\ninside a Poké Ball quickly.
@@ -47,8 +45,6 @@
 9f312c|It devotes a lot of time and effort to\ngrooming and preserving its vivid\ncolors. For some, it takes all day.
 9f31ac|It headbutts with its bubble. Smaller\nPokémon get trapped inside it and\ndrown.
 9f32a8|It makes many kinds of pollen balls.\nSome are used as food, and others\nfor battle.
-9f3308|It dazes foes with its acrobatic\nflight, then takes advantage of their\nconfusion to zap them with a bolt of\nlightning.
-9f3380|Once it picks up the scent of prey,\nit stalks it relentlessly, but when\nthe sun goes down, it falls asleep.
 9f33e8|It brings down its foes with its sharp\nfangs. This form is unstable, so it\nfalls apart after a while.
 9f346c|It lives deep within caverns, where\nit keeps watch over anyone who would\ndestroy the ecosystem.
 9f34e8|It is said that when the horns on its\nhead shine in seven colors, it shares\nthe gift of eternal life.
@@ -57,7 +53,6 @@
 9f3644|When attacked by bird Pokémon, it\nreleases black scales that cause\nparalysis on contact.
 9f36c8|It compresses water into ninja stars\nand hurls them at its foes. Spun at\nhigh speed, they can slice clean\nthrough metal.
 9f3750|It was feared 300 million years ago\nas the fiercest, deadliest hunter.\nIt has been modified by Team Plasma.
-9f37c8|It is said to have emerged from an\negg in a place where there was\nnothing. Then it shaped the world.
 9f3828|It has no nest. It flies over\nfields and mountains in search of\nfloral honey.
 9f3876|  This is the result of a space virus\nmutating after exposure to a laser beam.\nIt is notable for its superior speed\nand agility.
 9f391c|They are shaped like ancient letters.\nNo one knows which came first,\nwriting or the various UNOWN, but\nresearch continues.
@@ -110,18 +105,11 @@ e67fa4|Poisoned foes get confused.
 e67fb8|Negates weather and terrains.
 e67fd0|Reduces damage at full HP.
 e67fec|Terastallizes on entry.
-e68008|Lowers the foe's evasiveness.
 e68028|Each hit has a 30% poison chance.
-e6804c|Raises Defense by one stage.
-e68068|Raises Sp. Def by one stage.
-e68084|Raises Attack by one stage.
-e680a0|Raises Speed by one stage.
 e680bc|Scrappy + Keen Eye.
-e680d8|Restores 25% of ally's HP.
 e680f4|Status moves ignore foe's Abilities.
 e6811c|Absorbs Ground moves.
 e68138|Protects from priority moves.
-e68160|Lays Toxic Spikes on contact.
 e6817c|Copies stat changes.
 e68194|+10% Atk/Sp.Atk per fainted ally.
 e681bc|Boosts slicing moves by 50%.
@@ -137,7 +125,6 @@ e682d0|Immune to status conditions.
 e682f0|Ups highest stat in Electric Terrain.
 e68318|Ups highest stat in sun.
 e68334|Charges up when hit.
-e68364|Changes form when switched out.
 e68384|Charges up from wind.
 e6839c|+50% Rock moves.
 e683b4|+1 Attack when Intimidated.
@@ -172,7 +159,6 @@ e68728|Doubles Berry effects.
 e68744|Halves special damage.
 e68760|Kicks up a sandstorm when hit.
 e68788|x1.3 sound moves. Halves sound damage.
-e687b4|Ups Speed when hit by Fire/Water.
 e687d8|Ignores redirection.
 e687f0|Spits out prey when hit.
 e6880c|Reflects stat drops.
@@ -238,7 +224,6 @@ e68fa8|Ups Defense on grass.
 e68fc0|+50% pulse moves.
 e68fdc|+1 priority to Flying moves.
 e69008|Transforms based on battle.
-e69024|Prevents sleep for its side.
 e69040|Normal moves become Ice and x1.2.
 e69068|+50% damage to biting moves.
 e69090|+2 Sp. Atk when its stats are lowered.
@@ -269,9 +254,6 @@ e69394|+30% power if it moves last.
 e693b8|May avoid status conditions.
 e693dc|Doubles Speed in a sandstorm.
 e69400|Prevents Defense drops.
-e6941c|Heals 33% HP on switching out.
-e6943c|Poisons on the slightest contact.
-e6945c|Blocks weather damage and powders.
 e69480|Its stats rise gradually.
 e694a8|Avoids allies' attacks.
 e694c4|May reuse Berries.
@@ -307,10 +289,8 @@ e698bc|Ignores stat changes.
 e698d8|Detects the foe's strongest move.
 e69900|Senses dangerous moves.
 e69920|If KO'd, foe loses 25% of its HP.
-e6994c|Lands critical hits more often.
 e69968|Suppresses the foe's Ability.
 e69984|Can't use its held item.
-e699a0|Prevents status conditions in sun.
 e699c4|Powers up weak moves.
 e699e8|Always moves after others.
 e69a08|All moves hit.
@@ -336,7 +316,6 @@ e69cc4|Flinching raises Speed.
 e69ce8|+25% Atk vs same sex, -25% opposite.
 e69d10|Ups Speed when hit by Electric moves.
 e69d38|Ups evasiveness when confused.
-e69d58|Negates the effects of weather.
 e69d78|Blocks crits. -10% damage taken.
 e69da0|Doubles the user's Attack.
 e69dc0|Prevents stat drops.
@@ -352,8 +331,6 @@ e69ef8|+50% Defense when statused.
 e69f1c|+50% Attack when statused.
 e69f40|Heals by shedding its skin.
 e69f5c|Prevents item theft.
-e69f78|Changes with the weather.
-e69f90|Boosted by the Plus Ability.
 e69fac|Boosted by the Minus Ability.
 e69fc8|Infatuates on contact.
 e69fe4|+50% Attack, x0.8 accuracy.
@@ -364,12 +341,10 @@ e6a054|Prevents accuracy drops.
 e6a070|Makes fleeing easier.
 e6a084|May burn on contact (33%).
 e6a0a4|Wakes up quickly.
-e6a0c0|Protects from heat and cold.
 e6a0dc|Depletes the foe's PP.
 e6a0f8|Whips up a sandstorm.
 e6a114|Heals 6.25% HP in rain.
 e6a134|Blocks sound-based moves.
-e6a150|Traps Steel-type Pokémon.
 e6a16c|Prevents burns.
 e6a184|Prevents freezing.
 e6a19c|Prevents flinching and Intimidate.
@@ -386,8 +361,6 @@ e6a2d4|Prevents stat drops.
 e6a2ec|Passes on status conditions.
 e6a30c|May spread spores on contact (33%).
 e6a32c|Immune to Ground-type moves.
-e6a34c|Only hurt by weather and super-effective.
-e6a378|-12.5% HP to attackers on contact.
 e6a398|Stops the foe fleeing or switching.
 e6a3c4|Lowers the foe's Attack.
 e6a3e0|Anchors itself firmly.
@@ -398,12 +371,9 @@ e6a454|Prevents poisoning.
 e6a470|Takes the type of the foe's move.
 e6a494|Prevents falling asleep.
 e6a4b0|Raises accuracy by 30%.
-e6a4d0|Negates the effects of weather.
-e6a4f0|Prevents infatuation.
 e6a504|Turns Water into HP.
 e6a520|Turns electricity into HP.
 e6a53c|May paralyze on contact (33%).
-e6a560|Ups evasiveness in a sandstorm.
 e6a580|Prevents paralysis.
 e6a594|Prevents self-destructing.
 e6a5b0|Blocks one-hit KO moves.
@@ -831,25 +801,18 @@ e85c41|   CONTEST MOVES
 e85c54|BATTLE MOVES
 e85c64|Which move should\nbe forgotten?\p
 e85c88|Give up on teaching\n{V02} a new move?
-e85cb0|{V02} forgot {V04}.\pAnd…\p{V02} learned {V03}.
 e85d00|Stop learning\n{V03}?
-e85d18|{V02} is trying to learn\n{V03}.\pBut {V02} can't learn\nmore than four moves.\pDelete a move to make\nroom for {V03}?
 e85d7c|{V02} learned\n{V03}!
-e85d90|Do you want to teach\n{V03}?
-e85da8|Which move should {V02} learn?
 e85dcb| BP
 e85ddf| TIME 
 e85de8|TIME BOARD
 e85dfe|  Exit
-e85e0c|But they'd rather play with other\nPOKéMON than with each other.
 e85e44|I'd say they're not exactly\ncrazy about each other.
 e85e68|I'd say they get along\nfairly well.
 e85e8c|I'd say they get along\nfamously.
 e85eb0|REEL TIME\nHere's your chance to\nscore big!\nThe reel will spin as many\ntimes as the number shows. You\ncould win a BIG BONUS at the end!
 e85f50|You need three COINS.
 e85f68|You've run out of COINS.\nGame over!
-e85f98|You already have 9,999 COINS!
-e85fb4|Do you want to stop playing?
 e85fd0|Awaiting connection…
 e8a2c8|Exit
 e8a2d0|SELL
@@ -877,9 +840,7 @@ e8a458|to the battle
 e8a464|to the main menu
 e8a478|The Box is full.{C09}
 e8a4c4|The Repel's effects are\nstill lingering.{C09}
-e8a504|Giovanni's words echoed…\n{V01}, there's a time and place\lfor everything!{C09}
 e8a53c|Throw away\n{V03}\n{V02}(s)?
-e8a560|Throw away how many\n{V02}(s)?
 e8a57c|{V02} can't be held.
 e8a594|Moving\n{V02}.\nWhere to?
 e8a5ac|There are no\nPokémon.
@@ -887,7 +848,6 @@ e8a5bc|You can't write\nmail here.
 e8a5e0|{V02}\nselected.
 e8a5f4|Close Bag
 e8a604|{V02} COINS
-e8a628|What would you like to do?
 e8a640|Go back to the\nprevious menu.
 e8a69c|None
 e8a6a8|Exit
@@ -903,7 +863,6 @@ e8a720|Name
 e8a72c|Lv. 
 e8a73c|Congratulations!
 e8a74c|Hall of Fame No. {V02}
-e8a764|The Hall of Fame data is corrupted.
 e8a786|  Saving…\nDon't close the game.
 e8a7a8|Pokémon seen: {V02}!\nYour Pokémon: {V03}!\p
 e8a7d1|   Welcome to the Hall of Fame!
@@ -940,9 +899,7 @@ e8aa68|Filter by color.\nSeen Pokémon only.
 e8aa94|Filter by first letter.\nSeen Pokémon only.
 e8aacc|Select the mode.
 e8aae4|Select the mode.
-e8aafc|Return to the Pokédex.
 e8ab14|Switch Pokédex listings.
-e8ab30|Search for Pokémon based\non selected parameters.
 e8ab5c|No matching Pokémon found.
 e8ab7c|Search complete.
 e8ab90|Searching…\nPlease wait.
@@ -1107,7 +1064,7 @@ e8b207| At this point, the Kanto events are over.\nHere's a list of the changes:
 109b0b0|This'll be so much fun, I already dread it ending.{C09}
 109b0ec|Where do you get that energy?! {C080F}…{C080F} …{C080F} Whatever. Execute!{C09}
 109b130|Still thrashing about? Good. You'll suffer slowly before you lose.{C09}
-109b17c|You're the first in ARCHI7 to force me to use this POKéMON.{C09}
+109b17c|You're the first in SEVII to force me to use this POKéMON.{C09}
 109b1c8|That move is inefficient, but effective.{C09}
 109b1f8|No ROCKET will rob me of my glory! My legacy will last 1,000 years!!{C09}
 109b244|In such a hurry to lose? So be it. Face the sacred!{C09}
@@ -1181,3 +1138,46 @@ e8b207| At this point, the Kanto events are over.\nHere's a list of the changes:
 109c440|Clearly, you're not just another TRAINER. But… neither am I!{C09}
 109c480|This POKéMON alone is worth more than your team. You can't win!{C09}
 109c4c8|Oh…\nHow dare you?!{C09}
+9f2170|It scatters huge amounts of pollen\nwith the force of a volcanic eruption.\nBreathing in too much of it can cause\ndizzy spells.
+9f2d88|It's saddened whenever its identity\nmight be uncovered. It never forgives\nanyone who breaks its disguise and\nwon't rest until it gets revenge.
+9f3308|It dazes foes with its acrobatic\nflight, then takes advantage of their\nconfusion to zap them with a bolt of\nlightning.
+9f3380|Once it picks up the scent of prey,\nit stalks it relentlessly, but when\nthe sun goes down, it falls asleep.
+9f37c8|It is said to have emerged from an\negg in a place where there was\nnothing. Then it shaped the world.
+e68008|Lowers the foe's evasiveness.
+e6804c|Raises Defense by one stage.
+e68068|Raises Sp. Def by one stage.
+e68084|Raises Attack by one stage.
+e680a0|Raises Speed by one stage.
+e680d8|Restores 25% of ally's HP.
+e68160|Lays Toxic Spikes on contact.
+e68364|Changes form when switched out.
+e687b4|Ups Speed when hit by Fire/Water.
+e69024|Prevents sleep for its side.
+e6941c|Heals 33% HP on switching out.
+e6943c|Poisons on the slightest contact.
+e6945c|Blocks weather damage and powders.
+e6994c|Lands critical hits more often.
+e699a0|Prevents status conditions in sun.
+e69d58|Negates the effects of weather.
+e69f78|Changes with the weather.
+e69f90|Boosted by the Plus Ability.
+e6a0c0|Protects from heat and cold.
+e6a150|Traps Steel-type Pokémon.
+e6a34c|Only hurt by weather and super-effective.
+e6a378|-12.5% HP to attackers on contact.
+e6a4d0|Negates the effects of weather.
+e6a4f0|Prevents infatuation.
+e6a560|Ups evasiveness in a sandstorm.
+e85cb0|{V02} forgot {V04}.\pAnd…\p{V02} learned {V03}.
+e85d18|{V02} is trying to learn\n{V03}.\pBut {V02} can't learn\nmore than four moves.\pDelete a move to make\nroom for {V03}?
+e85d90|Do you want to teach\n{V03}?
+e85da8|Which move should {V02} learn?
+e85e0c|But they'd rather play with other\nPOKéMON than with each other.
+e85f98|You already have 9,999 COINS!
+e85fb4|Do you want to stop playing?
+e8a504|Giovanni's words echoed…\n{V01}, there's a time and place\lfor everything!{C09}
+e8a560|Throw away how many\n{V02}(s)?
+e8a628|What would you like to do?
+e8a764|The Hall of Fame data is corrupted.
+e8aafc|Return to the Pokédex.
+e8ab30|Search for Pokémon based\non selected parameters.

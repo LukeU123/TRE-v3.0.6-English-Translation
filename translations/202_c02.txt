@@ -190,7 +190,6 @@
 241505|There are lots of good TRAINERS,\nbut PHOEBE stands out.\pHer strength is supernatural…\pYou're not bad, but you can't\ncompare to PHOEBE.
 241b04|Excuse me, looking for the boat?\pSorry, but the ferry service isn't\nrunning yet{C0805}…{C0805}
 241b76|Hello, here to take the ferry?\nMay I see your TICKET?
-241c04|aboard the ferry.
 241c17|{V01} showed the TICKET…\pPerfect. Everything's in order.\pWhere would you like to go?
 241c62|We hope you'll sail with us\nagain!
 241c91|Very well, to SLATEPORT CITY.

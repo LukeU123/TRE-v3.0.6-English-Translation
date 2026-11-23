@@ -115,11 +115,11 @@
 2c516c|POKéMON DAILY\pBreaking news on AGATHA, member of\nthe ELITE FOUR.\pAccording to close sources, AGATHA\nand PROF. OAK were rivals\pduring their training as\nTRAINERS.
 2c5227|Okay, I've got everything I need\nto explore the RUINS.
 2c5265|POKéMON have their own\npersonalities, just like anyone.\pMy PIKACHU, for example, has a\nHASTY nature, and it really never\lstops.
-2c52f8|I need to go fishing on SEVEN\nISLAND.\pIt's the last one I need to\ncomplete my tour of ARCHI7.\pBut first, I'm going to grab\na few POKé BALLS.
+2c52f8|I need to go fishing on SEVEN\nISLAND.\pIt's the last one I need to\ncomplete my tour of SEVII.\pBut first, I'm going to grab\na few POKé BALLS.
 2c5469|I may not look it now, but when I\nwas younger{C0819}…{C0819} I flew all over\lthe place, challenging every\lTRAINER I came across.\pThese days, I'm happy just\nreminiscing and watching battles.
 2c5545|So ARCHER… You must be a great\nTRAINER to have caught his\lattention.
 2c5594|Long ago, there were a few GYMS in\nthe SEVII ISLANDS too. They ended up\lclosing due to inactivity and lack\lof competition, even though some of\lthem reached a very high level.
-2c564d|Of all of them, as far as I know,\nmine is the only one still standing{C0819}…{C0819}\lhidden and unknown to the vast\lmajority of ARCHI7's residents.
+2c564d|Of all of them, as far as I know,\nmine is the only one still standing{C0819}…{C0819}\lhidden and unknown to the vast\lmajority of SEVII's residents.
 2c56da|See those boxes? Behind them is an\nadjoining room with a floor tile\lthat teleports you to where my GYM\lis.
 2c575b|Your POKéMON must be very strong,\nright?\pYou have my permission to destroy\nthe boxes and go in. Don't worry…\pMy WYRDEER can restore them quickly\nwith its PSYCHIC powers.
 2c5812|Most people who come in just stare\nat the boxes, but nobody has the\lnerve to use CUT, STRENGTH or\lFIRE BLAST on them!\pTRAINERS used to shoot first and\nask questions later.
@@ -141,7 +141,7 @@
 2c6231|TWO ISLAND doesn't have many\nresidents.\pAn old lady lives right out on\nthe cape.\pShe's been there for who knows\nhow long{C0805}…{C0805}
 2c62a8|POKéMON DAILY\pBreaking news on LORELEI, member\nof the ELITE FOUR.\pAccording to close sources, LORELEI\nis keeping a big secret.\pWhat is known about her is her\nelegant, unique and calculating\lbattle style.
 2c637f|A TRAINER as strong and powerful\nas few others was born and raised\lon this island.\pI bet you know her. Her name is\nLORELEI, and she's in the ELITE\lFOUR.\pI taught her a lot about POKéMON\nwhen she was just a little thing.
-2c6458|Actually, ARCHI7 is in a warm\nregion.\pBut there's one exception I want\nto tell you about.\pICEFALL CAVE is cold because of\nthe POKéMON that lives there.
+2c6458|Actually, SEVII is in a warm\nregion.\pBut there's one exception I want\nto tell you about.\pICEFALL CAVE is cold because of\nthe POKéMON that lives there.
 2c6508|Whoa, what a hit!\nYou're so strong!
 2c65c5|Contact moves like BODY SLAM tend\nto do lots of damage and can cause\linteresting side effects like\lparalysis.\pBut they do have one problem.
 2c666b|You got a ROCKY HELMET from\nthe TRAINER!
@@ -172,10 +172,10 @@
 2c74b9|And what do you want?
 2c74e3|Want to buy some LEMONADE?
 2c74fe|What do you take me for, brat?\pA vending machine at the CELADON\nDEPARTMENT STORE?
-2c7551|That product doesn't exist anywhere\nelse in ARCHI7. You'll have to pay\l$10,000 per bottle.
+2c7551|That product doesn't exist anywhere\nelse in SEVII. You'll have to pay\l$10,000 per bottle.
 2c75a2|On second thought, even if you\ncould pay, which I doubt, I won't\ldo any deal with you.
 2c75f8|I have a reputation to keep up,\nunderstand?
-2c762a|LORELEI, CELIO, the CONSUL… I cook\nfor all of ARCHI7's big names. Why\lwould I mix with riffraff like\lyou?
+2c762a|LORELEI, CELIO, the CONSUL… I cook\nfor all of SEVII's big names. Why\lwould I mix with riffraff like\lyou?
 2c76a2|So you insist… Very well.
 2c76be|I'll show you the difference\nbetween an elite POKéMON and one\lfrom the gutter!
 2c7711|But… my TOTODILE is special!

@@ -1,0 +1,10 @@
+5b5e10|{C130C}Welcome to Rocket Timeline.\n{C1346}{K00} Start\n{C133E}{K02} Info & FAQ\n{C1346}{K01} Go back
+5b5e68|{C1305}{K0B} Season\n{C1305}{K00} Confirm
+5b5e88| {K00} Confirm
+e86160|Welcome to Rocket Timeline.\nChoose where to begin.
+2101cf|POKéMON change shape? If that\nhappened to me, I'd be stunned!
+2261ef|Listen. I've written a song\nabout "{V02}".\p"{V02}"\nis really popular right now.\pOkay, have a listen!\pOh, oh, {V02}!\nLa, la, la!\pOnly {V02}!\nLa, la, la!
+241bb1|{V01} doesn't have a TICKET…\pI'm terribly sorry.\pYou need a TICKET to\nboard the ferry.
+3dafe4|{C1921}I have everything I want from this\nregion. Specimens of the BIRDS, every\lFOSSIL in my display cases, the entire\lDRATINI line at my disposal{C080F}…{C080F}
+9c0be2|          It compresses rock salt inside\nits body to create salt bullets\ncapable of piercing metal\nplates.
+2a6077| Save your game progress?

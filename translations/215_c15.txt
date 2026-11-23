@@ -140,10 +140,10 @@
 330c81|{C1920}And what better place for it than\nthe SEVII ISLANDS, where you're\lfrom? Now you can explore the\lislands and all their mysteries at\lyour leisure.\pI've heard there are good TRAINERS\nthere, plus flora and fauna very\lsimilar to JOHTO's.
 330d6b|{C1920}With this you can travel legally,\ntaking the SEAGALLOP from VERMILION.
 330db4|{V01} received the RAINBOW PASS.
-330dcf|{C1920}ARCHI7 is famous for its ruins,\non both SIX and SEVEN ISLAND.\lBoth are around 1500 years old and\lhave a lot in common with the RUINS\lOF ALPH in JOHTO. Some think they\lmay be connected somehow.
+330dcf|{C1920}SEVII is famous for its ruins,\non both SIX and SEVEN ISLAND.\lBoth are around 1500 years old and\lhave a lot in common with the RUINS\lOF ALPH in JOHTO. Some think they\lmay be connected somehow.
 330eaf|{C1920}Remember the flask you and ANDRA\nstole from the SS.ANNE's CAPTAIN?
 330ef8|{C1920}We believe its contents came from\nthose ruins.\lI won't tell you to go there just\lto investigate, as another mission,\lbut I'm letting you know.\pIf you're curious, you can stop by\nand try to find something out.
-330fdd|{C1920}That's all for now, {V01}.\pWe'll let you know when we have news\non MEWTWO or any other unusual\lPOKéMON. ARCHI7 and its mysteries\lawait. Enjoy your holiday.
+330fdd|{C1920}That's all for now, {V01}.\pWe'll let you know when we have news\non MEWTWO or any other unusual\lPOKéMON. SEVII and its mysteries\lawait. Enjoy your holiday.
 3312e2|{C1904}The CINNABAR ISLAND LEADER\nhas arrived, sir.
 331310|{C1920}Show him in.
 331322|{C191F}You wanted to see me, GIOVANNI?
@@ -331,10 +331,10 @@
 338563|{C1927}You know{C080F}…{C080F} of all the seas I've\nsailed, HOENN's are by far the\lwidest, wildest and most diverse;\lthe only ones that can make you\lforget all the damned corruption\lin this world.
 33863b|{C1927}And now you're telling ME that two\ncrooks from a region whose finest\lwaters are polluted by the POWER\lPLANT and CYCLING ROAD are going to\lwalk in and steal from ME a unique\lobject that reflects my work as a\lsailor for more than 30 years?!
 338747|{C1927}Oh, no. You've got neither the\nnerve nor the experience to do\lsuch a thing.
-338793|{C1907}Forgive me for disagreeing,\nCAPTAIN.\pThere are no seas like those of\nARCHI7, nor any places as\lmysterious as the ones there.
+338793|{C1907}Forgive me for disagreeing,\nCAPTAIN.\pThere are no seas like those of\nSEVII, nor any places as\lmysterious as the ones there.
 33880c|{C1927}Well, you've got good taste, lass.\pThat must be where you're from.
-338850|{C1927}Perhaps you're right.\pARCHI7 is something I've yet to\nexplore 100%.\lI've heard that in the waters\lconnecting the 7 great islands\lthere are certain unexplored islets.
-338914|{C1927}Topographic maps show 8, 9 or\neven as many as 10 islands in\lthe area.\pSo the name ARCHI7 is a mere\nformality.
+338850|{C1927}Perhaps you're right.\pSEVII is something I've yet to\nexplore 100%.\lI've heard that in the waters\lconnecting the 7 great islands\lthere are certain unexplored islets.
+338914|{C1927}Topographic maps show 8, 9 or\neven as many as 10 islands in\lthe area.\pSo the name SEVII is a mere\nformality.
 3389a3|{C1907}How interesting{C080F}…{C080F}
 3389bd|{C1927}I'd love to keep chatting about\nthese things all day.\pUnfortunately for you, you've come\nto steal something precious to me,\land I won't allow it!
 338a61|{C1927}SAILORS!\pDEAL WITH THE GIRL!

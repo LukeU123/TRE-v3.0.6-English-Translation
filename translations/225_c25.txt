@@ -232,11 +232,11 @@
 3e7f6b|I thought I'd never say this again,\nbut{C0819}…{C0819} welcome to the\lSEVEN ISLAND GYM!
 3e7fda|URSALUNA: GROUND/NORMAL\pHP: 130\nATTACK: 140\lDEFENSE: 105\lSP. ATK: 45\lSP. DEF: 80\lSPEED: 50\lTOTAL: 550
 3e80dd|It's an old newspaper article. It\nmust be at least 10 years old.
-3e8133|On the connection between JOHTO and\nARCHI7{C0805}…{C0805}
+3e8133|On the connection between JOHTO and\nSEVII{C0805}…{C0805}
 3e8161|The SEVII ISLANDS are known for their\nrich wildlife and plant life, but it\lisn't unique in the world. Despite the\ldistance and climate, their species\lmatch those of the JOHTO region.
 3e8213|Some experts maintain this strange\ncoincidence is due to the link between\lthe RUINS OF ALPH and TANOBY RUINS.\lThese places must have laid the\lfoundations of today's wildlife and\lplant life, stemming from a single\lcivilization that settled both regions.
 3e830e|This happened millennia ago, and it's\nalso known that certain POKéMON could\lonce evolve into more developed\lforms, something the environmental\land cultural changes of recent\ldecades have made impossible for\lnew generations.
-3e83fe|Proof of this is the LEADER of SEVEN\nISLAND and the LEADER of THREE ISLAND,\lwho both have -ancient- POKéMON with\lthese traits. In their own words,\lobtaining such POKéMON on the islands\lis impossible nowadays. However, they\lbelieve certain places in JOHTO still\lpreserve the ancient species that\lboth regions, ARCHI7 and JOHTO,\lshared in the past.
+3e83fe|Proof of this is the LEADER of SEVEN\nISLAND and the LEADER of THREE ISLAND,\lwho both have -ancient- POKéMON with\lthese traits. In their own words,\lobtaining such POKéMON on the islands\lis impossible nowadays. However, they\lbelieve certain places in JOHTO still\lpreserve the ancient species that\lboth regions, SEVII and JOHTO,\lshared in the past.
 3e858d|When she was just a girl, our LEADER\nmade a long journey to JOHTO. She\lapparently explored its most remote\lplaces, and that's why some of her\lPOKéMON grew in a special way.
 3e8733|-The HARD DRIVE must be behind\nFUJI's painting. I should look\lthere-.
 3e87db|YOU GOT THE HARD DRIVE!!

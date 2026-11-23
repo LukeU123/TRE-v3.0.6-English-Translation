@@ -99,7 +99,7 @@
 2fb633|That's right, our FIVE ISLAND\nbranch has this hidden basement.\pThis is where we inspect the\nPOKéMON before exporting them\lto KANTO.
 2fb6db|What you pulled off at the POKéMON\nLEAGUE was incredible! I feel\llucky to work for you, sir!
 2fb746|Consider yourself lucky, you work\nfor TEAM ROCKET now!
-2fb7a1|Winds of change are blowing\nthrough KANTO.\pDo you think they'll reach\nARCHI7 too?
+2fb7a1|Winds of change are blowing\nthrough KANTO.\pDo you think they'll reach\nSEVII too?
 2fb7eb|Don't you have a job to do?\nWhat are you waiting for?\pYou're losing efficiency, and\nthat's not tolerated here!
 2fb85d|…\n…\lThere's a KINGLER inside.\lBetter not touch it too\lmuch…
 2fb8ad|…\n…\lThere's a NIDORINO inside.\lBetter not touch it too\lmuch…
@@ -176,7 +176,7 @@
 2ff70c|{C1917}So, to make up for those lost\nearnings, you'll hand over to\lTEAM ROCKET all the cash you\lhave on you.\pAs punishment and as\nproof of loyalty.
 2ff7a5|You're left with $0.
 2ff7bc|{C1917}A fair price for a second\nchance, don't you think?\pI assure you, if you pull off\nthis job, money will be the least\lof your problems. If you succeed,\lTEAM ROCKET will save a fortune\lin transport and logistics.
-2ff89e|{C1917}You see, as you may know,\nVERMILION CITY's PORT has been our\llink between KANTO and ARCHI7.\pBut{C080F}…{C080F} the KANTO POLICE are\nwatching more and more closely.\lIt's getting harder and pricier\lto bribe sailors to import our\lgoods and recruits from\lFIVE ISLAND.
+2ff89e|{C1917}You see, as you may know,\nVERMILION CITY's PORT has been our\llink between KANTO and SEVII.\pBut{C080F}…{C080F} the KANTO POLICE are\nwatching more and more closely.\lIt's getting harder and pricier\lto bribe sailors to import our\lgoods and recruits from\lFIVE ISLAND.
 2ff9be|{C1917}Your work silencing the CONSUL\nput a stop to that, but it's only\la matter of time before they shut\lus down{C0805}…{C0805}
 2ffa35|{C1917}Now, what's your mission?\pRumor has it that BILL, that idiot\nwho sees POKéMON as nothing but\lcollectible cards, has developed\la teleportation system that can\lcover great distances.
 2ffb0c|{C1917}Your mission is to pay him a\nvisit at his house north of\lCERULEAN CITY. He lives at the end\lof ROUTE 25. There you'll get the\lpatent or any information on that\lnew teleportation system.

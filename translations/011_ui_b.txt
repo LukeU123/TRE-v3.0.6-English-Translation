@@ -42,7 +42,6 @@ e87344|Explore and reach the top!\nPut your bravery to the test!
 e87380|Choose one of three paths to\nbattle! Put your luck to the test!
 e873c8|Win with rental POKéMON!\nPut your knowledge to the test!
 e87404|Choose your POKéMON well to win!\nPut your guts to the test!
-e87444|Watch your POKéMON battle!\nPut your spirit to the test!
 e8747c|Win match after match to the\nfinal! Put your tactics to the test!
 e874c4|Beat your rivals and reach the\nend! Put your ability to the test!
 e8750c|PYRAMID
@@ -60,7 +59,6 @@ e875e8|BATTLE ARENA's GUTS SYMBOL.
 e8760c|BATTLE PALACE's SPIRITS SYMBOL.
 e87634|BATTLE DOME's TACTICS SYMBOL.
 e87660|BATTLE TOWER's ABILITY SYMBOL.
-e8768c|These are the symbols you earned.
 e876b0|These are the Battle Points you earned.
 e876dc|Save the FRONTIER PASS.
 e876f8|Watch the recorded battle.
@@ -142,7 +140,7 @@ e87f8c|BATTLE TOWER
 e87fc0|BATTLE TOWER
 e87fdb| BATTLE POINTS EARNED
 e88010|BERRY CRUSH
-e88051|   Kanto:\nJohto:\nArchi7:\nHoenn:
+e88051|   Kanto:\nJohto:\nSevii:\nHoenn:
 e88074|{V02}'s Badges
 e88088|Time
 e88092|   points
@@ -167,3 +165,5 @@ e8816c|awful
 e88176|  bad
 e8817d|   okay
 e88188|delicious
+e87444|Watch your POKéMON battle!\nPut your spirit to the test!
+e8768c|These are the symbols you earned.

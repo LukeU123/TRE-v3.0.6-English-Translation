@@ -137,7 +137,6 @@ e88d10|Yes
 e88d74|The MAIL is in the BAG, but\nits message was erased.{C09}
 e88db4|The BAG is full.{C09}
 e88dd0|The message will be erased.\nIs that okay?
-e88dfc|What would you like to do\nwith the {V02} MAIL?
 e88e24|There's no MAIL here.{C09}
 e88e44|There are no items.{C09}
 e88e95|   It's already in use.
@@ -159,7 +158,8 @@ e891c8|HMs can't be\nforgotten now.
 e891e8|It's making sounds.\nIt's going to hatch soon!
 e89210|It moves sometimes.\nIt should hatch soon.
 e89234|What will hatch from this?\nIt'll take a while.
-e89264|It looks like this EGG will\ntake a long time to hatch.
 e89294|INFO
 e8929c|CONTEST MOVES
 e892ac|BATTLE MOVES
+e88dfc|What would you like to do\nwith the {V02} MAIL?
+e89264|It looks like this EGG will\ntake a long time to hatch.

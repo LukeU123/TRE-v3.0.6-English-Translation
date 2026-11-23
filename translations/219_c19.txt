@@ -349,7 +349,7 @@
 382d16|I hope you at least put\nit to good use.
 382d8d|{C1920}{V01}?\pAre you in MAHOGANY TOWN already?\pPerfect.\p{C080F}…{C080F}\n{C080F}…{C080F}\pGood, I see you've gotten ahead of\nme. I was going to send ARCHER and\lANDRA to retake the MAHOGANY\lBASE, but I trust you'll be\lenough. I hope it can be cleared\land ready to operate as soon as\lpossible.
 382e93|{C1920}So you've defeated the\nGRAND MASTER of ECRUTEAK CITY?\pThe evolution mechanism of his\nEEVEE-& is a complete mystery.\pIt can transform into the type of\neach move it uses.\pHe must have been a tough rival.\p{C080F}…{C080F}\l{C080F}…{C080F}\pHO-OH appeared?!\nAt the top of the BELL TOWER?\p{C080F}…{C080F}\n{C080F}…{C080F}\pA TRAINER who only uses MAJOR\nLEGENDARIES showed up and\lcaught it?\pHe had LUGIA too?!
-383023|{C1920}This upends our plans.\p{C080F}…{C080F}\n{C080F}…{C080F}\pYou say you already know him from\nARCHI7, and that he already took\lHOENN's LEGENDARIES there?\pHe must be extremely dangerous,\nand he may be after the same thing\lwe are. I'll double the guard at\lthe RUINS OF ALPH.
+383023|{C1920}This upends our plans.\p{C080F}…{C080F}\n{C080F}…{C080F}\pYou say you already know him from\nSEVII, and that he already took\lHOENN's LEGENDARIES there?\pHe must be extremely dangerous,\nand he may be after the same thing\lwe are. I'll double the guard at\lthe RUINS OF ALPH.
 38311d|{C1920}Stay alert, {V01}.\pWe must act accordingly.\nWe'll keep in touch.
 383208|So you're the bulk of TEAM\nROCKET. I'll finish you off!
 383249|Curses!

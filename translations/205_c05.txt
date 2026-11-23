@@ -518,7 +518,7 @@
 285b39|I think you should also take some\ntime to think about how many\lthings there are to discover.
 285b9d|Hey, what brings you here?
 285bbb|I haven't battled in so long, my\nreflexes are shot…{C0805}
-285bec|There are several ruins in ARCHI7.\pMost of them date back to time\nimmemorial.
+285bec|There are several ruins in SEVII.\pMost of them date back to time\nimmemorial.
 285c33|They say there are mysterious\nstones on this island.\pI guess they must have something\nto do with the ruins here.
 285c9c|Er… very interesting.
 285cb1|Those ruins over there…\pThey're really strange. I haven't\nmanaged to get inside yet.

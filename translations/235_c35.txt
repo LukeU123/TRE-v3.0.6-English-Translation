@@ -1,5 +1,4 @@
 953504|Flash
-953510|Scatters a cloud of spores\nthat induce sleep.
 953538|Spore
 953578|Dizzy Punch
 953588|Attacks with bubbles that\nmay lower Speed.
@@ -7,13 +6,11 @@
 9535c0|Alters its cells to become\na copy of the foe.
 9535ec|Transform
 953628|Sky Attack
-953638|Demands a kiss with a scary\nface that induces sleep.
 95366c|Lovely Kiss
 95367c|Absorbs half the damage\nit inflicts.
 9536a4|Leech Life
 9536b0|Hurls round objects at the\nfoe 2 to 5 times.
 9536d8|Barrage
-9536e4|Envelops the foe in a toxic\ngas that may poison.
 953714|Poison Gas
 953724|Steals half the damage\ndealt to a sleeping foe.
 953758|Dream Eater
@@ -60,7 +57,6 @@
 953cec|Haze
 953cf4|Reduces damage from the\nfoe's Sp. Atk moves.
 953d24|Light Screen
-953d34|Creates a barrier that\nsharply raises Defense.
 953d64|Barrier
 953d6c|Curls up to conceal weak\nspots. Raises Defense.
 953da0|Defense Curl
@@ -68,17 +64,13 @@
 953de8|Withdraw
 953df0|A sinister ray that\nconfuses the foe.
 953e18|Confuse Ray
-953e28|Lowers the foe's Accuracy\nusing smoke, ink, etc.
 953e58|Smokescreen
-953e68|Minimizes the user's size\nto raise evasiveness.
 953e94|Minimize
 953ea0|Stiffens the body's muscles\nto raise Defense.
 953ed0|Harden
 953edc|Recovers up to half the\nuser's maximum HP.
 953f08|Recover
-953f18|Creates illusory copies to\nraise evasiveness.
 953f44|Double Team
-953f54|Emits a screech to sharply\nlower the foe's Defense.
 953f88|Screech
 953f94|Copies a move used by\nthe foe.
 953fbc|Mimic
@@ -86,12 +78,10 @@
 953ffc|Night Shade
 954008|A psychic move that lets\nthe user flee instantly.
 95403c|Teleport
-954048|Raises the user's Attack\nevery time it is hit.
 954074|Rage
 9540ac|Quick Attack
 9540b8|Relaxes the body to gain\nSpeed.
 9540e0|Agility
-9540ec|Meditates in a peaceful\nfashion to raise Attack.
 954118|Meditate
 954124|A hypnotizing move that\nmay induce sleep.
 954154|Hypnosis
@@ -103,12 +93,10 @@
 954210|Toxic
 954238|Dig
 95427c|Fissure
-954284|Powerful, but useless\nagainst flying foes.
 9542ac|Earthquake
 9542b8|Throws small rocks at\nthe foe.
 9542d8|Rock Throw
 954318|Thunder
-954320|A weak jolt of electricity\nthat paralyzes the foe.
 954350|Thunder Wave
 954360|A strong electrical attack.\nMay (10%) paralyze the foe.
 954394|Thunderbolt
@@ -120,14 +108,12 @@
 954488|String Shot
 95449c|Lasts 2 to 3 turns, then\nconfuses the user.
 9544cc|Petal Dance
-9544dc|Scatters a powder that may\ncause the foe to sleep.
 954508|Sleep Powder
 954514|Scatters a powder that may\nparalyze the foe.
 954544|Stun Spore
 954550|A toxic powder that may\npoison the foe.
 954580|Poison Powder
 9545b4|Solar Beam
-9545c0|Cuts the foe with leaves.\nHigh critical-hit ratio.
 9545e4|Razor Leaf
 9545f4|Forces the body to grow,\nraising Atk and Sp. Atk.
 954628|Growth
@@ -142,13 +128,11 @@
 954704|Seismic Toss
 954710|Retaliates any physical\nhit with double the power.
 954738|Counter
-954748|The heavier the foe, the\nmore damage it inflicts.
 954774|Low Kick
 954780|A reckless body slam that\nalso hurts the user.
 9547b0|Submission
 9547bc|A corkscrewing peck with\nsharp, drilling power.
 9547ec|Drill Peck
-9547fc|Attacks with a sharp, jabbing\nbeak.
 954818|Peck
 954838|A rainbow-colored beam. May\n(10%) lower Attack.
 954868|Aurora Beam
@@ -160,10 +144,8 @@
 95492c|Blizzard
 95493c|A beam of ice that may\n(10%) freeze the foe.
 954964|Ice Beam
-954970|Creates a huge wave, then\ncrashes it down on the foe.
 9549a0|Surf
 9549cc|Hydro Pump
-9549d8|Squirts water to attack.
 9549f0|Water Gun
 954a00|Shrouds you in a fine mist\nthat protects your stats.
 954a34|Mist
@@ -188,7 +170,6 @@
 954c78|Bite
 954c84|Frightens the foe to\nlower its Defense.
 954cb0|Leer
-954cbc|Launches sharp pins that\nstrike 2 to 5 times.
 954ce8|Pin Missile
 954cf4|Á  ÑStings the foe twice.\n20% chance to poison.
 954d20|Twineedle
@@ -212,7 +193,6 @@
 954f78|Jabs the foe with sharply\npointed horns.
 954fa0|Horn Attack
 954fd8|Headbutt
-954fe8|Hurls sand in the foe's face\nto reduce Accuracy.
 955014|Sand Attack
 955048|Rolling Kick
 955054|If it misses, the user is\nhurt instead.
@@ -233,7 +213,6 @@
 9551f4|Whirlwind
 955200|Strikes the foe with wings.
 955224|Wing Attack
-955230|Whips up a twister with its\nwings.
 955250|Gust
 95525c|Slashes with claws, nails...\n50% chance to lower Defense.
 955290|Cut
@@ -243,7 +222,6 @@
 95532c|Guillotine
 955338|Grips the foe with powerful\npincers.
 955354|Vise Grip
-95535c|Scratches with sharp claws.
 955378|Scratch
 955384|An electrified punch.\n10% chance to paralyze.
 9553a8|Thunder Punch
@@ -258,29 +236,20 @@
 955494|Comet Punch
 9554a0|Slaps 2 to 5 times in a\nrow.
 9554c4|Double Slap
-9554d4|A chopping blow. High\ncritical-hit ratio.
 955500|Karate Chop
 955538|Pound
 955578|Blocks attacks, but may fail\nif used repeatedly.
-9555b0|Locks on to the foe so the\nnext attack can't miss.
 9555e0|Strikes first if the foe is\npreparing an attack.
 955610|Attacks with a black hole\nthat can't be evaded.
 955640|Attacks recklessly, letting\nits defenses down.
-955670|An attack that absorbs 75%\nof the damage inflicted.
 9556a0|Leaves the foe with at\nleast 1 HP.
-9556c4|Vanishes on the first turn,\nthen strikes on the next.
 9556fc|Searing flames that scorch\neverything around the user.
-955738|Attacks with a psychic wave\nthat does physical damage.
-95576c|Does more damage the heavier\nthe user is than the foe.
 9557a4|Strikes, ignoring any\nstat changes.
 9557d8|Throws the foe and ends\nthe battle.
 955800|This attack always lands a\ncritical hit.
-95582c|Deals damage, then switches\nwith another Pokémon.
 95585c|Does more damage the higher\nthe foe's HP is.
-955890|The user faints to fully heal\nthe next Pokémon sent out.
 9558c8|Eats the foe's Berry, gaining\nits effect.
 9558fc|An attack that gains power\nif the user was hurt.
-95592c|Powerful, but leaves the\nuser immobile for 1 turn.
 955960|Absorbs half the damage\ninflicted.
 957b0c|Off
 957b20|Instant
@@ -292,7 +261,6 @@
 957ed0|Choose the window frame\ndesign.
 957ef4|POKéMON data shown in\nmeters and grams.
 957f24|POKéMON data shown in\ninches and pounds.
-957f58|The L Button acts as if you\npressed the A Button.
 957f88|At times, L and R can be used\nas left and right.
 957fcc|Default button setup.
 957fe4|Stereo sound. Recommended\nfor the best experience.
@@ -399,7 +367,6 @@
 963f38|DRAGON
 96bba0|BOX
 96bbd8|Your party is full!
-96bbf0|You have just one Pokémon.
 96c0ac|SIMPLE
 96c0b8|MACHINE
 96c0c0|POKéCENTER
@@ -449,7 +416,6 @@
 973508|Do you want to continue?
 97351c|You can't release an Egg.
 97353c|Which one will you take?
-97354c|You're holding a Pokémon!
 973560|That's your last Pokémon!
 97357c|Mark your Pokémon.
 9735b0|Release this Pokémon?
@@ -458,9 +424,7 @@
 97360c|Jump to which Box?
 973624|Pick a wallpaper.
 973634|Pick a theme.
-973644|What would you like to do?
 97365c|Exit the Box?
-9742a0|Return to the previous menu.
 9742bc|SEE YA!
 9742cc|Move items held by any POKéMON\nin a BOX or in your party.
 974314|MOVE ITEMS
@@ -487,13 +451,11 @@
 9bb828|It was a terrifying predator on both\nland and sea. On land, it would shed\nits shell so it could catch up to any\nprey.
 9bb8cc|Its whole life has been one hardship\nafter another. Overcoming them all has\ngiven it great strength and a fierce\nfighting spirit.
 9bb994|No one wants to go near this Pokémon,\nsince touching it may unleash both\npowerful shocks and painful spikes\nlaced with poison.
-9bba3c|Unable to flee from its predators, it\ndeveloped strong adaptations to armor\nitself against them and to deal\nmassive damage with its cannon.
 9bbae4|It has unusual drive and energy. The\nlonger it stays active, the more nerves\nand electricity it builds up, until it\ncollapses and needs to rest again.
 9bbd94|The beauty it had as a Milotic is even\nmore striking now, creating a powerful\nhalo of purity and kindness around it\nthat frightens evil Pokémon.
 9bbe40|It loves to perch on the steepest\ncliffs and gaze into the void. Its\ndive is the fastest ever recorded,\nreaching nearly 10,000 km/h.
 9bbf18|It uses its wings as camouflage.\nWhen it beats them, it releases vast\nclouds of pollen and other substances\nthat stun its foes.
 9bbfb8|Its growing psychic powers instantly\ncrystallize the water inside its body.\nIt spins around at a dizzying speed.
-9bc074|Seeing one makes a strong impression,\ndue to its great size and the grace of\nits appearance and movements. It has\nregained a gene shared with Volcarona.
 9bc13c|It can't be frightened or cursed. It\nturns the very feeling others try to\nprovoke back on them, but multiplied\nby three.
 9bc2d8|   It anticipates attacks so quickly\n   that people once thought it could\n   see the future. Its reactions have\n   been proven to be instantaneous.
 9bc38c|   It has an exotic family branch. As\n   a result, its abilities are very\n   diverse. It has perfect mastery of\n   both water and fire.
@@ -533,7 +495,6 @@
 9bdf34|It uses its psychic powers from a\nsafe place to make its foes terribly\ndizzy, having fun at their expense.
 9bdfb0|The toxins in the chain around its\nneck stimulate its muscles, which\nhas given it an incredibly sturdy\nbody.
 9be034|The more it churns the whisk on its\nhead, the more energy it builds up.\nThis is how it gets ready for battle.
-9be0b4|It passes itself off as matcha so\nsomeone careless will drink it and it\ncan drain their life force, but the\nplan usually fails.
 9be1f0|It drains the life force of anyone\nwho takes a bite of food seasoned\nwith the powder that makes up its\nbody.
 9be274|It shares many traits with the\nVirizion of the future that appeared\nin a certain occult magazine.
 9be2e8|It resembles an illustration of a\nSuicune from ages past that was\npublished in a certain occult\nmagazine.
@@ -561,8 +522,6 @@
 9bef64|Its distinctive features resemble\nthose of the spirit of a flying\nreptile mentioned in an occult\nmagazine.
 9befd4|It's possible that this is the\ncreature listed under the name Brute\nBonnet in a certain book.
 9bf038|It resembles how Jigglypuff supposedly\nlooked a billion years ago, according\nto an occult magazine.
-9bf0b0|Its appearance is reminiscent of a\nstrange Pokémon of primitive origin\nthat appeared in an article in a\ncertain occult magazine.
-9bf2bc|One of the most intelligent dragon\nPokémon there is. It inflates its\nthroat sac to camouflage itself.
 9bf31c|Apparently, both the pattern and color\nof its body change to suit the tastes\nof the prey it wants to lure.
 9bf3a0|A small dragon Pokémon. It lives\ninside a Dondozo's mouth to protect\nitself from attacks by predators.
 9bf414|It loves to eat, but it's bad at\nhunting, so it teams up with Tatsugiri\nto catch prey.
@@ -570,12 +529,10 @@
 9bf514|It stores icy energy in the horn on\nits upper jaw, which gets cold enough\nto freeze its surroundings.
 9bf5b0|They live in packs of around five in\nfrigid regions. They love the\nminerals found in snow and ice.
 9bf62c|They seem to tie the base of their\nnecks to keep the energy stored in\ntheir stomachs from escaping through\ntheir beaks.
-9bf6ac|The reincarnation of a dearly loved\nand mourned Pokémon. It hates it\nwhen the bump on its head is\ntouched.
 9bf834|As soon as it senses danger, it\nopens its crystal petals and fires\nbeams from its cone-shaped body.
 9bf8b4|It absorbs nutrients from cave walls.\nIt covers its body with petals made of\ncrystallized poison energy.
 9bf92c|It lives in arid deserts. It eats iron\nfrom the ground to keep its body\nironclad.
 9bf98c|It can run at 120 km/h carrying a\nperson. The rider's body heat warms\nits back and gives it energy.
-9bfa00|It makes a thunderous racket with its\nexhaust pipes to intimidate. It sticks\nits tongue out of its cylindrical\nmouth and sprays a poisonous liquid.
 9bfaa4|It's said to have come about when a\nmysterious poison Pokémon possessed an\nengine abandoned at a scrapyard.
 9bfb14|Its primal genes have awakened, giving\nit such strength that it can haul a\ncruise ship with a single fin without\nany trouble.
 9bfb9c|It changes form as soon as it gets a\ndistress call from its companions. It\nnever transforms in front of anyone.
@@ -583,11 +540,8 @@
 9bfca0|It uses its chest pouch to wrap up\nfood and carry it to its nest. It\nloves dropping objects that make a\nlot of noise.
 9bfd1c|A variety of fish Pokémon. In the\npast, it was wrongly thought to be a\nregional form of Dugtrio.
 9bfda4|It can smell a Veluza from 20 m away,\nwhich lets it hide under the sand in\ntime.
-9bfe14|It effortlessly swings its heavy hammer\nof over 100 kg. When it wants\nsomething, it steals it and takes it\nback to its den.
 9bfea8|It raids an entire Bisharp entourage\nto gather metal for forging its huge,\nsturdy hammer.
 9bff2c|It forges its hammer by pounding scrap\nmetal. It repeats this process as many\ntimes as it takes until it's happy\nwith the result.
-9bffbc|It emits psychic energy through the\ngaps between its multicolored frills\nand can run at up to 200 km/h.
-9c003c|It spends its days running around on\nmoors. If anyone steals its beloved\nBerries, it chases them relentlessly\nfor revenge.
 9c00b4|It gently rolls the ball with its legs\nto make sure the chrysalis sleeping\ninside rests peacefully.
 9c0224|The green head is far more ruthless,\nthanks to the effect of capsaicinoids\non its brain. Once it goes berserk,\nthere's no stopping it.
 9c02c8|In Paldea, Capsakid's fallen incisors\nare often used as an ingredient,\ngiving dishes a very spicy kick.
@@ -596,7 +550,6 @@
 9c0464|It looks rather like Tentacool, but\nthe two species aren't related. Its\nslender limbs let it reach speeds of\n50 km/h.
 9c04f4|It usually roams arid areas. On very\nrare occasions, they appear en masse\nand bury an entire town.
 9c05f8|Each one paints a unique, distinctive\npattern that it keeps repeating\nthroughout its whole life.
-9c0684|It's docile, but it bites anyone who\nangers it and paralyzes them with its\nsharp, toxin-laced incisors.
 9c06ec|It stores energy in its jowls and\nreleases it all at once to flatten\nits foes.
 9c075c|It keeps its brow furrowed so its\nfoes take it seriously, but even the\nweepiest child would burst out\nlaughing at its scowl.
 9c07e8|It stores electricity generated by its\nwings in its throat sac. Its feathers\nhold barely any oil, so it's a terrible\nswimmer.
@@ -607,14 +560,11 @@
 9c0a70|It wears armor fortified with psychic\nand fire energy. It attacks by hurling\nblazing fireballs.
 9c0b00|Its powerful flames reach 1,000\ndegrees C in battle. It has a fondness\nfor Berries with a high fat content.
 9c0b78|Many Pokémon gather around Garganacl\nto lick its mineral-rich salt.
-9c0c78|It drags its body along the ground as\nit moves, leaving a trail of salt. It\nconstantly produces and replenishes\nthe salt inside its body.
 9c0cfc|Though ones of this color are a\nminority, they get by fine in cities\nbecause their color helps them blend\nin among the buildings.
 9c0d90|Its aggressive nature shows in its\nfighting style. It dives down on its\nfoes to take them on in close\ncombat.
 9c0e18|The biggest flocks number more than 50.\nThey fly noisily over cities and\nforests in search of food.
-9c0e90|Green-feathered Squawkabilly are the\nmost common. They make a racket when\nthey look for food in the mornings and\nevenings.
 9c0f0c|It repels foes by shooting its\nexquisite, fragrant oil at a\npressure strong enough to split a\nrock.
 9c0f98|Once the fruits on its head have\nripened enough in the sun, it\nleaves human settlements.
-9c1034|It turns the nutrients in its diet into\noil, which it stores in the fruit on\nits head. It can go a week without\neating or drinking anything.
 9c10bc|The surface of its skin hardens when\nexposed to intense heat. Its body\ngives off a fragrant aroma.
 9c11c4|Two little ones appeared overnight.\nThey might be family, but no one\nknows for sure.
 9c122c|One little one appeared overnight.\nThey live together like a family,\nthough the bond between them is a\nmystery.
@@ -650,9 +600,7 @@
 9c2434|Its fighting style, sometimes fierce\nand sometimes restrained, is thought\nto be inspired by the flow of river\ncurrents.
 9c24b4|It's called the Embodiment of Fury.\nIt's said to drive evil spirits from\nthe world with its fearsome face and\nits battle cry.
 9c2544|Its fighting style, sometimes fierce\nand sometimes restrained, is thought\nto be inspired by the flow of river\ncurrents.
-9c2600|It hones its technique through strict\ndiscipline. Depending on the style it\nfollows, it will take one form or the\nother when it evolves.
 9c2680|The boundless power given off by its\ngiant core can warp space-time around\nit.
-9c26e8|It feeds on energy that wells up\nfrom the land of Galar, absorbing it\nthrough the core in its chest.
 9c274c|Feared and revered alike, this form\nhas earned it the name King's Shield\nWarrior for its ability to repel any\nattack.
 9c27d4|This Pokémon became Galar's savior\nafter joining forces with a king of\nmen. It absorbs metal to use in\nbattle.
 9c285c|In this form, able to cut through\nanything, it is feared and respected,\nand known as the Fairy King's Sword.
@@ -665,7 +613,6 @@
 9c2c28|Its body, like polished metal, is as\nlight as it is sturdy. However, it has\nthe flaw of rusting easily.
 9c2ca8|Though the skin on its face could\nwithstand any attack, its trouble\nbreathing eventually led to its\nextinction.
 9c2d28|It proudly shows off its immense\nleg strength, which lets it top\n60 km/h, but it can only breathe\nunderwater.
-9c2da4|The upper half of its body is\nfrozen, and it makes electricity\nwhen it shivers. It walks with\ngreat difficulty.
 9c2ea0|When it unleashes the intense energy\nstored in its trunk, it can change the\nlandscape by smashing mountains to\nbits.
 9c2f18|Its greenish skin is water resistant.\nIt comes from faraway lands and helps\npeople with certain kinds of work.
 9c2fb8|Its burly build lets it carry loads of\n5 tons without batting an eye. It uses\nits trunk to dig up the earth.
@@ -680,7 +627,6 @@
 9c3458|It spins icy thread to cling to\nbranches and pretends to be an icicle\nwhile it sleeps.
 9c34bc|It releases electricity from the tips\nof its spines. It scrapes algae off\nrocks with its sharp teeth to eat it.
 9c3538|Only a unit with a truly strong\nbond can pull off this supreme\nformation.
-9c3594|This Pokémon is made up of five\nsubordinates and one leader, whose\norders they obey without complaint.
 9c35f0|The cream shots it fires pack 100,000\nkcal of energy and leave those they hit\nterribly dizzy.
 9c3f58|Its creamy body formed when sweet-\nsmelling aroma particles in the air\njoined together.
 9c3fc8|The hair on its legs has transformed,\ngiving even more power to its kicks,\nwhich can open huge holes in the land\nof Galar.
@@ -691,20 +637,15 @@
 9c4298|To keep other living things away,\nit gives off psychic waves strong\nenough to cause headaches.
 9c4334|It silences its target by smacking it\nwith its tresses. It unleashes\ndevastating power that can knock out\na pro boxer.
 9c43d0|It has a fondness for deserted places.\nIf it senses an intense emotion, it\nflees in a hurry.
-9c4444|If it gets angry, the tea that makes\nup its body launches itself into the\nfoe's mouth. Whoever swallows it will\nsuffer violent chills.
 9c44cc|If it spots an abandoned teacup, it\nfills it by pouring in part of its own\nbody to create another Polteageist.
-9c4564|It waits for some careless soul to try\ndrinking it so it can drain their life\nforce, but they usually spit it right\nout due to its bad taste.
 9c4600|The teacup it lives in is part of a\nvaluable antique tea set, many\nforgeries of which are in circulation.
 9c467c|It ventures onto dry land in search of\nopponents to fight to test its worth.\nOnce the battle is over, it returns\nto the sea.
 9c47b8|Under the effects of Gigantamax, the\nheat Centiskorch gives off is so\nintense that it can alter the weather\nand cause storms.
 9c4854|It has an aggressive nature. Its\nred-hot body is quite dangerous, but\nits sharp fangs are no less of a\nthreat.
-9c4914|It squeezes its prey with its red-hot\nbody. Once they're nicely roasted, it\ngreedily devours them.
 9c4970|It can release electric shocks of up\nto 15,000 volts. It faces every foe\nwith the same cocky attitude.
 9c49ec|When this Pokémon sounds like it's\nstrumming a guitar, it's actually\nscratching the protrusions on its chest\nto generate electricity.
 9c4b28|Its jaw is as pointed as a spear\nand as hard as steel. Apparently,\nits meat is surprisingly delicious.
 9c4bc0|It's very proud of its sharp jaw. As\nsoon as it detects even the slightest\nmovement, it heads straight for the\ntarget and charges at it.
-9c4c4c|It accidentally tried to swallow a\nPikachu, which got stuck in its\nthroat, though it doesn't seem to\nmind much.
-9c4cb8|Due to its insatiable appetite, it\ntried to swallow a huge Arrokuda,\nwhich got stuck sideways in its\ngullet.
 9c4d24|Its colossal power lets it crush a foe\nin a single blow, but it's so absent-\nminded that it forgets the foe is even\nthere.
 9c4dac|Its sand sac has also grown enormous.\nThe sandy whirlwind around it weighs\nover a million tons.
 9c4e1c|The peculiar way it coils itself up\nlets it expel the sand stored in its\nsac more efficiently.
@@ -721,7 +662,6 @@
 9c5424|It forms coal inside its body. The\nancient people of Galar used it for\ntheir daily work.
 9c54b4|It was discovered in a mine about 400\nyears ago. Nearly its entire body has\nthe same composition as coal.
 9c5540|Electricity gives its legs enormous\nstrength. Its top speed can easily\nexceed 90 km/h.
-9c55d0|They're big eaters, so they help\npeople in exchange for food.\nThey give off sparks as they run.
 9c562c|Legend has it that long ago it held\nback a flood by biting rocks off a\nmountain.
 9c56ac|Its extendable neck lets it reach\nfoes from a distance. It sinks in its\nsharp teeth to deliver the final\nblow.
 9c575c|It bites anything that gets in front\nof it. Apparently, it does this to ease\nthe pain it feels as its incisors grow.
@@ -729,8 +669,6 @@
 9c585c|Its curly wool is so cushiony that\nit doesn't get hurt even if it falls\noff a cliff.
 9c58b8|Thread spun from its cotton is very\nbeautiful and lustrous, one of the\nGalar region's star products.
 9c5948|If it plants its single lower limb in\nthe ground and soaks up lots of\nsunlight, its petals turn a vivid\ncolor.
-9c59c4|It marks its prey without being\nnoticed. It follows the scent and,\nwhen the other Pokémon lets its guard\ndown, it steals from it.
-9c5a54|Cautious and cunning, it uses its tail\nto sweep away its tracks as it flees\nafter stealing another Pokémon's food.
 9c5ac0|When it unleashes its full power,\nit can control the minds of all\nthose around it.
 9c5b28|It examines its surroundings with\nits psychic powers, which let it\nsense what's happening within a\n10 km radius.
 9c5bc8|It keeps growing inside its shell.\nWhile it prepares to evolve, it\nexamines the outside world with its\npsychic powers.
@@ -758,7 +696,6 @@
 9c67f0|It stores the electrical energy of ten\nlightning bolts in its body. When it\nunleashes its power, it ranks among\nthe strongest Electric types.
 9c6880|It shreds foes with its electrified\nclaws. Even if they dodge its blows,\nthey end up shocked by the discharges.
 9c6900|An Ultra Beast that came from an Ultra\nWormhole. It sets off an explosion to\nsurprise its opponent, then absorbs\nits life energy.
-9c6984|A strange creature that may be an\nUltra Beast. It looks like a rock wall\nuntil it suddenly moves and attacks.
 9c69f0|One of the dreaded creatures known as\nUltra Beasts. It stores hundreds of\nliters of poison in its body.
 9c6a84|In its world, this Ultra Beast is\nconsidered so endearing that it's\nchosen as a traveling companion.
 9c6b00|Because it has always hidden in the\nshadows and dislikes being seen, its\nvery existence is a mystery.
@@ -767,7 +704,6 @@
 9c6da8|The light it emits from its whole\nbody affects living things and the\nenvironment in various ways.
 9c6e10|Having overpowered Lunala, Necrozma\nsees enemies everywhere. In a rage,\nit fires laser beams to obliterate\neverything indiscriminately.
 9c6ea4|Having overpowered Solgaleo,\nNecrozma forcibly absorbs its\nlimitless energy and spreads chaos\nand destruction everywhere.
-9c6f24|It's said to have lain deep inside the\nearth. This creature, which resembles\nan Ultra Beast, is thought to have come\nfrom another world long ago.
 9c6fb4|This Ultra Beast has reportedly been\nseen devouring entire mountains and\nswallowing towering buildings.
 9c7020|Several witnesses have seen this\nUltra Beast slice a huge steel\ntower in two as if it were butter.
 9c7098|Several witnesses claim to have seen\nthis Ultra Beast burn down an entire\nforest with the gas expelled from its\nlimbs.
@@ -781,7 +717,6 @@
 9c7550|The guardian deity of Poni, it\ncontrols water. It's said it can\npurify any impurity with its clear\nwater.
 9c75f4|The lazy guardian deity of Ula'ula. It\npins down foes with plants and rams\nthem with its horns.
 9c7680|The guardian deity of Akala, as\ninnocent as it is cruel. The scent of\nflowers is its source of energy.
-9c771c|The guardian deity of Melemele,\ncurious and inquisitive. It summons\nthunderclouds and stores the power\nof lightning in its body.
 9c77f4|It pounces on its prey with a battle\ncry. It strikes the foe and tears it\nto shreds with its scales.
 9c788c|It expresses its feelings by clanging\nits scales. The metallic sound echoes\nthrough the high mountains where it\nlives.
 9c790c|The spinning of its huge anchor can\nknock out even a Wailord in one blow.\nThe green seaweed is its true body.
@@ -791,18 +726,13 @@
 9c7b58|It has a shell that explodes on\ncontact. The hole you can see in its\nbelly is its weak point.
 9c7bc0|It spends its whole life in a deep\nsleep. All its actions seem to\nreflect whatever it happens to be\ndreaming at the time.
 9c7c60|Its heavy mask keeps it from\nunleashing its full strength,\nwhich is thought to be\nextraordinary.
-9c7cd0|Its body is covered in a slimy fluid.\nIf anyone steps on it, they'll slip,\nand Pyukumuku will punch them in fury.
-9c7d40|By manipulating people, it has\nmanaged to turn itself into a full-\nfledged sand castle, which has\nincreased its evil power.
-9c7dd0|It's very attached to the shovel on\nits head. If a child tries to take it,\nit flies into a rage and fights for it.
 9c7e3c|It attacks mercilessly with four claws,\nand when it has its foe on the ropes, it\nlands the finishing blow with another\npair it had kept hidden.
 9c7ee8|Thanks to its skill and its huge, sharp\nclaws, it can cut through even air and\nwater in a single slash.
-9c7f88|When it's frightened, it flees in\na panic, scuttling on its many legs.\nIt leaves the ground clean and\npolished wherever it goes.
 9c801c|They usually travel in groups of\nabout twenty. The members always\nstick together and never abandon\none another.
 9c80a8|This Pokémon is famous for its cunning\nand wit. It looks down on novice\nTrainers and prefers seasoned ones.
 9c811c|It decorates its stem, which is very,\nvery rich in nutrients, with flowers.\nThe flowers are revitalized and give\noff a pleasant fragrance.
 9c819c|It delivers beautiful kicks with\ngrace. A single one would be enough\nto knock out a kickboxing champion.
 9c82bc|Drawn by the appetizing aroma its\nbody gives off, Toucannon greedily\nswallow them without so much as\nchewing.
-9c8350|It's a very dangerous Pokémon due to\nits colossal strength. Entering its\nhabitat is generally discouraged.
 9c83ec|Despite its charming looks, when it's\nangry its tantrums are so fierce they\ncan even take down a pro wrestler.
 9c84bc|It stuns its foes with a poisonous gas\nit makes by burning its bodily fluids,\nthen pounces on them.
 9c8538|It puts its prey to sleep and saps\ntheir vitality with its arms. If\nanother Shiinotic is in trouble, it\nshares its strength.
@@ -815,6 +745,76 @@
 9c8a34|They gather in schools to face strong\nfoes. If they get hurt, they scatter\nand go back to being alone.
 9c8af8|When it's in trouble, its eyes moisten\nand begin to shine. The shining light\nattracts its comrades, and they face\ntheir enemies together.
 9c8ba0|Its nature is at once fierce and calm.\nThis difficult, fickle behavior makes\nit an extremely hard Pokémon to train.
-9c8c44|If it disagrees with an order, it\ndoesn't hesitate to ignore it. It\ndoesn't mind getting hurt as long as\nit defeats its opponent.
 9c8cd0|Well armed with claws and fangs, it\nalso uses the sharp rocks in its mane\nas weapons. It attacks without regard\nfor its own safety.
 9c8e88|It feeds on nectar and pollen. It can\ndetect flower buds that are about to\nbloom.
+953510|Scatters a cloud of spores\nthat induce sleep.
+953638|Demands a kiss with a scary\nface that induces sleep.
+9536e4|Envelops the foe in a toxic\ngas that may poison.
+953d34|Creates a barrier that\nsharply raises Defense.
+953e28|Lowers the foe's Accuracy\nusing smoke, ink, etc.
+953e68|Minimizes the user's size\nto raise evasiveness.
+953f18|Creates illusory copies to\nraise evasiveness.
+953f54|Emits a screech to sharply\nlower the foe's Defense.
+954048|Raises the user's Attack\nevery time it is hit.
+9540ec|Meditates in a peaceful\nfashion to raise Attack.
+954284|Powerful, but useless\nagainst flying foes.
+954320|A weak jolt of electricity\nthat paralyzes the foe.
+9544dc|Scatters a powder that may\ncause the foe to sleep.
+9545c0|Cuts the foe with leaves.\nHigh critical-hit ratio.
+954748|The heavier the foe, the\nmore damage it inflicts.
+9547fc|Attacks with a sharp, jabbing\nbeak.
+954970|Creates a huge wave, then\ncrashes it down on the foe.
+9549d8|Squirts water to attack.
+954cbc|Launches sharp pins that\nstrike 2 to 5 times.
+954fe8|Hurls sand in the foe's face\nto reduce Accuracy.
+955230|Whips up a twister with its\nwings.
+95535c|Scratches with sharp claws.
+9554d4|A chopping blow. High\ncritical-hit ratio.
+9555b0|Locks on to the foe so the\nnext attack can't miss.
+955670|An attack that absorbs 75%\nof the damage inflicted.
+9556c4|Vanishes on the first turn,\nthen strikes on the next.
+955738|Attacks with a psychic wave\nthat does physical damage.
+95576c|Does more damage the heavier\nthe user is than the foe.
+95582c|Deals damage, then switches\nwith another Pokémon.
+955890|The user faints to fully heal\nthe next Pokémon sent out.
+95592c|Powerful, but leaves the\nuser immobile for 1 turn.
+957f58|The L Button acts as if you\npressed the A Button.
+96bbf0|You have just one Pokémon.
+97354c|You're holding a Pokémon!
+973644|What would you like to do?
+9742a0|Return to the previous menu.
+9bba3c|Unable to flee from its predators, it\ndeveloped strong adaptations to armor\nitself against them and to deal\nmassive damage with its cannon.
+9bc074|Seeing one makes a strong impression,\ndue to its great size and the grace of\nits appearance and movements. It has\nregained a gene shared with Volcarona.
+9be0b4|It passes itself off as matcha so\nsomeone careless will drink it and it\ncan drain their life force, but the\nplan usually fails.
+9bf0b0|Its appearance is reminiscent of a\nstrange Pokémon of primitive origin\nthat appeared in an article in a\ncertain occult magazine.
+9bf2bc|One of the most intelligent dragon\nPokémon there is. It inflates its\nthroat sac to camouflage itself.
+9bf6ac|The reincarnation of a dearly loved\nand mourned Pokémon. It hates it\nwhen the bump on its head is\ntouched.
+9bfa00|It makes a thunderous racket with its\nexhaust pipes to intimidate. It sticks\nits tongue out of its cylindrical\nmouth and sprays a poisonous liquid.
+9bfe14|It effortlessly swings its heavy hammer\nof over 100 kg. When it wants\nsomething, it steals it and takes it\nback to its den.
+9bffbc|It emits psychic energy through the\ngaps between its multicolored frills\nand can run at up to 200 km/h.
+9c003c|It spends its days running around on\nmoors. If anyone steals its beloved\nBerries, it chases them relentlessly\nfor revenge.
+9c0684|It's docile, but it bites anyone who\nangers it and paralyzes them with its\nsharp, toxin-laced incisors.
+9c0c78|It drags its body along the ground as\nit moves, leaving a trail of salt. It\nconstantly produces and replenishes\nthe salt inside its body.
+9c0e90|Green-feathered Squawkabilly are the\nmost common. They make a racket when\nthey look for food in the mornings and\nevenings.
+9c1034|It turns the nutrients in its diet into\noil, which it stores in the fruit on\nits head. It can go a week without\neating or drinking anything.
+9c2600|It hones its technique through strict\ndiscipline. Depending on the style it\nfollows, it will take one form or the\nother when it evolves.
+9c26e8|It feeds on energy that wells up\nfrom the land of Galar, absorbing it\nthrough the core in its chest.
+9c2da4|The upper half of its body is\nfrozen, and it makes electricity\nwhen it shivers. It walks with\ngreat difficulty.
+9c3594|This Pokémon is made up of five\nsubordinates and one leader, whose\norders they obey without complaint.
+9c4444|If it gets angry, the tea that makes\nup its body launches itself into the\nfoe's mouth. Whoever swallows it will\nsuffer violent chills.
+9c4564|It waits for some careless soul to try\ndrinking it so it can drain their life\nforce, but they usually spit it right\nout due to its bad taste.
+9c4914|It squeezes its prey with its red-hot\nbody. Once they're nicely roasted, it\ngreedily devours them.
+9c4c4c|It accidentally tried to swallow a\nPikachu, which got stuck in its\nthroat, though it doesn't seem to\nmind much.
+9c4cb8|Due to its insatiable appetite, it\ntried to swallow a huge Arrokuda,\nwhich got stuck sideways in its\ngullet.
+9c55d0|They're big eaters, so they help\npeople in exchange for food.\nThey give off sparks as they run.
+9c59c4|It marks its prey without being\nnoticed. It follows the scent and,\nwhen the other Pokémon lets its guard\ndown, it steals from it.
+9c5a54|Cautious and cunning, it uses its tail\nto sweep away its tracks as it flees\nafter stealing another Pokémon's food.
+9c6984|A strange creature that may be an\nUltra Beast. It looks like a rock wall\nuntil it suddenly moves and attacks.
+9c6f24|It's said to have lain deep inside the\nearth. This creature, which resembles\nan Ultra Beast, is thought to have come\nfrom another world long ago.
+9c771c|The guardian deity of Melemele,\ncurious and inquisitive. It summons\nthunderclouds and stores the power\nof lightning in its body.
+9c7cd0|Its body is covered in a slimy fluid.\nIf anyone steps on it, they'll slip,\nand Pyukumuku will punch them in fury.
+9c7d40|By manipulating people, it has\nmanaged to turn itself into a full-\nfledged sand castle, which has\nincreased its evil power.
+9c7dd0|It's very attached to the shovel on\nits head. If a child tries to take it,\nit flies into a rage and fights for it.
+9c7f88|When it's frightened, it flees in\na panic, scuttling on its many legs.\nIt leaves the ground clean and\npolished wherever it goes.
+9c8350|It's a very dangerous Pokémon due to\nits colossal strength. Entering its\nhabitat is generally discouraged.
+9c8c44|If it disagrees with an order, it\ndoesn't hesitate to ignore it. It\ndoesn't mind getting hurt as long as\nit defeats its opponent.

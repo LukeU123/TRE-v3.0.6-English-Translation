@@ -565,13 +565,11 @@
 4bfe44|You're challenged by {V1C}\n{V1D}!\p
 4bfe60|You're facing the SACRED BIRD\nARTICUNO!\p
 4bfed4|{V20}\nwants to battle!
-4bff18|{V20} and {V21}\nwant to battle!
 4bff34|Wild {V06} appeared!\p
 4bff48|Wild {V06} appeared!{C087F}
 4bff5c|Wild {V06} and\n{V08} appeared!\p
 4bff78|Go! {V05}!
 4bff88|Your foe's weak!\nGet 'em, {V00}!
-4bffb0|{V20} sent out\n{V0A}!\p{V21} sent out\n{V0C}!
 4bffe8|{V1C} {V1D} sent\nout {V06} and {V08}!
 4c000c|Go! {V00}!
 4c003c|Go! {V05} and\n{V07}!
@@ -582,14 +580,11 @@
 4c00d8|{V1C} {V1D}\nwithdrew {V00}!
 4c0108|Good job, {V00}!\nCome back!
 4c0124|Well done, {V00}!\nCome back!
-4c0140|That's enough, {V00}!\nCome back!
 4c015c|You lost to\n{V20} and {V21}!
 4c017c|{V43} withdrew\n{V00}!
 4c01a0|{V42} and {V43} challenge you!\p
-4c01b8|You defeated {V42} and {V43}!\p
 4c01e0|You drew with\n{V20} and {V21}!
 4c0200|{V1C} {V1D} \nsent out {V00}!
-4c0228|You can do it, {V00}!
 4c0528|You lost to {V42}!
 4c0540|You lost to {V42}!
 4c068c|Round 2
@@ -613,8 +608,6 @@
 4c082c|Fight{C1338}Bag\nPokémon{C1338}Run
 4c0854|What will\n{V23} do?
 4c086c|What will\n{V00} do?
-4c088c|Huh? {V02}\nstopped evolving!\p
-4c08a8|Congratulations! Your {V02}\nevolved into {V03}!{C0A}\p
 4c08d4|What?\n{V02} is evolving!
 4c1650|{V0F}'s Ability is protected by the effects of {V16}!
 4c168c|{V0F} transformed into its Complete Forme!
@@ -622,8 +615,6 @@
 4c16d8|Would you like to forfeit? That counts as losing the battle.
 4c178c|Add {V39} to your party?
 4c17a4|It doesn't affect {V3F} and {V3C}…
-4c17bc|It's not very effective on {V3F} and {V3C}!
-4c17dc|It's super effective on {V3F} and {V3C}!
 4c17f8|{V3F} stayed awake!
 4c1814|Waggling a finger let it use {V14}!
 4c1838|The battlefield seems weird!
@@ -632,7 +623,6 @@
 4c18d4|Grass is covering the battlefield!
 4c18f8|It's snowing!
 4c1908|It's hailing!
-4c191c|The sunlight is scorching!
 4c1934|The POKéMON woke up!
 4c19cc|{V0F} is going all out for this attack!
 4c1a2c|The mist cleared.
@@ -665,7 +655,6 @@
 4c1fc4|{V3A}'s POKéMON were surrounded by a water vortex!
 4c2034|{V3A}'s POKéMON got trapped by vines!
 4c206c|The pieces of steel surrounding {V38} disappeared!
-4c20a8|{V0F} blew away the sharp steel!
 4c20c4|The sharp steel bit into {V3F}!
 4c20e4|Sharp-pointed pieces of steel started floating around {V3B}!
 4c2128|{V10} got covered in sticky syrup!
@@ -686,12 +675,10 @@
 4c2334|{V10} thawed out!
 4c2354|{V0F} thawed out through sheer determination!
 4c2388|{V13}'s {V16} thawed it out!
-4c23a8|{V11} was frozen solid!
 4c23b8|{V0F} was hurt by its frostbite!
 4c23dc|{V0F} trapped {V3F}!
 4c23ed|   {V00}'s PP restored!
 4c2408|{V00} had its status healed!
-4c2428|{V00} had its HP restored!
 4c2440|{V00} was revived and is ready to fight!
 4c246c|{V0F}'s stockpiled effect wore off!
 4c2490|{V10} couldn't fully protect itself!
@@ -705,17 +692,13 @@
 4c25e0|{V13} gained strength from the fall!
 4c2600|{V13}'s {V1A} weakened the {V00} of all POKéMON!\p
 4c2630|The Electric Terrain activated {V41}'s Quark Drive!
-4c2664|{V13}'s {V00} was heightened!
-4c2678|The harsh sunlight activated {V41}'s Protosynthesis!
 4c26ac|Being hit by {V14} charged {V3F} with power!
-4c26d4|{V0F} switched {V00} with its target!
 4c26f4|{V0F} used up all its electricity!
 4c2714|{V10} endured the hit!
 4c2728|{V0F} melted the ice with its fiery determination!
 4c2764|{V0F} cured its burn through sheer determination!
 4c2798|{V0F} gathered all its energy to overcome its paralysis!
 4c27d0|{V0F} woke up!
-4c27e4|{V0F} managed to expel the poison!
 4c2804|{V13}'s HP\nwas restored by its Z-Power!
 4c2838|{V13} boosted\nits stats using its Z-Power!
 4c2868|{V13} restored its HP\nusing its Z-Power!
@@ -745,28 +728,22 @@
 4c2c20|But {V3E} can't use it!
 4c2c3c|But {V3E} can't use it!
 4c2c58|{V13}'s Primal Reversion!
-4c2c74|It can't be used without a Berry!\p
 4c2c94|The mysterious strong winds\nweakened the attack!
 4c2cc0|The mysterious strong winds\nblow on regardless!
-4c2ce8|The effects of the strong winds\nhave worn off!
 4c2d10|Mysterious strong winds are\nprotecting FLYING-type POKéMON!
 4c2d48|There is no relief from this heavy rain!
 4c2d70|The Fire-type attack fizzled out in the heavy rain!
 4c2da8|The heavy rain has lifted!{C0840}
-4c2dcc|It started to rain!
 4c2de0|The extremely harsh sunlight didn't let up!
 4c2e10|The Water-type attack evaporated in the harsh sunlight!
 4c2e4c|The extremely harsh sunlight faded.{C0840}
 4c2e6c|The sunlight turned extremely harsh!
 4c2e98|{V0F} became Ash-Greninja!\p
 4c2ebc|{V0F} became fully charged due to its bond with its Trainer!\p
-4c2f00|{V0F} is cured of its Heal Block!
 4c2f1c|{V0F} is no longer tormented!
 4c2f38|{V0F} got over its infatuation!
-4c2f54|{V13} is switched out with the {V16}!
 4c2f70|{V13} held up its Red Card against {V3E}!
 4c2f98|{V10}'s burn was healed!
-4c2fb8|The {V16} attacked {V3E}!
 4c2fcc|{V0F}'s item cannot be removed!
 4c2ff4|{V13} got over its infatuation!
 4c3010|{V13} shook off the taunt!
@@ -780,15 +757,12 @@
 4c3160|All screens have been cleared!
 4c3188|{V13} is\nin a deep slumber!
 4c31b0|{V13} reversed\nall other POKéMON's auras!
-4c31d4|{V13} is radiating\na fairy aura!
 4c31f4|{V13} is radiating\na dark aura!
 4c3210|{V13} is exerting\nits pressure!
 4c3224|Mysterious strong winds are protecting\nFlying-type POKéMON!
 4c326c|{V35}'s fervent wish\nhas reached {V3E}!
 4c3294|The effects of {V16} prevent its stats dropping!
 4c32c4|A cold light envelops\n {V0F}!
-4c32e4|{V13} fell in love\nbecause of the {V16}!
-4c3308|No one will be able to run away\nduring the next turn!
 4c3334|{V0F} is\nabsorbing power!
 4c3354|The POKéMON received the Ability\n {V1A} from {V13}!
 4c3384|{V13}'s {V1A}\nraised its {V00}!
@@ -799,10 +773,7 @@
 4c3444|{V0F} stole and\nate its target's\l{V16}!
 4c3470|{V11}'s {V16}\nwas burned up!
 4c348c|{V10}'s {V16}\nexploded!
-4c34a8|{V13} floats in the\nair with its Air Balloon!
 4c34c8|The {V16} weakened the\ndamage to {V41}!
-4c34f0|The {V16} strengthened\n{V3E}'s power!
-4c3510|{V0F}\nsharpened its focus!
 4c3524|{V3E} can't use\n{V14} because of Throat Chop!\p
 4c3554|{V0F} can use\nsound-based moves again!
 4c3584|{V0F} repeats its\nlast move thanks to {V00}!
@@ -812,8 +783,6 @@
 4c3618|Flower Veil protected\n {V10}!
 4c3638|{V10} isn't affected\nthanks to {V16}!
 4c3658|{V10} is protected by\nthe Psychic Terrain!
-4c3680|{V10} is protected by\nthe Electric Terrain!
-4c36a8|The Grassy Terrain restored\n {V0F}'s HP!
 4c36d0|{V10} is protected by\nthe Misty Terrain!
 4c36f8|{V10} couldn't stay\nairborne because of\lgravity!
 4c3740|{V0F} stole its\ntarget's stat\lboosts!
@@ -847,7 +816,6 @@
 4c3c6c|The effects of {V16}\nprevent status moves from\nbeing used!\p
 4c3cac|{V0F} transformed\ninto {V3F} using {V17}!
 4c3cd4|{V0F}'s\n {V14} was bounced back by\l{V3F}'s {V19}!
-4c3d0c|{V10}'s {V00}\nwon't go any higher!
 4c3d28|{V10}'s {V19}\nlowered its {V00}!
 4c3d48|{V0F} acquired\n {V18}!
 4c3d60|{V0F}'s {V00} was nullified\nby {V3F}'s {V19}!
@@ -875,7 +843,6 @@
 4c40b0|{V13} is radiating\na blazing aura!
 4c40d4|{V13} is radiating\na bursting aura!
 4c40fc|{V13} breaks the mold!
-4c4114|{V10} was subjected to torment!
 4c412c|The poison restored a little\nHP to {V3E}!
 4c415c|{V13}'s {V1A}\nraised its {V00}!
 4c417c|{V10}'s {V19}\nmaxed out its\p{V00}!
@@ -883,7 +850,6 @@
 4c41c4|The grass disappeared.
 4c41e0|The weird feeling on the\nbattlefield\pdisappeared.
 4c4230|The mist disappeared.
-4c424c|The electric current disappeared\nfrom the battlefield.
 4c4280|{V3E} restored a\nlittle HP thanks to the veil\pof water surrounding it!
 4c42cc|Gravity returned to\nnormal!
 4c42f8|The effects of Water Sport have faded.
@@ -911,3 +877,37 @@
 4c46b0|{V10} was\nslammed to the ground!
 4c46d0|A bizarre area was created in which\nitems' effects are nullified!
 4c4718|{V10} was\nhurled into the air!
+4bff18|{V20} and {V21}\nwant to battle!
+4bffb0|{V20} sent out\n{V0A}!\p{V21} sent out\n{V0C}!
+4c0140|That's enough, {V00}!\nCome back!
+4c01b8|You defeated {V42} and {V43}!\p
+4c0228|You can do it, {V00}!
+4c088c|Huh? {V02}\nstopped evolving!\p
+4c08a8|Congratulations! Your {V02}\nevolved into {V03}!{C0A}\p
+4c17bc|It's not very effective on {V3F} and {V3C}!
+4c17dc|It's super effective on {V3F} and {V3C}!
+4c191c|The sunlight is scorching!
+4c20a8|{V0F} blew away the sharp steel!
+4c23a8|{V11} was frozen solid!
+4c2428|{V00} had its HP restored!
+4c2664|{V13}'s {V00} was heightened!
+4c2678|The harsh sunlight activated {V41}'s Protosynthesis!
+4c26d4|{V0F} switched {V00} with its target!
+4c27e4|{V0F} managed to expel the poison!
+4c2c74|It can't be used without a Berry!\p
+4c2ce8|The effects of the strong winds\nhave worn off!
+4c2dcc|It started to rain!
+4c2f00|{V0F} is cured of its Heal Block!
+4c2f54|{V13} is switched out with the {V16}!
+4c2fb8|The {V16} attacked {V3E}!
+4c31d4|{V13} is radiating\na fairy aura!
+4c32e4|{V13} fell in love\nbecause of the {V16}!
+4c3308|No one will be able to run away\nduring the next turn!
+4c34a8|{V13} floats in the\nair with its Air Balloon!
+4c34f0|The {V16} strengthened\n{V3E}'s power!
+4c3510|{V0F}\nsharpened its focus!
+4c3680|{V10} is protected by\nthe Electric Terrain!
+4c36a8|The Grassy Terrain restored\n {V0F}'s HP!
+4c3d0c|{V10}'s {V00}\nwon't go any higher!
+4c4114|{V10} was subjected to torment!
+4c424c|The electric current disappeared\nfrom the battlefield.

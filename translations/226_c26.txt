@@ -253,7 +253,7 @@
 3f9eda|If you managed it, you wouldn't just\nbe preserving part of JOHTO's\lheritage. My wife and I would be\lgrateful to you for life.
 3f9f59|Did you get in? Our house in AZALEA\nTOWN is right next to the GYM, on the\least side of town. Our secret\lentrance opens with a button on the\lpainting next to the window.
 3fa040|{V01} got a LARVESTA!
-3fa06f|TRXATU:\pHP: 75\nATTACK: 75\lDEFENSE: 75\lSP. ATK: 115\lSP. DEF: 115\lSPEED: 115\lTOTAL: 570\pTYPE: PSYCHIC/FLYING\pABILITIES:\nMAGIC BOUNCE/SYNCHRONIZE/SOUL-HEART\pAn extremely rare POKéMON. Only a\nXATU able to make contact with the\lsacred can ever become one.\pThat's why TRXATU was seen as a god\nby ancient civilizations, and was\lworshipped by cultures in both JOHTO\land the ARCHI7.\pIt shares certain similarities with\nJOHTO's ROAMING LEGENDARIES (a triple\l115 as its best base stats, beating\lthe double 115 of the 3 BEASTS).\pThat makes it a MYTHICAL POKéMON\nwith the power of a MINOR LEGENDARY.
+3fa06f|TRXATU:\pHP: 75\nATTACK: 75\lDEFENSE: 75\lSP. ATK: 115\lSP. DEF: 115\lSPEED: 115\lTOTAL: 570\pTYPE: PSYCHIC/FLYING\pABILITIES:\nMAGIC BOUNCE/SYNCHRONIZE/SOUL-HEART\pAn extremely rare POKéMON. Only a\nXATU able to make contact with the\lsacred can ever become one.\pThat's why TRXATU was seen as a god\nby ancient civilizations, and was\lworshipped by cultures in both JOHTO\land the SEVII.\pIt shares certain similarities with\nJOHTO's ROAMING LEGENDARIES (a triple\l115 as its best base stats, beating\lthe double 115 of the 3 BEASTS).\pThat makes it a MYTHICAL POKéMON\nwith the power of a MINOR LEGENDARY.
 3fa49c|Well{C080A}…{C080A} it seems that no matter how\nhidden a place is, there'll always\lbe some explorer outside the laws\lthat others impose who ends up\ldiscovering it.
 3fa52f|I hope what you have to say is more\nimportant than the fact that you've\linterrupted my silence.
 3fa595|Oh…\pYou were at the cult of the\nESSENCE POKéMON?\pWere you the one who ended LANCE's\ntyranny?
@@ -404,7 +404,7 @@
 3ff9f7|{C1906}It's not my place to be part of\nyour story. We belong to\ldifferent worlds.
 3ffa56|{C1906}I'm really glad I ran into you\ntwo. In a place like this{C0819}…{C0819}\lyou're like OOPArts to me, but\lwhat does it matter?\pWe won't meet again.
 3ffae9|{C1906}Hmm{C0819}…{C0819} on second thought, your\nbond with those POKéMON, the legend\lof this place{C0819}…{C0819}\pMaybe I'm the OOPArt here, don't\nyou think?
-3ffbbb|We're turning this island into\nthe center of ARCHI7.\pWhat are they complaining about?
+3ffbbb|We're turning this island into\nthe center of SEVII.\pWhat are they complaining about?
 3ffc14|This stuff isn't my thing{C0805}…{C0805}
 3ffc41|Who are you?\pAs long as you let me work in peace,\nI won't touch you. Others will deal\lwith you.
 3ffcae|Lucky for us, these islands only\nhave POKéMON from KANTO and JOHTO.\pWe're going to make a fortune\nbringing in POKéMON from a faraway\lregion.
@@ -419,10 +419,10 @@
 4006a1|{C192A}That's right, {V01}. You didn't\nexpect to see me here, did you?\lMaybe you got suspicious when you\lsaw ex-TEAM ROCKET members, but\lwhat does it matter.
 40072d|{C192A}You know…\nI broke the ROCKET code of conduct.
 40075e|{C192A}Funny how life turns out, isn't it?\pLast time we met, I was the ADMIN,\nand you were still an EXECUTIVE.\pI played my cards badly, true, but\nwhat happened makes no sense at\lall.\pI don't know how you pulled it off,\n{V01}.\pAnd I don't want to know.
-40084e|{C192A}But you must be wondering, what am\nI doing here? I'll be straight with\lyou: we're turning this place into\lthe new GAME CORNER of ARCHI7.
+40084e|{C192A}But you must be wondering, what am\nI doing here? I'll be straight with\lyou: we're turning this place into\lthe new GAME CORNER of SEVII.
 4008cb|{C192A}Counting all 7 islands, the total\npopulation is considerable.\pAdd how easy it is to travel by\nSEAGALLOP, the link to VERMILION\lCITY and the lack of competition,\land we've got a surefire business.
 4009a9|{C192A}Thanks to my contact in SINNOH,\nwe'll import rare POKéMON from that\lregion and sell them here for their\lweight in gold.
-400a1c|{C192A}And best of all, we'll use the\nsame COINS and games of chance as\lthe CELADON GAME CORNER.\pWe'll turn this place into the\nnew capital of ARCHI7.
+400a1c|{C192A}And best of all, we'll use the\nsame COINS and games of chance as\lthe CELADON GAME CORNER.\pWe'll turn this place into the\nnew capital of SEVII.
 400abc|{C192A}This building is just the start.\nWe'll run all our operations from\lhere, just like the ROCKET HIDEOUT,\lbut without needing to hide it.
 400b4f|{C192A}Next we'll expand that dreadful\nARCADE and start turning it into a\lreal GAME CORNER.
 400bb8|{C192A}Isn't it great? Come on!\pWhen this is all over, I could\neven make you a special offer on\lthe POKéMON from SIN{C0805}…{C0805}
@@ -435,7 +435,7 @@
 400fbc|{C192A}You're not going anywhere, {V01}.\pIf you won't join my plan, I won't\nlet you go back to KANTO to warn\lTEAM ROCKET either.\pWith all of LANCE's government\nexecuted, traitors like me are\lnext in the crosshairs.\pI'll never set foot in the DEEP BASE\nprison, I guarantee you that.\pBut you{C0814}…{C0814} might never leave\nthis island again as long as you live!
 40111a|{C192A}Not even GIOVANNI himself could\ntake all 3 of us! En garde!
 40115e|This was all part of our plan!
-401180|{C192A}TWO ISLAND is ours! We'll be the\nnew SILPH of ARCHI7!
+401180|{C192A}TWO ISLAND is ours! We'll be the\nnew SILPH of SEVII!
 4011c4|SILPH didn't fall, and neither\nwill we!
 4011f3|{C192A}Impressive, but you haven't\nproven anything yet.
 401226|{C192A}Look at you, {V01}. You've always\nbeen beneath me. Even as an ADMIN\lyou never managed to catch up!
@@ -445,7 +445,7 @@
 40135f|{C192A}You only won because you have a\ngift for battling!\pYour stupid moral code is nothing\nbut a front!
 4013d0|{C192A}How do I know?\n{C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805}\pYou'd have liked the big plan I told\nyou about for this place a thousand\ltimes more than its useless role now.
 401477|{C192A}You only did this to look good in\nfront of those two idiots who'll\lkeep everything the same. This\lisland is dead and it'll stay dead.
-4014fd|{C192A}You win, but I won't give you the\nsatisfaction of seeing me behind bars.\pYou'll never hear from me again. This\ntime I'll go where TEAM ROCKET's\ltentacles can't reach.\pNo more KANTO, ARCHI7 or JOHTO.\pYou'll never find me in SINNOH!\p{C0805}…{C0805} {C0805}…{C0805}\pForget it. Enjoy your DODRIO BERRY\nPICKING and POKEMON JUMP!
+4014fd|{C192A}You win, but I won't give you the\nsatisfaction of seeing me behind bars.\pYou'll never hear from me again. This\ntime I'll go where TEAM ROCKET's\ltentacles can't reach.\pNo more KANTO, SEVII or JOHTO.\pYou'll never find me in SINNOH!\p{C0805}…{C0805} {C0805}…{C0805}\pForget it. Enjoy your DODRIO BERRY\nPICKING and POKEMON JUMP!
 40164e|{C190B}Who are you? How did you get in\nhere?
 40167e|{C1906}As I was saying, we can easily sell\nthe CRANIDOS for 7000 COINS{C0805}…{C0805}
 4017b3|{C192C}ROCK TUNNEL has become a more\nhostile place now, {V01}.

@@ -344,7 +344,7 @@
 45aa54|{C1907}Here, though, there are all 12 hours,\nand on top of that there's a new\lvariable.
 45aaa8|{C1907}From what I've seen, the bigger\nrocks count as 2 each, and from that\ltotal you subtract each stone,\lwhich is worth 1.
 45ab30|{C1907}And yes, the rocks up top count too.
-45ab5c|{C1907}Hmm… It's not the first time… that\nwe've seen similarities between\lARCHI7 and JOHTO.
+45ab5c|{C1907}Hmm… It's not the first time… that\nwe've seen similarities between\lSEVII and JOHTO.
 45aba7|{C1907}The LOST CAVE led nowhere. The last\nroom in that place, well… you\lknow… that's where they took the\lex-CONSUL.
 45ac2a|{C1907}But this ETER CAVE… It may be a\nborder with something bigger. Perhaps\lits last room isn't the end, but\lthe door to a new world.
 45acbf|{C1907}For now, the next room is at\n10 o'clock, {V01}.
@@ -488,7 +488,7 @@
 45f4bf|Under this paradigm, it's impossible\nfor me to continue my research.\pMaybe OAK was right; there are only\n150 different species…\pAt least in this KANTO.
 45f596|Bill's Diary - August 18, 1996
 45f5bc|My good work at SILPH and my work\nfor LANCE's Government have made\lthe LEAGUE COMMITTEE listen to my\lrequests.
-45f638|Not only will they grant me a license\nto study the LEGENDARY BIRDS,\lI've also{C0819}…{C0819} been given special\lpermission to do research\lin ARCHI7.
+45f638|Not only will they grant me a license\nto study the LEGENDARY BIRDS,\lI've also{C0819}…{C0819} been given special\lpermission to do research\lin SEVII.
 45f6da|I'll be able to set up a branch in the\nPKMN CENTER on ONE ISLAND, and leave\lsomeone I trust in charge.
 45f76b|Bill's Diary - August 30, 1996
 45f791|As expected, we've only sighted\nKANTO POKéMON, already\lcounted among the 150.
@@ -496,7 +496,7 @@
 45f83c|Talking with the locals, this\narchipelago seems to hold many more\lmysteries and things in common with\lJOHTO than we could have guessed.
 45f8c3|LANCE forbids the people of KANTO\nfrom setting foot in JOHTO, but{C0819}…{C0819}\lperhaps we've found our own\lJOHTO here.
 45f990|Bill's Diary - October 14, 1996
-45f9b7|After 45 intense days of exploring\nall of ARCHI7, CELIO managed to\ldiscover and catalog 42 different\lspecies, bringing the total number\lof POKéMON to 192.\pMy personal collection stands at 187.
+45f9b7|After 45 intense days of exploring\nall of SEVII, CELIO managed to\ldiscover and catalog 42 different\lspecies, bringing the total number\lof POKéMON to 192.\pMy personal collection stands at 187.
 45fa79|I was starting to doubt my memories,\nbut when CELIO transferred the data\land species to me through the PC and\lPOKéMON Storage System, I recognized\lcertain POKéMON I thought I'd\lforgotten.
 45fb3b|What's more, contact with some of\nJOHTO's upper circles subtly made me\lrealize they have some POKéMON I'd\lnever seen before: CROBAT,\lAMPHAROS and AIPOM, among others.
 45fbf5|Add the recent creation of\nPORYGON2, and the total rises to\lover 200 different species.
@@ -506,7 +506,7 @@
 45fead|Bill's Diary - December 11, 1996
 45fed6|The LEAGUE COMMITTEE's refusal made\nme rethink several things.
 45ff1b|A Government this closed off has its\ndays numbered, but I won't sit\lidly by while it sinks.
-45ff88|One advantage of ARCHI7 is that it\nisn't so tightly controlled by KANTO.\pThere we met some people from\nHOENN, who told us about someone\lwith interests similar to ours:\lPROFESSOR BIRCH.
+45ff88|One advantage of SEVII is that it\nisn't so tightly controlled by KANTO.\pThere we met some people from\nHOENN, who told us about someone\lwith interests similar to ours:\lPROFESSOR BIRCH.
 460053|That's how the NETWORK MACHINE\nproject was born.
 4600f0|Bill's Diary - February 13, 1997
 460117|The exchange of data and information\nbetween BIRCH and us has been\lrevealing.\pIt has opened our eyes to the world.
@@ -563,7 +563,7 @@
 461776|{C197E}BILL, on the other hand… to him, the\nnew is always best.
 4617af|{C197E}The proof is in this garden: he removed\nall the KANTO and JOHTO POKéMON\lto put in the latest-generation ones.
 461825|{C197E}Though, honestly… I don't feel\nany connection to any of those\lnew POKéMON.
-46187c|{C197E}The thrill of discovering a new\nspecies, back in those ARCHI7 days,\lis nothing like discovering one\lmore to add to today's\lendless list.
+46187c|{C197E}The thrill of discovering a new\nspecies, back in those SEVII days,\lis nothing like discovering one\lmore to add to today's\lendless list.
 46192c|{C197E}It was like a{C0823}…{C0823} gift, something you knew\nwould end, but you enjoyed it with\levery new find.\pThe charm of that search lay in\nits limits.
 461a51|{C197E}It'll never be enough, understand?
 461a77|{C197E}There will always be a new species\nthat overshadows the ones before,\land it too will eventually be\lforgotten for the next, in an\lendless cycle.

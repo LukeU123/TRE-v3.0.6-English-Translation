@@ -75,7 +75,7 @@
 2e8a51|{C1920}Just like LANCE, we never managed\nit.\pBut after what happened at the\nPOKéMON LEAGUE, ARCHER sent me a\lreport on a recent discovery.
 2e8ae9|{C1920}That tenth island lies in the middle\nof the 7, surrounded by strong tides,\lwith a large cave inside that has\lyet to be explored.
 2e8b6b|{C1920}I can't think of anywhere else these\ntwo beasts could be. They were last\lseen decades ago.
-2e8bd3|{C1920}{V01}!\pNAVEL ROCK is fairly close to\nFIVE ISLAND. However, the currents\lbetween them are the strongest in\lall of Archi7.\pThat would be far too risky.\nHowever{C0805}…{C0805}
+2e8bd3|{C1920}{V01}!\pNAVEL ROCK is fairly close to\nFIVE ISLAND. However, the currents\lbetween them are the strongest in\lall of Sevii.\pThat would be far too risky.\nHowever{C0805}…{C0805}
 2e8c92|{C1920}ARCHER found an alternative route,\nstarting from the port on TWO ISLAND.\pIt's longer, but the currents are\nless treacherous.
 2e8d1b|{C1920}We'll cross that way. Ignore the\nwarning sign. It's there more to\lspare them trouble and let them wash\ltheir hands of any accident than\lbecause the waters are truly\ldangerous.
 2e8ddd|{C1920}I'll be waiting at NAVEL ROCK, {V01}.\nThis time I'll be joining you on\lthis mission in person.

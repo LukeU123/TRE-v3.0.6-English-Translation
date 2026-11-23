@@ -174,7 +174,7 @@
 3b6ae6|{C190B}I recommend stopping by. I'll\nbe guarding its doors, ready\lwhenever you need me, SIR.
 3b6b8b|-There are more important things to do\nin HOENN. I have to find ANDRA and go\lafter DEVON.-
 3b6c3e|-Now's not a good time to go to JOHTO.-
-3b6c74|Welcome to HOENN, HEAD ADMIN\n{V01}.\pYou've already conquered two\nregions and ARCHI7.\pThink you can do it again?
+3b6c74|Welcome to HOENN, HEAD ADMIN\n{V01}.\pYou've already conquered two\nregions and SEVII.\pThink you can do it again?
 3b6cf2|These radio waves are a beta version\nof the ones that'll be installed in\lLAVENDER TOWN.\pThere, we'll push the limits of what\na POKéMON can reach!
 3b6d96|It's not enough to give a hundred\npercent in the work itself. You also\lhave to focus on optimizing the\lsystem you work in.
 3b6e2c|The famous {V01}…\pI'm afraid a humble SCIENTIST like\nme has nothing to teach you.
@@ -188,7 +188,7 @@
 3b7314|Seeing the power of all these\nPOKéMON… you realize how mediocre\lKANTO is when it comes to BASE\lSTATS. Even so, our region's magic\lis unbeatable. Is it because of the\lESSENCE POKéMON, or is it the other\lway around, and it's a product of\lthat magic?
 3b7410|They say HOENN is more\ntechnologically advanced than KANTO.\pWell, they hide their advances\nvery well…
 3b747e|It doesn't matter if you're wrong 1,\n2, 5 or 10 times. For better or\lworse, people filter out everything\lelse and only remember the one time\lyou won.
-3b752b|KANTO, ARCHI7, JOHTO, HOENN…\pWe're building the greatest empire\nin the POKéMON WORLD, don't you think?
+3b752b|KANTO, SEVII, JOHTO, HOENN…\pWe're building the greatest empire\nin the POKéMON WORLD, don't you think?
 3b75a2|Do you think we can go past 800\nBASE STATS without the prototypes\lcollapsing?
 3b7601|We managed to break the 800 BASE\nSTATS limit.\pHow far are we going to go?
 3b7661|Once we have the strongest POKéMON\nin existence, what happens then?\pDo we just stash them in a drawer\nin case someone attacks us?\pThat's boring!

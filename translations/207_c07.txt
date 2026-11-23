@@ -402,7 +402,6 @@
 2a5ceb|{C0832}This is our LEADER, GIOVANNI.\pYou will find no finer or wiser\ntrainer in all of KANTO…\pOnly the best ROCKETS are granted\naccess to him.\pIf you truly wish to rise in this\norganization, you must prove your\lworth on every mission entrusted to\lyou. No shortcuts. No favorites.\pOnly then might you one day meet\nour LEADER in person.\p
 2a5e4a|{V01}!\pYou are summoned to the starter\nbriefing and handover at the FIVE\lISLAND HQ at 17:00 sharp.\pA world of corruption, fraud and\nhypocrisy awaits you.\pPrepare to see your beloved KANTO\nin a whole new light.\pLet it begin!\p
 2a5f3d|The Kanto events are now over.\pHere's a list of the changes:{C083C}\n-Trainers up to here are defeated.\p-Pokémon obtainable up to here\nare sent to the PC.\pYour Pokémon team will be removed,\nand you may pick 10 Pokémon at Lv. 63.\pNote that this cannot be undone,\nOK?{C081E}
-2a6078|Would you like to save the game?
 2a6095|There is already a saved file.\nIs it okay to overwrite it?
 2a60cb|SAVING…\nDON'T TURN OFF THE POWER.
 2a60ed|{V01} saved the game.
@@ -629,7 +628,7 @@
 2acb85|All right!\nAll aboard SEAGALLOP\lHI-SPEED 7!
 2acf06|Did you know WEEZING can learn\nTHUNDERBOLT?\lI'll fry all your water\lPOKéMON with that one\lblessed move!
 2ad037|It's been tough, MACHOP, but we're\nall set to start construction.
-2ad086|We'll honor the KANTO region and\nARCHI7 like no place ever has\lbefore!
+2ad086|We'll honor the KANTO region and\nSEVII like no place ever has\lbefore!
 2ad0db|Chop!
 2ad0e2|INDIGO PLATEAU POLICE.
 2ad0fa|Wh-what's going on?
@@ -712,3 +711,4 @@
 2af310|Oh!\nIt's you, isn't it?
 2af327|You must be someone very powerful.\pI've traveled all over the world\ncountless times, and I've seen few\lpeople like that DIRECTOR.
 2af3a0|I only wanted great TRAINERS to\nhave the chance to discover new\lPOKéMON, but it seems he had\lother plans for the region.
+2a6078|Would you like to save the game?

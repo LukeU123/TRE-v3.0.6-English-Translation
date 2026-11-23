@@ -68,3 +68,12 @@ Then scan the battle region 0x4b0000-0x4d0000 for any other '¡{Vxx} de {Vxx}' /
 - IDEA (Luke): produce a "Pokémon by route" sheet from the ROM's wild encounter tables (pokeemerald-expansion gWildMonHeaders: map group/num -> land/water/rock/fishing tables of species, levels and rates). Do this later, as a Sheets artifact.
   Reference format Luke likes: https://docs.google.com/spreadsheets/d/1PyGm-yrit5Ow6cns2tBA9VEMwLVMzn3YhDRipABjLUM/edit?gid=55717469 (open it first and match its layout)
 - ARCHI7 (Luke, 23 Nov 20:18): it's the hack's shorthand for "Archipiélago" of the 7 (Sete) islands, i.e. the SEVII ISLANDS. The helpers kept "ARCHI7" as a made-up name. Replace with SEVII (or SEVII ISLANDS where it fits) everywhere: dialogue, badge screen ("Archi7:" -> "Sevii:"), region labels (e866e0 "ARCHI7"), Pokédex region text. Watch the FIXED budgets: "SEVII" is 5 letters vs 6, so it always fits.
+
+## Done 23 Nov (late, PC off)
+- Stat-change battle templates ("Zubat's ATTACK fell!"), "It doesn't affect…", the move-type labels ("a Rock move" etc.), "&" join, "{V16} snapped it out of its confusion!"
+- Rocket Timeline menu ("Welcome to Rocket Timeline." / Start / Info & FAQ / Go back / Season / Confirm)
+- 6 half-translated lines fixed (Spanish head + English tail): 2101cf, 2261ef, 241bb1, 3dafe4 + dex 9c0be2 + save prompt 2a6077
+- ARCHI7 -> SEVII everywhere (about 60 lines plus labels); glossary updated
+- "Inventar diálogo" placeholders in c30 -> "Dialogue TBD" (now consistent)
+- New QA scan of the patched ROM for leftover Spanish: most hits are dead copies of moved strings (the original Spanish left behind, which the game never shows). The real leftovers were the items above.
+- Codec: added F7 {Dxx} (summary memo placeholders), F8 {Kxx} (button icons) and F9 {Fxx}

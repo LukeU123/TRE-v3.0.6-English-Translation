@@ -88,7 +88,7 @@
 2b1ead|{C190E}And that's how it should be. New\ngenerations deserve the chance.\pThe chance to lose, to see harsh\nreality, or{C080F}…{C080F}
 2b1f2c|{C190E}…to work a miracle.
 2b2101|{C1926}People of KANTO, this is LANCE\nspeaking. New measures are coming to\lthe region, and I want you all to\llisten closely from your homes,\lworkplaces or wherever you may be.
-2b21b5|{C1926}Despite the progress of recent\nmonths, much work remains before\lwe open up to the rest of the world.\lARCHI7, HOENN{C080F},{C080F} JOHTO{C0819}…{C0819} they\lcan wait. But you needn't worry:\lSILPH is more than capable of\lsupplying all of KANTO.
+2b21b5|{C1926}Despite the progress of recent\nmonths, much work remains before\lwe open up to the rest of the world.\lSEVII, HOENN{C080F},{C080F} JOHTO{C0819}…{C0819} they\lcan wait. But you needn't worry:\lSILPH is more than capable of\lsupplying all of KANTO.
 2b22aa|{C1926}That is why I am granting it full\ncontrol over TRAINER goods. All of\lthem will come from its HQ in\lSAFFRON and will mostly be sold at\lthe CELADON DEPT. STORE. Small\lbusinesses that could compete with\lit are strictly prohibited, as\lthey interfere with the general\linterest of the region.
 2b23f5|{C1926}Furthermore, word has reached me of\na certain criminal gang calling\litself -TEAM ROCKET-. Its presence\lgrows ever more noticeable, and its\lcrimes do nothing but hold back the\lregion's progress.
 2b24c7|{C1926}As if that weren't enough, part of\nthe population even supports them.\lThe full weight of the law will fall\lequally on those who help them,\lsympathize with them, or withhold\lany information about this gang.
@@ -190,7 +190,7 @@
 2b5b5e|{C1906}Blast it, where could they have\nput them{C0805}…{C0805}
 2b5b8c|{C1906}You don't seem to be from around\nhere. Nor do you seem to be an\lordinary TRAINER, though that\lmatters little.\pAll TRAINERS and their POKéMON\nare equal before the creator.
 2b5c3c|{C1906}I'm on the trail of two dangerous\ncriminals. Someone very wise sealed\laway 2 ANCIENT POKéMON on these\lislands.\pTwo POKéMON with the power to make\nthe world tremble and change its\lclimate.
-2b5d13|{C1906}These 2 POKéMON sleep somewhere,\nsealed away and far from civilization,\lwithin the territory of ARCHI7.
+2b5d13|{C1906}These 2 POKéMON sleep somewhere,\nsealed away and far from civilization,\lwithin the territory of SEVII.
 2b5d88|{C1906}I came here because of a legend\nabout this cave, about a powerful\lICE-type POKéMON.\pBut all I could find were wild\nLAPRAS, and there doesn't seem to\lbe anything more interesting.
 2b5e4b|{C1906}My next destination is ALTERING CAVE.\nIt's north of SIX ISLAND. There are\lfootprints there that could match\lthose of an ANCIENT POKéMON.
 2b5ee4|{C1906}I must find those POKéMON before\nthose fanatics do.\pNow that they know how to wake them,\nI can't allow that to happen.
@@ -219,7 +219,7 @@
 2b6c9a|If you keep going this way, you'll\nreach the WATER PATH.\pWhen you get to the PATH, head\nsouth if you want to go to\lRUIN VALLEY.
 2b6d24|Being so far from the cities,\nthe night sky looks really\lclear.
 2b6d7c|SIX ISLAND\nFortune Island of Aged Wisdom.
-2b6dbc|We call these islands ARCHI7\nbecause there are seven, heh.\pOr at least, that's what young\npeople believe.\pBut actually it's because the\nislands were made in seven days.
+2b6dbc|We call these islands SEVII\nbecause there are seven, heh.\pOr at least, that's what young\npeople believe.\pBut actually it's because the\nislands were made in seven days.
 2b6e6f|This island is almost untouched;\nit has hardly changed at all.\pThat's why it's dangerous and hard\nto go climbing around here.
 2b6ef7|SEVEN ISLAND\nQuest Island of Endless Quests.
 2b6fbb|You received a CHOICE SCARF\nfrom the COOLTRAINER!

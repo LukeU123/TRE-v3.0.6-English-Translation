@@ -299,7 +299,6 @@
 3dadcb|{C1921}Your actions freed KANTO from the\ninvisible yoke LANCE had placed on\lits people, but you also put an end\lto a whole string of privileges\lthat I enjoyed.
 3dae72|{C1921}Luckily, I always got along with\nSILPH, so they put me in charge of\lone of their most important\lprojects. Something I was going to\ltry on my own anyway: unlocking the\lmaximum attainable potential of\lPORYGON.
 3daf6f|{C1921}That's not to say I'm done with\nmy days as a collector.\pBut KANTO's{C0819}…{C0819} old news.
-3db04f|the entire DRATINI\lline at my disposal{C080F}…{C080F}
 3db08a|{C1921}All 149 POKéMON in my POKéDEX{C0819}…{C0819}\pOnly MEW, missing for nearly a\ndecade, still eludes me.\pIts whereabouts are so uncertain\nit's not even worth thinking about.
 3db149|{C1921}The mysterious POKéMON you're\nhere for?
 3db18c|{C1921}Do you really think that if I saw\neven the slightest chance such a\lPOKéMON existed, I wouldn't be out\lthere trying to find it?

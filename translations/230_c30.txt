@@ -260,7 +260,7 @@
 445f05|{C1920}I could have ordered this lab\nraided, but something in OAK's plans\lintrigued me.
 445f6c|{C1920}As his old rival, it was my duty to\nfully understand the nature of his\lactions.
 445fc3|{C1920}Only then could I judge him\nproperly, and that was something\lfor me alone.
-44601d|{C1920}So while you were in ARCHI7,\nI paid a visit to PALLET\lTOWN.
+44601d|{C1920}So while you were in SEVII,\nI paid a visit to PALLET\lTOWN.
 446071|{C1920}I managed to activate the secret\nentrance and get in here.
 4460af|{C1920}To my surprise, OAK wasn't here.
 4460d3|{C1920}Yet all his journals, blueprints,\n-PROJECT RED- in detail, MEWTWO's\llocation{C0819}…{C0819} it was all here.
@@ -403,9 +403,9 @@
 44a16b|This place is a gift from nature,\nthat anyone can admire without\lpaying a single $.
 44a31a|Well, what a surprise. Who are you?
 44a34b|KANTO, huh? You've come a long way.
-44a36f|I used to live in ARCHI7. I decided\nto move to JOHTO when they closed\lthe GYMS.
+44a36f|I used to live in SEVII. I decided\nto move to JOHTO when they closed\lthe GYMS.
 44a3bf|Back then, people talked about how\nmuch those two regions resembled\leach other, though less of that\lremains every day.
-44a42a|I wonder if ARCHI7 has changed that\nmuch too. There's only one thing I\lregret…
+44a42a|I wonder if SEVII has changed that\nmuch too. There's only one thing I\lregret…
 44a489|Not being able to find my late\nPOKéMON's CHARM.
 44a4ca|I lost it one day, deep in the\nBERRY FOREST, and never saw it again.
 44a515|That was over a decade ago.\pI suppose… I'll have to accept that\nit's lost forever.
@@ -416,7 +416,7 @@
 44a6f8|You received a Lv.80 MARSHADOW!
 44a71d|According to THREE ISLAND's former\nLEADER, seeing one is 100 times rarer\lthan finding a shiny POKéMON.
 44a785|An explorer like you is surely just\nwhat this POKéMON needs.
-44a7cd|Sometimes I wonder what became of\neverything I left behind in ARCHI7,\lbut I never feel ready to go back\lthere.
+44a7cd|Sometimes I wonder what became of\neverything I left behind in SEVII,\lbut I never feel ready to go back\lthere.
 44aa0d|{C1906}My, how extraordinary.
 44aa26|{C1906}I'm pleased to know I'm not the only\none who ventures beyond the law.
 44aa73|{C1906}This place, like others in the\narchipelago, is a mystery.

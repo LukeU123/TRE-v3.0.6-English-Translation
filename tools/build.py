@@ -40,6 +40,8 @@ import os as _os
 if _os.path.exists('work/gfx/patches.json'):
     for g in json.load(open('work/gfx/patches.json')):
         blob=open(g['data'],'rb').read();a=g['addr']
+        if g.get('type')=='raw':
+            assert len(blob)==g['orig_len'];d[a:a+len(blob)]=blob;continue
         assert all(b==0xff for b in src[a:a+len(blob)]),'gfx target not free'
         assert a>=FREE,'gfx overlaps text free space'
         d[a:a+len(blob)]=blob

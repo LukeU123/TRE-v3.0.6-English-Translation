@@ -1,0 +1,18 @@
+5b5e96|   Use {K0A} to move up/down
+5b5eb1|    {K0A} Scroll     {K0B} Difficulty
+5b5f48| Use {K0B} to change
+5b5f5d|    {K0A} +- 10 [PK][MN]\n {K0B} +- 1 [PK][MN]\n{K03} +1 Gen\n{K02} -1 Gen\n {K01} Cancel\n {K00} Add [PK][MN]\n {K04} Continue
+957b34|{K03}OTHER
+957d40|A big challenge for experts.\nPress {K04} for more info.
+957d7b| Classic play style.\nPress {K04} for more info.
+957db4|Ideal for a quick playthrough.\nPress {K04} for more info.
+962dcf| {K00}FORM   {K04}EVOs
+963fde|  {K00}BACK     {K0A}MOVE
+e8602e|  {K0A}CHOOSE {K00}OK {K01}EXIT
+e86046|  {K0A}CHOOSE {K00}OK {K01}EXIT
+e8645f| {K0C}CHOOSE  {K00}OK  {K01}BACK
+e86705|   Rocket Mode info.{K04}
+e869e3| Very Easy Mode info.{K04}
+e8ac42|  {K00}Exit
+e8ac4c|{K0A}Choose {K00}{K01}Cancel
+e8ac62|  {K0A}Choose {K00}NEXT {K01}Cancel

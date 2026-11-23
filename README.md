@@ -35,7 +35,7 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 - [ ] Keep an eye on the fast-forward stutter seen once (not reproduced since; see `REVIEW_NOTES.md`)
 
 ### Out of scope (for now)
-- Text drawn as graphics: summary-screen headers (PERFIL, OBJETO, MOVIMIENTOS…), type icons, the "Nv" level glyph and the naming-screen buttons. Needs image editing; see REVIEW_NOTES.md
+- (Graphics pass done 23 Nov: type icons, HP/Lv, summary headers, PC storage, naming screen. Awaiting in-game test.)
 
 ## How to play
 1. Get your own copy of the Spanish **Team Rocket Edition v3.0.6** ROM. No ROMs are provided here.

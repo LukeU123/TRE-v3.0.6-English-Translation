@@ -7,5 +7,107 @@
    9914204
   ],
   "orig": 8562152
+ },
+ {
+  "name": "HP label",
+  "type": "raw",
+  "data": "work/gfx/hp_label.bin",
+  "addr": 9114396,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_normal 34",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_normal_34.bin",
+  "addr": 8029652,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_normal 105",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_normal_105.bin",
+  "addr": 8043028,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_small 34",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_small_34.bin",
+  "addr": 8129492,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_small 105",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_small_105.bin",
+  "addr": 8142868,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_short 34",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_short_34.bin",
+  "addr": 8062932,
+  "orig_len": 64
+ },
+ {
+  "name": "Lv glyph latin_short 105",
+  "type": "raw",
+  "data": "work/gfx/lv_latin_short_105.bin",
+  "addr": 8076308,
+  "orig_len": 64
+ },
+ {
+  "name": "summary screen tiles",
+  "data": "work/gfx/summary_en.lz",
+  "addr": 32509952,
+  "refs": [
+   1603060
+  ],
+  "orig": 8323044
+ },
+ {
+  "name": "pc storage menu",
+  "data": "work/gfx/storage_menu_en.lz",
+  "addr": 32514048,
+  "refs": [
+   1578396
+  ],
+  "orig": 8324964
+ },
+ {
+  "name": "naming back_button",
+  "type": "raw",
+  "data": "work/gfx/naming_back_button.bin",
+  "addr": 8280760,
+  "orig_len": 480
+ },
+ {
+  "name": "naming page_swap_others",
+  "type": "raw",
+  "data": "work/gfx/naming_page_swap_others.bin",
+  "addr": 8279800,
+  "orig_len": 160
+ },
+ {
+  "name": "naming page_swap_lower",
+  "type": "raw",
+  "data": "work/gfx/naming_page_swap_lower.bin",
+  "addr": 8279960,
+  "orig_len": 160
+ },
+ {
+  "name": "naming page_swap_upper",
+  "type": "raw",
+  "data": "work/gfx/naming_page_swap_upper.bin",
+  "addr": 8280120,
+  "orig_len": 160
+ },
+ {
+  "name": "naming page_swap_frame",
+  "type": "raw",
+  "data": "work/gfx/naming_page_swap_frame.bin",
+  "addr": 8281240,
+  "orig_len": 640
  }
 ]

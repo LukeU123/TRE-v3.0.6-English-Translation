@@ -83,3 +83,14 @@ How the hack stores graphics: pokeemerald-expansion "smol" compression (tANS). t
 Reference English art: sparse clone of rh-hideout/pokeemerald-expansion graphics/ (in /home/claude/pex; re-clone if needed). The hack uses the same palette indices as the engine's PNGs, so they drop straight in.
 DONE: move type icons (sheet at 0x82a5e8, 26 icons, record at 0x97475c, tag 0x7532) -> 18 icons replaced with the engine's English art; ???, STELLR and the contest icons were already English.
 NEXT: the summary screen tiles (gSummaryScreen_Gfx, smol; find via the same scan, contains the PERFIL/HABILIDAD/OBJETO... headers) + the page tilemaps; the healthbox "PS" (hpbar.4bpp, uncompressed gHealthboxElementsGfxTable); the "Nv" glyph in the latin fonts (uncompressed latfont, find by matching unchanged glyphs from pex/graphics/fonts); the PC storage buttons; the naming screen.
+
+## GRAPHICS PASS: done 23 Nov (late)
+All the graphics on the list are replaced with the engine's own English art (same palette indices, same layout). Applied by build.py from work/gfx/patches.json:
+- type icons (smol sheet 0x82a5e8 -> LZ77 at 0x1F00000, record 0x97475c)
+- battle HP label "PS" -> "HP" (uncompressed hpbar tiles 1-2 at 0x8b131c)
+- "Nv" -> "Lv": glyphs 0x34 and 0x105 in latin_normal (0x7a78d4), latin_small (0x7bfed4), latin_short (0x7afad4)
+- summary screen tileset (smol 0x7effe4 -> LZ77 at 0x1F01000, ref 0x1875f4): PROFILE/ABILITY/ITEM/RIBBON/STATS/EXP./MOVES/EFFECT/DESCRIPTION/TRAINER MEMO
+- PC storage menu (smol 0x7f0764 -> LZ77 at 0x1F02000, ref 0x18159c): PKMN DATA / PARTY POKéMON / CANCEL / CLOSE BOX
+- naming screen (uncompressed): BACK / B BUTTON button (0x7e5ab8), others/lower/UPPER labels, SELECT frame (0x7e5c98)
+- 18 text lines with button-icon codes (F8): naming header "CHOOSE OK BACK", Rocket Timeline help, difficulty descriptions, etc. (308_button_text.txt)
+None of this has been tested in-game yet. LZ77 repacking relies on the engine's DecompressDataWithHeader accepting MODE_LZ77; if a screen shows garbage, that graphic needs smol re-encoding instead.

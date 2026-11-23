@@ -239,12 +239,12 @@
 955028|A quick, spinning\nkick.
 9550e8|A tremendous stomp.\n30% chance to flinch.
 9a05fd|  Symbol
-9be13f|         It takes this form when it lives in a\nvery pricey teapot. Amateurs can't tell\nit from a much cheaper one, though\nthere's no comparison.
+9be13f|         It takes this form when living in\na very pricey teapot. Amateurs can't tell\nit from a much cheaper one, though\nthere's no comparison.
 9be818|It wanders with a coin on its back.\nTo survive, it drains the life force\nof those who stoop to pick it up.
 9be8bc|The chest it was born in is roughly\n1,500 years old. It drains the life\nenergy of scoundrels who try to take\nits treasure.
 9bf73c|It's said to be the reincarnation of a\nstray dog Pokémon that died without\never having contact with humans.
 9c014c|It rolls its mud ball to build up\nenergy until it reaches the level\nneeded for evolution.
-9c0590|It rolls across the wastelands at the\nwind's mercy, with no idea where it\nwill end up. It hates getting wet.
+9c0590|It rolls across wastelands at the\nwind's mercy, with no idea where it\nwill end up. It hates getting wet.
 9c113f|         The yeast in its breath is very\nuseful in cooking, so people have\ncared for this Pokémon for ages.
 9c12f0|They always travel in pairs. When they\nfind food, they split it into two\nidentical halves to share.
 9c13ec|It uses a martial art characterized\nby striking with its front paws while\nreleasing electric shocks at the\nsame time.

@@ -2,7 +2,7 @@
 
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
-**Status:** roughly half of the text is translated (about 17,000 strings), covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
+**Status:** about 20,000 strings translated, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
 **Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
 
 ## Progress
@@ -17,15 +17,17 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 - [x] Story and map dialogue, chunks c00–c18: the Kanto arc, Silph Co., the Elite Four, the Sevii Islands, the Johto conferences, the Radio Tower and Ecruteak
 
 ### In progress
-- [ ] Chunks c19–c25 (partly translated, see `chunk_status.txt`)
+- [x] Chunks c19–c21 and c25
+- [x] Speaker name boxes, ability names, the title menu and the recruit lines
+- [ ] Chunks c22–c24 and c26–c29 (partly translated, see `chunk_status.txt`)
 - [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
 
 ### To do
-- [ ] Chunks c23 and c26–c32: the rest of the Johto, DLC and Hoenn story
+- [ ] Chunks c30–c32: the rest of the story
 - [ ] Chunks c36–c38: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
-- [ ] Strings the extractor missed (title menu "Opciones", "¡¡RECLUTA N.º 2!!", the ability name table, the speaker name box "ATLAS" → ARCHER)
+- [ ] Any other strings the extractor missed (found during playtesting)
 - [ ] 27 strings to retranslate as full sentences (their pointers start mid-sentence)
-- [ ] **Fix the fast-forward stutter.** The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
+- [ ] Check the fast-forward stutter (it didn't happen on a later run). The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
 - [ ] Consistency pass over names and terms that differ between chunks (`REVIEW_NOTES.md`), using US spelling throughout
 - [ ] Full playtest
 - [ ] Out of scope for now: text drawn as graphics (naming-screen buttons, type icons)

@@ -264,3 +264,135 @@
 3d8aad|The MAGNETON evolutionary line has\na lot of potential.\pWe know MAGNEZONE exists, but we\nbelieve that's not this POKéMON's\ltrue ceiling.\pIn theory, its physiology allows it\nto generate discharges that would\llaugh at a ZAPDOS's.
 3d8bc8|The PORYGON evolutionary line is\nstill untapped; not being bound to\lour physical plane gives it many\ladvantages over other POKéMON.
 3d8c67|The secrecy of this place is sacred.\nIf it were made public, it would\llose its magic, its essence.\pBut you're well aware of that, right?
+3d8d0c|PORYGON-Z:\pHP: 85\nATTACK: 80\lDEFENSE: 70\lSP. ATK: 145\lSP. DEF: 75\lSPEED: 90\lTOTAL: 545\pTYPE: NORMAL\pABILITIES:\nADAPTABILITY/DOWNLOAD/ANALYTIC\pIt arose from a glitch while we\nwere seeking a PORYGON3 that would\lsqueeze every drop of PORYGON's\lpotential.\pPORYGON-Z turned out to have\noverwhelming offensive power; with\la BASE SPECIAL ATTACK of 145, it\lreigns as KANTO's highest-scoring\lNON-LEGENDARY in that stat.\pIt's surpassed only by MEWTWO,\nanother POKéMON created by science.
+3d8f0f|SHARPEDO:\pHP: 70\nATTACK: 140\lDEFENSE: 65\lSP. ATK: 95\lSP. DEF: 65\lSPEED: 105\lTOTAL: 540\pTYPE: WATER/DARK\pABILITIES:\nROUGH SKIN/SPEED BOOST\pThe terror of HOENN's seas, owner\nof the most powerful bite known,\lwith a devastating STAB CRUNCH.\lHOENN's wild waters forced\lSHARPEDO to adapt until it became\lone of the fiercest POKéMON of the\lsea.\pHighly prized and feared by\nevery sailor.
+3d90d6|CAMERUPT:\pHP: 70\nATTACK: 120\lDEFENSE: 100\lSP. ATK: 145\lSP. DEF: 95\lSPEED: 10\lTOTAL: 540\pTYPE: FIRE/GROUND\pABILITIES:\nSHEER FORCE/SOLID ROCK/ANGER POINT\pHOENN's beast of burden, with an\nATTACK-DEFENSE ratio unheard of\lhere in KANTO, paid for with a\lSPEED of only 10. The immense\lpower of its EARTH POWER and\lERUPTION is believed to have\lplayed a part in HOENN rising\lfrom the sea.
+3d9291|ETERNAL FLOWER FLOETTE:\pHP: 74\nATTACK: 65\lDEFENSE: 67\lSP. ATK: 125\lSP. DEF: 128\lSPEED: 92\lTOTAL: 551\pTYPE: FAIRY\pABILITIES:\nFLOWER VEIL/MAGIC GUARD/SYMBIOSIS\pA POKéMON of unique origin. Its\nTRAINER is believed to have\lbrought it back to life during the\lwar that ravaged KALOS. The means\lby which he supposedly achieved\lthis feat remain unknown to us.\pIts LIGHT OF RUIN is the most\npowerful FAIRY move known.
+3d9472|Someone like you should have access\nto the very latest in technology.\lThey say the PRESIDENT gave you a\lPORYGON, along with an UP-GRADE to\levolve it into PORYGON2.\pIf you want to go further, this\nitem is for you.
+3d955d|{V01} received a DUBIOUS DISC\nfrom the SCIENTIST!
+3d958c|With the DUBIOUS DISC, you can evolve\nPORYGON2 into PORYGON-Z, a version\lsomewhat more vulnerable to attacks,\lbut with extraordinary offense.
+3d9620|A special key is required.
+3d9643|Use the SILPH B3 KEY?
+3d97f4|A special key is required.
+3d9817|Go to the BASE's 2F?
+3d984b|WAILORD:\pHP: 170\nATTACK: 90\lDEFENSE: 90\lSP. ATK: 90\lSP. DEF: 90\lSPEED: 20\lTOTAL: 550\pTYPE: WATER\pABILITIES:\nWATER VEIL/OBLIVIOUS/PRESSURE\pIt's HOENN's SNORLAX, which it\nsurpasses in HP, in the balance\lbetween its two defenses and in\luseful STATS.\pEven slower than SNORLAX, its\noffensive power is somewhat lower,\ldespite having good options on\lboth the physical and special side.\pIts immense HP make it the best\nuser of WATER SPOUT.\pIt shares a strange kinship with\nRELICANTH and with HOENN's origins.\lIt's believed that because of this,\land its life beneath HOENN's\ltrenches, it can learn the\lsignature moves of KYOGRE and\lGROUDON.
+3d9b24|…\n…\l-He's completely absorbed in\lthe task at hand-.
+3d9b72|"From great athletes they became\nGreek gods and, in the end, they\lwound up as pitiful failed\lexperiments."\p{C080A}…{C080A} …{C080A} …{C080A} …{C080A} …{C080A}\pHow far is it viable to boost\nperformance at any cost by\lsacrificing everything else?\pMaybe something so far removed\nfrom nature stops being inspiring\lfor exactly that reason: it's so\lpacked with everything that it\lcan't serve as inspiration or an\lexample to anyone.\pLikewise, how would we look at\na POKéMON with a base of 150 in\levery stat?\pPerhaps, far from admirable, it\nwould be so far beyond our\lparameters and possibilities that\lwe'd lose interest in it.
+3d9e06|According to our latest research,\nthe current revival technique isn't\l100% faithful to how FOSSILS were\lin the wild.\pEspecially AERODACTYL's, which is\nestimated to have been even\lstronger and deadlier.
+3d9f3c|SCHOOL WISHIWASHI:
+3d9f64|PORYGON3:\pHP: 85\nATTACK: 75\lDEFENSE: 70\lSP. ATK: 155\lSP. DEF: 95\lSPEED: 135\lTOTAL: 615\pTYPE: NORMAL/GHOST\pABILITIES:\nADAPTABILITY/LEVITATE/ANALYTIC\pAfter countless attempts, we've\nmanaged to optimize 99% of the\lmaximum potential attainable from\lthe original PORYGON's base.\lPORYGON3 achieved the impossible:\lbreaking the BASE SP. ATK barrier\lof 154 set by MEWTWO by a single\lpoint, while also beating it in\lSPEED, giving it unprecedented\loverall offense. Such destructive\lpower was impossible to sustain\lwithout sacrificing its physical\ldefense, which inevitably fell\lto a BASE of 70.
+3da32a|{C1906}You again?
+3da33b|{C1931}The PRESIDENT warned us that a\nROCKET might soon pay a little\lvisit to this privileged place. I\ldon't know why I'm surprised that\lyou're the one they sent.
+3da3e5|{C1931}As you can see, ADMIN, you're\nnot the only one who's managed to\lclimb the ladder. My vast knowledge\land obsession with FOSSILS caught\lSILPH's attention, which, together\lwith BILL's recommendation, put me\lin the best place to study them in\ldepth: right here.
+3da4ff|{C1931}Now that I've reached my goal, I\ncouldn't care less what you're up to.\pI just need time to advance my\ntheories and research.\pHowever{C080F}…{C080F}
+3da5a6|{C1931}It's not every day I get the\nchance to battle you, the one who\lfinally managed to defeat LANCE.\pWell… turns out I didn't lose to\njust anybody. Though to the public,\lto the masses, you still are{C080F}…{C080F}
+3da67f|{C1931}But that's not the case here.\pI know who you are, and I know\nhow far you've come{C080F}…{C080F}\pThat's exactly why{C080F}…{C080F}\pYou're going to help me keep\nexploring the limits of this world!
+3da722|Why is your level so high?\nEven you don't know the reason!
+3da760|{C1931}Ha!\nNothing's changed after all!\lYou're still unbeatable.\pAnyway, my research is far from\nfinished.
+3da7e2|{C1931}Now that I have AERODACTYL and the\nother known FOSSILS of KANTO and\lHOENN, it's time to expand what we\lknow about them today.\pThat's why SILPH hired me.
+3da888|{C1931}If my theories are right, the\ntrue potential of FOSSILS is far\lfrom what we see today. Long ago,\lin the wild, they were much\lfiercer and deadlier.\pDuring the revival process, they\nlose their primal instincts.
+3da97f|{C1931}I'll try to prove it from here.\pAs long as you don't get in the\nway of my search, you can do as\lyou like.\pWe understand each other, right?
+3dac4c|{C1921}So you're after the\nESSENCE POKéMON.\pAm I wrong, {V01}?
+3dac88|{C1921}When you beat me at SILPH, you\ntaught me a real lesson.\pI have to admit it.
+3dacd7|{C1921}You proved that a ROCKET, however\nROCKET they may be, can end up\lwith a great team.\pI underestimated what ordinary\nPOKéMON could achieve if they're\lwell trained.
+3dad88|{C1921}And in the end, you took that\nprinciple to the extreme, at the\lPOKéMON LEAGUE.
+3dadcb|{C1921}Your actions freed KANTO from the\ninvisible yoke LANCE had placed on\lits people, but you also put an end\lto a whole string of privileges\lthat I enjoyed.
+3dae72|{C1921}Luckily, I always got along with\nSILPH, so they put me in charge of\lone of their most important\lprojects. Something I was going to\ltry on my own anyway: unlocking the\lmaximum attainable potential of\lPORYGON.
+3daf6f|{C1921}That's not to say I'm done with\nmy days as a collector.\pBut KANTO's{C0819}…{C0819} old news.
+3db04f|the entire DRATINI\lline at my disposal{C080F}…{C080F}
+3db08a|{C1921}All 149 POKéMON in my POKéDEX{C0819}…{C0819}\pOnly MEW, missing for nearly a\ndecade, still eludes me.\pIts whereabouts are so uncertain\nit's not even worth thinking about.
+3db149|{C1921}The mysterious POKéMON you're\nhere for?
+3db18c|{C1921}Do you really think that if I saw\neven the slightest chance such a\lPOKéMON existed, I wouldn't be out\lthere trying to find it?
+3db219|{C1921}I've read the documents about\nthat fabrication, and I've seen\lfor myself that none of what they\lsay exists.
+3db299|{C1921}I've already scoured LAVENDER\nTOWN and talked to everyone, and\lthere's not the slightest trace or\lmention of it.
+3db2fd|{C1921}You know what I think?\pThat it was written by fanatics,\nmore as an act of faith than of\lreal empirical knowledge.
+3db36c|{C1921}Don't believe me?
+3db37d|{C1921}Those documents are right there,\nat the end of my desk.\pSee for yourself.
+3db3ec|{C1921}I just told you I'm working on\nnew PORYGON prototypes, and you\lcan't even be bothered to ask me\labout it?\pDo you dislike me that much?\pCome on. I know we've had our\ndifferences, but I can also\lappreciate a good TRAINER.
+3db4e9|{C1921}Someone like you must be dying\nto know more about it.
+3db52c|{C1921}Not to read boring fairy tales!
+3db555|{C1921}For your information, we managed\nto top DRAGONITE's base power,\lthanks to a final PORYGON upgrade.
+3db5c9|{C1921}That's right. By following the\nPORYGON2 evolutionary line instead\lof the corrupt PORYGON-Z line.\pThe offense that POKéMON reached\nis unmatched in all of KANTO.\pThat's what this is about, right,\n{V01}?\pCold, hard numbers, not stupid\nsuperstitions about POKéMON that\ldon't even exist.
+3db6e4|{C1921}Also, by the latest estimates, the\noverall power of my current team has\lalready surpassed the team LANCE used\lto bring KANTO to its knees; the same\lone you faced beyond the doors of the\lHALL OF FAME.\pThe question is{C0819}…{C0819}\pCould this team, the latest in\ntechnology, also topple the\lgreatest example of hard\ltraining?!
+3db83f|Impressive. I have to admit,\nyou're made of different stuff.
+3db87f|{C1921}Not even in my wildest dreams did I\nimagine I'd see something like PORYGON3.\pIt's{C0819}…{C0819} almost perfect.\p4 immunities, monstrous offense, great\nSPEED{C080F}…{C080F} if it weren't for its\lphysical DEFENSE{C080F}…{C080F} it would be perfect.
+3db95a|{C1921}Luckily, PORYGON can still be\noptimized a little more.\pThat said, I sense we've already\nreached the point where the gains\lwill be pretty negligible. All\lthat's left is to push that curve\la bit higher before the gains drop\lbelow 0.01%.\pThe law of diminishing\nreturns is harsh!
+3dba86|{C1921}Anyway… back to work. With no new\nPOKéMON to add to my collection,\lthis project excites me.\pIf you can't get any more rare and\npowerful POKéMON, what better than\lto start creating them yourself?
+3dbc3b|-THE LEGEND OF THE ESSENCE POKéMON,\nTHE ONE WHO GIVES KANTO MEANING-\l{C080F}…{C080F} …{C080F}\l{C080F}…{C080F} …{C080F}\p"It is no mere coincidence that\nLAVENDER TOWN and its POKéMON TOWER\lwere founded south of ROCK TUNNEL;\lit was there that its first settlers\lmanaged to make contact with the\l-ESSENCE POKéMON-."
+3dbd54|{C080F}…{C080F} …{C080F}\p"Unlike all other POKéMON, it has\nno defined form, and may appear\lanywhere and in any way; its\lpresence is such that it takes an\lactive part in every one of the\lelements that make up and shape\lKANTO…"\p{C080F}…{C080F} …{C080F}\p"…in every good or bad deed, every\nmoment of calm or enlightenment, the\lESSENCE POKéMON will be there,\lwatching events unfold, attentive\lto that moment of uncertainty\lbefore action{C080F}…{C080F} when anything\lis possible{C080F}…{C080F}"
+3dbf4c|Keep reading?
+3dbf5d|"A being of such a nature,\nomnipresent and, to some,\lomnipotent, cannot be classified by\lthe parameters that govern other\lPOKéMON; the mere act of\lcategorizing it would automatically\lreduce the true complexity of\lsuch a being…"\p{C080F}…{C080F} …{C080F}\p"…nevertheless, those first\ninhabitants of LAVENDER TOWN reached\lsuch a degree of spirituality that\lthey eventually managed to commune\lwith -THE ESSENCE POKéMON-…"\p"…and so, a cult was founded\naround its being…"
+3dc148|{C080F}…{C080F} …{C080F}\p"…enlightened by its wisdom, they\nlost all attachment to the material\lworld, and with it, all contact with\lthe rest of KANTO's people…"\p{C080F}…{C080F} …{C080F}\p"…to the point that, as generations\npassed, no one now lives who\lremembers that such a cult existed…"
+3dc269|"…much less to prove the legend\nof the -ESSENCE POKéMON-…"\p{C080F}…{C080F} …{C080F}\p"…were it true, and were such a cult\nto exist, that place would remain\lhidden in some corner of LAVENDER\lTOWN{C0805}…{C0805}"
+3dc32b|SILPH CO. PRIVATE ARCHIVES\nB3
+3dc359|SILPH CO. PRIVATE ARCHIVES\nB2
+3dc387|SILPH CO. PRIVATE ARCHIVES\nB1
+3dc3b5|SILPH CO. PRIVATE LIBRARY
+3dc497|There's a common pattern among the\ngreat civilizations of our world.
+3dc4de|Analyzing ruins from many regions,\nall of them date back 3,000 years.
+3dc530|Very little information has reached\nKANTO about what might have happened.\pThere are many theories.\pThere's talk of a POKéMON appearing,\na -ROYAL POKéMON-, able to forge\lentire regions at will.
+3dc5f4|Its silhouette appears in many\nancient illustrations, beside kings\lof great empires of the past.
+3dc65a|Tell me, do you know which\nPOKéMON I mean?
+3dc681|It's normal not to know.\nIt's an extremely rare POKéMON.
+3dc6ba|Oh, that's the one!\pIt's just like the old carvings!
+3dc6f0|If the ROYAL SWORD has chosen you,\nyou've got what it takes to make\lhistory.
+3dc742|So you deserve this, too.
+3dc766|PYROAR is another REGAL POKéMON.\pWith this MEGA STONE, it'll make\nARCANINE look like a second-rate\lPOKéMON.
+3dc7e9|This place is a great source of\nknowledge, and that makes it a\lsource of power.\pThat's why it's called "SILPH CO.\nPRIVATE LIBRARY" and not "SAFFRON\lCITY PUBLIC LIBRARY."
+3dc8e1|This place was reduced to rubble\nafter MEWTWO escaped.\pMuch was lost, but the greatness\nof what happened here lives on in\lour minds.
+3dc991|Nothing withstands the passage of\ntime.\pIn 3 years, this place probably\nwon't exist.\pWhat's more… all of CINNABAR ISLAND\ncould be swallowed up by its\lvolcano, but none of that can undo\lwhat happened here.\pWe've already earned our place\nin history.
+3dcaa0|If they don't finish you off, you\ncan recover from the hardest\lblows and come back even stronger\lthan before.\pThe way we've kept this project\ngoing despite all the problems\lis proof of that.\pNo one, least of all you, can\nreverse that fact.
+3dce27|{C190F}So it was you.
+3dce3d|{C190F}If it weren't for you, everything\nwould be different now. The plan to\lretake KANTO was perfect.
+3dce99|{C190F}But you insisted on doing\nsomething no one expected, at the\lworst possible moment.
+3dceec|{C190F}Now here we are, shut away. Fleeing\nthe very region we were going to save.
+3dcf3e|{C190F}At heart, we wanted exactly the\nsame thing, but only one can win.\pRight?
+3dcf91|{C190F}If that's how it must be, we'll\nface you.
+3dcfb8|{C190F}These past months, my grandfather\nhas reaped the fruits of years of work.\pA new era is coming.
+3dd023|{C190F}You'll see it for yourself!
+3dd041|TAUROS-X was defeated?
+3dd05a|{C190F}Hmm… you didn't achieve what\nyou did for nothing.\pAn optimized clone alone\nwon't bring you down.
+3dd0b9|{C190F}There's something in that I like…\nsomehow you stand up for the past, the\lold, the authentic{C080F}…{C080F} by doing it.
+3dd129|{C190F}My brother was too young, but I\nstill remember the last duels your\lBOSS and my grandfather fought.\pBefore everything blew up.
+3dd1b6|{C190F}They were magnificent for their\ntime, you know? They squeezed every\lbit out of what the original 150\lhad to offer.
+3dd222|{C190F}And in the end, each tried to\nsave the region in their own way.
+3dd25e|{C190F}My grandfather from the inside,\nand GIOVANNI from the outside.
+3dd291|{C190F}You think he betrayed him?
+3dd2ad|{C190F}Hmm{C080F}…{C080F}\pYou know nothing, {V01}.
+3dd2ce|{C190F}Pinning the blame on GIOVANNI was\nthe only possible way out.\pDon't you get it?
+3dd324|{C190F}It was the only way LANCE would\ntrust one of the two: the only ones\lwith a real chance of retaking KANTO.
+3dd38b|{C190F}Besides.
+3dd396|{C190F}My grandfather knew GIOVANNI better\nthan anyone; he knew he'd have the\lstrength to carry on and the brains\lto draw up a new plan, an\lalternative to his own.
+3dd434|{C190F}He did what had to be done to keep\nKANTO's hopes alive, nothing more.\pCan't you see?!
+3dd4a2|{C190F}Deep down, your LEADER knows it.\pHe knows the real reasons.
+3dd4e9|{C190F}The truth is, their rivalry never\nended. OAK saved it, only{C080F}…{C080F}
+3dd535|{C190F}{C080F}…{C080F} now the competition was for\nsomething far greater than a title:\lthe fate of a region was at stake.
+3dd5ac|{C190F}Now that they've done it,\nnothing else matters.
+3dd5e1|{C190F}It all comes back down to who's\nthe best TRAINER.\pTell me, do you think it's you?
+3dd639|You got the MANSION B1 KEY!
+3dd656|{C190F}In that case, keep going.
+3dd677|{C190F}With his current team, no CHAMPION\nin the history of KANTO or JOHTO\lcould beat my grandfather.
+3dd6dc|{C190F}That was his childhood dream. Now\nthat he's achieved it, he'll want to\ltest his strength against the\lcurrent CHAMPION.
+3dd743|{C190F}Once I've beaten you all, things\nwill get back on track{C080F}…{C080F} at last.
+3dd817|Use the MANSION B1 KEY?
+3dd83a|A special key is required.
+3dd8de|{V01} received a PIKACHU!
+3dd8f5|This doesn't look like a normal\nPIKACHU.
+3dd917|It gives off more energy and vigor,\nand a halo of electricity covers\lits whole body.
+3dd968|Do you want to take it?
+3dd9f0|It looks like a report written by\nOAK. Do you want to read it?
+3dda26|Having the best TRAINER doesn't\nguarantee victory if they don't\lhave the right POKéMON with them.
+3dda92|That's why RED will have a unique,\ndistinguishing resource, disguised\las the most mediocre, conventional\lPOKéMON imaginable:\lPIKACHU.
+3ddb2b|Keep reading?
+3ddb3c|DEVON created METAGROSS, SILPH\nPORYGON… and now technology has\lallowed me to create two PIKACHU\lclones, with traits so unusual\lthat they're worth analyzing.
+3ddbf0|This PIKACHU's data is as follows:
+3ddc0e|HP: 45\nATTACK: 80\lDEFENSE: 50\lSP. ATK: 75\lSP. DEF: 60\lSPEED: 120\lTOTAL: 430\pTYPE: ELECTRIC\pABILITY: GALVANIZE
+3ddc91|While that's nothing special overall,\nthe implications of giving it a\lLIGHT BALL are huge, turning its\lBASE ATTACK of 80 into a potential\l205.
+3ddd30|This, combined with GALVANIZE, will\nlet it strike with FAKE OUT and\lEXTREME SPEED with fiendish speed\land power; most battles will be\lover in the blink of an eye.\pTo top it off, its access to\nperfect coverage like FLYING PRESS\lor PLAY ROUGH gives it competitive\lvalue even greater than that of\lthe LEGENDARY BIRDS.
+3dde8e|Faced with such a spectacle, all of\nKANTO will see RED as a true MASTER.\pThe best of our era and the only one\nable to wield mediocre POKéMON with\ltotal mastery, so much so that he\lcan win the CHAMPIONSHIP with them,\las proof of his clear superiority.
+3ddf8f|Signed, OAK. October 7, 1996.
+3ddfc4|SAMUEL OAK\pKANTO CHAMPION TEAM\pYEAR: 1979
+3de0ef|TAUROS-X:\pHP: 75\nATTACK: 155\lDEFENSE: 150\lSP. ATK: 30\lSP. DEF: 90\lSPEED: 90\lTOTAL: 590\pTYPE: ROCK/NORMAL\pABILITIES:\nRECKLESS/SOLID ROCK/ROCK HEAD\pWe managed to amplify the wild\ncharging power of the TAUROS that\llives in KANTO. We found that its\lSPEED and NORMAL TYPE were the\lmain limits on developing all the\lstrength and toughness its body\lcould bear. As soon as we managed\lto reduce its speed while\limplanting the RHYDON genes\lresponsible for its ROCK TYPE, its\lphysical ability soared to\lunthinkable levels.\pAnything it hits with HEAD SMASH\nor HEAD CHARGE is ground to dust.
+3de371|MAGMORTAR-Y:\pHP: 75\nATTACK: 95\lDEFENSE: 97\lSP. ATK: 165\lSP. DEF: 105\lSPEED: 103\lTOTAL: 640\pTYPE: FIRE\pABILITIES:\nFLAME BODY/NO GUARD/MEGA LAUNCHER\pBLAINE's belief that MAGMAR was the\nFIRE-TYPE POKéMON with the greatest\lspecial potential in all of KANTO,\lahead of MOLTRES, has been more\lthan proven. MAGMORTAR-Y's flames\lwill make the LEGENDARY's look\lmediocre, and on top of that it\lhas more speed and better\lbulk than the MAGMAR\levolutionary line.\pEvery target its enormous cannons\naim at will be hit without any\lchance of missing.
+3de5d2|DEOXYS DEFENSE:\pHP: 100\nATTACK: 20\lDEFENSE: 160\lSP. ATK: 70\lSP. DEF: 160\lSPEED: 90\lTOTAL: 600\pTYPE: PSYCHIC\pABILITIES:\nMAGIC BOUNCE/PRESSURE\pWe consider its genetic makeup,\nthe product of a mutation, a\lmiracle of nature, a miracle that\lhas given its DEFENSE FORME the\lgreatest resistance to attacks\lknown to date.\pIts MAGIC BOUNCE forces foes to\nbreak through its defenses with\lbrute force.
+3de78d|DEOXYS ATTACK:\pHP: 100\nATTACK: 70\lDEFENSE: 50\lSP. ATK: 180\lSP. DEF: 50\lSPEED: 150\lTOTAL: 600\pTYPE: PSYCHIC\pABILITIES:\nMAGIC GUARD/PRESSURE\pWe consider its genetic makeup,\nthe product of a mutation, a\lmiracle of nature, a miracle that\lhas given its ATTACK FORME the\lhighest SPECIAL ATTACK known to\ldate; PSYCHIC powers that exceed\leven those of MEWTWO himself.

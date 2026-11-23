@@ -356,3 +356,122 @@
 3ecbed|{C192C}Don't go crazy now, {V01}.\pOf course it's not the real\nMEW, ho ho ho!
 3ecc43|{C192C}As thanks for building the\nCEMETERY, GIOVANNI gave me this\lclone.
 3ecc98|{C192C}With MEWTWO as an option, cloning\nMEW doesn't make much sense.
+3ecce0|{C192C}But GIOVANNI knew that, to me, MEW's\nsymbolic and sentimental value\lweighed far more than any competitive\lvalue MEWTWO might have.
+3ecd6f|{C192C}Having this clone has brought back\nfond memories of the past. But a\lPOKéMON like this is happiest when\lit's out having adventures.
+3ecdef|{C192C}It would be a sin for me to keep\nthis MEW caged up in LAVENDER TOWN.\pEven if it's a copy, the original\nwould agree with me…
+3ece7c|{C192C}A TRAINER like you, who appreciates\nall kinds of POKéMON, can take\lcare of this legend.
+3ecee6|{C192C}And now, what?\pAll that's left is to watch all the\nseeds I've planted over the years\lsprout green shoots.\pHo ho ho!
+3ecf6f|The CEMETERY was built in record\ntime{C0819}…{C0819} Something tells me FUJI\lknew what would happen to the\lPOKéMON TOWER long before any of us.\pEither way, let's hope this finally\nbrings lasting peace to this place.
+3ed068|The RADIO TOWER is the town's new\nimage. The graves, on the other hand,\lnow stay hidden. Maybe that was the\ltrue intention from the very start.
+3ed10e|Most of the graves that were moved\nbelong to forgotten souls nobody has\lvisited in a long time. Even so, FUJI\lmoved every last one. He feels he\lowes it to the town, but{C0819}…{C0819} the truth\lis very few will visit this CEMETERY\lfrom now on. Its fate is to remain\lin the shadows.
+3ed25f|Some CHANNELERS have followed the same\npath as AGATHA: retreating into a\lcontemplative life. Thanks to FUJI,\lmany of us will stay in LAVENDER\lTOWN.
+3ed313|Only arranged visits will be allowed\nfrom now on. Most passersby won't know\lthis place exists. They'll think all\lthose graves just vanished into thin\lair. Well, they're right here!
+3ed3f1|You're the ROCKET FUJI talked about\nso much. That's right, I remember you.
+3ed444|Welcome, {V01}, to the new\nLAVENDER TOWN CEMETERY!\pFUJI told me you'd be coming.\nYou're a real legend here.
+3ed694|{C190A}Don't worry, I'll take care of it.
+3ed6ca|{C190A}Oh, sir! I didn't expect to see you\nhere.
+3ed6f5|{C190A}I doubt you remember me. I was there\non your POKéMON TOWER mission.\pIf it weren't for you, FUJI would've\ngiven us a really hard time.
+3ed781|{C190A}The truth is, we did something awful\nthere. At the time we didn't realize\lit. Anything went because we were\l-TEAM ROCKET-, and we played the role\lsociety expected of us, but not the\lone the organization itself instilled\lfrom within.
+3ed87a|{C190A}Shortly after, GIOVANNI posted us\nhere as punishment.
+3ed8b3|{C190A}We were made to help build this\ngreat CEMETERY, stripped of our pay\land living on charity. With nothing\lin return, only a vague promise of\lredemption kept us going.
+3ed98a|{C190A}My other two partners quit soon\nafter. I was the only one who stuck\lit out, and now I can proudly say my\lrole in building this CEMETERY was\lkey.\pGIOVANNI promoted me to\nHIGH RANK for it.
+3eda6f|{C190A}If it weren't for that second chance,\nwho knows where I'd be now?
+3edaba|{C190A}I'm grateful to you too. I'd like\nto give you this TM I found during\lthe construction.
+3edb22|{V01} received TM105 SNARL\nfrom the Rocket High Rank!!
+3edb5f|{C190A}It's an honor to have you here. I\nhope to see you more often now that\lLAVENDER TOWN has become one of our\lcenters of operations.\pYou know what I mean.
+3edc1c|REST HALL FOR\nFORMER CHAMPIONS
+3edc58|TEAM AS KANTO CHAMPION\nYEAR: 1921
+3edcc0|TEAM AS KANTO CHAMPION\nYEAR: 1885
+3edd2b|TEAM AS KANTO CHAMPION\nYEAR: 1909
+3edd94|TEAM AS KANTO CHAMPION\nYEAR: 1933
+3eddfa|TEAM AS KANTO CHAMPION\nYEAR: 1897
+3ede5d|Greatness isn't measured by years\nlived or by success. It's measured by\lthe intensity with which you face\lyour destiny.
+3edeec|Look at all these CHAMPIONS… they\nonly held the title for a time, yet\lhere they remain, carved in stone,\lchampions forever.
+3ee1b2|{C1906}I was only 10, but I remember it\nlike it was yesterday.
+3ee1ee|{C1949}How it rolled, how it glided along\nwith impossible SPEED…
+3ee22d|{C1949}And how it shook the earth more than\nany RHYDON I've ever seen. It was\lmagnificent!
+3ee28b|{C191E}Amazing, yes.\nThank you for your account.
+3ee2bb|{C191E}Oh! You're…
+3ee2cc|{C191E}That challenger. I still remember\nyou.
+3ee2f1|{C191E}It's been 2 years, hasn't it? So much\nhas changed in so little time.
+3ee32a|{C191E}Not just LAVENDER TOWN, SAFFRON CITY\ntoo.
+3ee35d|{C191E}SILPH HQ has become far more\nsecretive. And though it never meant\lto be, that place was one of the\lcity's main attractions.
+3ee3f0|{C191E}Now, anyone who visits SAFFRON will\nfind it somewhat… empty, without the\llife it once had, despite being more\lconnected than ever.
+3ee474|{C191E}And the MAGNET TRAIN has changed\neverything.\pWhat used to take days now takes\nno more than a few minutes.
+3ee4d8|{C191E}History is speeding up, so much that\nit's outpacing my ability to predict\lthe future. I've never seen KANTO's\lfuture so blurry.
+3ee577|{C191E}That's why I came here. Perhaps, by\nlistening to the faint echo of the\lold champions, I'll find answers.
+3ee5e4|{C191E}Look at them… They all keep their\nglory intact, no matter how much our\lworld may change.\pWhen I look at them, I feel{C0819}…{C0819} I feel\nI've been missing something crucial\lmy whole life.
+3ee6b0|{C191E}Tell me, do you think they were\nbetter than us?
+3ee6e1|{C191E}I have my doubts. The old man I was\ntalking to earlier saw one of these\lCHAMPIONS when he was a child.
+3ee757|{C191E}A former PEWTER CITY GYM LEADER.
+3ee77f|{C191E}He stayed unbeaten all the way to\nbecoming CHAMPION, using GROUND-type\lPOKéMON.\pAll this in the early 20th century.
+3ee7f6|{C191E}The odd thing is that the records\nlist his star POKéMON as…\pELECTRODE.
+3ee84f|{C191E}That's right, and the old man's\naccount matches it.
+3ee889|{C191E}True or not, the aura of mystery\naround these champions is fascinating.
+3ee8d8|{C191E}Today everything is faithfully\ndocumented, in what looks like an\lendless, sterile race to see who can\lpad out the best stats.\pIt'll never be enough.
+3ee976|{C191E}Long ago, training was an art you\npursued for yourself. That same\lintrospection went hand in hand with\llittle interest in keeping records.
+3ee9ff|{C191E}The universe and one's own conscience\nwere the only judges.
+3eea3e|{C191E}What was, was, and the "essence" had\nalready borne witness to it.\pWhat better record than that?
+3eea9d|{C191E}Maybe it's better this way, right?\pMaybe we've already surpassed\nall these legends. Maybe we're\lidealizing the past{C0819}…{C0819} or maybe\lthey knew something we don't.
+3eeb57|Religion is not so much about telling\nman there is a God as about keeping\lman from thinking he is God.
+3eebd3|Men destroy one another in war, and\ndestroy themselves in times of\lpeace.
+3eec40|Anger is an acid that does more harm\nto the vessel in which it is stored\lthan to anything on which it is poured.
+3eecb5|I never thought I'd live to see the\nPOKéMON TOWER fall. Soon I'll join\lall these souls who once walked\lthe earth, just like us.\pI only hope to enjoy the time\nI have left.
+3eed79|Do you think this place will manage\nto keep the original essence of the\lPOKEMON TOWER?
+3eedd3|We shouldn't expect happiness. It's\nnot something we deserve. When life\lgoes well, it's an unexpected gift.\lIt can't last forever.
+3ef07a|{C1906}Just like the POKéMON TOWER{C0805}…{C0805}
+3ef0a0|{C1908}{V01}. You being in LAVENDER\nTOWN doesn't surprise me. You\lbeing in this exact spot does.
+3ef0fa|{C1908}The important stuff happens in the new\nRADIO TOWER now, doesn't it? What can\lthis place offer someone like you?\pDon't you have meetings and events\nto attend there?
+3ef1a5|{C1908}I see. A year ago I'd have gone with\nyou without a second thought. Now my\lpriorities are different, though{C0805}…{C0805}
+3ef20c|{C1908}It's been a long time since we met\nlike this, face to face. Your travels\lin JOHTO must've made you much\lstronger.
+3ef277|{C1908}I'm curious{C0819}…{C0819} to see how far you've\ncome. Show me!
+3ef2c2|Ha! Just as I feared!
+3ef2da|{C1908}I can barely recognize that lively,\nenergetic GOLBAT. So elusive and full\lof potential even back then, when we\lboth started our journeys. Nobody\lwould believe this mighty CROBAT-&\lwas once a ZUBAT.
+3ef3b8|{C1908}I feel lucky to have been part of\nthe same generation as you, {V01}.\lYou and ANDRA are great TRAINERS,\linsatiable ones.
+3ef42f|{C1908}My ambition to be the best ended the\nmoment you proved RED wasn't, as\lyou know.
+3ef497|{C1908}Like my grandpa, studying POKéMON\nappeals to me more than battling\litself. If I can help you all run\lthe VIRIDIAN CITY GYM meanwhile, it'll\lbe best for everyone.
+3ef545|{C1908}Watch your step, {V01}. Something\ntells me that in modern times, a\lpassion for POKéMON battles alone\lisn't enough to stand out.
+3ef5d4|{C1908}In my own way, I'll keep living\nmoments like this, just like you,\lthough maybe less intensely.
+3ef6e4|{C192C}Ah, {V01}. What do you think?\pDo you think this place is a worthy\nreplacement for the POKéMON TOWER?\pIt wasn't easy to build.
+3ef75b|{C192C}As you'll have noticed, this place\nis somewhat unstable. It doesn't seem\lto be MAROWAK's spirit, you already\ldrove that away. It must be something\lolder{C0819}…{C0819} perhaps tied to the very\lcreation of the POKéMON TOWER{C0819}…{C0819}\pIt very likely saw its destruction\nas an affront to its rest.
+3ef889|{C192C}Right now the north area is out of\ncontrol. We've closed it off as a\lprecaution, but I'm afraid there's\lno choice but to force our way in\land defeat the spirit in a POKéMON\lbattle.
+3ef948|{C1937}Here's the KEY.\pGood luck.
+3ef96f|{C192C}I'll stay close to you,\n{V01}.
+3efd94|-An extremely strong energy is\nattacking you!-
+3efdcb|-The energy seems to have grown even\nmore agitated!-
+3efdfa|{C192C}That's enough! It wasn't our\ndecision for it to end like this!\pNo place lasts forever, not this\nCEMETERY, nor the POKéMON TOWER!
+3efe9a|-MEW soothed the spirit-
+3efeb5|{C192C}After so long.
+3efee9|{C192C}Do you think MEW is omnipresent\ntoo? Has it seen every single thing\lI've done since the MEWTWO affair?\lAll my struggling to soften the\lRADIO TOWER's effect on the essence\lof LAVENDER TOWN?
+3efff1|We can't avoid the inevitable, but we\ncan prepare so the inevitable doesn't\ldestroy us.
+3f0064|-There's a very strong energy behind\nthis door-.
+3f00d9|You fear everything like the mortals\nyou are, and desire everything as if\lyou were immortal.
+3f013b|AREA RESERVED FOR FORMER\nRESIDENTS OF LAVENDER TOWN
+3f0180|CONSPIRACY THEORY\nDISCUSSION ROOM
+3f01cf|The eruption of CINNABAR ISLAND's\nvolcano wasn't natural.
+3f0212|Lots of experiments were done on that\nisland. One got out of control and\lended up destroying the island.
+3f027d|Or worse, they let it be destroyed\nbecause it was part of a nuclear\ltest.
+3f02d5|Why do you think every resident was\nevacuated in time?
+3f0334|KANTO and JOHTO are now ruled from\nthe shadows, from the top of the\lGOLDENROD and LAVENDER RADIO TOWERS.
+3f03a1|That's why they won't let anyone up\nto the top floors.
+3f03df|The radio shows? Don't make me laugh.\nYou only need 2 floors for that. The\lother 8 are where all the big stuff\lgets cooked up.
+3f0473|There are lots of people in this room\nwho resent the changes of recent years.
+3f04bf|You shouldn't take everything they say\nliterally, though there's some truth\lin their words.
+3f053d|Many of those who used to live in\nLAVENDER TOWN ended up leaving, and\lmost of those who stayed now prefer\lto remain down here.
+3f05c2|In KANTO's eyes, it's as if they\nno longer exist, and to them,\lKANTO doesn't exist anymore either.
+3f0616|This place is the only thing that\nvaguely reminds them of the old\lLAVENDER TOWN and the ruined\lPOKéMON TOWER.
+3f069d|I don't miss anything from outside.\nDown here I have everything I need:\lcoffee, books and long walks around\lthe CEMETERY.
+3f071d|If I ever go back outside, I'll do\nit as a better person than when I\lcame in.
+3f076d|Until then, I'll stay within these\nwalls. Extending the progression of\lmy routine ad infinitum.
+3f07df|This TV is our only contact with\nthe outside world.\pI like to think it's still here\nbecause we haven't lost hope yet.
+3f0867|LANCE is nothing but a puppet pulled\nby the strings of KANTO's true\lmasters.
+3f08c7|After the KANTO war, the invention of\nthe POKéDEX and the claim that only\l150 species exist were nothing but\lmaneuvers to keep the population\ldocile and ignorant.
+3f0a22|I worked as a SCIENTIST for SILPH, in\na section trying to find the value\lof the basic unit of measurement of\la POKéMON's power.
+3f0aac|Do you want to hear my story?
+3f0ac6|We used BLISSEY and its HP as a\nmodel, but what we found left us\lfrozen.
+3f0b20|We were able to prove that BLISSEY\nreached 255 of these basic units of\lpower, and also that this was the\labsolute limit.
+3f0ba7|The implications are huge: from being\nable to understand our whole world\lthrough equations, to something far\lmore tragic: everything is\lpredetermined. We're nothing but\lendless chains of cause and effect.
+3f0c7d|To our eyes, their complexity is what\ngives us the illusion of chance, and\lof truly being active participants\lin the course of the world.
+3f0d0f|But no… that chance might be nothing\nmore than an unrecognized law. Not\leven our own brain chemistry, which\ldetermines our thoughts, could\lescape it.
+3f0dae|Words like willpower, morality or\nfree will would lose all meaning.\lEvery event would be orchestrated\lin advance.
+3f0e34|It's just a theory, but… even living\nin a completely deterministic world,\lit's our moral duty to act as if it\lweren't.

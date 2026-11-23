@@ -354,3 +354,117 @@
 3a886a|Sometimes truth is stranger than\nfiction. Not even the wildest\ltheories could imagine TEAM ROCKET\lworking in the RADIO TOWER in\lLAVENDER TOWN. Best of all, we used\lour own raid on SILPH as an excuse\lso nobody pokes their nose into the\lupper floors!
 3a899c|We're going to create a POKéMON so\npowerful every region will fear us.\lI know it's for defense against an\lattack, but{C0819}…{C0819} with a weapon like\lthat, we could invade any region!
 3a8a60|The downsides of change weigh more\nthan the upsides, creating a bias\lthat favors the status quo. That\ldidn't stop the fantastic feat of\lengineering you're standing on\lfrom becoming a reality.
+3a8b33|Everyone wants to live at the\nstate's expense. What they forget\lis that the state lives at\leveryone's expense.
+3a8bb3|The ones hit hardest by all this\nwere the CUBONE living in the old\ltower. Luckily, they've got ROCK\lTUNNEL to the north, a good\lhabitat to start over from scratch.
+3a8c6e|3F Efficiency & Performance
+3a8c94|-Once you get used to it, it's\nhard to give up. Better to stay\lhungry-.
+3a8e40|{C192C}Oh! You got here quickly,\n{V01}.
+3a8e64|{C192C}I'm supposed to be at the new\nCEMETERY. I have to relocate all\lthe graves. I wanted to take a look\laround here and compare the new\lplace with the old one.
+3a8f00|{C192C}The RADIO TOWER has kept the\noriginal measurements and floors of\lPOKéMON TOWER. Though only those of\lus working here will notice. Nobody\lelse can get past the first floor,\land for good reason{C0805}…{C0805}
+3a8fce|{C192C}BILL and ELM understand how it\nworks better. Apparently these\lradio waves track possible\lmutations, 99.9% of which harm a\lPOKéMON and its performance.\pHere, we'll select the remaining\n0.1%, the part that could be\luseful for boosting a POKéMON's\lpower{C0805}…{C0805}
+3a9102|{C192C}Matters like these are no longer\nmy concern. MEWTWO was enough.
+3a9151|{C192C}I only hope I can look after the\ndisplaced souls. At last I see\lglimpses of peace and quiet in\lLAVENDER TOWN.\pPerhaps this tower will bring an\nunexpected stability, even if most\lpeople don't know its purpose.
+3a9230|{C192C}It would mean a lot to me if you\nvisited the new CEMETERY, south of\ltown.
+3a9283|{C192C}BILL tells me there's still some\ntime before the opening. The truth\lis, I'd like you to do something\lfor me. I think you're the best\lperson for it.
+3a9314|{C192C}I'll be waiting at the CEMETERY,\nsouth of town. You can't miss it.
+3a9383|-I should see FUJI and the town's\nCEMETERY first-.
+3a93c6|There's a directory sign on the\nground floor showing what we\lsupposedly do on each floor.\pOf course, that sign is just a\nfront. If you want to see what\lreally goes on on each floor,\lcheck the signs from 1F up.
+3a94c3|No ordinary GRUNT has access to\nthe upper floors. You have to be\lat least HIGH RANK.
+3a982a|{C1903}It'll be revolutionary,\nno doubt about it.
+3a9854|{C1935}Ah, {V01}!\nYou're here.
+3a9870|{C1903}Good to see you here,\n{V01}.
+3a9891|{C1903}Maybe your mind couldn't quite\nbelieve it, but now your eyes see it\land confirm it: the RADIO TOWER has\lcome to LAVENDER TOWN.
+3a9917|{C1903}A new era in understanding how\nPOKéMON work is on the horizon.
+3a9964|{C1903}We were going to celebrate its\nopening on the roof, with a small\ldemonstration of our cutting-edge\lradio wave technology.
+3a99e9|{C1903}But the incident with the BIKERS\nhas upset those plans.
+3a9a2d|{C1903}The ceremony will go ahead, but\nonly for a select few.
+3a9a66|{C1903}You and ANDRA haven't seen this\nplace in full yet, so you'll\lattend the opening.
+3a9aca|{C1903}GIOVANNI, PETREL, KOGA and I will\nbe busy. We're meeting with the\lBIKERS at the SAFARI ZONE.
+3a9b2f|{C1903}We've agreed to adapt the place to\nnew conditions that have yet to be\lnegotiated.
+3a9b94|{C1903}Perhaps{C0819}…{C0819} we took it for granted\nthat this was the perfect KANTO,\lthe one everyone wanted.
+3a9bee|{C1903}Perhaps, from the top of this tower,\nor deep in our bases, it's harder\lfor us to see the reality down on\lthe street.
+3a9c78|{C1903}Even so, none of that cancels out a\nfundamental truth, more powerful\lthan any speculation.
+3a9cdb|{C1903}Progress is impossible without\nchange.
+3a9d03|{C1935}ARCHER is right. Everything\nwe've achieved here wouldn't have\lbeen possible without sacrifice.
+3a9d61|{C1935}Remember when we first met?\pYou'd just set foot in JOHTO for\nthe first time, and it was a\lpleasant morning on ROUTE 29.
+3a9dd9|{C1935}Even then, you already had a lot\nof experience under your belt.
+3a9e1a|{C1935}Despite that, you've kept on\ngrowing more and more.
+3a9e4f|{C1935}It's surprising, but{C0819}…{C0819} your progress\nas a TRAINER has matched that of\lall our breakthroughs.
+3a9ebe|{C1935}That day I gave you the MEGA\nBRACELET, remember? Back then, it\lwas the latest in technology.
+3a9f19|{C1935}Now, a little over a year later,\nI'm pleased to give you the latest\lcutting-edge tech once again.
+3a9f83|You obtained a Z-RING!
+3a9fa0|{C1935}It mimics the effects of a powerful\nartifact from a faraway region.\lWith it, you can use an amazing\lbattle mechanic.
+3aa02d|{C1935}I happen to know DEVON had already\nmanaged to synthesize it.
+3aa069|{C1935}With the Z-RING, and the matching\nZ-CRYSTAL held by your POKéMON,\lyou can unleash a move of\lexceptional power.
+3aa0fa|{C1935}On the floor above, you can buy\nall the elemental Z-Moves.
+3aa146|{C1935}From now on, it'll be a new\nvariable to take into account.
+3aa187|{C1935}Something{C080F}…{C080F} dangerous and\nunpredictable, able to open holes in\lmany teams we thought were solid.
+3aa200|{C1935}I just hope that{C0819}…{C0819} as you've done\nso far, you won't fall behind,\land that you'll be able to adapt.\pYou understand me, right?
+3aa291|True chaos makes no noise.
+3aa2be|I never trust someone who has no\nenemies.
+3aa2f9|The GASTLY and HAUNTER are in the\nsouthern cemetery now{C0819}…{C0819} You think\lsome moved somewhere else? The\lplot in VERMILION CITY? Maybe\lyou're right.
+3aa3a9|The greater the uncertainty, the\nmore valuable the option.
+3aa3f1|Ever higher, ever harder\nchallenges. How long can it last?
+3aa441|Tolerance will reach the point where\nintelligent people will be banned\lfrom speaking so as not to offend\lthe idiots.
+3aa4f5|4F Analysis & Investment
+3aa517|-There's an illusion of power that\nbreeds a certain madness inside you-.
+3aa690|Are you sure you want a GHOST?\nIt'll cost $3,000,000.
+3aa6c1|Are you sure you want a MASTER BALL?\nIt'll cost $300,000.
+3aa6f7|Are you sure you want a ROCKET STONE?\nIt'll cost $2,000,000.
+3aaaa1|Are you sure you want CRYOGONAL?\nIt'll cost $105,000.
+3aaad3|Are you sure you want CRAMORANT?\nIt'll cost $110,000.
+3aab05|Are you sure you want GIBLE?\nIt'll cost $175,000.
+3aab33|Are you sure you want GROOKEY?\nIt'll cost $80,000.
+3aab62|Are you sure you want FERROSEED?\nIt'll cost $60,000.
+3aab93|Are you sure you want TOXEL?\nIt'll cost $57,000.
+3aabc0|Are you sure you want WOOLOO?\nIt'll cost $40,000.
+3aabee|Are you sure you want ESPURR?\nIt'll cost $30,000.
+3aac1c|Welcome, sir.\pHow may I help you?
+3aac54|Come again anytime!
+3aac78|You don't have enough money!
+3aaca2|MEGA EVOLUTION raises a POKéMON's\nBASE STATS by 100. STRONG BOND\lraises them by 125, usually with a\lbetter spread too. With radio wave\lmodifications there's no limit.\lThey might rise by less than 100,\lbut we may be able to beat the\l+125 of STRONG BOND.
+3aadda|An idea starts to get interesting\nwhen you're afraid to take it to\lits logical conclusion.
+3aae3b|The difference between technology\nand slavery is that slaves are\lfully aware that they are not\lfree.
+3aaeb8|I heard we wanted to run some tests\non these waves at the LAKE OF RAGE\lin JOHTO. Could it be true?
+3aaf2a|5F Wave Optimization
+3aaf4a|-There are endless variations in\neach generation, all created by\lmutations-.
+3abc97|{C190E}Welcome, all our guests, to the\nopening of the RADIO TOWER. I'd\lhave liked to make this celebration\lsomething more{C0819}…{C0819} for the town. But,\las you know, this place's true\lpurpose isn't public knowledge.\pAfter years of disputes among\nourselves, we finally have all the\lresources needed to reach the\loptimum. Building this place is\lproof of that. ELM, please.
+3abe2c|{C1935}That's right, OAK. Here we keep\nour promise and broadcast to all\lof KANTO{C0819}…{C0819} on the first and\lsecond floors.
+3abe98|{C1935}The other floors, from the third\nto the tenth, are 100% devoted to\lboosting a POKéMON's performance\lby harnessing radio waves.
+3abf33|{C1935}Their effects can vary widely.
+3abf5b|{C1935}The vast majority lead to mutations\nthat are no use to us in battle.
+3abfaa|{C1935}Certain frequencies change the\ncolor of the exposed POKéMON,\lsomething that will surely please\lPOKéMANIACS who want to show off,\leven if it has no real\lapplication.
+3ac07a|{C1935}Here, of course, we're after\nsomething bigger: that tiny\lpercentage of mutations that\lbenefit a POKéMON, squeezing every\lpossible combination through which\lits potential as a species could\lreach its fullest.
+3ac172|{C1935}In these rooms we achieve a\nstatistically impossible combination,\lone that nature would only grant over\lthousands of years of evolution, to a\lspecies that had adapted in the best\lpossible way to boost its raw power.\pNo disruptors, no outside agents to\nspoil the efficiency of the process.
+3ac2bc|{C190E}NIDOKING-X, NIDOQUEEN-Y,\nPORYGON3{C0819}…{C0819} are examples of what\lprocesses like this have produced,\lthough not as efficient as the\lones ELM described here.
+3ac35d|{C1935}That's right. We now have the\nmeans to achieve maximum purity\lwhen it comes to prototypes.
+3ac3c7|{C190E}MEWTWO was an improvement of 80\nBASE STATS over MEW.\pRecently, MEGAS and conventional\nprototypes have given +100 over\lthe originals.\pSTRONG BOND gives +125{C0819}…{C0819}\pWhat can we expect from this\nnew technology, ELM?
+3ac4c5|{C1935}Clearly, we were already close to\nthe limit, where any significant\limprovement was practically a\lmirage.
+3ac552|{C1935}However, thanks to these processes,\nwe're confident we can raise the\ltarget POKéMON's initial power\lby 150 BASE STATS.
+3ac5dd|{C1935}We'll also be able to manipulate\nHP, a stat that until now only\lSTRONG BOND could modify.
+3ac64a|{C1921}That's how stingy nature is with\nits finest fruits. Here we'll only\lcreate POKéMON that could exist in\lthe wild, but never will, purely\las a matter of probability.
+3ac710|{C190E}Exactly, BILL.\pIt would take a miracle or two\nfor that to happen.
+3ac75f|{C1935}That concludes the presentation.\nLet's give a small demonstration\lof how it works. We just need to\lturn on the computer, and{C0805}…{C0805}
+3ac7e1|{C1906}Executives, gather all available\ninformation. Deal with ELM, BILL\land ANDRA. I'll handle OAK.
+3ac84d|{C1921}You! How could you?\pI rescued you when you had nothing,\ngave you a job at SILPH, and this\lis how you thank us!
+3ac8ba|{C1931}That's what you wanted, isn't it,\nBILL?\pFor me to bow to your orders. You\nthought I was destined to be <BILL's\lassistant> and nothing more.\pThose days are over.
+3ac94a|{C1931}All of you looked down on me.\nYou ignored the AERODACTYL MEGA\lSTONE that I created.
+3ac9ad|{C190E}BLAINE already drew out its\nprimal power without needing a\lMEGA STONE.
+3ac9f4|{C1931}And what about GENESECT? The\nother FOSSILS? You've overlooked\lall my research.
+3aca57|{C1931}Even you, {V01}, with that\ncondescending look you gave me at\lthe meeting in GOLDENROD CITY.\pYou think I'm not on your level?
+3acada|{C190E}That's enough. What is it you\nwant?
+3acb07|{C1931}To make DEVON the most powerful\ncorporation, and watch you all fall.\pYou have no idea how many ancient,\nprimeval POKéMON live in HOENN.\pThat's where I should have been\nborn, not in this disgusting\lcorporatism that works against me.
+3acbff|{C1906}You can't stop us from getting\nwhat we want here, OAK.\pAll you can do now is fight.
+3acc56|{C1931}{V01} is mine.\pYou're going down. I'll wear you\ndown until you have to kneel\lbefore me by sheer probability.
+3accc7|{C1931}Scientists! Get him!
+3accdf|{C1931}No more bowing, honor and all that\nnonsense. I'll beat you, whatever\lthe means, whatever it takes. Until\lnow you've always gotten away with\lit, but spirits and essences, however\lpure they are, lack one thing that\lkeeps them from winning in every\lsituation: they don't fight dirty.
+3ace09|{C1918}So this is the famous {V01}. What's\nit like to battle you, I wonder?
+3ace47|You're just another TRAINER.
+3ace64|{C1918}I'll show you that bond you all talk\nabout is nothing but nonsense!
+3aceae|So that phenomenon is real?
+3acece|{C1931}As expected.\pBut my new assistants have worn\nyou down enough.
+3acf17|{C1931}You're not the only one who can\nmerge technology with strong bonds.
+3acf58|{C1931}Just wait till you see the new team\nmy research, my travels and DEVON\lhave given me.
+3acfbc|{C1931}I'll be the one to finally silence\nthe great HEAD ADMIN {V01}!
+3acff5|Again!? Why does this keep happening?
+3ad01d|{C1906}So this is your level, OAK.\pThank you. You've given me some\nvaluable information, besides the\lradio waves.

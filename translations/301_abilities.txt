@@ -1,0 +1,318 @@
+e65b84|Stench
+e65ba0|Drizzle
+e65bbc|Speed Boost
+e65bd8|Battle Armor
+e65bf4|Sturdy
+e65c10|Damp
+e65c2c|Limber
+e65c48|Sand Veil
+e65c64|Static
+e65c80|Volt Absorb
+e65c9c|Water Absorb
+e65cb8|Oblivious
+e65cd4|Cloud Nine
+e65cf0|Compound Eyes
+e65d0c|Insomnia
+e65d28|Color Change
+e65d44|Immunity
+e65d60|Flash Fire
+e65d7c|Shield Dust
+e65d98|Own Tempo
+e65db4|Suction Cups
+e65dd0|Intimidate
+e65dec|Shadow Tag
+e65e08|Rough Skin
+e65e24|Wonder Guard
+e65e40|Levitate
+e65e5c|Effect Spore
+e65e78|Synchronize
+e65e94|Clear Body
+e65eb0|Natural Cure
+e65ecc|Lightning Rod
+e65ee8|Serene Grace
+e65f04|Swift Swim
+e65f20|Chlorophyll
+e65f3c|Illuminate
+e65f58|Trace
+e65f74|Huge Power
+e65f90|Poison Point
+e65fac|Inner Focus
+e65fc8|Magma Armor
+e65fe4|Water Veil
+e66000|Magnet Pull
+e6601c|Soundproof
+e66038|Rain Dish
+e66054|Sand Stream
+e66070|Pressure
+e6608c|Thick Fat
+e660a8|Early Bird
+e660c4|Flame Body
+e660e0|Run Away
+e660fc|Keen Eye
+e66118|Hyper Cutter
+e66134|Pickup
+e66150|Truant
+e6616c|Hustle
+e66188|Cute Charm
+e661a4|Plus
+e661c0|Minus
+e661dc|Forecast
+e661f8|Sticky Hold
+e66214|Shed Skin
+e66230|Guts
+e6624c|Marvel Scale
+e66268|Liquid Ooze
+e66284|Overgrow
+e662a0|Blaze
+e662bc|Torrent
+e662d8|Swarm
+e662f4|Rock Head
+e66310|Drought
+e6632c|Arena Trap
+e66348|Vital Spirit
+e66364|White Smoke
+e66380|Pure Power
+e6639c|Shell Armor
+e663b8|Air Lock
+e663d4|Tangled Feet
+e663f0|Motor Drive
+e6640c|Rivalry
+e66428|Steadfast
+e66444|Snow Cloak
+e66460|Gluttony
+e6647c|Anger Point
+e66498|Unburden
+e664b4|Heatproof
+e664d0|Simple
+e664ec|Dry Skin
+e66508|Download
+e66524|Iron Fist
+e66540|Poison Heal
+e6655c|Adaptability
+e66578|Skill Link
+e66594|Hydration
+e665b0|Solar Power
+e665cc|Quick Feet
+e665e8|Normalize
+e66604|Sniper
+e66620|Magic Guard
+e6663c|No Guard
+e66658|Stall
+e66674|Technician
+e66690|Leaf Guard
+e666ac|Klutz
+e666c8|Mold Breaker
+e666e4|Super Luck
+e66700|Aftermath
+e6671c|Anticipation
+e66738|Forewarn
+e66754|Unaware
+e66770|Tinted Lens
+e6678c|Filter
+e667a8|Slow Start
+e667c4|Scrappy
+e667e0|Storm Drain
+e667fc|Ice Body
+e66818|Solid Rock
+e66834|Snow Warning
+e66850|Honey Gather
+e6686c|Frisk
+e66888|Reckless
+e668a4|Multitype
+e668c0|Flower Gift
+e668dc|Bad Dreams
+e668f8|Pickpocket
+e66914|Sheer Force
+e66930|Contrary
+e6694c|Unnerve
+e66968|Defiant
+e66984|Defeatist
+e669a0|Cursed Body
+e669bc|Healer
+e669d8|Friend Guard
+e669f4|Weak Armor
+e66a10|Heavy Metal
+e66a2c|Light Metal
+e66a48|Multiscale
+e66a64|Toxic Boost
+e66a80|Flare Boost
+e66a9c|Harvest
+e66ab8|Telepathy
+e66ad4|Moody
+e66af0|Overcoat
+e66b0c|Poison Touch
+e66b28|Regenerator
+e66b44|Big Pecks
+e66b60|Sand Rush
+e66b7c|Wonder Skin
+e66b98|Analytic
+e66bb4|Illusion
+e66bd0|Imposter
+e66bec|Infiltrator
+e66c08|Mummy
+e66c24|Moxie
+e66c40|Justified
+e66c5c|Rattled
+e66c78|Magic Bounce
+e66c94|Sap Sipper
+e66cb0|Prankster
+e66ccc|Sand Force
+e66ce8|Iron Barbs
+e66d04|Zen Mode
+e66d20|Victory Star
+e66d3c|Turboblaze
+e66d58|Teravolt
+e66d74|Aroma Veil
+e66d90|Flower Veil
+e66dac|Cheek Pouch
+e66dc8|Protean
+e66de4|Fur Coat
+e66e00|Magician
+e66e1c|Bulletproof
+e66e38|Competitive
+e66e54|Strong Jaw
+e66e70|Refrigerate
+e66e8c|Sweet Veil
+e66ea8|Stance Change
+e66ec4|Gale Wings
+e66ee0|Mega Launcher
+e66efc|Grass Pelt
+e66f18|Symbiosis
+e66f34|Tough Claws
+e66f50|Pixilate
+e66f6c|Gooey
+e66f88|Aerilate
+e66fa4|Parental Bond
+e66fc0|Dark Aura
+e66fdc|Fairy Aura
+e66ff8|Aura Break
+e67014|Primordial Sea
+e67030|Desolate Land
+e6704c|Delta Stream
+e67068|Stamina
+e67084|Wimp Out
+e670a0|Emergency Exit
+e670bc|Water Compaction
+e670d8|Merciless
+e670f4|Shields Down
+e67110|Stakeout
+e6712c|Water Bubble
+e67148|Steelworker
+e67164|Berserk
+e67180|Slush Rush
+e6719c|Long Reach
+e671b8|Liquid Voice
+e671d4|Triage
+e671f0|Galvanize
+e6720c|Surge Surfer
+e67228|Schooling
+e67244|Disguise
+e67260|Battle Bond
+e6727c|Power Construct
+e67298|Corrosion
+e672b4|Comatose
+e672d0|Queenly Majesty
+e672ec|Innards Out
+e67308|Dancer
+e67324|Battery
+e67340|Fluffy
+e6735c|Dazzling
+e67378|Soul-Heart
+e67394|Tangling Hair
+e673b0|Receiver
+e673cc|Power of Alchemy
+e673e8|Beast Boost
+e67404|RKS System
+e67420|Electric Surge
+e6743c|Psychic Surge
+e67458|Misty Surge
+e67474|Grassy Surge
+e67490|Full Metal Body
+e674ac|Shadow Shield
+e674c8|Prism Armor
+e674e4|Neuroforce
+e67500|Intrepid Sword
+e6751c|Dauntless Shield
+e67538|Libero
+e67554|Ball Fetch
+e67570|Cotton Down
+e6758c|Propeller Tail
+e675a8|Mirror Armor
+e675c4|Gulp Missile
+e675e0|Stalwart
+e675fc|Steam Engine
+e67618|Punk Rock
+e67634|Sand Spit
+e67650|Ice Scales
+e6766c|Ripen
+e67688|Ice Face
+e676a4|Power Spot
+e676c0|Mimicry
+e676dc|Screen Cleaner
+e676f8|Steely Spirit
+e67714|Perish Body
+e67730|Wandering Spirit
+e6774c|Gorilla Tactics
+e67768|Neutralizing Gas
+e67784|Pastel Veil
+e677a0|Hunger Switch
+e677bc|Quick Draw
+e677d8|Unseen Fist
+e677f4|Curious Medicine
+e67810|Transistor
+e6782c|Dragon's Maw
+e67848|Chilling Neigh
+e67864|Grim Neigh
+e67880|As One
+e6789c|As One
+e678b8|Lingering Aroma
+e678d4|Seed Sower
+e678f0|Thermal Exchange
+e6790c|Anger Shell
+e67928|Purifying Salt
+e67944|Well-Baked Body
+e67960|Wind Rider
+e6797c|Guard Dog
+e67998|Rocky Payload
+e679b4|Wind Power
+e679d0|Zero to Hero
+e679ec|Commander
+e67a08|Electromorphosis
+e67a24|Protosynthesis
+e67a40|Quark Drive
+e67a5c|Good as Gold
+e67a78|Vessel of Ruin
+e67a94|Sword of Ruin
+e67ab0|Tablets of Ruin
+e67acc|Beads of Ruin
+e67ae8|Orichalcum Pulse
+e67b04|Hadron Engine
+e67b20|Opportunist
+e67b3c|Cud Chew
+e67b58|Sharpness
+e67b74|Supreme Overlord
+e67b90|Costar
+e67bac|Toxic Debris
+e67bc8|Armor Tail
+e67be4|Earth Eater
+e67c00|Mycelium Might
+e67c1c|Hospitality
+e67c38|Mind's Eye
+e67c54|Embody Aspect
+e67c70|Embody Aspect
+e67c8c|Embody Aspect
+e67ca8|Embody Aspect
+e67cc4|Toxic Chain
+e67ce0|Supersweet Syrup
+e67cfc|Tera Shift
+e67d18|Tera Shell
+e67d34|Teraform Zero
+e67d50|Poison Puppeteer
+e67d88|Z Armor
+e67da4|Aura Guard
+e67dc0|Piercing Drill
+e67ddc|Dragonize
+e67df8|Eelevate
+e67e14|Mega Sol
+e67e30|Fire Mane
+e67e4c|Spicy Spray

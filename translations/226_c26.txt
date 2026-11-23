@@ -220,3 +220,66 @@
 3f8b42|And I'm not just saying that to look\ngood; my SIRFETCH'D sensed the\lpresence of a POKéMON{C080F}…{C080F} it must be its\lcounterpart{C080F}…{C080F} maybe it cuts wood even\lbetter.
 3f8be1|I'll send messengers myself. The old\ncouple can come back to live here.\pTake this POKéMON as a sign of good\nfaith.
 3f8c4f|YOU GOT A Lv. 15 LITTEN!
+3f8e06|{C1906}It seems they've found an answer.\nI must get back as soon as I can. I'm\lcurious to know what's behind it{C0805}…{C0805}
+3f8e7a|{C1906}Excuse me, can I help you?
+3f8e95|{C1906}{C0819}I don't know how that information\nreached you, but you're right. There\lis a vast stretch of land west of\lhere, but the question is{C0805}…{C0805}
+3f8f2f|{C1906}Does someone like you deserve to\nvisit it?\pAn untouched, pure place, far from\nall those GOLDENROD EXECUTIVES who\lseem to have forgotten who we are,\land where we come from.
+3f8fd7|{C1906}You claim to have visited the BELL\nTOWER and to have the blessing of\lJOHTO's 2 GRAND MASTERS. All I see\lis someone trying to take credit,\llike everyone these days.\pYou'd put those experiences on\ndisplay in a museum if you could,\lwouldn't you?{C0819}
+3f90c5|{C1906}{C0819}Allow me to doubt you, {V01}. You'll\nhave to prove what you just said.
+3f9110|{C1906}Well{C0819}…{C0819} it seems I misjudged you.\nDespite your young age and high\lrank, your POKéMON fight in perfect\lharmony, just as the wisest of\lmonks would.
+3f91bc|{C1906}Allow me to introduce myself. My\nname is EUSINE. I've devoted my life\lto studying the so-called LEGENDARY\lBEASTS, those that arose after the\lfamous fire that destroyed the BRASS\lTOWER nearly 150 years ago.
+3f9281|{C1932}You're a curious case. I thought\nthere were no young people like you\lleft in JOHTO. You certainly deserve\lthe chance to visit such an\lextraordinary place.
+3f930e|{C1932}I'll see you outside. Get ready to\nexpand the world you know.
+3f9406|{C1920}{V01}? According to the\ndata we've gathered, you've just\lcompleted all your assigned missions.\pIs that right?\pIn that case, see you in my office.
+3f949a|{C1932}Ah, {V01}, thanks for coming.
+3f94b8|{C1932}My suspicions about you all were\nconfirmed right as I left.
+3f9500|{C1932}I heard your friend talking about the\nMASTER's POKéMON, and the ancient\lones in general.\pShe said they'd be a great help to\nyou for future research.
+3f9597|{C1932}You belong to some kind of\norganization.\pAm I right?
+3f95cd|{C1932}I see{C0819}…{C0819} you're looking to expand the\npower of certain POKéMON.\pYou see{C0805}…{C0805}
+3f9619|{C1932}My knowledge of the LEGENDARY BEASTS\ncould be a great help to you. I firmly\lbelieve that, although they're weaker\lthan EN, RAI and SUI, they're far more\lmalleable.\pThat{C0819}…{C0819}\pThat's the catch: divine intervention\ncan be surpassed by a bond.
+3f972a|{C1932}I'd love to be able to prove this, and\nbring out their latent power…\lThe true beauty of these beasts.\pAnd so…\pThey'll hold the same essence as\nEN, RAI and SUI…\pWith the blessing of HO-OH on top!\pWhat do you say?!
+3f980d|{C1932}I knew you'd agree!\pSo…\pDo you have a huge team of\nSCIENTISTS? They'll be very\linterested in hearing all this{C0819}…{C0819}\pGood. I'm not going anywhere. As soon\nas you confirm I'm joining, I'll get\lto work with them.
+3f98ff|{C1932}I'm not going anywhere.\pAs soon as you confirm I'm joining,\nI'll get to work with them.
+3f9a4b|Those blasted businessmen… They\nswindled my wife and me.
+3f9a98|Would you help us?
+3f9aab|I understand. It's very dangerous.
+3f9aca|We're the former CHARCOAL makers\nfrom AZALEA TOWN. A few months ago,\lwe got an offer from a company.
+3f9b3b|They promised to expand our little\nCHARCOAL business across all of\lJOHTO and even to other regions.\lIt made no difference to us. We were\lalready happy supplying AZALEA TOWN\land the area around it.
+3f9c03|But they talked us into it in the\nend. The thing is, the deal, which\lstarted out as a partnership, ended\lup being the opposite.
+3f9c80|They tricked us with the contract,\nand with it they took our house in\lAZALEA, along with the little kiln we\lhad in the basement.
+3f9d08|They said we weren't fit to carry on\nthe work anymore, and in the end we\lwere forced to come here.
+3f9d74|If you went to AZALEA TOWN… to what's\nstill our house, maybe someone like\lyou could do something. To get into\lour basement, you just have to press\la secret button right behind the\lpainting next to the window.
+3f9e4d|Two old folks like us can't do\nanything anymore. Maybe you, being\lyoung, can take back by force what\lthe law took from us.
+3f9eda|If you managed it, you wouldn't just\nbe preserving part of JOHTO's\lheritage. My wife and I would be\lgrateful to you for life.
+3f9f59|Did you get in? Our house in AZALEA\nTOWN is right next to the GYM, on the\least side of town. Our secret\lentrance opens with a button on the\lpainting next to the window.
+3fa040|{V01} got a LARVESTA!
+3fa06f|TRXATU:\pHP: 75\nATTACK: 75\lDEFENSE: 75\lSP. ATK: 115\lSP. DEF: 115\lSPEED: 115\lTOTAL: 570\pTYPE: PSYCHIC/FLYING\pABILITIES:\nMAGIC BOUNCE/SYNCHRONIZE/SOUL-HEART\pAn extremely rare POKéMON. Only a\nXATU able to make contact with the\lsacred can ever become one.\pThat's why TRXATU was seen as a god\nby ancient civilizations, and was\lworshipped by cultures in both JOHTO\land the ARCHI7.\pIt shares certain similarities with\nJOHTO's ROAMING LEGENDARIES (a triple\l115 as its best base stats, beating\lthe double 115 of the 3 BEASTS).\pThat makes it a MYTHICAL POKéMON\nwith the power of a MINOR LEGENDARY.
+3fa49c|Well{C080A}…{C080A} it seems that no matter how\nhidden a place is, there'll always\lbe some explorer outside the laws\lthat others impose who ends up\ldiscovering it.
+3fa52f|I hope what you have to say is more\nimportant than the fact that you've\linterrupted my silence.
+3fa595|Oh…\pYou were at the cult of the\nESSENCE POKéMON?\pWere you the one who ended LANCE's\ntyranny?
+3fa5f4|I was part of that cult.\pHowever, I had certain\ndisagreements with its LEADER{C080A}…{C080A}
+3fa64b|Let's just say I managed to escape\nbefore he could use a\l"voluntary sacrifice" as an excuse\lto get rid of me.
+3fa6b3|You could call me a survivor, living\nin exile both by choice and by\lnecessity.
+3fa71a|No one can know where I'm hiding.\nOtherwise, he'd find me.
+3fa762|You must be only the second person\nto get in and out of that place.
+3fa7a9|Even so, I don't feel miserable,\nfar from it!
+3fa7e0|Freedom is what I was searching for\nwhen I lived in the cult, and I\lnever found it.\pHere, I'm completely free to do\nwhatever I please. I compete only\lagainst myself; for better or worse,\lI alone answer for my actions.
+3fa8be|Everything I want is right here.\pA splendid landscape as a backdrop,\nancient ruins that many explorers\lwill spend their whole lives\lwithout finding{C080F}…{C080F}\pWhat more could I ask for?
+3fa96f|You must be someone worth knowing:\nyou defeated LANCE, discovered the\lmost sacred cult in KANTO and made\lit out unscathed{C0805}…{C0805}
+3fa9f3|I always say comparisons are odious,\nand that we should only compete\lagainst ourselves, since the only\lbeing with exactly the same\lconditions as you is you.
+3faab0|A victory over yourself is a victory\nof your will, since every other\lfactor is equal.
+3fab24|Even so, I've been training alone\nfor a long time.\pI've reached a level I thought\nimpossible.\pAnd yet…\pI still feel that urge, that\nuncertainty before battling another\lperson as an equal.
+3fabf0|Show me everything\nyou're capable of!
+3fac16|You're close to excellence…
+3fac2b|Well…\pI thought that with the singular\nPOKéMON I caught in the ruins next\ldoor, I'd stand a chance against a\lCHAMPION like you.\pSeems it takes more than that to\novercome POKéMON that you've\ltrained so hard.
+3fad0a|You know what?\pI found two TRXATU in those\nruins. The second one is right\lbehind you, resting in its\lPOKé BALL.
+3fad8d|I've researched XATU's evolutionary\nline, and its role in ancient\ltribes, both here and in the RUINS\lOF ALPH in JOHTO{C0814}…{C0814} it seems they\lworshipped a sort of god, which was\lnone other than XATU's ultimate\lform.
+3fae71|I don't know what process an\nordinary XATU has to go through to\levolve into TRXATU, since it's\limpossible by leveling up.\pThe inside of those ruins must\nhave had something to do with it.
+3faf3a|What I'm trying to say is, you're\nfree to take that second one.\pI don't know if I'll ever return to\ncivilization, or even if I'll\lreturn at all, and then someone\llike you shows up.
+3faff0|Perhaps it's destiny. Either way,\nyou're the right TRAINER to give a\lPOKéMON of that caliber great\ladventures and test its limits.
+3fb081|I researched TRXATU's traits\nthoroughly.\pIf you're curious, you can take a\nlook at its data on my PC.
+3fb137|-I shouldn't steal someone else's\nPOKéMON. We ROCKETS have\lprinciples-.
+3fb17b|YOU GOT A TRXATU!!
+3fb1da|You're funny! I like you!\pOh!\pYou already have the PLAIN BADGE!\pThey say the previous LEADER was\nan eccentric. She can't have been\nmuch good.
+3fb2a9|I'm trying to beat WHITNEY, but…\nIt's depressing.\pAll right!\pIf I lose, I'll just try again!
+3fb355|Do my POKéMON think I'm pretty?

@@ -33,3 +33,9 @@ Safer long-term fix: only repoint a reference when the referencing context is ve
 UPDATE (Luke, 23 Nov): he started the patched ROM again later and there was NO stutter, so it may have been something else on his PC. Lower priority; keep an eye on it.
 Quick check (23 Nov): the bytes changed outside text are pointer updates. Most are in the script region (0x200000+). There are a few dozen in the code and data area (0x06xxxx, 0x0Exxxx-0x1Axxxx); these are literal-pool pointers to UI strings, which is expected. Nothing obviously wrong.
 - Name box: ESMERALDA kept (dialogue keeps it) while RUBÍ/ZAFIRO became RUBY/SAPPHIRE; MORFEO, INVERNA, VALENTE kept; consider unifying
+- C.MIGUEL/CIENTÍFICO MIGUEL rendered as S.N.MIGUEL, C.MIGUEL, SCIENTIST MIGUEL and MIGUEL in different chunks -> unify (suggest SUPER NERD MIGUEL / MIGUEL)
+- DEVON admins: c28 made AMATISTA -> AMETHYST and ESMERALDA -> EMERALD, but other chunks and the name boxes keep AMATISTA and ESMERALDA (RUBÍ/ZAFIRO -> RUBY/SAPPHIRE everywhere). Pick one: suggest RUBY/SAPPHIRE/EMERALD/AMETHYST everywhere, including the name boxes.
+- SACHIKO: c08 and the name box use JANINE, c28 kept SACHIKO -> unify to JANINE
+- CUEVA CAMBIANTE: c08 and c16 use ALTERING CAVE (official FRLG), c30 uses SHIFTING CAVE -> unify to ALTERING CAVE
+- "Inventar diálogo" placeholder: c31 translated it as "Write dialogue", c30 skipped it (left Spanish) -> pick one (suggest "Write dialogue" everywhere)
+- OLGA: c30 used JULIA (Sunyshore ribbon lady), c31 kept OLGA -> check

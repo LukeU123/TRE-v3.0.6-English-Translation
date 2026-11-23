@@ -1,0 +1,617 @@
+43f005|That's exactly why… if you let the\nworld decide your worth, it'll\lalways see you as a zero.
+43f07a|The RADIO TOWER's real purpose\nbegins here, from 5F upward.
+43fbd0|{C1928}GIOVANNI is having a little chat\nupstairs before the big meeting.\lWe've got time.
+43f0bd|The other floors, open to the public,\nare nothing but a facade. Their only\luse is to generate passive income\lthat funds the work of people\llike me.
+43f19d|We discover new things about radio\nwaves every day. Some more\linteresting than others.
+43f1f4|This one might interest you.
+43f212|{V01} received TM178 HEAT WAVE\nfrom the SCIENTIST!
+43f249|The world is changing at an\nastonishing pace. God only knows\lwhere we'll be a year from now.
+43f2b1|The RADIO TOWER's DIRECTOR isn't very\ngood with POKéMON. He's only ever\lfocused on business.
+43f32c|The JOHTO POLICE are\nmodernizing.
+43f356|They're bringing in POKéMON from\nother regions to improve our\lperformance. My favorites are\lMANECTRIC and ARCANINE.
+43f404|People used to wear normal clothes\non weekdays and formal wear on\lSundays.\pNowadays it's the exact opposite.
+43f48d|I challenged that red-haired girl. I\nwas surprised to see someone so young\lamong the higher-ups.
+43f4f1|Once I battled her, I understood.\nI've lost all desire to challenge\lanyone else…
+43f59a|We're studying whether a POKéMON\nfrom a faraway land could help\lstrengthen security.\pI can give you a little\nsample specimen.\pHere.
+43f61e|You got a Lv.15 LILLIPUP!
+43f63f|STOUTLAND has proven to be a\nfantastic POKéMON for our officers.\lThe problem is, we tend to be\lwary of anything new.
+43f6c5|POKéMON like MANECTRIC or ARCANINE\nare easier to bring into JOHTO\lbecause those regions are so close.
+43f755|You're on the 7th floor.\pHere, we optimize the performance\nof radio waves.
+43f7b0|The signs show you what each\nfloor is for.
+43f7ed|Thanks to our research, powerful\nsuit-wearing executives like you\lwill be able to get stronger and\lstronger POKéMON at the push of a\lbutton.\pIsn't that great?
+43fa4e|{C1928}Long time no see, {V01}.
+43fa64|{C1928}I'd gotten used to seeing you\naround the DEEP BASE. Now that\lyou're in JOHTO, that's over.
+43fac1|{C1928}I'll be around here for a while too.\pARCHER asked me to monitor the RADIO\nTOWER's security and win the trust\lof its DIRECTOR.
+43fb50|{C1928}We're using the most modern\ntechniques and protocols, and\limporting POKéMON from other regions.
+43fbbc|{C1928}You know what?
+43fc33|{C1928}I'm still a ROCKET!\pLet me show you how my POKéMON\nhave evolved!
+43fc8a|So yours have evolved\ntoo…
+43fcb6|{C1928}Looks like JOHTO is making you even\nstronger. Tell me, what do you think\lof GOLDENROD?
+43fd06|{C1928}A decade ago it was a different city.\pIn recent years it's been opening up\nto the world. And not just GOLDENROD:\lall of JOHTO.
+43fd77|{C1928}It's as if the modern and the old\nwere fighting over the region's\lsoul.
+43fdc7|{C1928}The RADIO TOWER is a symbol of the\nmodern, and its DIRECTOR makes sure\lto live up to it.
+43fe1f|{C1928}Now he imports POKéMON from HOENN,\nhires SCIENTISTS from SINNOH and, of\lcourse, ROCKET EXECUTIVES from\lKANTO for his security.
+43fea4|{C1928}The best of every region, right?\pLooks like we're living in\ninteresting times.
+43fefa|{C1928}Anyway, I'll let you go. I don't want\nARCHER chewing me out later.
+43ff3a|{C1928}You're HEAD ADMIN now. You've got\nmore important things to do.
+43ff7c|{C1928}I like this place.\pI'll stay here for a while. The view\nis magnificent, and this city has\leverything.
+440042|Legal or illegal, creative or\ndestructive, as long as something\lturns a profit, it can always\lflourish.
+4400be|Every effect we produce earns us\nan enemy.\pTo be popular, you must be mediocre.
+440260|Are you {V01}?\pCome here a moment, please.
+440280|Security beyond this point is even\nstricter. To continue, you'll need\la specific key.
+4402e7|{V01} obtained the RADIO KEY!
+4402ff|Good luck.
+4405b0|{C1906}We could never have imagined such\natrocities were happening on the\lother side of MT. SILVER.
+440609|{C1903}Perhaps you didn't know\nthe details, Master.
+44063b|{C1903}But if you didn't, it was only\nbecause you didn't want to know them!
+440681|{C1920}That's enough, ARCHER.
+44069a|{C1920}There's no doubt the DRAGON MASTER\nfeels guilty.
+4406d0|{C1920}He made a grave mistake in thinking\nLANCE would carry on his legacy.\pTrusting that he would remain pure\nand virtuous, that he would respect\ltradition, and apply everything he\llearned in BLACKTHORN with justice\land wisdom…
+4407ad|{C1920}That's what you did, and your master\nbefore you, and so on for countless\lgenerations. I understand there was\lno reason to expect otherwise.
+440845|{C1945}I failed to see{C080F}…{C080F} what he\nwas becoming.
+440884|{C1920}The easy thing would be to blame all\nof JOHTO for letting LANCE rise to\lpower.
+4408d8|{C1920}But{C080F}…{C080F} if this region falls, KANTO\nwon't flourish either.
+440914|{C1920}We need JOHTO's help.
+440936|{C1920}And I don't expect to get it by\nhanding harsh sentences to old men\lwho turned a deaf ear.
+440996|{C1920}Not because they don't care about\nKANTO, but because their true calling\lhas been battle.
+4409ee|{C1920}Following the ancient way of the\nTRAINER: the very path that demands\lstepping away from worldly affairs.\pHow could that be condemned?
+440a71|{C1945}You shall have my help.
+440a92|{C1945}But{C080F}…{C080F} not at the cost of forgetting\nwho we are.
+440ac6|{C1903}Sir{C0819}…{C0819} I can understand the DRAGON\nMASTER.\pBut{C0823}…{C0823} LANCE?!
+440b0c|{C1903}If it were up to me…!
+440b26|{C1920}You still can't see the\nconsequences of all this.
+440b5f|{C1903}What do you mean?
+440b76|{C1920}Don't worry{C0819}…{C0819}\pLANCE's real punishment\nis yet to come.
+440bbf|{C1920}Now, let's go up. There are more\nurgent matters to discuss, and we're\lthe only ones missing, besides {V01}.
+440c2a|By studying radio waves, we're also\ndiscovering many new moves. Some\lof them are very interesting.
+440cb2|The power of a minor LEGENDARY can\nbe surpassed through technology.
+440cfa|But that of a major LEGENDARY, like\nLUGIA or HO-OH… I don't believe it\lwill ever become obsolete, however\lmuch power standards rise.
+440da0|The DIRECTOR invests a lot in\nsecurity.
+440dc9|Even so, it's a tiny fraction of\neverything the RADIO TOWER\lbrings in.
+440e26|Right upstairs is the meeting area\nfor… the higher-ups.
+440e82|At your service, HEAD ADMIN {V01}.
+440ea0|I'm one of TEAM ROCKET's most\npowerful EXECUTIVES.
+440ed9|GIOVANNI posted me here. As a sign\nof the union between JOHTO and KANTO,\lhe didn't hesitate to commit\lresources to the RADIO TOWER.
+440f59|SILPH, the RADIO TOWER and TEAM\nROCKET are the modern triumvirate\lof KANTO and JOHTO.
+440ff8|SACRED ASH is very rare.\pBut there are some parts of HO-OH's\nbody, extremely rare ones, that\lweren't reduced to dust.
+44107c|It's what's known as a RAINBOW WING.\nHere.
+4410a9|You got a RAINBOW WING!
+4410c6|Our studies concluded that the\nRAINBOW WING boosts HO-OH's ATTACK\land DEFENSE by 20%.
+44112e|In practice it's impossible, but if\nyou had one, it would be a great\lchoice for this sacred POKéMON.
+441213|You used the RADIO KEY.
+441320|{C1907}This place seems to be{C080F}…{C080F} the\ncore of the radio waves.
+44135d|{C1907}I've got a bad feeling about this.
+441377|{C1907}There are two areas still locked:\nthe north one and a small room to the\least. There must be a key around here.
+4413e5|{C1907}If you find it, let me know.
+441410|{C1907}Good. This must be the key\nthat opens the east room.
+441442|{C1907}The other one must be in there.\nI'll wait for you.
+44146d|{C1907}If you find the KEY,\nlet me know, {V01}.
+4414bf|It's a key to this basement.
+4414e4|I should go find ANDRA now.
+441518|We're very close{C0819}…{C0819}
+441552|I should tell ANDRA before going on.
+441592|A KEY is required.
+441602|This document is quite worn, but you\ncan still make out what looks like\ldata on a POKéMON.
+44191e|{C1907}Is that the other key? Perfect.
+441942|{C1907}And what's this?
+441956|"LEVEL III PROTOTYPES VS\nTHE 3 GREAT CREATORS"
+44198b|{C1907}Looks interesting{C080F}…{C080F}\nI'll read it aloud.
+4419be|The laws that govern this universe\nmake it impossible to exceed the\loverall power of ARCEUS-P,\lMISSINGNO and DRAGON-O.
+441a26|But that's in absolute terms. Could we\ncreate a POKéMON whose particular\lcombination gave it a more efficient\lstat distribution?
+441ab7|A POKéMON whose total "useful stats"\nexceeded that of the 3 GREAT\lCREATORS could be considered a\lparadox, a "glitch."
+441b3a|Would it be viable? Is it possible to\ntrick nature?
+441b6e|The first level III prototypes\nproved quite the opposite.
+441bb2|780 BASE STATS already caused an\ninevitable waste of power and\lresources in MEWTWO's MEGAS.
+441c12|A monstrous total, but still far from\nthe 895-905 range where the absolute\llimit lies.
+441c75|Many combinations can give rise to\nunique and powerful POKéMON:\lLEGENDARY + MEGA, PKMN + ROCKET\lSTONE, PSEUDO + MEGA, PKMN + RADIO\lWAVES, PSEUDO + STRONG BOND{C080F}…{C080F}
+441d34|Of them all, the most extreme is:\nMAJOR LEGENDARY + RADIO WAVES.
+441d80|In practical terms, it would be like\nsaying: 680 + 150 BASE STATS.
+441dbd|At first glance, such a combination\nwould seem a pipe dream, but{C080F}…{C080F}\lwe have a base prototype that meets\lthese requirements.
+441e3c|{C1907}I'll go on.
+441e49|Not only did we reach a total of 830,\nbut by squeezing every last drop out\lof the wave combinations, the stats\lwere tremendously efficient.
+441ecf|The result was the most powerful\nlevel III prototype, a being that\lrivals, or even surpasses, the three\lgreat creators in "useful stats."
+441f60|By consensus of all the SCIENTISTS,\nwho judged it to be the absolute\llimit science can reach, we named\lthis POKéMON "ULTIMATE PROJECT."
+442016|{C1907}So, this was the mystery?
+44203a|{C1907}"ULTIMATE PROJECT." {C0823} …{C0823}\nSounds like a weapon of war.
+44206f|{C1907}The original MEWTWO looks\nlike a joke next to it.
+44209f|{C1907}After all, this is what OAK and\nGIOVANNI were chasing during the\lwar. Now they've achieved it, and\lthen some.
+442116|{C1907}It makes sense that they'd keep\nsuch information here.
+442149|{C1907}It's far too powerful a POKéMON. It\nshould only be used in case of\lnecessity.
+44219f|{C1907}Even so, you already defeated the\nESSENCE POKéMON. This ULTIMATE\lPROJECT can't be more than the\lwhole it's a part of!
+442218|{C1907}Now{C0823}…{C0823} all that's left is what\nlooks like the last area.
+442250|{C1907}See you there. After what we've\nseen, I don't know what to expect.
+442340|A KEY is required.
+442555|{C1907}There's a disc. It can be hooked\nup to the TV.
+442584|{C1907}It says: OAK'S MEMOIRS.
+4425ae|-September 10, 1993-
+4425c9|{C190E}We can no longer count on MEWTWO,\nand LANCE's power exceeds anything\lwe know.
+44261f|{C190E}Our classic KANTO teams can do\nnothing against him.
+442662|{C190E}Now we are subject\nto his will.
+44268c|{C190E}Once you've reached the top, seen\nit all and tasted the sweetness of\lsuccess, it's hard to accept that\lnothing will ever be the same.
+44270e|{C190E}Despite this crushing reality{C0819}…{C0819} I\nrefuse to believe this is the end.
+442760|{C190E}If I can't save KANTO, no one will.\nAt least not from within the system.
+4427af|{C190E}But as a former CHAMPION, I am a\nthreat to LANCE.
+4427ea|{C190E}If I want a chance, I must give up\nmy life as a TRAINER and place\lmyself entirely at his service.
+442857|{C190E}Only then will he trust me.
+442878|-October 15, 1993-
+442890|{C190E}By releasing all my POKéMON and\noffering myself as a researcher to\lthe new government, I was able to\lsave this laboratory{C0819}…{C0819} and with it\lthe last thread of hope the region\lhangs by.
+442952|{C190E}In this situation, I cannot\npossibly retake KANTO by brute\lforce, as we tried with MEWTWO.
+4429bf|{C190E}I need something revolutionary,\nsomething that breaks every known\lparadigm.
+442a11|-December 1, 1993-
+442a2a|{C190E}Genetic engineering could\nbe that revolution.
+442a5f|{C190E}Applied to POKéMON, it's how we\nmanaged to create MEWTWO.
+442aab|{C190E}Applied to humans? What kind of\npotential could it unlock?
+442af3|{C190E}We tend to focus on a POKéMON's\nraw power, something absolutely\ltangible, but{C080F}…{C080F}
+442b56|{C190E}{C080F}…{C080F}in battle, a POKéMON's worth is\ndirectly proportional to that of\lthe TRAINER commanding it.
+442bcf|{C190E}From this premise was born\n-PROJECT RED-.
+442c14|{C190E}DITTO demonstrated the\nmalleability of MEW's genes, able\lto transform into the most\lpowerful POKéMON{C080F}…{C080F}
+442c8e|{C190E}{C080F}…{C080F}but also to become the most\nskilled TRAINER.
+442cd0|{C190E}That is why -PROJECT RED- will\nalso be built upon MEW's DNA.
+442d1d|{C190E}As for the human contribution, it\nis vital that my own DNA be part of\lthe android that results from this\lcombination.
+442d93|{C190E}Only then can I stand as an\nunquestionable authority. This will\lbe inherent to its very existence,\lso that my purpose and its own will\lbe bound together.
+442e40|{C190E}MEW's genes will hold\nthe key to its success\las a TRAINER.
+442e8f|{C190E}As the ancestor of all POKéMON, its\ngenetic code holds fundamental\linformation on all of them, which it\lcan exploit in\lbattle{C080F}…{C080F}
+442f37|{C190E}{C080F}…{C080F}and it can make the best\ndecisions based on it, free of the\lconventional limitations of any\lhuman TRAINER.
+442fd0|{C190E}In short, it would see battle from\na dimension above our own. As if it\lbelonged to a higher layer of\lreality.
+443058|{C190E}In this way, and paradoxically, it\nwould raise -will- to its fullest\lexpression.
+4430aa|{C190E}A term worn out by the ancients,\nwhich in battle referred to\leverything a TRAINER could control\lwithin it.
+44313b|{C190E}What none of them could imagine is\nthat the one able to push the term's\loriginal meaning to its limit would\lalso be someone who lacked it.
+4431d7|{C190E}Now that every technical aspect is\nresolved, all I need is time and\lthis laboratory to bring -PROJECT\lRED- to life.
+44325d|-February 7, 1994-
+443274|{C190E}1 year after MEWTWO's birth, on\nthe very same day, RED is born.
+4432b8|{C190E}Biologically 8 years old from the\nstart. I've arranged all the\lpaperwork for his immediate\lintegration into society.
+44333a|{C190E}Another android, far less complex\nand costly, will play the role of\lmother. For safety, she is programmed\lto be a pleasant neighbor, but where\lRED is concerned, she won't respond\lbeyond what is strictly necessary.
+443419|{C190E}No one, not DAISY, not BLAINE, must\nknow the truth. That is essential.
+44345f|{C190E}Both will be presented as victims\nof the war, even to my own\lfamily.
+4434cc|{C190E}After several months, I've managed\nto convince LANCE to restore the\lLEAGUE CHAMPIONSHIP.
+443526|{C190E}In KANTO's current state, it poses\nno threat to him, or so he thinks{C080F}…{C080F}
+44357c|{C190E}It will be a grand event, an escape\nfor the people from their toilsome\llives.
+4435c9|{C190E}But the underlying motives go far\nbeyond his imagination.
+44360f|{C190E}I've already told him of two young\ntalents, strong candidates who will\lbe entirely loyal to him.
+443670|{C190E}I thought of using my grandson as\nthe runner-up, to reduce suspicion\laround RED. But the rivalry between\lthem has turned out to be\lgenuine.
+44370e|{C190E}I see talent in my grandson, but\nthe perfect is the enemy of the good:\lhe'll be doing nothing but chasing\lan illusion, something unattainable.
+443793|{C190E}So my duty as his guardian will be,\nwhen the time comes, to discourage\lhim from continuing with that folly.
+4437fe|{C190E}The ultimate goal is clear: to make\nRED the CHAMPION of KANTO.
+443841|{C190E}By then, he'll be exceptional.\nEventually, he'll be in a position\lto take back by force what LANCE\lhimself took from us by those very\lmeans.
+4438f7|{C190E}My predictions about RED\nproved correct.
+44392c|{C190E}He was going to be enough to\noverthrow LANCE, but{C080F}…{C080F}
+443967|{C190E}That TRAINER changed everything.
+443989|{C190E}It's true that power standards\nskyrocketed over the last year. One\lway or another, LANCE would soon\lfall, as the one variable keeping\lhim on top lost its value.
+443a36|{C190E}But that ROCKET didn't beat RED by\nhaving such resources.
+443a78|{C190E}My first instinct was to think\nGIOVANNI had hatched a plan like\lmine, and that his puppet had\lprevailed over mine.
+443aff|{C190E}But no{C082D}…{C082D} something escaped me.
+443b26|{C190E}Then I remembered that speech{C0823}…{C0823}\nby a long-forgotten former\lCHAMPION, several decades ago.
+443b90|{C190E}I never hesitated to dismiss her\nwords as pure charlatanry, and\lyet{C080F}…{C080F}
+443be6|{C190E}{C080F}…{C080F}those claims that seemed to\ndefy reason were starting to make\lsense 50 years later.
+443c4c|{C190E}That will the ancients spoke of\nhad more facets than I first\lthought.
+443cb5|{C190E}And I could see them, reflected\nin that TRAINER{C0823}…{C0823}
+443d99|{C1907}After the LEAGUE, we learned what\nRED was, but not in such detail.
+443dec|{C1907}That OAK thought you might be the\nsame thing is yet more proof of his\larrogance. He can't conceive of being\lbeaten fair and square.
+443e79|-July 2, 1997-
+443e8e|{C1907}There's more?!
+443ea1|{C190E}However, -PROJECT RED-\ndoesn't end here.
+443ed3|{C190E}The later defeat, with MEWTWO\nalready mine, confirmed my suspicions.
+443f20|{C190E}I had achieved perfection{C0819}…{C0819} but\nunder controlled conditions, where\lintangibles like -will- or -bond-\lwere not accounted for.
+443fc0|{C190E}While it was impossible to give RED\nsomething so abstract, it would be\lfoolish to discard the other\ltangibles that could be controlled.
+444046|{C190E}Their applications for a greater\nunderstanding of our world\lcould be endless.
+44409e|{C190E}With LANCE out of the picture,\nGIOVANNI ruling from the shadows and\lJOHTO as a future ally{C080F}…{C080F}
+4440ff|{C190E}The situation is ideal\nfor putting this to the test.
+44414e|{C190E}A renowned researcher in JOHTO,\nPROFESSOR ELM, has been fascinated\lby my proposal.
+4441b1|{C190E}Like it or not, the world is just\na complex chain of causes and\leffects which, seen from outside,\lwith enough perspective and\lunderstanding of the variables,\lcould be almost entirely\lpredictable.
+444295|{C190E}What the ancients call will and\nintent is something extremely\lcomplex, no doubt about it.
+4442f5|{C190E}But{C0819}…{C0819} if we could break down every\naction-reaction situation, one by\lone, down to the most elemental\llevel, we'd find it is nothing but\lan illusion, an unrecognized law\lthat we call chance.
+4443dc|{C190E}From this premise was\nborn -PROJECT GOLD-.
+444413|-October 15, 1997-
+44442b|{C190E}The 1st GOLDENROD CITY\nCONFERENCE has been a success.
+444462|{C190E}We've laid out every action needed\nto turn the KANTO-JOHTO pairing\linto a great power.
+4444c2|{C190E}But most importantly{C0823}…{C0823} all of\nthese actions, taken together, serve\lan even deeper purpose.
+444539|{C190E}Something that must not be revealed\neven to those present, not at least\luntil the 3rd CONFERENCE.
+444599|{C190E}By then, we'll have the tools, the\npower and the control needed to\lcarry out on a large scale\lsomething that should only be\lpossible at an elemental, atomic\llevel.
+44465f|-March 2, 1998-
+444674|{C190E}Internally, RED was a perfect\nmachine. The problem was{C080F}…{C080F} an\linteraction with external\lvariables that exceeded his ability.
+444707|{C190E}However, the result of controlling\nboth internal and external variables\lwill, once again, be revolutionary{C080F}…{C080F}
+44477e|{C190E}Not only will GOLD have a mechanism\nto precisely record every\linteraction he carries out.
+4447e4|{C190E}But everything around him, his\nworld, the reality he'll be exposed\lto{C0819}…{C0819} will be planned in advance.
+444859|{C190E}Why? To what end?
+44487a|{C190E}In the end, all of us, one way or\nanother, are limited.
+4448b3|{C190E}What better way to expand our own\nlimits than to set up a controlled\lone and learn from it?
+44491e|{C190E}With our current technology, we\ncan monitor every cause-and-effect\laction GOLD performs and, as a\lresult, gather an enormous amount of\ldata which, applied to reality, will\lrevolutionize POKéMON battling as we\lknow it.
+444a19|{C190E}And not just POKéMON battling.
+444a39|{C190E}It could also be extrapolated\nto{C080F}…{C080F} simulate cause-and-effect\lactions within our own world, and\lmake estimates not only of our\lregion, but of others.
+444add|{C190E}Put into practice, we'd be able to\nforecast the future of the POKéMON\lworld with astonishing precision,\lexploring both the best and the\lworst possible\lscenarios.
+444ba2|{C190E}This way, we could compare both\nrealities, ours and the simulated\lone, and as a result{C080F}…{C080F}
+444c0f|{C190E}{C080F}…{C080F}we would also be able to see,\nand be sure, that as of today,\lthanks to all our advances,\lprototypes, technology and battle\lculture, none of the other regions,\leven in their best forecasts,\lcould stand against us.
+444d0f|{C190E}In short: to certify, empirically,\nthat the KANTO-JOHTO pairing is and\lwill remain the leading power of\lthe POKéMON world.
+444d8e|{C190E}Therein lies the true value of\n-PROJECT GOLD-, and why it's worth\lorchestrating an entire region just\lfor it.
+444e08|-January 1, 1999-
+444e1d|{C190E}JOHTO has become a completely\nnew region.
+444e5a|{C190E}The 2nd GOLDENROD CITY CONFERENCE\nhas laid all the groundwork for\l-PROJECT GOLD- to be put into\lpractice.
+444eda|{C190E}New GYM LEADERS, scheduled events,\ncloned LEGENDARIES that will cross\lhis path, even a tailor-made\lPOKéMON LEAGUE.
+444f63|{C190E}Seen from within, -GOLD-\nwill be the chosen one.
+444f91|{C190E}Indeed, that will be his destiny,\nbut not by divine grace. By\lours.
+444fe6|{C190E}But{C0819}…{C0819} what difference could there\nbe between the two? Perhaps none.
+445037|{C190E}Seen from outside, what seemed\nunique will be nothing but a set\lroutine that any 10-year-old could\lcarry out, believing, just like\lGOLD himself, that they're special.
+4450f4|{C190E}Perhaps, with a proper understanding\nof the world, if we were the ESSENCE\lPOKéMON{C080F}…{C080F} we too might come to see\lour own actions in the same\lway.
+445194|{C190E}Now, for once, we will be\nthe ones playing from above.
+4451de|{C190E}All of GOLD's feats will be harmless\nin our eyes, devoid of merit. They\laren't part of his journey; they're\lthe means by which we'll reach our\lend.
+44527d|{C190E}And his journey will come to\nan end on MT. SILVER.
+4452b5|-November 12, 1999-
+4452cf|{C190E}The 3rd GOLDENROD CITY\nCONFERENCE has come to a close.
+445305|{C190E}GIOVANNI has informed me that\n{V01} managed to locate ANDRA.
+445344|{C190E}The two will try to uncover the\ntrue nature of DEVON's actions\lin HOENN.
+44539e|{C190E}But meanwhile, we are busy\nwith other matters.
+4453e0|{C190E}-PROJECT GOLD- will be set in\nmotion in 3 days' time.
+44541d|{C190E}At this very moment, I'm about to\nhead to the MAHOGANY TOWN base. From\lthere, we'll activate every protocol.
+445497|{C190E}Once it begins, it won't stop until\nGOLD is able to close the circle on\lMT. SILVER.
+445501|{C190E}And once it's closed, we'll obtain\nwhat we're looking for.
+445534|{C190E}What we need to build precise\nsimulations of each and every\lknown region.
+445595|{C190E}Without GIOVANNI's support, none\nof this would have been possible.
+4455d5|{C190E}Ever since -PROJECT RED-, he sensed\nthe nature of my actions.
+44561a|{C190E}Thanks to that, to my amazement, he\nwas able to beat me at the POKéMON\lLEAGUE.
+44566a|{C190E}When all was said and done, it\nturned out we were similar enough\lto understand each other with\lease{C080F}…{C080F}
+4456e2|{C190E}{C0819}…{C0819}but also different enough\nto surprise each other.
+445ca1|{C1907}That's{C080F}…{C080F} today! -PROJECT GOLD-\nstarts today!
+445ce7|{C1907}GIOVANNI knew all of this from the\nstart, even before our assault on\lthe POKéMON LEAGUE. So why didn't he\ldo anything?
+445d6a|{C1906}It was a matter of honor.
+445d88|{C1920}When I ordered {V01}\nto explore PALLET TOWN, I was\llooking for signs that OAK was\ltrying to retake KANTO his own way.
+445e04|{C1920}Once I knew, there was no reason to\ndig deeper: stopping LANCE was the\lpriority.
+445e5e|{C1920}It was only after our victory at the\nLEAGUE that the time came to bring\lOAK to justice.
+445eb6|{C1920}When he disappeared, I was the first\nto recall {V01}'s mission in PALLET.
+445f05|{C1920}I could have ordered this lab\nraided, but something in OAK's plans\lintrigued me.
+445f6c|{C1920}As his old rival, it was my duty to\nfully understand the nature of his\lactions.
+445fc3|{C1920}Only then could I judge him\nproperly, and that was something\lfor me alone.
+44601d|{C1920}So while you were in ARCHI7,\nI paid a visit to PALLET\lTOWN.
+446071|{C1920}I managed to activate the secret\nentrance and get in here.
+4460af|{C1920}To my surprise, OAK wasn't here.
+4460d3|{C1920}Yet all his journals, blueprints,\n-PROJECT RED- in detail, MEWTWO's\llocation{C0819}…{C0819} it was all here.
+44614d|{C1920}It was then, as I went deeper into\nthe lab, that I saw it clearly.
+44619d|{C1920}From the moment he bent the knee,\nhe had already set in motion a plan\lto retake KANTO.
+446205|{C1920}I was the sacrifice, yes. But it's\nequally true there was no other way.
+446256|{C1920}It was all part of his calculations,\nand he wasn't wrong: in the end, I\lwas the one with the fortune and the\lmeans to vanish off the map.
+4462e5|{C1920}That led to what you all\nknow: TEAM ROCKET.
+44631e|{C1920}Later, when {V01}\nentered the POKéMON MANSION and\lrecovered MEWTWO, OAK confirmed\leverything to me.
+446386|{C1920}He had to act in a way that would\nfool everyone, even me.
+4463cd|{C1920}Now it was in my hands to decide\nwhat to do. Act like LANCE, or\lforgive my greatest rival.
+44642c|{C1920}The rest is history.
+446445|{C1920}2 years later, look at everything\nwe've achieved.
+446479|{C190E}And the best is yet to come.
+446498|{C1907}I still don't quite get it.
+4464b6|{C1907}How are you going to apply\n-PROJECT GOLD-?
+4464e9|{C1920}In the most direct way possible.
+446507|{C190E}By building detailed\nsimulations, based on the\lhighest estimates we\lget for each region.
+446574|{C1920}That's when we'll simulate our\nown teams as well.
+4465c6|{C1920}We'll enter them and\nface those perfect\ldystopias of HOENN, SINNOH and\lthe other regions.
+44662c|{C1907}And{C080F}…{C080F} if you win, that guarantees\nthose regions could never\lsuccessfully wage war on you,\lright?
+4466b1|{C190E}Exactly.
+4466bc|{C190E}And that's something we should\nalready have achieved with the\llevel III prototypes.
+446710|{C1907}Well, those prototypes couldn't\neven handle us.
+44674a|{C190E}I know. DAISY told me.
+44676c|{C190E}What you've achieved is exceptional.\nJust being here is.
+4467c5|{C1907}If your plan really succeeds, we\nmight see something that surprises\leveryone. Maybe something we can't\lstand up to.
+44684a|{C190E}As of today, that's just\nspeculation.
+446872|{C190E}First, ANDRA, you must see all\nthat our tangible world offers.
+4468ba|{C1920}You've both reached\nunthinkable heights.\pThere's just one thing that worries\nus.
+446907|{C190E}What would be more worthy of\nrepresenting our reality?
+446946|{C190E}Your teams, forged on bond\nand will?
+446986|{C190E}Or technology capable of emulating\nthe limits of attainable power?
+4469cc|{C1907}We'll find out.
+4469e1|Looks like there are still\nfacets left to discover.
+446a0e|Reality is astonishing.
+446e0f|{C1920}At this level, we could have beaten\nthe ESSENCE POKéMON that day. Every\lone of us here, not just {V01}.
+446e83|{C1920}But{C080F}…{C080F} you two have gone even further.\nHow?
+446ebb|{C1907}DUN TOWER's MASTER explained it.
+446ee2|{C1907}That day, the limits of\npower expanded.
+446f13|{C1907}Maybe it changed aspects of how\nthings work that we can't yet\lperceive.
+446f65|{C1907}Honestly, I don't care.\nNot anymore.
+446f92|{C1920}Your attitude surprises me.\nDon't you see, ANDRA?
+446fc8|{C1920}With this, we could get ahead of\nany possible war.
+447008|{C1920}No power in the world will ever be\nable to do what LANCE did again!
+44704e|{C1907}And by the same token, there'll be\nno force to stop you from doing\lthe same.
+44709e|{C190E}Why{C0805}…{C0805} how dare you? After\nall we've been through to get\lto this point.
+4470fc|{C190E}Do you really think we're going to\nthrow it all away now?!
+44713d|{C1907}Many of the greatest atrocities\nhave been committed under the\lbanner of noble causes.
+447195|{C1920}That will never happen.\pWe'll fight to keep the process\ntrue to the ideas that built it.
+4471ff|{C1907}I hope so.
+44720e|{C1907}Because, besides{C0819}…{C0819} there are still\nmysteries to solve in the real world.
+44725b|{C1907}You were right, GIOVANNI.
+447276|{C1907}DEVON was after REGIGIGAS, and in\nthe SEALED CHAMBER we faced\lsomething on a scale similar to\lyour -ULTIMATE PROJECT-.
+4472f0|{C190E}Where are you going?
+4472ff|{C1907}Nothing keeps me here now.\nI'll continue my search.
+447334|{C1920}And this place?\nWhat about everything you've seen?
+447369|{C1920}Aren't you curious to know what it\nfeels like to wield this power?!
+4473c4|{C1907}Tell me something.\nWhat became of your RHYPERIOR-&?
+4473f8|{C1920}It{C0819}…{C0819} wasn't{C0819}…{C0819} strong enough.\nIt was left behind.
+447434|{C1907}There's your answer: there's no\nplace here for me.
+44746b|{C1907}In this place, within these walls,\nthe essence stays hidden from the\lsenses.
+4474bb|{C190E}Perhaps this is exactly\nthe way you can best contribute\lto our progress.
+44755b|{C190E}What is it?
+447570|{C1920}The PRESIDENT of DEVON.
+44758b|{C1920}He's making a big announcement\nin MOSSDEEP CITY.
+4475bf|{C1920}It's everywhere. Quick, put on\nany news channel!
+447607|{C1933}On the eve of the new millennium,\nI'm pleased to announce that we are\lfully ready for the first launch\lto the moon.
+447688|{C1933}HOENN's history has been written\non an insatiable desire to master\lnature and reach ever greater\lheights.
+44770d|{C1933}We have already ventured deep into\nthe depths of both the earth and\lthe ocean.
+447760|{C1933}Now, continuing the legacy left by\nour ancestors{C0819}…{C0819} it is time to\lventure into the infinity of the\lsky.
+4477dd|{C1933}It will take place on January 1st,\n2000: a symbolic date that will\lusher in a new era.
+44783e|{C1933}We are living in interesting\ntimes. Long live HOENN.
+44787f|{C1934}I have an arrest warrant for\nthe owner of the MAUVILLE GAME\lCORNER.
+4478ce|{C1934}She is a dangerous criminal who\nhas interfered with this region's\lprogress.
+44791f|Forgive us, but she hasn't been\nhere for weeks.\pWe don't know anything about her.
+44796f|{C1934}I thought so. In that case{C080F}…{C080F}
+447991|{C1934}From now on, the GAME CORNER will\nbe under DEVON's control.
+4479c8|{C1934}The first step will be to remove all\nthose non-native POKéMON from\lthe prize list.
+447a1a|{C1934}HOENN will remain pure and{C080F}…{C080F}\nunder control.
+447a4c|Well, this is LITTLEROOT TOWN.
+447a67|What do you think? Like it?\nThis is where we're going to live!
+447a96|It's a quaint place, but I think we\ncan live very happily here, eh?
+447ae1|And you even have your own room!\nLet's go inside!
+447b17|{C1935}This is my phone number.
+447b39|{C1935}Call me if anything comes up.
+447b60|{C1935}I hope you learn and\ngrow on this journey.
+447b91|{C1935}Because, despite everything{C0823}…{C0823}\nthere's no more truth out there\lthan in the small world you'll be\lmoving through.
+447bfe|{C1935}Nothing you'll see will be fake.\nIt'll just be{C0823}…{C0823} properly controlled.
+447c5a|Great events give great men their\nchance at glory, and common folk a\lbreak from their lives.
+447cce|When a person faces fear, their soul\nis put to the test. You can see what\lthey pursue, what they were born for.\lTheir true essence is laid\lbare.
+447d85|These days, most people die of a sort\nof creeping common sense, and\ldiscover when it's too late that the\lonly things we never regret are our\lmistakes.
+447e56|If that idiot ZEUS had understood\nthat, he'd still be alive.
+447e99|The whole is not merely the sum of its\nparts; the whole expresses a tapestry,\lan image, irreducible by its very\lnature; a force of vital energy in\litself.
+447f7a|The original form of REGIGIGAS, the\none that towed continents with\lropes.
+447fca|Not only does it have the highest\nATTACK ever recorded -255-, research\lalso suggests this figure can't be\lexceeded; if so, we'd be looking at\lthe absolute limit attainable for a\lsingle STAT.
+44808f|With defenses similar to REGISTEEL's,\nand SP. ATK and SPEED similar to\lREGIROCK's, its PRIMAL form adds\l+150 to its base form's total, just\las with our level II and III\lprototypes.
+448164|From here, comparisons with ULTIMATE\nPROJECT become inevitable, since\lboth have similar power, and both\lare very close to that of the 3\lCREATORS.
+448212|REGIGIGAS-P\pHP: 165\nATTACK: 255\lDEFENSE: 150\lSP. ATK: 50\lSP. DEF: 150\lSPEED: 50\lTOTAL: 820\pTYPE: NORMAL/GROUND\nABILITY: MOLD BREAKER
+4482db|A POKéMON born of its TRAINER's\nunbreakable will, achieving the\limpossible by beating PRIMAL KYOGRE\lin single combat.
+448362|The degree of introspection needed\nto reach the STRONG BOND state in the\lmiddle of that battle earned it the\lPSYCHIC TYPE, gaining in the process\lseveral of the LEGENDARY's traits,\lsuch as its signature ORIGIN\lPULSE.
+448458|Its SP. ATK is similar to base-form\nKYOGRE's, and its SP. DEF, key to its\lvictory, comes close to REGICE's.
+4484c3|In terms of useful STATS, it\ncuriously ties with GYARADOS-Z, one\lof the most powerful level II\lprototypes.
+448538|MILOTIC-&\pHP: 115\nATTACK: 65\lDEFENSE: 79\lSP. ATK: 150\lSP. DEF: 195\lSPEED: 91\lTOTAL: 695\pTYPE: WATER/PSYCHIC\nABILITY: VOLT ABSORB
+4485e0|JIRACHI-&\pHP: 110\nATTACK: 50\lDEFENSE: 155\lSP. ATK: 155\lSP. DEF: 155\lSPEED: 100\lTOTAL: 725\pTYPE: STEEL/FAIRY\pABILITIES:\nLEVITATE/SERENE GRACE/MOLD BREAKER\pThe first recorded STRONG BOND\nLEGENDARY.\pFormer ADMIN ANDRA, in her search for\ntruth and virtue, ended up forming a\lbond with a kind of POKéMON she never\lwould have imagined.\pThe result is astonishing: even with a\ntotal of 725, the efficiency of its\ldistribution could place it in the\llevel III prototype range, with more\luseful stats than MEWTWO's MEGAS.\pIts STEEL/FAIRY + LEVITATE combination\ngives it one of the best ratios of\lresistances to weaknesses that can\lexist.\pOnly fire can harm it.
+4488ca|RELICANTH-P\pHP: 110\nATTACK: 110\lDEFENSE: 140\lSP. ATK: 55\lSP. DEF: 75\lSPEED: 105\lTOTAL: 585\pTYPE: WATER/ROCK\pABILITIES:\nROCK HEAD/STURDY/SWIFT SWIM\pThe closest thing to RELICANTH's true\nform in the wild, recreated thanks\lto the DEVON STONE.\pIt's believed to be the key that let\nDEVON break into the SEALED CHAMBER.\pA little slower and less offensive\nthan BARRASKEWDA, but infinitely\lmore durable.\pIt can still hit with HEAD SMASH\nwithout recoil. All in all, that\lmakes it a POKéMON to be reckoned\lwith even by today's standards.
+448b50|This very armor is what\nlimits its SPEED.
+448b83|Its ability makes it a POKéMON with\nno weaknesses, since its armor\lfilters all super-effective moves,\lmaking them neutral.
+448c18|Its psychic powers are unrivaled. It\nreaches such a level of efficiency\land raw power that it's on par with\lthe 3 GREAT CREATORS in terms of\luseful STATS.\pIf we ignore its ATTACK of 110, its\nother 5 STATS average 144, just\l6 points short of ARCEUS-P's 150.
+448d26|A POKéMON created for the sole\npurpose of defending the region\lagainst any attack.
+448d74|ULTIMATE PROJECT\pHP: 126\nATTACK: 110\lDEFENSE: 154\lSP. ATK: 216\lSP. DEF: 154\lSPEED: 90\lTOTAL: 830\pTYPE: PSYCHIC/STEEL\nABILITY: ULT. ARMOR
+448e4e|The most advanced form of PORYGON,\nusing radio wave technology on\lPORYGON2. It already falls among\lthe level II prototypes.
+448eda|BILL came up with a brilliant fix for\nPORYGON's historic weakness in\lphysical DEFENSE: instead of losing\lefficiency trying to force it up, he\lmanaged to give PORYGON 3.1 FLUFFY\las its ABILITY.
+448fbe|This way, its DEFENSE of 65 works out\nto around 120-140 in practice, up to\la cap of 165 if fully invested in.\pBut what's interesting about this\nABILITY is that it lets you invest\lthose +150 points entirely in its\lother STATS, maximizing them to\llevels unheard of for PORYGON.
+4490e8|That's why it has more SP. ATK and\nSPEED than the original PORYGON 3,\las well as better bulk.
+44914d|Even so, the NORMAL/GHOST typing and\nkeeping ADAPTABILITY as its ABILITY\lstill keep the old version\lrelevant.
+4491d0|PORYGON 3.1\pHP: 105\nATTACK: 70\lDEFENSE: 65\lSP. ATK: 165\lSP. DEF: 115\lSPEED: 145\lTOTAL: 665\pTYPE: NORMAL/PSYCHIC\nABILITY: FLUFFY
+449277|ARMALDO-P\pHP: 75\nATTACK: 155\lDEFENSE: 120\lSP. ATK: 70\lSP. DEF: 100\lSPEED: 75\lTOTAL: 585\pTYPE: ROCK/BUG\pABILITIES:\nWEAK ARMOR/ANGER SHELL/SWIFT SWIM\pThe closest thing to ARMALDO's true\nform in the wild, recreated thanks\lto the DEVON STONE.\pA highly dangerous POKéMON. It regains\nthe SPEED it had as ANORITH; while\lstill lacking -75-, it can double it\lwhen hit by physical moves (WEAK\lARMOR) or in the rain.\pIts solid DEFENSE makes that easier,\nleaving an ATTACK of 155 able to\lflatten whatever stands in its way.
+4494d5|GUARDIA\pHP: 105\nATTACK: 95\lDEFENSE: 145\lSP. ATK: 60\lSP. DEF: 95\lSPEED: 60\lTOTAL: 560\pTYPE: GROUND\pABILITIES:\nROCK HEAD/SCRAPPY/PARENTAL BOND\pMAROWAK's evolution, reached by only\n0.1% of the evolutionary line, as it\lrequires extreme longevity and\ltraining.\pIt gains several traits of\nKANGASKHAN, such as SCRAPPY and\lsimilar HIT POINTS.\pIt also fully keeps MAROWAK's ability\nto make use of the THICK CLUB.\pOverall, it combines the best\nqualities of the entire CUBONE-\lKANGASKHAN line. In rarity and power,\lit reaches a status similar to\lPOKéMON like VOLCARONA or TRXATU in\lother regions.
+44979a|Its origins are unknown.\pIt's believed that, somehow, it\nevolves from DUDUNSPARCE.
+4497f0|It falls a hair short of a PSEUDO-\nLEGENDARY's total. Even so, in\lpractice its STAT distribution is\lbetter than any of theirs, with only\l43 points in SPECIAL\lATTACK.
+4498bb|It bears strange and very surprising\nsimilarities to ZYGARDE, such as\lsimilar DEFENSE, the ability to use\lTHOUSAND ARROWS and, above all, both\lbeing bound to the ground, forced to\lcrawl upon it.
+449983|WRONGSPARCE\pHP: 141\nATTACK: 131\lDEFENSE: 121\lSP. ATK: 43\lSP. DEF: 98\lSPEED: 65\lTOTAL: 599\pTYPE: NORMAL/GROUND\nABILITY: GRASSY SURGE
+449a23|Members of the dragon clan may only\nuse DRAGON-TYPE POKéMON if the\lMASTER allows it.
+449a9b|Dragons are sacred POKéMON.\nThey're full of life energy.\pIf you don't stay serious,\nyou won't be able to beat them.
+449b22|You say you've already met LANCE the\nDRAGON TAMER? That's not possible…
+449b71|I'm in very strict training with\nCLAIR. Lucky for you that you won\lthe RISINGBADGE already!
+449be4|You seem to have battled dragons a\nlot already. Most people who set\lfoot in this GYM see a dragon for the\lfirst time here. It's a rare and\lpowerful type.
+449c8d|Oh, a challenger. Wait! You already\nhave the RISINGBADGE!
+449cc6|I'd swear no challenger has ever\nmanaged to defeat CLAIR, and our\lELDER MASTER retired undefeated.\lHow is that possible?
+449d6e|CLAIR disobeyed the DRAGON MASTER's\norders and opened the GYM funded by\lLANCE.
+449dd0|Our MASTER has lost all hope in her\nfuture. She's become conceited,\larrogant and selfish. Luckily, she's\lnot as good a TRAINER as LANCE, even\lif she thinks she's CHAMPION\lmaterial.
+449e97|Someday someone will come along and\ntake her down a peg.
+449ee1|My son is special. PROF. ELM says he\nhas the power to change the POKéMON\lWORLD. Isn't that great?
+449f54|My husband is always so busy. I hope\nhe's doing okay.\pWhen he's absorbed in his POKéMON\nresearch, he even forgets to eat.
+449fe6|When I grow up, I'll help my dad!\nI'm going to be a great POKéMON\lprofessor!
+44a04a|I wish I were a researcher like him…
+44a071|PIKACHU is an evolved POKéMON.\pPROF. ELM's discovery really\nimpressed me.\pHe's very famous for his research\non POKéMON evolution.
+44a115|No one could get into this lookout\npost without our permission.
+44a16b|This place is a gift from nature,\nthat anyone can admire without\lpaying a single $.
+44a31a|Well, what a surprise. Who are you?
+44a34b|KANTO, huh? You've come a long way.
+44a36f|I used to live in ARCHI7. I decided\nto move to JOHTO when they closed\lthe GYMS.
+44a3bf|Back then, people talked about how\nmuch those two regions resembled\leach other, though less of that\lremains every day.
+44a42a|I wonder if ARCHI7 has changed that\nmuch too. There's only one thing I\lregret…
+44a489|Not being able to find my late\nPOKéMON's CHARM.
+44a4ca|I lost it one day, deep in the\nBERRY FOREST, and never saw it again.
+44a515|That was over a decade ago.\pI suppose… I'll have to accept that\nit's lost forever.
+44a57d|{V01} gave the OVAL CHARM\nto the CHANNELER!
+44a5a6|No{C080F}…{C080F} it can't be{C080F}…{C080F} I'm holding it\nin my hands again.
+44a5e7|This is{C080F}…{C080F} amazing. Only someone who knows\nall the mysteries of THREE ISLAND\lcould have found it.
+44a650|Sadly, some of those mysteries have\nbeen buried forever, and live only\lin the memories of a few. I can show\lyou one of those mysteries.
+44a6f8|You received a Lv.80 MARSHADOW!
+44a71d|According to THREE ISLAND's former\nLEADER, seeing one is 100 times rarer\lthan finding a shiny POKéMON.
+44a785|An explorer like you is surely just\nwhat this POKéMON needs.
+44a7cd|Sometimes I wonder what became of\neverything I left behind in ARCHI7,\lbut I never feel ready to go back\lthere.
+44aa0d|{C1906}My, how extraordinary.
+44aa26|{C1906}I'm pleased to know I'm not the only\none who ventures beyond the law.
+44aa73|{C1906}This place, like others in the\narchipelago, is a mystery.
+44aab7|{C1906}I come from a distant region, and\nI've found that many of its species\lcan be found here too.
+44ab25|{C1906}Investigating this curious link is\nwhat led me to stay in this hidden\lclearing.
+44ab85|{C1906}You seem to be a restless soul too,\nam I right? Perhaps you've found\lsomething that could help me with\lmy research.
+44ac23|{C1906}If you think you've found something\nthat could shed light on my\lresearch, come and see me.\pI'll reward you with a very special\nPOKéMON.
+44aca2|{C1906}Have you discovered something?
+44acc9|{C1906}Hmm{C080A}…{C080A}\pThat METEORITE{C080A}…{C080A}\pTell me, where is it from?
+44ad0f|{C1906}SHIFTING CAVE, you say.\pVery interesting.
+44ad3c|{C1906}I believe this is just what I was\nlooking for. With it, I'll be closer\lto finding the reason for all this\lbiodiversity.
+44adb6|{C1906}{V01} handed the METEORITE to the\nmysterious SCIENTIST!!
+44aded|{C1906}Oh! Surprising. You hand it over\nwithout hesitation; that means that,\las a TRAINER, you must feel complete.
+44ae5f|{C1906}In the end, my goal is to develop\nPOKéMON's potential to the fullest,\land you've brought me closer to it.
+44aed9|{C1906}Please accept this POKéMON as a\ntoken of my gratitude.
+44af22|You got a Lv.50 DURALUDON!!
+44af46|{C1906}This POKéMON is worth studying,\nbelieve me. It doesn't get along\lwith TYRANITAR, and according to my\lprogress, it can reach even greater\lpotential.
+44afd3|{C1906}How?\pThat's a complete mystery, at least\nfor now.
+44b012|{C1906}If there truly is a peak that can't\nbe reached by bonding with POKéMON,\lit's reasonable to think it can be\lreached by scientific rather than\lsentimental methods.\pWouldn't you agree?
+44b0f3|TWINLEAF TOWN\nHope you like it and stay!
+44b12c|DAWN'S HOUSE
+44b144|LUCAS'S HOUSE
+44b15f|Everyone heads off in search of\nadventure and grows up on the way…
+44b1d1|Technology overwhelms me! I really\ndon't understand how it works!\pTell me, how can you play with people\nall over the world… without cables?!
+44b263|POKéMON LAB
+44b282|POKéMON CENTER\nWe heal your POKéMON!
+44b2b4|POKé MART\nItems for every occasion!
+44b2f1|SANDGEM TOWN\nBecause there's sand!
+44b31c|BARRY'S HOUSE
+44b352|I don't want to forget what I've done\nso far, so I'd better save…\pThere! What a relief!\nNow I can breathe easy.
+44b3dd|POKéMON are cool!\nAren't they just so cool?\pYou take them into battle and\nthey keep getting stronger!\pI wish I had one!\nOr more! They're so cool!
+44b485|JUBILIFE CITY\nWhat a joy to live here!
+44b4b8|POKéMON DOJO\nStart from the beginning!
+44b4e8|JUBILIFE CONDOMINIUMS\nTenants wanted!
+44b51b|JUBILIFE TV\nFun TV!
+44b543|POKéTCH CO.\nWatches for the world!
+44b577|I'm going to trade a POKéMON\nwith my friend right now.
+44b5bb|Before trading my POKéMON, I gave\nit an item to take along.\pThat way the other TRAINER will be\ntwice as happy with the trade!
+44b673|Hi! Let me ask you something:\nhave you been to the TV studios yet?\pIf you haven't, I think you should.\nYou'll like it, you'll see.\pAnd if you've been there before, you\ncan go back. Seconds never hurt!\pAfter all, you could become a star!\nOr dream of being one!
+44b861|Did you see me on TV? Did you?\nThey interviewed me!
+44b8ab|The more time you spend with your\nPOKéMON, the closer you become.\p(...)\pIt's funny. You haven't had those\nPOKéMON long, but you seem to have\la lifetime of experience behind\lyou.
+44b970|CANALAVE CITY\nTransport port
+44b99d|BAY TAVERN…\nThe text is illegible.
+44b9cd|CANALAVE LIBRARY
+44b9e9|SAILOR ELDRITCH'S HOUSE
+44ba0e|CANALAVE PIER
+44ba26|CANALAVE CITY POKéMON GYM\nLEADER: BYRON\lThe man with a body of steel!
+44ba81|What? You know about IRON ISLAND?\pIt's northwest of here.\pIt used to be an iron mine. Now\nit's almost deserted.
+44bb05|Welcome to CANALAVE CITY,\pthe city of the canal!\pLong ago, this port was used as\na transport hub.
+44bb8e|My PSYDUCK is really attached to me.\pThat makes its RETURN move more\npowerful!
+44bbf3|I'm going to the library to study.\pI've gotten into reading about time\nand space.
+44bc55|The LEADER and TRAINERS of this GYM\noften go to IRON ISLAND.\pThey don't just train their POKéMON,\nthey get a workout too.
+44be4e|OREBURGH CITY\nThe energy city
+44be7c|OREBURGH CITY POKéMON GYM\nLEADER: ROARK\lThe Rock to my friends!
+44becf|OREBURGH MINING MUSEUM\nThe adventure of mining
+44bf13|It's lucky we can teach a TM as many\ntimes as we want.\pImagine how hard it would be to\ndecide if you could only use it once!
+44bfaf|The GYM LEADER is young, but he's in\ncharge of safety at the mine.\pHe's an expert in many fields!
+44c02d|When I go out in my sneakers, I'm\nthe center of attention!\pOr so it seems to me. There's\nalways someone looking at me.
+44c0b7|Have you seen the chimneys?\nThey vent steam from below.
+44c0f9|Natural time capsules buried\nages and ages ago…\pThat's what FOSSILS are.
+44c159|Up ahead is a huge mountain that\ntowers over the whole area.\pIt divides SINNOH in two.
+44c1c6|PICK A PECK OF COLORS\nFree Berries
+44c1f4|FLOAROMA TOWN\nFull of scent and color
+44c227|FLOAROMA MEADOW just ahead\nIf you want HONEY, we've got it!
+44c26d|You're in FLOAROMA, the town of\nflowers! There are flowers everywhere!\pI love planting flowers! You should\nplant some too!
+44c302|Have you heard of GRACIDEAS?\pThey're flowers given in bouquets to\nexpress gratitude.\pIt's a tradition that's been honored\nfor many years around these parts.
+44c3b4|I came here drawn by the sweet scent\nof honey… like I'm some POKéMON!\pShould I be worried about liking\nthe smell of honey this much?
+44c44f|I love this place… It's a pleasant\nsetting that lifts your spirits.\pYou came looking for some emotional\nhealing too, right?
+44c4fa|ETERNA CITY\nHistory lives on
+44c525|Game center and housing\nName Rater
+44c55e|UNDERGROUND MAN'S HOUSE\nThe underground adventure!
+44c598|TEAM GALACTIC ETERNA BUILDING\nWe want your POKéMON!
+44c5e3|ETERNA CITY POKéMON GYM\nLEADER: GARDENIA\lMaster of GRASS-TYPE POKéMON
+44c643|RAD RICKSHAW'S CYCLE SHOP\nStart pedaling!
+44c67b|Feeling the wind in your face while\nriding a BIKE is really nice, right?
+44c6f2|They say this is an ancient city, but\nit doesn't look it, with so many tall\nbuildings.
+44c7aa|ETERNA CITY has changed so much over\ntime. It's not what it used to be.\p(...)\pOh! So this is familiar to you from\nother regions too? You're saying it's\lthe whole world that's changed?\pInteresting.
+44c881|They say it's an incredible POKéMON\nthat existed in ancient times.
+44c8d0|CELESTIC TOWN\nThe past lives on
+44c8fc|Hey, you know what they say?\pThey say a POKéMON created the\nSINNOH region.
+44c950|There's no POKé MART in this\ntown.\pBut you can buy and sell items in\nthat house over there.
+44c9c3|What's up?\nStudying local history?
+44c9f4|SOLACEON TOWN\nNo rush, no stress!
+44ca26|POKéMON DAY CARE\nWe look after your POKéMON!
+44ca5d|POKéMON NEWS PRESS\nWanted: professional POKéMON hunter!
+44caa5|Breathing such pure air perks up\neven POKéMON, don't you think?
+44caf8|You have your story, and every\nPOKéMON has its own.\pWhen you meet, the two become\nintertwined.
+44cb67|I'm still really little, so I'm not\nvery good at battling.\pThe DAY CARE lady is really nice\nand looks after my POKéMON for me.
+44cbf5|I go to the LOST TOWER every\nSunday…
+44cc2c|Hello, globetrotter!\nThere's nothing at all here.\pWell, nothing except lots of time\nto overthink things, but anyway…\pOh, right, we have the ruins.\nWhy don't you go see them?
+44cce9|I run the DAY CARE.\pWe look after some TRAINERS'\nPOKéMON here.\pIf you want me to look after one,\ntalk to my wife.
+44cd84|There used to be nothing here but a\nroad.\pOver time, POKéMON and people\nsettled here until it became a town.
+44ce2c|HEARTHOME CITY POKéMON GYM\nLEADER: FANTINA\lThe enchanting dancer
+44ce7f|POKéMON CONTEST HALL\nStars wanted!
+44ceb2|AMITY SQUARE West Gate
+44cedb|AMITY SQUARE East Gate
+44cf04|You train POKéMON, right?\pWell, this city has a GYM. You\ncan head over there.
+44cf6d|A professor friend of mine told me\nsomething really interesting.\pIf you leave two POKéMON at the DAY\nCARE, sometimes eggs turn up.\pOr at least, things that look like\neggs.\pI wonder what became of my friend,\nPROFESSOR ELM…\pHe was always very quiet. He never\nreally stood out.
+44d092|HEARTHOME CITY\nWarm and welcoming
+44d0eb|I came from HOENN to take part in the\ncontests.\pI thought finding the CONTEST HALL\nwould be easy, but I got lost.\pThe people here are so kind, someone\nwalked me right to the entrance.\pHonestly, their kindness really left\nan impression on me.
+44d1f3|My daughter is growing up so fast!\pI wonder what kind of POKéMON she'll\nlike…
+44d24e|Dad! Mom!
+44d2a2|I don't know which accessories to\ndress my POKéMON in.\pThere are way too many kinds.
+44d306|When I get married, I'd like to live\nin HEARTHOME CITY.\pBut my boyfriend wants to live in\nVEILSTONE CITY for its GAME CORNER…
+44d386|I went for a stroll with my PACHIRISU\nin AMITY SQUARE.\pI found this feather on our\nwalk.\pDo you think it would look good on\nmy PACHIRISU?
+44d424|I lived alone in the mountains for\nover thirty years.\pI'll sweep the contests with a\ndance I invented up there.
+44d4b1|At the LOST TOWER, people pour out\nunbearable sorrows…\pYou'll understand what I mean if you\nvisit. It's on ROUTE 209.
+44d53a|I see POKéMON all day, but I don't\nknow for sure how many species\lthere are.\pDo you?
+44d59f|This place is beautiful.\nMaybe even too beautiful.\pPOKéMON, people and nature live\ntogether here in perfect harmony.
+44d61d|I've battled a fascinating girl\nTRAINER again and again.\pShe asked me if I liked her.\nGuess it showed! Ha ha ha!
+44d6a9|When I take my son out for a walk, I\nsee the city with different eyes.\pThere are so many potholes and so\nmany stairs…
+44d72d|Goo goo, ga ga!
+44d74b|PACHIRISU: Chipa!
+44d770|TORCHIC: Cheep cheep!
+44d798|KLEAVOR: Vor!
+44d7b3|PASTORIA CITY POKéMON GYM\nLEADER: CRASHER WAKE, the\lmasked torrential master
+44d81e|PASTORIA CITY\nThe city of marshes
+44d852|Venture into the GREAT\nMARSH SAFARI!
+44d889|I came to see the GREAT MARSH.\nI'm staying at the hotel by the\llake.
+44d900|Some TRAINERS stop their POKéMON\nfrom evolving on purpose…\pThat way, they learn certain moves\nas they level up.
+44d98b|The GYM LEADER is amazing.\pI heard he competes in professional\nwrestling matches.
+44da11|Look at me, right in the middle of\nit all. That's where I belong.
+44da5a|Been to the POKéMON MANSION yet?\nIt's on ROUTE 212.\pThe owner, MR. BACKLOT, loves to\nshow off the unusual POKéMON he\lhas.
+44daf6|Thanks to the GREAT MARSH, it doesn't\nget too hot here in summer.\pThat's why this is a good city for\nWATER-TYPE POKéMON.
+44db7c|I study POKéMON that can only be\nfound in the GREAT MARSH.
+44dbd0|VEILSTONE CITY GAME CORNER\nThe place everyone's talking about!
+44dc1c|VEILSTONE CITY GALACTIC BUILDING\nWe dream of the universe!
+44dc65|GALACTIC WAREHOUSE\nNO ENTRY!
+44dc94|VEILSTONE DEPARTMENT STORE\nThe store that makes dreams come true
+44dcea|VEILSTONE CITY\nCarved out of stone
+44dd18|VEILSTONE CITY POKéMON GYM\nLEADER: MAYLENE\lThe barefoot fighting expert
+44dd71|Prize Exchange\nTrade your coins for prizes
+44ddb1|Don't miss the view of LAKE VALOR!\nFollow ROUTE 214 and turn right
+44de09|A man came up and spoke to me in\nanother language.\lWhat a surprise!\pI think he was asking if I like\nPOKéMON or something.
+44dee3|I got a TECHNICAL MACHINE after\nvisiting the GAME CORNER.\pI used it on my POKéMON right away!
+44df69|The GAME CORNER is super dangerous!\pWhy? Because it's so much fun you\nlose all track of time!
+44dfdd|MAYLENE is VEILSTONE CITY's LEADER.\nCRASHER WAKE is PASTORIA CITY's.\pThey're too strong for me.\nRight now they're light-years ahead.
+44e06e|I bought a new parasol. I don't want\nthe rain to ruin it, so I check the\lweather channel before going out.
+44e0ef|I came to the city just to shop at\nthe DEPARTMENT STORE.\pThough these stone walls take some\nof the charm out of the visit.
+44e17f|TEAM GALACTIC is hiding all sorts of\nitems in their WAREHOUSE.\pI think they even have a HIDDEN\nMACHINE in there.
+44e20c|SUNYSHORE CITY\nSolar powered!
+44e239|Space available…\nYour ad here!
+44e275|VISTA LIGHTHOUSE\nThe light that shines on SINNOH
+44e2a6|SUNYSHORE MARKET\nA wide range of world Seals!
+44e2e4|JULIA'S HOUSE\nBeautiful RIBBONS for POKéMON
+44e319|POKéMON Rock\nSUNYSHORE CITY's cultural heritage
+44e352|SUNYSHORE CITY POKéMON GYM\nLEADER: VOLKNER\lThe shining, shocking star
+44e3b1|This is an important coastal city\nand…\pthe gateway to the POKéMON\nLEAGUE.
+44e406|The city uses a lot of electricity,\nespecially the LIGHTHOUSE and GYM.\pSo it was decided to turn part of\nthe city's streets into giant\nsolar panels.\pSUNYSHORE CITY is very sunny, so the\nsystem works perfectly.
+44e4fa|People and POKéMON adapt to any\nenvironment.\pWe all do it to survive.
+44e563|That giant rock…\nIsn't it actually a POKéMON?
+44e5a0|The GYM LEADER uses way too much\nelectricity!\pHe needs to think about the city's\nneeds too!
+44e61f|Wild POKéMON lurk in tall grass\nand catch you by surprise.\pSo if you want to battle one of\nthem, walk through the tall grass.\pAnd if you want to avoid wild\nPOKéMON, stay away from the grass.
+44e73f|TRAINER Tips!\pDon't be shy! Talk to everyone you\nmeet along the way.\pPeople will give you really valuable\ninformation and advice.
+44e87a|TRAINER Tips!\pWhen a POKéMON takes part in a\nbattle, it earns Experience Points.\pThe more your POKéMON battle, the\nstronger they'll become.
+44e96d|TRAINER Tips!\pPOKéMON moves use up energy that's\nmeasured in Power Points.\pIf a POKéMON runs out of PP, take it\nto a POKéMON CENTER.
+44ea29|TRAINER Tips!\pIf you want, you can stop a POKéMON\nfrom evolving.\pPress the B Button during evolution\nto startle the POKéMON.\pThat will stop the process.
+44eaec|You should put your favorite POKéMON\nfirst in line for battle.\pDon't you think?
+44eb46|If you don't have at least one GYM\nBADGE, you're a nobody…\p(...)\pYou don't think that's true?\pYou won more than 20 BADGES, and you\nsay that doesn't prove anything?\pLiar! It's impossible to win that many!
+44ec1b|I walk through the tall grass until\pI find the POKéMON I want.
+44ec8e|DESOLATE PATH
+44ecf6|TRAINER Tips!\pItems you put in your BAG are\nautomatically placed in the right\lpocket.\pIt's a really handy BAG!\nA TRAINER's best friend!
+44edb1|Listen closely…\nCan you hear the POKéMON's cries?
+44edf4|Lots of POISON-TYPE POKéMON live in\nETERNA FOREST.\pBut I didn't buy any Antidotes… Now\nI don't know whether to go on or back.
+44eed3|TRAINER Tips!\pPOKéMON may not be able to act if\nthey fall asleep or get paralyzed.\pIf it happens to one of your\nPOKéMON, it could be disastrous.\pIf it happens to your rival, seize\nthe chance!
+44efd0|TRAINER Tips!\pAfter planting a Berry, check the\ncolor of the soil.\pIf it's dark, that means it has\nenough moisture.\pIf it's light, water it a little.
+44f093|BERRY MASTER'S HOUSE\nFree BERRIES!
+44f131|TRAINER Tips!\pYou can register an item from your\nBAG to the Y Button for easy access.
+44f213|CAFE CABIN\nFreshly milked milk
+44f240|If they had to fly all the time, bird\nPOKéMON would end up falling.
+44f32b|TRAINER Tips!\pEven veterans lose their way in the\ndepths of MT. CORONET.\pBefore heading in, it's a good idea\nto make sure you have enough\lmedicine and items.
+44f427|TRAINER Tips!\pYou can rearrange the contents of\nyour BAG by pressing SELECT.
+44f48b|TRAINER Tips!\pIf you get stuck in mud, chances are\nyou'll be there for a while.\pBut don't panic, just keep\nmoving.\pYou can't ride a bike on marshy\nground.
+44f56d|Parts wanted\nMoves taught to POKéMON
+44f5ab|MR. BACKLOT, owner of the POKéMON\nMANSION, loves having visitors.\pI think it's because there's\nsomething he wants to show off.
+44f63c|Have you been to the GREAT MARSH yet?\nWhat about the POKéMON MANSION?\pWherever I go, I always see totally\nnew and different POKéMON.\pIt's a privilege that makes me feel\nreally happy.
+44f6f6|POKéMON MANSION\nFor the contemplation of POKéMON
+44f782|DR. FOOTSTEP'S HOUSE\nFootprints say it all
+44f7ba|HOTEL GRAND LAKE\nAnother world at LAKE VALOR
+44f83a|I'm proud to have POKéMON no one\nelse has.\pAnd also of winning second prize in\nthe JUBILIFE TV drawing contest.
+44f8e1|TRAINER Tips!\pPOKéMON moves are divided into two\nkinds: physical and special.\pThe strength of physical moves\ndepends on the ATTACK stat.\pThe power of special moves depends\non the SPECIAL ATTACK stat.
+44f9e3|Revenge is a dish best served\ncold.\pAnd hatred can be good. One can\nsurvive on hatred.
+44fa7e|SNOW LODGE\nNot much more than a warm bed
+44fb6c|If you don't know how to fish, you're\nmissing one of life's great pleasures.\pIf you don't know POKéMON, you're\nmissing out on all of them.
+44fbff|PAL PARK\nThe place of new beginnings
+44fc84|POKéMON Size Contest\nBig POKéMON wanted!
+44fcc6|PIKACHU Fan Club\nPikapikapikah! Pikapika?
+44fd12|ETERNA CITY
+44fd63|I met these MACHOP on ROUTE 207.\pAnd now they're my best partners!\nI wouldn't trust anyone else more!
+44fdde|Everyone who works in this mine\nbrings their POKéMON along.\pSo watch out! You might be challenged\nto a battle in every tunnel! Ha ha ha!
+44fe80|I saw some rocks suddenly start\nto move!\pThey were POKéMON that looked like\nrocks!
+44feea|FIVE FORKS RESTAURANT\nA treat for the palate
+44ff38|Everyone heads off in search of\nadventure and grows up on the way…
+44ffe9|I went off on an adventure with some\nPOKéMON a long time ago…\pThough… I only went to the next town.\nBut those were good times.
+4500a5|The lady at the counter heals POKéMON\nin the blink of an eye.\pHand over your POKéMON whenever you\nneed her help. Good as new!
+4501a1|That's right, that's right.\pPROF. ROWAN has been studying\nPOKéDEX systems with PROF. OAK.\pPROF. OAK is PROF. ROWAN's\nsubordinate. Hierarchically, of course.
+450256|If you run into a POKéMON, you have\nto throw a POKé BALL. No other way!\pNever leave home without one!
+45039a|POKéMON get stronger every time they\nbattle other POKéMON.\pBut at first, you should take it\neasy.\pHeal your POKéMON regularly at\nPOKéMON CENTERS as they level\lup.

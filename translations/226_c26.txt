@@ -283,3 +283,214 @@
 3fb1da|You're funny! I like you!\pOh!\pYou already have the PLAIN BADGE!\pThey say the previous LEADER was\nan eccentric. She can't have been\nmuch good.
 3fb2a9|I'm trying to beat WHITNEY, but…\nIt's depressing.\pAll right!\pIf I lose, I'll just try again!
 3fb355|Do my POKéMON think I'm pretty?
+3fb4c7|{C1906}No need to throw me out.\nI quit.
+3fb4f7|But there's no need to be like\nthat. We don't know any other\lTRAINER at your level. You could\lstay on as LEADER, just adapting\lto the times.
+3fb597|{C1906}That's not possible.\pEvery cause has its consequence,\nand my DARK-TYPE POKéMON need the\lright environment to keep growing.\lWithout it, they'll lose part of\lwho they are, and I won't allow my\lteam to degrade just for some\lpassing city fad for the\lNORMAL TYPE.\pTake care, all of you.
+3fb6bd|O{C080F}-{C080F}okay{C080F}…{C080F}\nIf you say so{C080F}…{C080F}
+3fb6e5|{C1906}A challenger?\pSorry, but you've come at a bad\ntime.
+3fb71e|{C1906}Normally I'd tell you my name is\nVALERIE, that I specialize in the\lDARK TYPE, and so on, but it's\lbeen a long time since this GYM\lserved its main purpose: battling.
+3fb7e1|{C1940}I'm retreating somewhere remote\nto keep training before I decide\lwhere to go next.
+3fb83c|{C1940}You want to battle anyway, just\nto test your POKéMON against\lmine?
+3fb8a3|{C1940}Interesting, but not enough.\pYou'll have to prove what you\nsay.
+3fb8ea|{C1940}If you've got what it takes,\nhave the nerve to go beyond the\ltrain tracks.\pThat's where you'll find me.
+3fb99f|These girls…\nThey're kicking up a real fuss\labout this GYM's TYPE. Seems most\lof them don't like DARK.\lI just want to see some good\lbattles!
+3fba37|Don't think I missed it!\nI saw you beat VALERIE!\lThe girls coming in will have to\limprove a lot to reach your\llevel!
+3fbadf|GOLDENROD CITY POKéMON GYM\nLEADER: VALERIE\pWINNING TRAINERS:\n(It's empty!)
+3fbb3b|GOLDENROD CITY POKéMON GYM\nLEADER: VALERIE\pWINNING TRAINERS:\n{V01}
+3fbbae|TEAM AS GYM LEADER IN\nLAVENDER TOWN
+3fbbde|DROWZEE - Lv.24\nCUBONE - Lv.25\lHAUNTER - Lv.27\lHYPNO - Lv.28
+3fbc2e|TEAM AS GYM LEADER IN\nTHREE ISLAND
+3fbc59|HYPNO - Lv.43\nHAUNTER - Lv.44\lMAROWAK - Lv.46\lGIRAFARIG - Lv.47\lHYPNO - Lv.49
+3fbe3e|{C1906}What do you think?\nNot badly preserved, right?
+3fbe6f|{C1906}I had my doubts. Normal people\nwould run screaming from a place\lthis gloomy.\pBut you're one of the few who'd\nexplore the BERRY FOREST purely for\lthe fun of it. Curiosity has\lbrought you here, further than the\lislanders themselves could ever\limagine.
+3fbf89|{C1906}You see{C0819}…{C0819} this was once an\nofficial GYM.\pBack when the islands had\n4 GYMS, I came here after the\lLAVENDER TOWN GYM was closed.
+3fc03f|{C1906}I soon became the strongest\nLEADER in the islands, stronger\leven than the LEADER of SEVEN\lISLAND.\pAll thanks to my beloved HYPNO.
+3fc0ca|{C1906}Our bond was unbreakable from the\nvery start, from when it was just\la little DROWZEE and I was a young\lman starting out on my adventure.
+3fc15f|{C1906}Once it became HYPNO, our PSYCHIC\npowers fed off each other. We\lwere perfectly in sync.\pThat led to something unheard of,\nthough apparently the elders of\lJOHTO know it well: my HYPNO's\lprogress didn't stop there. It\lkept getting stronger.
+3fc267|{C1906}However, its powers also became\nunstable and{C0819}…{C0819}dangerous for\lordinary people.\pAs a result, we had to close the\nGYM, and the rest followed soon\lafter.
+3fc32b|{C1906}The rest is history: this place\nwas forgotten, and nobody from\lthose days lives on THREE ISLAND\lanymore.
+3fc38b|{C1906}The only traces of the past left\nare the HYPNO living in the BERRY\lFOREST, descendants of my own, who\lhave found a home in the forest.
+3fc43a|{C1906}Their powers are very mild by\ncomparison, though sometimes they\lcan scare the children who play\ldeep in the forest.
+3fc4ba|{C1906}Luckily, my connection with my\nHYPNO lets me know when one is\lgetting out of line, like when\lyou saw me.
+3fc53a|{C1906}Now that you know my story,\nyou'll be a little better prepared\lfor our battle, and you'll also{C080F}…{C080F}\lunderstand how this GYM's puzzle\lworks.\pWatch.
+3fc5df|{C1906}You'll have to interact with the\ndoors to advance, and answer their\lquestions.\pIf you get one wrong, you can still\nadvance, but you'll have to battle.
+3fc676|{C1906}Once you answer, the door will\nvanish and you can continue.\pIf you leave the GYM, you'll have\nto start over, as the doors will\lreappear automatically.\pEasy, right?
+3fc72c|{C1906}Ah!\pAnd one more thing!\pYou should know the questions are\ntailored to each individual.
+3fc78b|{C1906}One of my HYPNO's abilities is\nthat it can see the future, at least\lpartially. It can also sense a\lperson's life experiences just by\lfeeling their presence.
+3fc840|{C1906}HYPNO uses this to test the\nsubject. To force them to expand\ltheir own reality beyond what\lthey've already seen, because{C0819}…{C0819}\pWhat could limit us more than our\nown perception of reality?
+3fc9a3|GASTLY, HAUNTER and GENGAR are the\nonly GHOSTS in LAVENDER TOWN.
+3fc9e8|I thought you'd seen enough of the\nworld to see beyond appearances.\pWrong answer.
+3fca82|Right answer, but{C0819}…{C0819} a blind guess,\nwasn't it? You don't know of any\lghost in KANTO beyond those 3, and\lyet you sense there's something\lmore{C080F}…{C080F} hidden, don't you?\pYou'll return to LAVENDER TOWN.\nYou still have things to do there.\lI'm sure of it…
+3fcbfc|KANTO's "CHAMPION"\nis in this room.
+3fcc25|Wrong answer.\pThat title no longer exists.\pIt's empty, stripped of the meaning\nit once had.
+3fccb6|Right answer. Nor are they in the\nPOKéMON LEAGUE, or on MT. SILVER.\pThat title no longer exists.\pIt's empty, stripped of the meaning\nit once had.
+3fcddc|SILPH HQ and GOLDENROD's RADIO\nTOWER rise higher than any other\lhuman structure in KANTO-JOHTO.
+3fce55|Wrong answer. That honor has long\nbelonged, and still belongs, to a\lfar more sacred place.
+3fceeb|That's right. It's atop the BELL\nTOWER that one holds JOHTO and KANTO\lin the palm of one's hand. Then\lagain, there may be another place\leven older, more sacred and higher\lstill. Who knows?
+3fcfef|The BRASS TOWER was destroyed in a\nfire, yet JOHTO still has 3 other\lpagodas keeping the essence of the\lregion alive.
+3fd192|Right answer.\pI wonder if you've truly grasped\nwhat that implies for what you\lthink JOHTO is.
+3fd2f4|{C192E}The slower the POKéMON, the\nsooner it attacks under the effects\lof TRICK ROOM.\pIt's a move that can turn many\nteams' strategies upside down, and\lplenty of POKéMON can benefit\lfrom it.
+3fd3bf|{C192E}You know what?\pI'll give you this TM too. Someone\nlike you will surely make good use\lof it.
+3fd415|{V01} received TM94 TRICK ROOM\nfrom MORFEO!!
+3fd455|{C192E}And now, where will you go?\nWhat's your next destination?\pWhatever it is, make every day\ncount and make it worthwhile.
+3fd4c4|{C192E}I discovered this POKéMON thanks\nto one of my best students.\pIts final evolution has complete\nmastery of mental powers.
+3fd540|YOU GOT A LV.15 FENNEKIN!!
+3fd563|{C192E}40 years later, I can once again\nsay I'm handing over our old\lbadge.
+3fd5b9|{C192E}Here.\nThis is the DREAM BADGE.
+3fd5e2|{C192E}I wish you the best of luck on\nyour journey.\pI want you to take this POKéMON\nwith you.
+3fd632|{C192E}For a while there, you made me\nremember those days when I went\lfrom challenger to challenger.\pThat unmistakable feeling of\ncompetition, which shows itself\ldifferently over the years{C0819}…{C0819} I\lcertainly don't regret taking\lthis path.
+3fd735|{C192E}Impressive. My mentor would be\nproud to see what HYPNO and I have\lbecome. Now, after battling again,\lI know it.\pBut you? I think you'd leave her\nspeechless!
+3fd7e5|I'd say{C0819}…{C0819} we fought at an excellent\nlevel, but{C0819}…{C0819} I still\llost?
+3fd838|{C1906}Now, with no spectators, no\napplause, no cameras to immortalize\lthis moment, true to the way of\llife we've chosen{C0819}…{C0819} you'll see the\lresults of that training!
+3fd8e8|{C1906}As for me{C0819}…{C0819} for decades I've had\nno point of reference other than\lthis little island.\pBut{C0819}…{C0819} all that time, HYPNO and I\nhave kept training, with the sole\laim of surpassing ourselves.
+3fd9d1|{C1906}Either way, you must be a very\nskilled TRAINER.
+3fda10|{C1906}If not for HYPNO, I'd never have\nknown. Although… according to him,\lthat title no longer exists, as\lyou've seen for yourself{C080F}…{C080F}
+3fda95|{C1906}So all this time I've been\ntalking to the CHAMPION of KANTO.\pEh?
+3fdb11|The machine is ready for use.\nDo you want to teleport to the\lJOHTO BASE?
+3fdb92|The machine is ready for use.\nDo you want to teleport to the\lKANTO BASE?
+3fdbf3|It was a nightmare connecting the\nJOHTO BASE to the KANTO BASE by\lteleporter, but we pulled it off.
+3fdc6c|So, ready for another great\nadventure?
+3fdddf|{C1940}Oh, and by the way, take this too.
+3fde03|{V01} received TM59 HONE CLAWS\nfrom VALERIE!!
+3fde3a|{C1940}HONE CLAWS doesn't just raise your\nPOKéMON's ATTACK, it boosts its\lACCURACY too. It's great with moves\llike STONE EDGE, IRON TAIL or\lDRAGON RUSH!
+3fdee8|{C1940}Oh, wow, you surprised me.\pI never expected you'd be willing\nto come all the way out here just\lfor a battle.
+3fdf60|{C1940}I guess I'd gotten used to being\nsurrounded by people who care more\labout their POKéMON's "look" than\labout how it grows.\pLooking back on it now, I put up\nwith GOLDENROD for far too long.
+3fe02a|{C1940}I'm glad to know there are still\nyoung TRAINERS with drive, like\lyou. The more I train and the more\lI travel, the more I realize how\llittle I know, and how much room\lfor growth this vast world offers.
+3fe106|{C1940}You came for a POKéMON battle,\nand that's what you'll get.
+3fe141|{C1940}I'll give it everything I've got,\nalong with the partners who've\ljoined me on every new journey.\p{V01}!\pI hope you're up to it!
+3fe1c7|My loyal KINGDRA was defeated?
+3fe1e7|{C1940}Oh…\pI'm in shock. I thought no one\ncould match my KINGDRA's power and\lexplosiveness. When it transformed\lone last time, after a lifetime\ltogether, and I saw the tremendous\lenergy it unleashed, I thought\lwe'd hit the ceiling.\pYou've shown me we haven't.
+3fe2f1|{C1940}Even that great master from\nBLACKTHORN CITY was impressed,\lthough disappointed to see it\llose its DRAGON type.\pHis granddaughter seemed really\njealous of my POKéMON. She even\lwent and caught a HORSEA{C080F}…{C080F}
+3fe3af|{C1940}I've learned a lot from\nthis battle. Thank you.
+3fe3e0|{C1940}Here, take the\nPLAIN BADGE.
+3fe40a|{C1940}This POKéMON is for you, too.
+3fe42e|YOU GOT A LV.25 VULLABY!!
+3fe450|{C1940}Forget the stereotype of the\nfrail, vulnerable FLYING TYPE;\lVULLABY has the potential to be an\lextraordinary defensive wall.\pBest of all, it can learn\nFOUL PLAY to use the foe's\lATTACK stat without having to\lworry about its own.\pIsn't that great?
+3fe54e|{C1940}I like this place. For now it\ngives me the peace I need. I'll\lrecharge here before setting off\lon a new journey.\pIt was lovely to meet\nyou, {V01}!
+3fe61d|The machine is ready for use.\nDo you want to teleport to the\lHOENN BASE?
+3fe6aa|Permanent circumstances have\nlittle effect on a person's\lwell-being.
+3fe707|There are secrets in our world that\nonly practice can reveal, and that\lno opinion or analysis will ever\lfully capture.
+3fe79c|Although our natural tendency is\ntoward rest, inactivity can\ldestroy us.
+3fe820|The region has changed a lot in a\nshort time, especially LAVENDER\lTOWN and SAFFRON CITY. They say the\lnew RADIO TOWER is taller than\lSILPH HQ.
+3fe8c5|Have you visited the new POWER\nPLANT?\lActually, they only restored it a\lbit. It's smaller than it used to\lbe, but more efficient.
+3fea66|The FIGHTING DOJO used to be\nSAFFRON's official GYM.\pBRUNO's MACHAMP was the toughest\nPOKéMON to beat out of all 8\lBADGES.\pThose were the days!
+3feb11|They don't let anyone up to the\nupper floors of SILPH anymore.\lDo you think they're hiding\lsomething from us?
+3feb7e|It's SILPH CO., famous for its\nPOKéMON products.\pIn the past, TEAM ROCKET tried to\ntake over this company for that\lvery reason.
+3fec0c|Are you from KANTO too?\nWith the MAGNET TRAIN, you can\lvisit JOHTO in no time!
+3fec65|I'll be going from KANTO to JOHTO,\nand JOHTO to KANTO, so many times!
+3fecaa|We're going on an outing to the\nNATIONAL PARK. My daughter has\lalways dreamed of going there.
+3fed4a|They say the GOLDENROD UNDERGROUND\nsells really interesting stuff. If I\lbought some, I'd be an even\lCOOLER TRAINER.
+3fedcd|Once the MAGNET TRAIN opens, the\ntrain tracks will be off-limits,\leven to big shots like yourself.
+3fef7a|I'm an expert at making\nETHER and ELIXIR.
+3fefaa|I also collect old coins\nand antiques.
+3fefd9|If you have any old coins or\nantiques, I can trade you ETHER or\lELIXIR for them.
+3ff025|Hmm… no. Looks like you don't.
+3ff044|Interested?
+3ff052|As you wish.
+3ff060|I can offer you these.
+3ff07a|Thank you so much! If you find more\ncoins, don't hesitate to visit me!
+3ff2d7|Where the will to transcend form\nwas born.
+3ff307|DUN TOWER
+3ff49d|{C1906}Huh?\pSomeone else here, seriously?
+3ff4c2|{C1906}I thought this place was only known\nto those weird monks.\pNot that it matters. My dragons\nbrought me here, drawn by the\lenergy of the wrong POKéMON.
+3ff573|{C1906}According to the folks at the\nsouthern pagoda, this is where\lwillpower itself reached its\lultimate expression.\pHere, a POKéMON destined to become\nsomething it didn't want to be\lovercame every outside force.\pIt climbed to the very peak of its\ninfinite possibilities, and ended\lup becoming something any POKéMON\ltheorist in the world would call\l-impossible-.
+3ff6d8|{C1906}Inspiring, though hard to\nbelieve, isn't it?\pBut this place, worn down as it is\nby the passage of time, radiates\lthat kind of energy, the kind that\lbelongs to great legends{C0819}…{C0819} to\lgreat events that transcended\lhistory and shaped the world as we\lknow it today.
+3ff7fc|{C1906}The truth is{C0819}…{C0819}\pThis place reminds me a lot of{C0819}…{C0819}
+3ff83d|{C1906}Never mind.
+3ff84c|{C1906}Hey, you. The girl further up is\na friend of yours, right?\pShe says the POKéMON I'm looking\nfor went back to its home region.\pDo you think that's true?
+3ff8e1|{C1906}I see. You're probably right.
+3ff907|{C1906}I hate to say this, but you both\nseem to be at an extraordinary\llevel.\lI have a hunch there's something\lspecial about you, and I don't need\lto battle to confirm my suspicions.\pIt's far too obvious.
+3ff9ce|{C1906}You're both brimming with power.
+3ff9f7|{C1906}It's not my place to be part of\nyour story. We belong to\ldifferent worlds.
+3ffa56|{C1906}I'm really glad I ran into you\ntwo. In a place like this{C0819}…{C0819}\lyou're like OOPArts to me, but\lwhat does it matter?\pWe won't meet again.
+3ffae9|{C1906}Hmm{C0819}…{C0819} on second thought, your\nbond with those POKéMON, the legend\lof this place{C0819}…{C0819}\pMaybe I'm the OOPArt here, don't\nyou think?
+3ffbbb|We're turning this island into\nthe center of ARCHI7.\pWhat are they complaining about?
+3ffc14|This stuff isn't my thing{C0805}…{C0805}
+3ffc41|Who are you?\pAs long as you let me work in peace,\nI won't touch you. Others will deal\lwith you.
+3ffcae|Lucky for us, these islands only\nhave POKéMON from KANTO and JOHTO.\pWe're going to make a fortune\nbringing in POKéMON from a faraway\lregion.
+3ffd44|Isn't it incredible?\nYou'd never think a place like this\lwould exist on an island like this,\lright?
+3ffdba|Once the business is all set up,\nwe'll be the main attraction of the\lislands.\pEveryone will come here to spend\ntheir money.
+3ffe3f|We're bringing in very rare POKéMON\nfrom other regions. Everyone will\lbe impressed and want them at any\lprice.
+3fff28|Leave me alone!\nYou didn't see me, and I didn't see\lyou, so I don't have to fight you.\pNot for the pittance they pay me.
+3fffaa|The few SCIENTISTS you'll see on\nthis island are here for\larchaeology.\pThis building is an exception. From\nin here, you'd think we were in\lKANTO. Maybe we can bring a bit of\lthat region to this island{C0805}…{C0805}
+40009b|The racket they had going with\nPORYGON at the CELADON CITY GAME\lCORNER will be nothing compared\lto this.\pWait, you look familiar.\pHave I seen you before?
+400207|-It's taking a nap!-
+400640|{C1906}Oh, come on! Don't you recognize\na superior from your former\lorganization when you see one?
+4006a1|{C192A}That's right, {V01}. You didn't\nexpect to see me here, did you?\lMaybe you got suspicious when you\lsaw ex-TEAM ROCKET members, but\lwhat does it matter.
+40072d|{C192A}You know…\nI broke the ROCKET code of conduct.
+40075e|{C192A}Funny how life turns out, isn't it?\pLast time we met, I was the ADMIN,\nand you were still an EXECUTIVE.\pI played my cards badly, true, but\nwhat happened makes no sense at\lall.\pI don't know how you pulled it off,\n{V01}.\pAnd I don't want to know.
+40084e|{C192A}But you must be wondering, what am\nI doing here? I'll be straight with\lyou: we're turning this place into\lthe new GAME CORNER of ARCHI7.
+4008cb|{C192A}Counting all 7 islands, the total\npopulation is considerable.\pAdd how easy it is to travel by\nSEAGALLOP, the link to VERMILION\lCITY and the lack of competition,\land we've got a surefire business.
+4009a9|{C192A}Thanks to my contact in SINNOH,\nwe'll import rare POKéMON from that\lregion and sell them here for their\lweight in gold.
+400a1c|{C192A}And best of all, we'll use the\nsame COINS and games of chance as\lthe CELADON GAME CORNER.\pWe'll turn this place into the\nnew capital of ARCHI7.
+400abc|{C192A}This building is just the start.\nWe'll run all our operations from\lhere, just like the ROCKET HIDEOUT,\lbut without needing to hide it.
+400b4f|{C192A}Next we'll expand that dreadful\nARCADE and start turning it into a\lreal GAME CORNER.
+400bb8|{C192A}Isn't it great? Come on!\pWhen this is all over, I could\neven make you a special offer on\lthe POKéMON from SIN{C0805}…{C0805}
+400c31|{C192A}You want me to return the ARCADE\nto its rightful owners?
+400c72|{C192A}You must be joking. You seriously\nwant those unbearable minigames to\lstay?\pDODRIO BERRY PICKING!\pNobody plays that, {V01}. Nobody\ncares. I'm doing this island a\lfavor, can't you see?
+400d45|{C192A}I see you haven't changed…\pBecoming an ADMIN did you no good:\nyou're as naive as ever.
+400db4|{C192A}I told you back then you couldn't\nkeep climbing just by winning\lbattles. The only reason you made\lit is that you were the best at\lit: the exception.\pYou've ended up even better than\nthe one who thrashed us on\lMT. MOON.\pAnd for that, I respect you.
+400ebf|{C192A}But{C0819}…{C0819} the strongest doesn't always\nwin.
+400ef7|{C192A}That same moral code, and assuming\neveryone else will follow it, is\lwhat will lead to your downfall.\pThe true premise of TEAM ROCKET\nwas always to win, no matter how.
+400fbc|{C192A}You're not going anywhere, {V01}.\pIf you won't join my plan, I won't\nlet you go back to KANTO to warn\lTEAM ROCKET either.\pWith all of LANCE's government\nexecuted, traitors like me are\lnext in the crosshairs.\pI'll never set foot in the DEEP BASE\nprison, I guarantee you that.\pBut you{C0814}…{C0814} might never leave\nthis island again as long as you live!
+40111a|{C192A}Not even GIOVANNI himself could\ntake all 3 of us! En garde!
+40115e|This was all part of our plan!
+401180|{C192A}TWO ISLAND is ours! We'll be the\nnew SILPH of ARCHI7!
+4011c4|SILPH didn't fall, and neither\nwill we!
+4011f3|{C192A}Impressive, but you haven't\nproven anything yet.
+401226|{C192A}Look at you, {V01}. You've always\nbeen beneath me. Even as an ADMIN\lyou never managed to catch up!
+40128d|{C192A}Now I'm the BOSS of a new company\nthat will, in time, be just as\limportant as TEAM ROCKET.
+4012f6|{C192A}You'll never be my equal!
+40133a|{C192A}No!\nYou shouldn't be this strong!
+40135f|{C192A}You only won because you have a\ngift for battling!\pYour stupid moral code is nothing\nbut a front!
+4013d0|{C192A}How do I know?\n{C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805}\pYou'd have liked the big plan I told\nyou about for this place a thousand\ltimes more than its useless role now.
+401477|{C192A}You only did this to look good in\nfront of those two idiots who'll\lkeep everything the same. This\lisland is dead and it'll stay dead.
+4014fd|{C192A}You win, but I won't give you the\nsatisfaction of seeing me behind bars.\pYou'll never hear from me again. This\ntime I'll go where TEAM ROCKET's\ltentacles can't reach.\pNo more KANTO, ARCHI7 or JOHTO.\pYou'll never find me in SINNOH!\p{C0805}…{C0805} {C0805}…{C0805}\pForget it. Enjoy your DODRIO BERRY\nPICKING and POKEMON JUMP!
+40164e|{C190B}Who are you? How did you get in\nhere?
+40167e|{C1906}As I was saying, we can easily sell\nthe CRANIDOS for 7000 COINS{C0805}…{C0805}
+4017b3|{C192C}ROCK TUNNEL has become a more\nhostile place now, {V01}.
+4017f0|{C192C}Ever since it filled up with the\nCUBONE and MAROWAK from POKéMON\lTOWER, few adventurers dare to pass\lthrough here.
+40186b|{C192C}The POKéMON have taken over the\nplace.\pWe couldn't expect the collapse of\nPOKéMON TOWER to leave the balance\lof KANTO untouched.
+4018fa|{C192C}Luckily for me, I share a close\nbond with my MAROWAK.
+40193e|{C192C}I think he can guide me to the\nbottom of this. As for you…
+401981|{C192C}You're the best TRAINER I know.\nYour POKéMON will be more than enough\lto clear your way, right?
+401d4f|The UNDERGROUND PATH is closed, but\nfor someone like you, sir, we can\lmake an exception.
+401da9|My colleagues are inside, jealously\nguarding the entrance to the\lshelters. We hope you can sort\lthings out, sir.
+401e2e|Excuse me, sir, but the UNDERGROUND\nPATH will be closing shortly.\pYou know how it is. Orders from\nabove.
+401e9d|The UNDERGROUND PATH is closed\nindefinitely. If you want to go to\lCELADON, you'll have to go through\lSAFFRON.
+401f84|We recently discovered a POKéMON\nthat can corrode STEEL TYPES, and\leven poison POISON TYPES\lthemselves.
+401ff2|Given your high rank, you surely\ndeserve one of your own. Here.
+402038|YOU GOT A LV.30 SALANDIT!
+402059|Anything can be corrupted, even what\nseems most beautiful and pure. The\lfact that we're sitting here now is\lproof of that.
+4020e4|With all the offices and\nproductivity, a rest area like this\lcomes in handy, don't you think?
+40214d|Not long ago, an old man I'd never\nseen before came by here.\lHe must be someone very important,\lotherwise security would never\lhave let him get this far.
+4021ff|Honestly, the new RADIO TOWER is\nmore imposing than the old POKEMON\lTOWER, which only had 6 floors.\lNow we have 10 floors, like SILPH,\lplus the rooftop.\lWe've broken KANTO's height\lrecords!
+4022da|Some even say NIDOKING and\nNIDOQUEEN will stop being useful\lafter everything that's being set\lup here with the radio waves.\lWill it really come to that?
+402380|You were the key piece in the SILPH\nraid, beating all the security,\lthe PRESIDENT and BILL.\lBut now, it would take just me and\lmy team of Lv. 90 POKéMON to make\la fool of the young talent you\lonce were.\pEverything moves so fast.
+402483|We've cited security over and over\nas the main reason for barring entry\lbeyond 1F.\lA sure way to make people believe\lfalsehoods is frequent repetition,\lbecause familiarity isn't easily\ldistinguished from truth.
+402593|I once knew someone who reached\nsuch a level of productivity and\lobsession that he saw rest only as\la formality he had to go through\lto refill his energy bar.\lHe got what he wanted in the end,\lbut at a high price.
+4026a5|Staring at the fountain makes you\nforget the huge pile of things you\lstill have to do.\lBut if you manage to remember them\lwhile you're at it, you'll realize\lmost of them are an illusion: we\lsuffer more in our imagination\lthan in reality.
+4027af|Ho, ho, ho!\nYou can see SILPH HQ from here!\lI bet they can see us too!\lAt least the ones they let up to\lthe upper floors now for\l- security -!\lHo, ho, ho!
+40287b|They closed the underground paths\nrecently, and our biker pals\lweren't happy about it at all.\lBut who cares? We've got all the\lpower we wanted. We don't need\lthem anymore.
+40293e|I heard some EXECUTIVES talking\nwith ARCHER. Apparently there are\litems that boost the performance\lof certain POKéMON.\pThey talked about GIOVANNI's\nRHYPERIOR, and how a PROTECTOR\lraised its defenses.
+402a16|7F Break Room
+402a34|-The perfect is the enemy of\nthe good-.
+402a95|8F rises higher than the old\nPOKéMON TOWER ever did.\pIn other words, right now we're\nseeing LAVENDER TOWN from a height\lits residents never saw it from.
+402b4a|If you don't know the causes of\nyour success, it's only a matter\lof time before expected value\lundoes what pure chance produced.
+402bda|8F Base Stats
+402bf2|-Possibility breeds ever more\npossibility-.
+402c38|The matters handled on this floor\nare very serious. I've had the\lchance to work on them firsthand.\lTo my surprise, I felt no joy or\lsatisfaction seeing the results,\lmore like fear and… a lot of\lvertigo at what they could mean.
+402d35|Outside these facilities, people\nstill use KANTO POKéMON, and now a\lfew more from JOHTO too.\pBut in here, it's common to see\npeople with POKéMON from exotic\lregions. The internal market we've\lbuilt is incredible.
+402f09|{C1906}Curious technology. Everything\nsuggests it'll be one of the main\ldrivers of change in years to come.
+402f76|{C1906}A shame, isn't it?
+402f88|{C1906}In the old days, TRAINERS developed\nskill, talent and a bond with their\lPOKéMON to win against their\lequals.\pThe champions of old earned that\ntitle by taking these virtues to\lthe extreme.
+403053|{C1906}Now we have access to countless\nvalues to manipulate a POKéMON's\lperformance, turning it into\lsomething that would never have\lbeen possible in the past.
+4030fe|{C1906}Even the most skilled champion of\nold would fall to a mediocre\lTRAINER of today, if the gap in\lraw power between their POKéMON\lwere big enough.
+4031a4|{C1906}These days, those who don't add\nthis new variable to the equation\lare doomed, no matter how much they\lperfect the classic virtues.
+403247|9F Data Analysis
+403266|-Freedom without commitment is\nuseless-.
+4032cb|Nostalgia is rooted in a primal\ndesire whose object is utterly\lunrecoverable, just like the old\lPOKEMON TOWER.
+40334c|Technology has improved the teams\nof our best men.\lPROTON now has an OVERQWIL and a\lBOOHOO, and PETREL a PURAKKUSU\land a GALARIAN WEEZING.\lNone of this would have been\lpossible without all the data\lgathered by people like you.
+403452|Do you think I'll ever be an\nEXECUTIVE, sir?\lYou can reach HIGH RANK in time,\lif you're consistent and show\lloyalty to TEAM ROCKET, but few\lever make it to EXECUTIVE. For that\lyou need to do something big, like\lyou did when you invaded SILPH or\ldefeated the BIRDS.
+40356b|Unlike SILPH, there's no elevator\nhere. To reach the top you have to\lgo through every floor below, and\lall their security!
+403604|SHUT UP

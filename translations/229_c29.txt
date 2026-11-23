@@ -1,0 +1,806 @@
+42a366|Looks like my calculations failed.
+42a388|{C1954}Hmm{C080F}…{C080F} Very interesting.
+42a3a7|{C1954}Congratulations. You've just set a\nnew limit. And I doubt this one can\lever be surpassed, at least in terms\lof brute strength.
+42a422|{C1954}Based on that, we can also define\nthe limit for the other stats that\linfluence a POKéMON's power.
+42a499|{C1954}This expedition has exceeded our\nforecasts. I'm grateful to you:\lyour travels and experiences have\lprovided valuable information to\lDEVON, once again.
+42a542|{C1907}Grateful?\nYou're not going anywhere!
+42a570|{C1907}We beat you: REGIGIGAS and that\nPURPLE ORB are coming with us.
+42a5bb|{C1954}I'm afraid that won't\nbe possible.
+42a5e3|{C1907}You're in no position to…
+42a609|{C1951}I did warn you.
+42a61e|{C1954}Nothing comes before the\nplan, and that means accounting for\levery possibility.
+42a672|{C1907}How curious{C080F}…{C080F} I didn't know we\nwere so important to\lyou.
+42a6bd|{C1951}You're very bold, given\nthe situation.
+42a6f4|{C1951}Your adrenaline has dropped after\nthe battle and your guard is down.\pWhich means…
+42a756|Mur!
+42a75c|{C1907}Hey! My POKéMON!
+42a772|{C1951}You'll have to chase FELICIA\nif you want them back.
+42a7ab|{C1907}You little{C080F}…{C080F} We'll\nsettle this later.
+42a7d5|{C1954}Good work.\nYou know how to keep order\lwhen it really matters, after all.
+42a829|{C1954}I admire your qualities, {V01}.\nBut your usefulness ends here.
+42a864|{C1954}At the end of the day{C080F}…{C080F} you still\nhave no idea what our purpose is,\land yet you've helped us\lachieve it.\pCongratulations.
+42a8fb|{C1951}Hey, easy there!
+42a90e|{C1951}Now it's just you and me, {V01}.\nHee hee hee.
+42a939|{C1951}That ANDRA is so boring, always\nobsessed with getting better.\pWouldn't you rather dance with me?
+42a9ab|{C1951}You could still catch AMATISTA.\pBut you'll have to dance with me,\nwhether you like it or not!
+42a9fa|Bah! How boring!
+42aa0f|{C1951}Hmm{C0819}…{C0819} facing such well-cared-for\nPOKéMON gets tedious in the end.
+42aa59|{C1951}Surprising, but{C080F}…{C080F} so dull.
+42aa7d|{C1951}Even weakened, you beat a team\nfull of one-of-a-kind POKéMON.
+42aac2|{C1951}ANDRA never shuts up about the harm\nthat abusing ARTIFICIAL POKéMON does.
+42ab14|{C1951}But honestly, you've both reached\na point where your own standards\lare just as unreachable for the\lrest of the "naturals".\pIsn't it all the same in the end?
+42abcc|{C1951}I suppose I'll have to talk to the\nDOCTOR again about upgrading my\lteam…
+42ac2f|{C1951}I didn't choose this, understand? If\nI want to keep helping HOENN, I have\lto adapt to the times.
+42ac9d|{C1951}Otherwise{C0819}…{C0819} I'll become dead\nweight, and I just hope that…
+42ace8|{C1951}…the day never comes when my\nSALAMENCE ends up the same way.
+42ad31|{C1951}The MEGA EVOLUTION of a\nPSEUDO-LEGENDARY{C080F}…{C080F} of my little\lBAGON{C080F}…{C080F} dropped from the team for\lnot measuring up. Can you imagine?
+42addb|{C1907}You beat TRISTANA?\nShe looked in a foul mood.
+42ae12|{C1907}Hmm{C0819}…{C0819} I'd rather that WHISMUR had\nstolen your POKéMON, just so I could\lbe the one to beat that lunatic.
+42ae87|{C1907}I'd say all of it, from the start:\nthe chance that this would happen,\lour intervention and how to use it\lto his advantage{C080F}…{C080F} it was all\lpart of his calculations.
+42af29|{C1907}Even so, an expedition like this\nis never in vain. We've gained\lsomething from it too.
+42af8c|{C1907}A lot is on my mind, but\nremember: I've kept my side of the\lpromise. Now it's your turn.
+42b001|{C1907}I still have a copy of the KEY to\nmy old OFFICE in HOENN. It's the\lperfect place to talk in peace.
+42b076|{C1907}There I'll tell you my side\nof the deal, {V01}.
+42b0a1|{C1907}I just hope that{C080F}…{C080F} our rivalry and{C0805}…{C0805}\nfriendship mean as much to you as,\lor more than, your loyalty to TEAM\lROCKET.
+42b11d|{C1907}See you there.
+42b191|GYARADOS-Z\pHP: 115\nATTACK: 165\lDEFENSE: 99\lSP. ATK: 60\lSP. DEF: 140\lSPEED: 111\lTOTAL: 690\pTYPE: WATER/FLYING\pABILITIES:\nINTIMIDATE/MOXIE/MOLD BREAKER
+42b23c|As of its creation, it is the most\npowerful NON-LEGENDARY, non-PSEUDO\lPOKéMON overall, surpassing\lVOLCARONA-& even in useful stats.
+42b2c0|It also leaves behind those that\nKANTO and JOHTO popular culture once\lheld up as the ultimate embodiments\lof the divine: LUGIA and HO-OH.
+42b34a|It took thousands of tests to find\nthe exact dose of wave exposure.\lIn the end, the key was working\lwith a shiny GYARADOS.
+42b3df|It falls squarely into the level II\nprototype quadrant.
+42b5f0|{C1907}That's what they were talking about\non the roof of LAVENDER RADIO TOWER,\ljust before DEVON burst in.
+42b657|{C1907}That radio wave technology…\nJust like they said: it adds 150\linstead of 100 to the base stats.\pAnd efficiently, too.
+42b6d4|{C1907}Those are impressive numbers, no\ndoubt. But{C080F}…{C080F} there's something else\lthat catches my eye.
+42b733|{C1907}When GIOVANNI told me about the\nSTRONG BOND, he mentioned something\lunique to them: an increase in\lHIT POINTS.
+42b7b3|{C1907}Something neither MEGA EVOLUTION nor\nlevel I prototypes could achieve.
+42b805|{C1907}The first time I learned about that\nphenomenon, I was fascinated.
+42b842|{C1907}I remember GIOVANNI's words\nperfectly: "…HP has always been\ltied to the deepest part of a\lPOKéMON's genetic code. It's the\lbackbone, immovable, the essence\lthat gives the species its\lidentity{C080F}…{C080F}"
+42b92a|{C1907}"…for the STRONG BOND to be able\nto modify HIT POINTS turns\leverything we knew on its head…"
+42b994|{C1907}This GYARADOS{C080F}…{C080F} raises them twice as\nmuch as a STRONG BOND.
+42b9d6|{C1907}At first glance it's a minor\ndetail, but it only lays bare\lone reality:\pin terms of numbers, there's no\ldebate anymore.
+42ba62|{C1907}Even into what seemed special,\ntechnology has found its way in.\lNow they can read and modify\lvariables as they please.
+42baec|{C1907}Even so, there are intangibles\nthat can never be controlled.
+42bb26|{C1907}In the wrong hands, someone with\nthis GYARADOS could never beat my\lMILOTIC, and in the right ones{C080F}…{C080F}\lwe'd have to see.
+42bbaa|{C1907}But I'm sure of one thing: I didn't\nface the full fury of the sea and\ltravel through four regions just to\lget this far and fall, just like\lthat, as part of an equation.
+42bc5f|{C1907}We were right to come.\pI haven't felt this way since the\nDEEP BASE. I can't wait to see\lwhat this place has in store.
+42be4e|{C1907}I see you found the statue that\nopened the door downstairs.
+42be8e|{C1907}What was your password?
+42beb2|{C1907}Aha! Mine was: "ARCEUS is dead".
+42bedb|{C1907}So you fought 2 statues.\nDid you notice their difficulty level?
+42bf40|{C1907}Looks like I got the most important\npassword. Its level was 9.
+42bf89|{C1907}Clones of major LEGENDARIES,\nlevel I and II prototypes, Megas of\lPSEUDO-LEGENDARIES…
+42bfe3|{C1907}With POKéMON like those, no TRAINER\ncould ever get past these doors.
+42c029|{C1907}But we could.
+42c03e|{C1907}Now we can see what's\nhidden in here.
+42c082|A password can be entered into the\ndoor. What could it be?
+42c0b9|You entered the password:\n"Ignorance is strength".
+42c160|You entered the password:\n"ARCEUS is dead".
+42c1fe|OAK's Diary: April 15, 1997
+42c221|MEWTWO is currently located in\nCERULEAN CAVE.
+42c259|I've used my influence to fence off\nthe area. No one in the current\lgovernment knows what dwells in the\ldepths of the cave.
+42c2d5|Least of all LANCE. He thinks he's\ninvincible, immune to anything that\ldoesn't come from legendaries.
+42c332|The only thing propping up his\nauthority is the power of his beasts\land dragons. A fleeting power; it's\lonly a matter of time before it's\lsurpassed.
+42c3c7|Anyone who glances at the latest\nscientific advances can see\lthat his days are numbered.
+42c435|There are private companies already\nvery close to reproducing powers\lequal or superior to LANCE's.
+42c49f|SILPH itself, having developed the\nMASTER BALL, can capture and\lcontrol any living POKéMON.\pThat includes MEWTWO.
+42c523|The truth is, none of this mattered\nto me. RED was enough.\lBut his unexpected defeat changed\leverything.
+42c593|Now circumstances force me to fall\nback on what we created back when\lit was still "the old KANTO".
+42c5ff|With MEWTWO and the legion of new\nexperiments, we've surpassed the\lpower LANCE used to subdue KANTO.
+42c66b|But we are no longer the only ones…
+42c690|SILPH, TEAM ROCKET, DEVON{C080F}…{C080F} all\nscientific progress has accelerated\lexponentially. What is strong today\lmay not be tomorrow.
+42c723|We thought MEWTWO was the limit,\nwhen it was only the turning point,\lthe fuse that lit the flame…
+42cc3c|The ancient writings of KALOS were\nright: DIANCIE arises from a\lmutation in CARBINK.
+42cca6|Thanks to the radio waves, we were\nable to prove it and reproduce the\lmutation in a controlled way.
+42cd09|The result is that now, from our\nlabs, we can turn any CARBINK into\la DIANCIE in an optimal, exact and\lmeasured way, without waiting for\lit to appear as a miracle of\lnature.
+42cdc9|Notes: DIANCIE's base form is\nmediocre by current standards.\lHowever, its MEGA EVOLUTION still\lhas competitive value.
+42ce9f|{V01} obtained a Lv. 100 DIANCIE!
+42cec3|This POKé BALL contains DIANCIE, a\nrare POKéMON from a faraway region.\pIt seems they managed to clone\nseveral. Do you want to keep\lthis one?
+42d044|Engraved on the statue's sign,\nyou can read:
+42d077|"Advanced Battle Simulator I.\nDifficulty level: 7."
+42d0b2|There's a small button beside it.
+42d0d0|Press it?
+42d0db|The RHYDON statue is glowing in a\nspecial way!
+42d11b|The sign has just revealed what\nlooks like a password.
+42d155|"Long live the new KANTO"
+42d16b|You already fought this statue.\pIts password was: "Long live the new\nKANTO".
+42d1b9|This is the statue ANDRA\nfought.\pIts password was "ARCEUS is dead".
+42d223|{C1907}{V01}? Be careful with\nthese statues.
+42d24b|{C1907}Interacting with them sets off a\nsecurity system. I think if we\lwant to go deeper into the\llab, we'll have to defeat them.
+42d2f2|You entered the password:\n"Long live the new KANTO".
+42d394|On the clones of major\nLEGENDARIES.
+42d3bd|The expedition to the RUINS OF ALPH\nwas a failure in terms of human\lcost, but a complete success in\lterms of scientific progress.
+42d43c|After the ESSENCE POKéMON departed,\nall the major LEGENDARIES\lpresumably returned to their\lplaces of origin.
+42d4b1|However, their trace was not erased\nfrom inside the ruins.
+42d4f3|Thanks to that, we obtained the DNA\nof LUGIA-P and HO-OH-P, from which\lwe were able to create clones of\ltheir base forms.
+42d56e|The findings don't end there. The\nORIGIN forms of DIALGA, PALKIA,\lGIRATINA and ARCEUS joined the\llist.
+42d5de|After great effort, we managed to\nbreed their base forms.
+42d622|The original forms of all these\nPOKéMON are considered irreproducible.
+42d694|RAIKOU-&\pHP: 100\nATTACK: 100\lDEFENSE: 90\lSP. ATK: 155\lSP. DEF: 115\lSPEED: 145\lTOTAL: 705\pTYPE: ELECTRIC/GHOST\nABILITY: PRIMORDIAL SEA
+42d72c|Its status as lord of thunder gives\nit the ability to cause devastating\lstorms. Radio waves amplified this\lto the extreme, giving it the same\ldestructive capacity as KYOGRE-P's\lPRIMORDIAL SEA.
+42d811|Its SPEED to SP. ATK ratio exceeds\nthat of every known ELECTRIC TYPE,\leven RAI, the former -&- form of\lJOLTEON, thanks to which we were\lable to create this POKéMON.
+42d8ed|ENTEI-&\pHP: 125\nATTACK: 175\lDEFENSE: 105\lSP. ATK: 90\lSP. DEF: 95\lSPEED: 115\lTOTAL: 705\pTYPE: FIRE/GROUND\nABILITY: DESOLATE LAND
+42d980|We tested its ability to manipulate\nthe earth and volcanoes: the fury\lit unleashed exceeded our\lexpectations, gaining such control\lover the elements that it acquired\lDESOLATE LAND as its ability.
+42da57|With 175 ATTACK, it has the highest\nstat among the three -&- forms of\lthe LEGENDARY BEASTS. Despite this,\lit reaches 115 SPEED, the original\lRAIKOU's highest stat.
+42dc58|Engraved on the statue's sign,\nyou can read:
+42dc8b|"Advanced Battle Simulator III.\nDifficulty level: 8."
+42dcc8|There's a small button beside it.
+42dce6|Press it?
+42dcf1|The RHYDON statue is glowing in a\nspecial way!
+42dd31|The sign has just revealed what\nlooks like a password.
+42dd6b|"Ignorance is strength"
+42dd88|You already fought this statue. Its\npassword was:\l"Ignorance is strength".
+42dfbd|{C1907}This looks like it goes down a\nlong way.
+42dff2|{C1907}No one goes to this much trouble...
+42e01a|{C1907}Something big is being kept here.\nMaybe the level III\lprototypes?
+42e06a|{C1907}Bah! Whatever it is, we'll find out.
+42e095|{C1907}Those lifeless statues can never\nquench my POKéMON's will.
+42e0ef|{C1907}Seems too obvious, doesn't it?
+42e10f|{C1907}Two doors, two statues. Whatever's\nin that room must hold the key to\lgetting into the lower basement.
+42e185|{C1907}There's a statue there.
+42e19e|{C1907}There must be another one somewhere\nelse on this floor.
+42e1d6|{C1907}I'll handle this one, {V01}.
+42e1f6|{C1907}Let me heal your team.
+42e214|{C1907}Stay alert.
+42e30f|Engraved on the statue's sign,\nyou can read:
+42e342|"Advanced Battle Simulator IV.\nDifficulty level: 9."
+42e37e|There's a small button beside it.
+42e39c|Press it?
+42e3a7|The RHYDON statue is glowing in a\nspecial way!
+42e3e7|The sign has just revealed what\nlooks like a password.
+42e421|"Special is mediocre".
+42e43c|You already fought this statue. Its\npassword was:\l"Special is mediocre".
+42e493|This is the statue ANDRA\nfought. Its password was:\l"Unique is normal".
+42e520|ZAPDOS-Z\pHP: 110\nATTACK: 105\lDEFENSE: 140\lSP. ATK: 185\lSP. DEF: 100\lSPEED: 90\lTOTAL: 730\pTYPE: ELECTRIC/STEEL\nABILITY: LEVITATE
+42e5b2|The first LEGENDARY successfully\nexposed to radio waves.
+42e5ed|Of the 3 BIRDS, ZAPDOS was the one\nthat had all the right ingredients.
+42e63c|The STEEL TYPE cost it some SPEED,\nbut in return its DEFENSE shot up.\lThanks to LEVITATE, it remains\limmune to GROUND-TYPE moves.
+42e6cf|It beats its -natural- version,\nZAPDOS-P, in 4 of the 6 STATS, being\lslower and tying in SP. DEF.
+42e787|BLASTOISE-Z\pHP: 119\nATTACK: 113\lDEFENSE: 160\lSP. ATK: 145\lSP. DEF: 125\lSPEED: 38\lTOTAL: 700\pTYPE: WATER/DARK\pABILITIES:\nMEGA LAUNCHER/STAMINA/RAIN DISH
+42e836|It surpasses MEGA BLASTOISE in\neverything except SPEED.
+42e87f|It takes its shell's defensive traits\nto the extreme, filling the tank\lrole even better than\lNIDOGOD.
+42e8ee|This is down to two factors: MEGA\nLAUNCHER and putting full priority\lon just one of its cannons, letting\lit master KYOGRE's ORIGIN\lPULSE.
+42e989|Thanks to its DARK TYPE, it also\ngets the benefits of STAB + MEGA\lLAUNCHER with DARK PULSE.
+42e9f0|Given its characteristics, SPEED\nbecomes irrelevant, since it is\lexpected to withstand any assault,\lthen wreak havoc with its huge\lcannon.
+42ea96|If possible, it would have been\nlowered even further if that\limproved its defenses and/or power.
+42ebbe|Level I, II and III prototypes.
+42ebdf|Hierarchy based on their\nBASE STATS.
+42ec10|Keep reading?
+42ec21|Level I prototypes span a range\nof 570 to 640 BASE\lSTATS.
+42ec6f|Mostly created with technology from\nbefore the radio wave revolution\l(+100 relative to the test\lsubject).
+42ece9|This power matches that of a\nminor LEGENDARY (570 to 600), and\lcomes close to a major LEGENDARY,\lreaching the level of several of the\lmost powerful MEGA EVOLUTIONS (600\lto 640).
+42eda7|With this in mind, we could place\nSILVALLY (570) at the lower end, and\lthe MAGMORTAR-Y/ELECTIVIRE-X duo (640)\lat the upper limit of these\llevel I prototypes.
+42ee52|Keep reading?
+42ee63|Level II prototypes span a range\nof 660 to 770 BASE\lSTATS.
+42eeb2|The -Z- naming is usually used\nto refer to them.
+42eeee|Mostly created with radio wave\ntechnology (+150 relative to the\ltest subject).\lMEWTWO (680) is the exception.
+42ef6b|In this case, the starting reference\nis KYUREM (660) as the weakest major\lLEGENDARY, with the limit being the\l770 BASE reached by the primal forms\lof KYOGRE and GROUDON.
+42f020|With this in mind, PORYGON 3.1 (665)\nopens the lower end of the level II\lprototypes, which, for now, closes\lwith ZAPDOS-Z (730) at the top.
+42f0b8|Keep reading?
+42f0c9|Level III prototypes span a range\nof 780 to 830 BASE\lSTATS.
+42f119|The waste of power and resources is\nso great that it becomes impossible\lto keep the efficiency of the lower\llevels.
+42f186|In nature, only primal forms or the\nMEGA EVOLUTION of a major LEGENDARY\llike RAYQUAZA (780) are even enough\lto open the lower end of these\lprototypes.
+42f232|MEWTWO's MEGA forms (780) were the\nfirst level III prototypes ever\lcreated.
+42f287|Nevertheless, we managed to create a\nprototype with not only greater\loverall base power, but also less\lwaste of resources than those\lmentioned.
+42f31c|At the upper end, we have…
+42f340|This part has been torn out!
+42f377|A password can be entered into the\ndoor. What could it be?
+42f3ae|You entered the password:\n"Special is mediocre".
+42f47e|You entered the password:\n"Unique is normal".
+42f4c3|A password can be entered into the\ndoor. What could it be?
+42f4fa|You entered the password:\n"KANTO is watching you".
+42f576|Come on… Send out that GYARADOS-Z…\nMy MILOTIC-& is ready.
+42fac6|{C1907}"Unique is normal"
+42faee|{C1907}I was just about to come get you.\nThis time, it's your password\lthat's missing.
+42fb36|You entered the password:\n"Special is mediocre".
+42fb68|{C1907}Hmm… I see.
+42fb78|{C1907}The quickest way to kill something\nspecial is to compare it to another.
+42fbc3|{C1907}Did you hear that?
+42fbd4|{C1907}Looks like… someone's in this room.
+42fbfd|{C1906}{V01}, long time no see.
+42fc13|{C1907}So this is ZONE 0.
+42fc31|{C190F}Oh. How surprising.
+42fc49|{C190F}You made it all the way here based\non a passing remark made almost 3\lyears ago.
+42fca1|{C190F}You must be ANDRA.
+42fcb8|{C1907}What is this place?
+42fccf|{C190F}Isn't it obvious?\nOAK's LAB.
+42fcfa|{C190F}My grandfather has spent a lot of\ntime within these walls.
+42fd33|{C190F}Shut away in here, with only his\nprojects for company. Sometimes by\lchoice, other times out of duty,\lbut always with great spirit.
+42fdca|{C190F}It began as a small basement,\nbuilt shortly before the war.
+42fe0d|{C190F}Later it supported the MEWTWO\nPROJECT; here he made progress on\lhis own.
+42fe63|{C190F}After LANCE's victory, he expanded\nthe small basement with the sole\laim of restoring power to KANTO.
+42fed4|{C190F}These days, it serves the\nKANTO-JOHTO alliance. It's been that\lway since you met in GOLDENROD.
+42ff2e|{C1907}So GIOVANNI knows it\nexists too.
+42ff63|{C190F}Of course.\pIn fact, the latest expansion\nwas funded by him as well.
+42ffb2|{C1907}And now its purpose is…\nthe radio waves?
+42ffe7|{C190F}Exactly.
+42fff9|{C1907}In that case, you won't mind giving\nus the password to B4.
+43003a|{C1907}We're two ADMINS, and we\nshould be kept up to date on the\llatest developments.
+43008c|{C190F}You're right. But…
+4300a3|{C190F}Everything about the waves is\nalready on these floors.
+4300de|{C190F}Further down there are only private\nprojects. I'm afraid that…
+430115|{C190F}…you'll have to wait until my\ngrandfather gets back from\lMAHOGANY TOWN.
+430160|{C1907}Well, if there's no other choice.
+430181|{C1907}We can wait on the upper floor of\nthe LAB.
+4301b7|{C1907}Although… I'd like to ask a favor.
+4301e0|{C190F}What is it?
+4301ec|{C1907}I want a battle, and I want you to\nuse every level II prototype\lyou have at your disposal.
+43025a|{C190F}A curious request.
+43026f|{C190F}If that's what you want, I can battle\nwith any of those POKéMON.
+4302b7|{C190F}They're all perfect clones,\noptimized with radio waves.\lThey're part of OAK's collection.
+43031f|{C1907}In that case{C080F}…{C080F}\pI want you to use GYARADOS-Z.
+430353|{C190F}As you wish. Do you really think\nyou can win?
+430387|{C190F}These POKéMON are used at the highest\ndifficulty level of our\lsimulators.
+4303dd|{C1907}We'll see. We'll see… just how\nfar my mediocrity goes.
+430417|{C1907}{V01}, go on ahead if you like.\pOkay?
+430521|Relax, TRAINER.
+430538|I'm JIRACHI. ANDRA asked me to\ncommunicate with you by telepathy.
+430580|She wants to send you a message:
+43059c|"{V01}, I don't believe a single\nword DAISY says."
+4305d4|"But using force here would be\nstupid, and we can't wait for OAK\leither. Either way, we risk having\lthe true nature of this place\lhidden from us."
+430693|"The reason I didn't push it is\nthat I think I saw the password in\lthat document she was in such a\lhurry to hide."
+430712|"-KANTO is watching you- should open\nthe door that leads to B4."
+430750|-You keep making your way through\nthe lab while I deal with\lDAISY-.
+43079f|-When the battle's over, I'll use\nHYPNOSIS on her and catch up to you-.
+4307e5|-From then on… it'll be a race\nagainst the clock to get to the\lbottom of this-.
+430833|-Good luck, {V01}. And remember:\n"KANTO is watching you"-.
+430882|ANDRA is battling DAISY. I should\nhead down to B4.
+4308bc|ANDRA is battling DAISY.
+431137|Engraved on the statue's sign,\nyou can read:
+43116a|"Advanced Battle Simulator VI.\nDifficulty level: 10."
+4311a7|There's a small button beside it.
+4311c5|Press it?
+4311d0|The RHYDON statue is glowing in a\nspecial way!
+431210|The sign has just revealed what\nlooks like a password.
+43124a|"Exclusive is valuable".
+431265|You already fought this statue.\nIts password was:\l"Exclusive is valuable"
+4312c8|A password can be entered into the\ndoor. What could it be?
+4312ff|You entered the password:\n"Exclusive is valuable".
+4313aa|It looks like this door needs\na key to open.
+431982|Hurry up. Not running away now,\nare you?
+431d4e|It looks like a TM.
+431d5d|You obtained TM130 TRI ATTACK!
+431d7d|{C1906}Put that back where it was.
+431d97|{C1921}You've always had a bad habit\nof stealing my inventions.
+431dd6|{C1921}After all this, you're still the same\nthief who broke into my house.
+431e1d|{C1906}I warned you, {V01}.
+431e33|{C1932}Those who refuse to\nembrace change are doomed\lto disappear.
+431e82|{C1932}That day has come, and you still\nseem to be clinging to the old ways.
+431ec6|{C1932}Don't get me wrong.\nYou're a great TRAINER.
+431ef8|{C1932}You defeated MASTER DUN, whom I\ndeeply admire, and the rest of\lJOHTO's great TRAINERS.
+431f61|{C1932}But they've all been left behind;\nthey've hit their ceiling.\lI'm surprised someone like you\lwould deny something so obvious.
+431fdd|{C1921}It's only natural.
+431feb|{C1921}{V01} only trusts his natural\nbattle talent.
+432026|{C1921}Funny, because you have a lot in\ncommon with LANCE, back when he left\leverything to his sacred POKéMON.
+432099|{C1921}The only thing that sets you\napart from him is that…
+4320c5|{C1932}…the sacred thing is you\nyourself. Your innate talent.
+4320fc|{C1932}But that, like everything else, has\na limit.
+43212e|{C1932}The gods have been kind to you,\n{V01}. But what they give,\lthey can also take away.
+432189|{C1932}Now that even they are no longer a\nmystery, you won't be one either!
+4321d9|{C1906}You have no idea what you're\nsaying.
+4321f7|{C1907}You abandoned everything you\npreached just for more power.
+43223a|{C1907}That speech in DUN TOWER: the story\nof the SACRED DRAGON, the path of\lthe TRAINER…
+432292|{C1907}When it came down to it, you never\nbelieved any of it. The moment all\lthose fruits were put in front of\lyou, you grabbed them all.
+432329|{C1907}So… don't you dare lecture\nanyone.
+43235c|{C1932}What would you know? Barely\n3 years of training, and you talk\lto me about waiting and patience?!
+4323c7|{C1932}I waited 10 years for SUICUNE's\nblessing!
+4323fd|{C1932}The only truth is that the gods are\ncruel and vengeful. They bless a\lfew and ignore the rest. Why should\lwe keep paying them our\lrespects now?
+4324a0|{C1932}What's more, even if the real\nSUICUNE appeared before me, I'd turn\lit down.
+4324e8|{C1932}I don't want it anymore. It stopped\nbeing sacred to me long ago.
+432528|{C1907}That's why it didn't choose you:\nthat was all you cared about.
+432572|{C1932}Now I have 3 BEASTS far\nstronger than the originals.
+4325b1|{C1932}3 STRONG BONDS that surpass even\nMASTER DUN's!
+4325f1|{C1907}The only STRONG BOND thing about\nthose abominations is the name.
+43263a|{C1932}Say what you like,\nbut at the end of the day, I have\lthree POKéMON with -&- at the end.
+432698|{C1932}Each of them, stat for stat,\nsuperior to the original\lEN, RAI and SUI.
+4326f4|{C1932}For all practical purposes, I have\n3 STRONG BOND LEGENDARIES.
+432730|{C1921}And all thanks to the current system,\nwhich you happily contributed to\land now turn your back on.
+432794|{C1932}Tell me, ANDRA. What do you have?
+4327b4|{C1907}I'm not going to brag about it.\nYou'll see for yourselves.
+4327f4|{C1921}The time has come, {V01}.
+43280d|{C1921}I doubt your travels in HOENN\nhave made you much better.
+432850|{C1921}Now you'll see level II prototypes\nin all their glory!
+432895|What was that?!
+4328a9|So…
+4328b6|{C1932}How is this possible?!
+4328d2|{C1932}Why do you have 3 different\nSTRONG BONDS?
+432901|{C1932}Very few have found the ideal even\nonce, and only the GRAND MASTER\lmanaged it three times.\pWhy you too?!
+432980|{C1907}You've forgotten your own\nwords.
+4329a6|{C1932}What do you mean?
+4329bd|{C1907}In DUN TOWER you told me: "The mere\nact of defining something limits it.\lIf that POKéMON got that far, it\lwasn't by stopping to think whether\lit was possible. It just did it."
+432a76|{C1907}Now I see you were just parroting\nwhat MASTER DUN had taught\lyou.\pSome of us actually lived by it.
+432af5|{C1921}Must be hard, {V01}.
+432b13|{C1921}Watching someone surpass you on\nyour own turf, and your biggest\lrival at that.
+432b64|{C1907}Game's over, BILL.
+432b85|{C1907}We need a KEY to go any\nfurther. You're giving it to us the\leasy way or the hard way.
+432be9|{C1921}Easy, ANDRA.\nI'm satisfied.
+432c0e|{C1921}For the first time, I've seen where\n{V01}'s limit lies. All thanks to you.
+432c5a|You obtained the B4 KEY!
+432c72|{C1921}I'm sorry to tell you that beyond\nB5, none of us has access\lclearance.
+432cc7|{C1921}And even if we wanted in, we\ncouldn't: level III prototypes are\lguarding the area.
+432d24|{C1921}EUSINE and I are valuable assets\nfor creating level II prototypes,\lso we have clearance down to\lthat floor.
+432da5|{C1921}But whatever lies from B6 down, only\nOAK knows.
+432de0|{C1932}If you'd attended the 3rd GOLDENROD\nCONFERENCE, you'd have some\lidea.
+432e2f|{C1907}I don't want "some idea".\nI want to know exactly what's being\lkept there.
+432e7e|{C1932}What does it matter what's there?
+432e9a|{C1932}It's a bad time to pursue virtue.\nThe world is already yours. All you\lhave to do is give in.
+432ef8|{C1932}What's with this pointless\npersistence?!
+432f28|{C1907}On the contrary.
+432f39|{C1907}This age is a better test of virtue\nthan any other before it in\lhistory.
+432f95|{C1907}It's the only one that reveals who\nin the past would have fallen to\ltoday's temptations. Now is when it\lmakes the most sense to pursue it.
+43302a|{C1907}You've proven to be one of those\nwho would have fallen.
+433069|{C1907}But I won't be.
+433097|{C1921}What drives you to keep going\ndown?
+4330c7|{C1921}Virtue? Don't make me laugh.
+4330e8|{C1921}ANDRA knows what she wants.\nThat's why she's surpassed you.
+43311c|{C1921}But you… this is just another\ndamn event to you, isn't it?
+43315a|{C1921}Maybe…
+433164|{C1921}…maybe you won't like what\nyou find down there.
+433315|You entered the password:\n"Long live the new KANTO".
+4334c5|{C1907}We're running out of time, {V01}.
+4334e4|{C1907}I used HYPNOSIS on DAISY so she\ncouldn't raise the alarm.
+43351d|{C1907}But EUSINE and BILL will alert\nthe others.
+433546|{C1907}There's really no turning back now.\nIf OAK is hiding something, we'll\lfind out.
+433592|{C1907}And if not, it'll all just be a\nsimple misunderstanding. The thing is…
+4335e6|{C1907}My hunch turned out to be right;\nnow we just have to see how deep\lthe mystery goes.
+433640|{C1907}A… SACRED STONE.
+433658|{C1907}Maybe we should rename it. There's\nlittle sacred left about it, being\lhere, in this place, and like\lthis.
+4336d2|{C1907}They must have combined them with\nradio waves. Who knows what kind of\lexperiments they've done here…
+43373e|{C1907}BILL said this was the last area\nthey had access to. I don't want\lto imagine what's further down.
+4337b0|{C1907}Whatever's blocking the way,\nwe'll tear it down.
+433967|{C1907}Now I understand BILL better: these\nstatues force you into a Double\lBattle.
+4339be|{C1907}Must be the final test.
+4339da|{C1907}Must be the final test.
+4339f6|{C1907}If they really use level III\nprototypes, we'll have to give 100%.
+433a43|{C1907}I still remember that armored\nMEWTWO, when MIGUEL went crazy in\lLAVENDER RADIO TOWER.
+433aa0|{C1907}Seeing it in action reminded me of\nthe POKéMON LEAGUE, when LANCE\lunleashed all his power.
+433aff|{C1907}You were the one who fought in the\nRADIO TOWER, but I felt the same\lhelplessness as that day, with\lLANCE's dragons at the doors of\lthe HALL OF FAME.
+433b9c|{C1907}Honestly, the MEWTWO experience\nwas even worse.
+433bd3|{C1907}At the POKéMON LEAGUE, I knew I\ncould still improve. There were\lmany places left to go and new\ladventures to grow from.
+433c5d|{C1907}And boy, was there room to grow.
+433c7c|{C1907}Who could have imagined, in those\ndays so long ago, everything that\lstill lay ahead of us?
+433cd5|{C1907}At the RADIO TOWER… it was\ndifferent.
+433cf7|{C1907}This time my gut was beating with an\nuncomfortable truth: the limit was\lthere, I could already see it, and it\lwasn't enough to face that POKéMON.
+433d88|{C1907}If I stayed on the same path, that\nwould be my fate.
+433dc7|{C1907}So I left everything behind and set\nout on this journey, to rebel against\lmy own fate.
+433e21|{C1907}Now… it's time to find out\nwhether I succeeded.
+433e5b|{C1907}Let's see.
+4341ca|Engraved on the statue's sign,\nyou can read:
+4341fd|"Advanced Battle Simulator VII.\nDifficulty level: Impossible."
+434242|It comes with a warning: The line\nbetween difficult and impossible\lcan be very thin. Those foolish\lenough to think they can cross it\lwill be punished.
+4342e2|There's a small button beside it.
+434300|Press it?
+43430b|The RHYDON statue is glowing in a\nspecial way!
+43434b|The sign has just revealed what\nlooks like a password.
+434385|"Now you are KANTO"
+434398|{C1907}These passwords…\nSo very OAK.
+4343be|{C1907}He thinks he can laugh at everyone,\nand now he'll have to change them all.\pServes him right.
+43441d|{C1907}From what I see, MEWTWO's MEGAS are\nconsidered level III prototypes.
+43446e|{C1907}I admit they're very powerful, but…\nwould you say more so than what was\lin the SEALED CHAMBER, or ALPH?
+4344ce|{C1907}That REGIGIGAS-P was made of\ndifferent stuff.
+4344fd|{C1907}Now I see that MEWTWO from the\nRADIO TOWER in a different light.
+434539|{C1907}But… this doesn't end here. Does\nTEAM ROCKET have even more resources\lwe don't know about?
+43459e|{C1907}It may already be impossible to\nchange the fate of whatever's down\lthere, but…
+4345f7|{C1907}Maybe we can still go out\nto meet it.
+434623|You already fought this statue. Its\npassword was: "Now you are KANTO".
+434689|{C1907}I'm ready, {V01}.
+4346a1|{C1907}When you press the button to start\nthe battle, I'll press mine too.
+434723|This pillar is hollow. There are\nstairs leading to the upper floors.\pDo you want to go through?
+434b89|This gravestone is ancient.
+434ba5|You can still make out engravings\non it, in gold and silver letters.
+434bf3|"The TRAINER who lies here achieved\neverything there is to achieve in\lthe world{C080F}…{C080F}
+434c45|{C080F}…{C080F}undefeated CHAMPION of his region\nfor decades, 32 GYM BADGES, every\lknown POKéMON to his\lname{C080F}…{C080F}
+434cbe|{C080F}…{C080F}whatever the challenge, however high\nthe bar was raised, nothing was\lbeyond his reach{C080F}…{C080F}
+434d2d|{C080F}…{C080F}but despite his countless\nbattles, endless journeys and infinite\lfeats{C080F}…{C080F}
+434d8e|{C080F}…{C080F}no matter his efforts{C080F}…{C080F}, however\ngreat a master he was{C080F}…{C080F}
+434dde|{C080F}…{C080F}he could not cheat death{C080F}…{C080F}
+434e0e|{C080F}…{C080F}all that remains of his legend lies\nhere. The rest of his peers were\lerased by the inescapable passage of\ltime{C080F}…{C080F}
+434e93|{C080F}…{C080F}after all, perhaps being remembered\nwas the kind of immortality he\ltruly longed for{C080F}…{C080F}"
+434f4a|A true{C0819}…{C0819} CHAMPION?
+434f75|{C1906}LAVENDER CULT?
+434f88|{C1906}I can't take you.
+434fae|{C1906}But I can show you.
+4350bb|LAVENDER TOWN GYM
+4350df|POKé CENTER
+435319|{C1906}DROWZEE! CONFUSION!
+435332|{C1906}I beat you again!
+43534c|{C1906}Aww! No fair!
+43535f|{C1906}When my GASTLY learns\nSHADOW BALL, I'll beat you!
+435398|{C1906}I can't wait till it evolves into\nHAUNTER!
+4353c3|{C1906}But by then I'll have a HYPNO that\ncan take your attacks!
+4353fb|{C1906}Yeah, but{C080F}…{C080F} GENGAR is the best ghost\nin all of KANTO and JOHTO.\pI'll train as hard as it takes for\nthis little guy to become one!
+435489|{C1906}Hmmm{C080F}…{C080F} Can't HYPNO evolve any further?
+4354b9|{C1906}Of course not!
+4354cb|{C1906}Kids! She's here!
+4354e5|{C1906}Yes! My teacher! She did it!
+43550a|{C1906}Everyone's waiting in the GYM.\nCome on, now.
+43553d|{C1906}AGATHA! What are you doing?
+435555|{C1925}Just looking at POKéMON TOWER.
+435573|{C1906}Oh, young lady!\pYou've got your whole life\nto see it!
+435739|{C1906}Is it true you'll be stepping down\nas LEADER soon?
+43576d|{C1906}That's right, MORFEO. My wife and I\nare moving next year.
+4357ad|{C192E}I've learned so much from you.\nI'll follow in your footsteps!
+4357e2|{C1906}Someday, kid. Someday.
+435802|{C192E}But{C0819}…{C0819} They say cities are\ngetting more and more interested\lin battling.
+435854|{C192E}There can only be 8 GYMS. If every\ncity had one, then this one…
+4358a1|{C1906}Easy, easy!
+4358bb|{C1906}Nothing lasts forever, but there are\nstill many years before that happens.
+435907|{C1906}I've watched you both, every day.\nYou both have talent, and more\limportantly, you overflow with hope\land passion.
+43596e|{C1906}You'll become a great TRAINER\nbefore that happens. This GYM will\lsee you as its LEADER before its\ldays are over, you can be sure.
+435a01|{C1906}Now, let's go in. Let's not keep our\nCHAMPION waiting any longer!
+4361d7|{C1925}You! What are you doing here?!
+4361f2|{C1925}You've never cared about\nLAVENDER TOWN.
+436221|{C1906}Someday I'll be KANTO's CHAMPION.\pI need to hear a real one to\nget a feel for it.
+436280|{C1925}As arrogant as ever.\pYou're hopeless, OAK.
+4362b7|{C190E}It's just the plain truth.\pWho's going to beat me? A GENGAR?
+436300|{C190E}Only a LEGENDARY could give me\ntrouble, you'll see!
+43633f|{C1925}Well, my teacher's GHOST POKéMON\nare as strong as a\lLEGENDARY!\pShe even has one that IS one!
+4363ad|{C190E}Don't lie. That's impossible.
+4363ce|{C1925}No, it's not! GASTLY,\nHAUNTER and GENGAR aren't the only\lghosts in LAVENDER TOWN!
+436431|{C190E}Just you wai…!
+436446|{C1906}Quiet! Now!
+436459|{C1906}We are witnessing a historic\nevent.
+436486|{C1906}For the first time, a GHOST-TYPE\nTRAINER has claimed the title of\lCHAMPION.
+4364dc|{C1906}An elusive type, mysterious and\nhard to understand. But it holds\lgreat power that very few can\lever master.
+43655d|{C1906}A talented young woman is the one\nwho has taken it to its peak.
+4365a9|{C1906}She managed to overpower the mighty\ndragons of JOHTO's young master and\lachieve the impossible.
+43660e|{C1906}LAVENDER TOWN will always have a\nplace for our CHAMPION: FRIDA.
+436656|{C192F}Thank you for your words, teacher.
+43667c|{C192F}As you all know, I'm from JOHTO.
+4366a1|{C192F}But my heart will always be with\nKANTO, with LAVENDER TOWN.
+4366e2|{C192F}This is where I was able to reach\nmy full potential as a GYM LEADER.
+43672f|{C192F}This place{C080F}…{C080F} you all know it.\pIt gives off a different energy.\nThere's something{C080F}…{C080F} spiritual here.
+436796|{C192F}We can't see it, maybe can't even\nunderstand it. But it's impossible\lto ignore its power.
+4367f3|{C192F}That force helped my POKéMON\novercome its limits. The same force\lthat made me CHAMPION, and that\lmade me realize an unchanging,\ltimeless truth.
+4368a7|{C190E}And what's that?
+4368b6|{C192F}That great TRAINERS can come\nfrom anywhere.
+43690a|{C1925}Teacher, teacher! Tell us!
+43692c|{C1925}What happened with your NINETALES?
+43694b|{C1925}Did it really beat the strongest\nDRAGONITE in all of JOHTO after\levolving?
+4369ab|{C192F}Ah, AGATHA. You never miss a thing.\nAnd you're right.
+4369d9|{C192F}As you know, NINETALES was\nmy first POKéMON.
+436a0a|{C192F}It feels like only yesterday that I\nfound it in this very GYM.\lI was younger than you, AGATHA.
+436a6a|{C192F}That day, that little girl and that\nfrail VULPIX bound their fates\ltogether forever.
+436abe|{C190E}But NINETALES isn't\na GHOST TYPE!
+436ae6|{C192F}No, it isn't.
+436af7|{C192F}But{C0819}…{C0819} I always knew that little one,\nwhich I found writhing atop a\lmysterious grave, held a lot of\lthat type inside.
+436b8f|{C192F}That VULPIX became the strongest\nNINETALES my eyes have ever\lseen.
+436bdf|{C192F}However, the power of dragons is\nterrible.
+436c15|{C192F}Thanks to my skill, I held them back.\nBut his last dragon{C080F}…{C080F} its power\lwas so great that it was\luncontrollable.
+436c97|{C192F}It broke through our defenses, and\nthe outcome of the battle was sealed.
+436ce7|{C192F}Even so, we never stopped\nbelieving.\pAnd it happened.
+436d16|{C192F}Somehow, all that potential, all\nthose intangibles I always knew\lwere there, suddenly{C080F}…{C080F}\pThere they were.
+436d91|{C192F}Now you could see, smell and touch\nit: the GHOST TYPE that VULPIX had\lalways had inside took form!
+436e08|{C192F}At first, they thought it was a\nstrategy. They thought I was\lclouding their senses with\lhypnosis.
+436e7e|{C192F}But no, it was real. And that's the\nform my NINETALES will have for the\lrest of its days.
+436eda|{C192F}Its fur turned hard as steel,\nimpenetrable.
+436f13|{C192F}Its mental powers shot up.\nSo did its agility and flow in battle.
+436f64|{C192F}It took the CHAMPION by surprise.\nHe kept fighting, but there was\lnothing he could do.
+436fbd|{C192F}His POKéMON, a symbol of the sacred,\nwas defeated for the first time.
+437002|{C1925}That's incredible.
+437013|{C192F}Perhaps, without knowing it{C080F}…{C080F}\nwe'd spent our whole lives preparing\lfor that moment.
+43706c|{C190E}So{C080F}…{C080F}\pYou've made a great discovery!\pNINETALES can evolve!
+4370bf|{C190E}I bet it's stronger than ARCANINE,\neven MOLTRES!
+4370ff|{C192E}OAK…
+437107|{C190E}I'll train one until it\nevolves too.\pWith that addition, my team will\nbe even stronger and more balanced.
+43717a|{C190E}Tell me, CHAMPION. What level\nis your NINETALES now?
+4371b3|{C192F}It's not that simple, young man.\nLevel doesn't matter here.
+4371f6|{C1925}Weren't you listening to anything\nshe said? Her NINETALES evolved\lbecause they were connected. A\lspecial, unique bond made it possible.
+437284|{C190E}Bah, nonsense!\nIt was just luck.\pIt leveled up at the right moment.\nThere's no mystery in that.
+4372e9|{C192F}On the contrary, young man.\nSometimes the greatest mysteries\lhide in the most ordinary things,\lin plain sight of everyone.
+437372|{C192F}If you'll excuse me.
+437387|{C1925}Teacher, wait!
+43739c|{C1906}Let her rest. The title match was\ntough, and the journey from JOHTO\lwas long.
+4373f7|{C1925}Aww{C080F}…{C080F} I wanted her to see how\nmuch my GASTLY has grown.
+437438|{C1906}You can show her tomorrow.
+43792a|{C1906}I don't agree.
+437942|{C192F}Ah, young man.\nWhat don't you agree with?
+437969|{C190E}Great TRAINERS can't come\nfrom just anywhere.\pAnd neither can the best POKéMON.
+4379cc|{C192F}So you don't think so?
+4379ea|{C190E}Your surroundings matter too much.\nYou'd never have been so good with\lthe GHOST TYPE without LAVENDER TOWN.
+437a52|{C192F}That's right.\pIt would have been different.
+437a7a|{C190E}Worse. If we'd locked you up\nin ROCK TUNNEL, you couldn't have\lreached the same potential.
+437ae7|{C190E}Confined there, you wouldn't have\neven reached the level of a would-be\lGYM LEADER.
+437b4a|{C192F}Confined in that narrow tunnel,\nwhich is already boundless for anyone.
+437b98|{C190E}What do you mean?
+437baf|{C192F}My options inside that place,\neven inside the darkest cell,\lwould still be infinite.
+437c17|{C192F}Fewer, but still infinite.
+437c37|{C190E}That's not possible.\nIt makes no sense.
+437c5f|{C192F}It isn't about possible or\nimpossible. It's a certainty.
+437c9f|{C192F}It's consciousness, not matter, that\nforms the fundamental basis of\lreality.
+437cfb|{C192F}With it, there will always be a\nchance for change. And possibility\lbreeds more and more possibility.
+437d78|{C192F}Light can be found even, or perhaps\nespecially, in the darkest\lmoments.
+437dd8|{C190E}Nonsense!\pThat's just guesswork about how\nyou'd like the world to be.
+437e2c|{C190E}You've come this far despite\nbelieving in all that mystical junk.
+437e78|{C190E}But the truth is, talent and luck\nare what did the\lwork.
+437ecf|{C190E}Without that, without the end result,\nno one would take that talk seriously.
+437f18|{C192F}My.
+437f21|{C192F}You're a clever young man. But your\nattachment to reason and the world\lyou know keeps you from seeing\lbeyond it.
+437f89|{C190E}If I can't see it, show me.
+437fac|{C190E}Show me that POKéMON: proof that\neverything you say is true.
+437ff4|{C192F}I won't.
+438003|{C190E}But why not?
+438016|{C192F}My POKéMON isn't\na museum relic.
+438041|{C192F}If you want proof, start your own\nsearch. Don't seek the answer\lwithout knowing the process.
+4380a9|{C190E}Then I'll make you bring it out.
+4380cd|{C190E}In a few years, when I can go for\nthe title, you'll have no choice.
+43811e|{C192F}I'm afraid that won't be possible.\pMy POKéMON and I are going on a\njourney, far from KANTO and JOHTO.
+43817d|{C190E}You're giving up defending\nthe title?!
+4381a9|{C192F}I've already proven\nwhat I had to prove.
+4381d9|{C190E}No{C0819}…{C0819} It's impossible{C0819}…{C0819}\nA real CHAMPION would never do\lthat{C0819}…
+438223|{C190E}It's all a sham.
+438239|{C190E}That NINETALES doesn't exist,\ndoes it?\pIt was just a trick, a magic trick\lthat everyone fell for.
+43829a|{C190E}That's why you're disappearing now.\nTo keep your legend alive.
+4382dd|{C192F}Is that what you think?
+4382ec|{C190E}But{C0819}…{C0819} History will forget you. You've\nonly won the title once.
+438337|{C190E}As time goes by, only vague\naccounts will remain.\pYour legend will become a\nmyth, a children's story.
+4383ae|{C190E}I, on the other hand, won't win once\nor twice. I'll hold that title\llonger than any CHAMPION in\lhistory.
+438428|{C190E}I'll show the world the full power of\nMY POKéMON, no occult, no riddles.\lAll my feats will be recorded\lfor everyone to see.
+4384b5|{C190E}And when I have more trophies than\nanyone, I'll have proven I'm the best\lTRAINER.\pNumbers never lie!
+438528|{C192F}I see.
+438533|{C192F}There's an old saying in JOHTO: "The\nideal can't be found twice, and very\lfew find it even once in their\llifetime."
+4385b3|{C192F}I was able to find it once\nwith my NINETALES.
+4385e9|{C192F}You{C0819}…{C0819} have the tools to find it.
+438619|{C192F}But{C0819}…{C0819} if all you seek is to see farther\nand subdue the senses{C0819}…{C0819} you never\lwill.
+43867a|{C192F}You'll live without ever drawing\nback the veil from the truth.\pTime passes. Do you understand?
+4386e0|{C190E}That ideal doesn't exist. Only what\nwe can measure, improve and record.
+43872f|{C190E}The world will see the results\nof my research.
+438786|-A mysterious energy keeps you from\ngoing back-.
+43892c|{C1906}So{C080F}…{C080F} you kept your will\nintact.
+43895f|{C1906}And that has brought you here.
+438982|{C1906}Look. You're at the core of KANTO.
+4389ab|{C1906}A place as old as the region itself,\nfrozen in time, untouched by\leverything that happens outside it.
+438a1d|{C1906}That's right. The heart that beats in\nKANTO isn't in SILPH's offices or at\lthe INDIGO PLATEAU HQ.
+438a8f|{C1906}Only here will the gods of the\nPOKéMON world judge you. Not in the\lPOKéMON LEAGUE, not as CHAMPION.
+438aee|{C1906}Come on, {V01}. Make them blush!\nShow them what you can do with the\lvery rules they created!
+438b60|{C1906}Honor this place with\nan unforgettable battle!
+438b93|The essence{C0819}…{C0819} the essence is\nfragile.
+438bbb|{C1906}No. You're not here by chance.
+438be0|{C1906}You broke the chains of LANCE's\nKANTO, and now a world of\lpossibilities awaits you.
+438c3b|{C1906}Not even in your wildest dreams\ncould you imagine all that awaits\lyou, all you have yet to see and\llive.\pKANTO will bear witness to it.
+438cd0|{C1906}But remember{C0823}…{C0823} the essence\ncan be spoiled.
+4391f5|{C192F}Of course, you're still\nthe GYM LEADER.
+439223|{C1906}That's exactly what I\nwanted to talk to you about.
+43924b|{C192F}Yes, I can imagine.
+439261|{C192F}How much time does it have left?
+439296|{C192F}Well. At least little MORFEO\nwill get to fulfill his dream.
+4392d3|{C1906}He will.
+4392ec|{C1906}It seemed impossible, but not even\nthis GYM will last forever.
+439336|{C192F}Nothing tangible does.
+439350|{C192F}Tell me, what fate awaits\nthis place?
+43937e|{C1906}SAFFRON CITY keeps\ngrowing and growing.
+4393ad|{C1906}The new company, SILPH, is building\nits headquarters there. They say the\lbuilding will be taller than\lPOKéMON TOWER.
+43941d|{C1906}Along with that, the city is expected\nto open a new POKéMON GYM by the\ltime SILPH HQ is\lfinished.
+439491|{C1906}That'll help boost the city and its…
+4394bc|{C192F}Economic interests, I see.
+4394df|{C192F}And LAVENDER TOWN?
+4394f5|{C1906}Once the new GYM is built, there'll\nbe no place in KANTO for this one.
+439541|{C1906}It'll be turned into a place to\nhelp TRAINERS.
+439585|{C192F}Help?
+439591|{C1906}With nicknames.
+4395a3|{C192F}Hah{C080F}…{C080F} I don't know why I'm\nsurprised. Silly passing fads…
+4395e8|{C192F}And{C0819}…{C0819} this little CEMETERY?
+43960e|{C1906}It'll be left in the care of the\nname rater.\pBut the graves are old. In time,\nthis place will be lost.
+43967f|{C192F}I see. At least{C080F}…{C080F} a little of\nthis GYM will live on, beneath the\lfeet of new generations.
+4396e7|{C192F}Thank you.
+4396f3|{C1906}I'll let you rest.\nIt's been a long day.
+43972f|{C192F}It seems like only yesterday.\pRight{C0819}…{C0819} NINETALES?
+439761|{C192F}You were writhing right here,\nfacing certain death.
+43979c|{C192F}But I saved you.
+4397b3|{C192F}Back then I wondered how a\nVULPIX had ended up here.
+4397fa|{C192F}That was when{C080F}…{C080F} I realized.\nThis grave, forgotten and worn by\ltime, was hiding something.
+439866|{C192F}Those stairs, as old as\nLAVENDER TOWN itself, lead somewhere\leven deeper.
+4398bf|{C192F}But every time we've gotten close,\nyou've insisted I turn back.
+439911|{C192F}You're the noblest, strongest POKéMON\nI know, but for some reason, going\lback to that place terrifies you.
+439988|{C192F}My curiosity is great, but my respect\nfor our bond is greater.
+4399d2|{C192F}If that's what you want, I can live\nnot knowing where those stairs go.
+439a1e|{C192F}The passage of time will finish\nburying this place.\pIts fate is sealed.
+439a6f|{C192F}Once the NAME RATER moves in,\nno one will ever come down here\lagain.
+439ab8|{C192F}The secret will stay buried\nfor all eternity.
+439fd9|Ugh! Gross! Lying around here all\nday is so boring.
+43a014|Will you shut up, idiot? You want to\ngo out now so the whole city sees you?
+43a064|The BOSS made it clear: 4 to 6 A.M.\nare the only times to move the\lmerchandise.
+43a0bf|That's your only job, and you're\nraking it in for doing nothing.
+43a105|You've got a point. The snobs in\nGOLDENROD CITY go crazy for\lthose mints.
+43a157|They're almost nonexistent in JOHTO,\nand we're cashing in on that.
+43a195|Who's there?
+43a1a6|Ho ho ho. Some fun at last.
+43a1cc|Oh no… There's more than I thought.
+43a1f0|Don't let them get out. We'll deal\nwith the BUG CATCHER.
+43a22e|You lot, take care of the ROCKET.
+43a24e|Finally! I was sick of reading\nbooks and strolling in the garden!
+43a28f|Poisoning opponents is my thing!
+43a2af|That's it?
+43a2b9|Useless! Leave it to me.
+43a2d1|Dammit! How could I lose\nto a BUG CATCHER?
+43a30e|I'll subdue him.
+43a31e|Hey, you!
+43a327|You gonna fight or what?
+43a33c|ROCKETS don't know JOHTO's\nPOKéMON. I'm gonna surprise you!
+43a37d|You're not from KANTO!
+43a393|BEEDRILL! No!
+43a3a3|You've come as far as you could.\nNow you'll suffer the consequen…
+43a3e3|You're nothing but incompetents.\nBeaten by a ROCKET and a\lBUG CATCHER.
+43a431|I'll have to handle this myself!
+43a450|You can't be a ROCKET!
+43a46a|Dammit… The BOSS isn't\ngonna like this.
+43a495|What? You're kicking us out?
+43a4b3|You heard him. Everybody out!\nAnd don't let anyone see you!
+43a4e7|As for you, we'll talk later.
+43a506|Our BOSS's POKéMON\nare terrifying.
+43a531|Once he's beaten you, we'll come\nback and you'll pay for what you did.
+43a57a|Wait.
+43a582|Your POKéMON are back in shape\nnow.
+43a5af|My garden is behind that door.
+43a5d4|I'm taking back what's mine.
+43a661|Look what you've done to my garden!\nThis is unforgivable!
+43ab31|And where did you come from?
+43ab4c|Our exploitation of this land is\nendorsed and approved by LANCE\lhimself.
+43abad|We provide a great service to JOHTO.\nThe POKéMON LEAGUE COMMITTEE ruled\lthat the citizens of KANTO weren't\lfit to use and enjoy the fruits\lgrown here.
+43ac5d|Got a problem with that or what?!
+43ac85|So… no more depriving this region\nof its resources? You're going to\lgive back what's rightfully\lits own?
+43acf7|Who do you think you are?\nThe savior of KANTO?
+43ad27|If anyone's being deprived of\nanything, it's you of your POKéMON!\lAfter we crush you, they'll be fertilizer!
+43ad94|Impossible!
+43ada3|Where did you come from?! I'll let\nLANCE know about this!
+43addf|TEAM ROCKET?! You're high-ranking\nand know the LEADER personally?
+43ae26|Hey, wait!
+43ae33|It was a misunderstanding! No need\nto tell your BOSS anything! We'll\lclear out!
+43ae8e|I'll tell LANCE this land has\ngone to waste, okay?
+43aecf|That stupid BUG CATCHER can\nhave it if he wants. All good?
+43af17|Then I'm going back to JOHTO! I'd\nrather sign up as a SAILOR in\lOLIVINE CITY than be the richest\lguy in POKéMON TOWER!
+43af8a|I can't believe it, you did it!
+43afad|I saw that HOUNDOOM. My bugs\nwould never have stood a chance. If\lI got my garden back, it's thanks\lto you.
+43b026|Look… Those BERRIES up there\nweren't here before.
+43b055|They planted a lot more, all out\nof greed and wanting to make as\lmuch as possible.
+43b0a6|Wait! I've thought of a way to\nreward you.
+43b0d8|I'll come back here and keep working\nthis land. The usual BERRIES are\lmore than enough to get back into\lbusiness. This time I'll keep it\lmore under the radar.
+43b17f|But you can come whenever you like\nand keep whatever grows in the\lnorth area.
+43b1db|They're items TRAINERS really prize:\nthere are both EV-reducing BERRIES\land mints that change a POKéMON's\lnature.
+43b263|Different mints grow depending on\nthe season. I recommend dropping by\lnow and then, since they regrow\lover time.
+43b2ef|Now, back to real work!
+43b323|Hey! How's it going?\nAre my mints coming in handy?
+43b364|Spending time on something\nunproductive can be a source of\lcreativity.
+43b3ca|I wonder what'll happen to OAK and\nhis family now. Your LEADER and OAK\lfought intense battles in the past\lthat thrilled the whole region.
+43b45d|I think GIOVANNI will forgive him out\nof respect for that old rivalry, but\lmaybe OAK's pride won't let him\laccept it.
+43b6c9|{C1923}I'm surprised you're so close to\nthe PRESIDENT of SILPH. Otherwise\lyou wouldn't be here.
+43b728|{C1923}He's a great TRAINER.
+43b742|{C1923}I came here to offer him my\nseat in the ELITE FOUR.
+43b77d|{C1923}Although{C080F}…{C080F} he seems very busy\nwith SILPH, so the seat will stay\lvacant.
+43b7d8|{C1923}I'll retire to FOUR ISLAND. My\npassion for battling isn't the same.
+43b823|{C1923}I thought ICE POKéMON could take me\nfar, but losing so many times has\lgiven me a reality check.
+43b89a|{C1923}I guess I was limited from\nthe start, huh?
+43b8ca|{C1923}But{C080F}…{C080F} what about you? Tell me!
+43b8f4|{C1923}You were very strong, but in the\nend it was RED who became CHAMPION.
+43b936|{C1923}To tell the truth, I'd have liked\nthat girl who came before you to\lwin. The SNEASEL she had showed a\llot of potential.
+43b9d0|{C1923}But that's how it went: RED\nbeat BLUE, and in the end BLUE\lwound up CHAMPION.
+43ba31|{C1923}What a waste, that RED, honestly.\nGoing to MT. SILVER to\ltrain{C0819}…{C0819} a barren wasteland.
+43ba99|{C1923}The odd faded star from the past,\nsure. But he'll stagnate there.
+43bae7|{C1923}You, on the other hand, know your\nway around.
+43bb10|{C1923}Very few have the privilege of\nwalking these halls. I'm sure you're\lnot here by chance.
+43bb79|{C1923}But that's no longer my concern. Now\nI just want peace, to return to my\lroots.
+43bbc7|{C1923}If you're ever on FOUR ISLAND,\ndon't forget to visit me!
+43bc06|PRESIDENT'S PRIVATE OFFICE
+43bc31|THE THREE PILLARS OF SILPH:\p- Discipline\n- Order\l- Patience
+43bec0|{C1939}Slipping past my security again,\neh, young man?
+43bef5|{C1939}I don't know if you realize the\nscale of what you did at the\lPOKéMON LEAGUE, but it's going to\lchange the course of history.
+43bf83|{C1939}I admit I was wrong about you,\nand about TEAM ROCKET.
+43bfbe|{C1939}When I saw that your LEADER was that\nextraordinary TRAINER, the one who\lwon the KANTO LEAGUE so many times in\lthe past, a flood of questions\lswept through my mind.
+43c063|{C1939}GIOVANNI filled me in on his\nhistory: the founding of TEAM ROCKET,\lthe LEGENDARY BIRDS, MEWTWO, the\lMASTER BALL, the assault on the LEAGUE…
+43c0f2|{C1939}He risked me betraying him to\nLANCE. But he knew his offer was\limpossible to refuse.
+43c158|{C1939}Giving KANTO back its autonomy,\nits former glory…
+43c18e|{C1939}GIOVANNI assured me that if we\nfailed, SILPH would have its back\lcovered.
+43c1e7|{C1939}But even without that guarantee,\nI'd have accepted without hesitation,\ljust to keep alive the hope of\lreclaiming the old KANTO.
+43c262|{C1939}And now we're on our way, right?\pThat's why you came here.
+43c29c|{C1939}With SILPH and TEAM ROCKET united,\nKANTO will keep its essence.
+43c2de|{C1939}But{C080F}…{C080F} we'll also make this region\nthe greatest technological power.\pWhat you're seeing here\nis only the beginning.
+43c36d|{C1939}Let me show you a little of what\nI'm talking about.
+43c3a3|{C1939}You're about to face a team from\nKANTO's old school once again, and\lfrom the new one too!
+43c40f|Once again… you've taken me back.
+43c434|{C1939}You've proven your talent once more,\n{V01}. I hope you'll use it in\lservice of a better KANTO.
+43c497|{C1939}As far as I'm concerned, you have\nSILPH's full support.
+43c4d2|{V01} obtained the SILPH B3 KEY!
+43c4f0|{C1939}With this you can keep exploring\nthe library. But keep in mind: many\lthings have been lost over\ltime.
+43c56c|{C1939}You may find what you're looking for\ndown there, but{C080F}…{C080F} it may be impossible\lto prove. History is ruthless,\lcapable of burying what was once\lobvious and in plain sight of\leveryone.
+43c634|{C1939}The question is, can you\nunearth something we don't even\lknow exists?
+43c68f|{C1939}KANTO is watching you, ho ho ho!
+43c784|It's a letter. It bears\nGIOVANNI's signature.
+43c7ae|Do you want to read it?
+43c7bf|Dear PRESIDENT,
+43c7d4|As I told you, I can confirm that\nmany of KANTO's POKéMON still held\luntapped natural\lpotential.
+43c846|Living cut off from the rest of the\nworld kept us from noticing sooner,\la fact other regions already know.
+43c8b6|However, the means by which this\npower can be obtained have always\lvaried widely. They've never been\lclear or standardized.
+43c93f|We now have a fundamental advantage\nover those distant regions: we've\lsynthesized a stone that can\levolve these POKéMON by the most\lefficient means\lpossible.
+43c9f4|We have named it the LINK STONE.
+43ca19|Its market price would\nbe $9800.
+43ca3e|However, like the MASTER BALL, it\nwill never go on sale. Its existence\lwill not be made public either.
+43ca9d|I trust you will understand, and\nappreciate the power this tool\lentails.
+43caf1|A great era of progress and innovation\nis approaching.
+43cb23|The LINK STONE is only the start,\nthe first of many advances that will\lforever change how we think\labout the art of battle.
+43cbb2|Signed, GIOVANNI. April 5, 1997.
+43cbd7|P.S. Attached is the list of every\nPOKéMON tested that reacts to the\lLINK STONE.
+43cc2e|Do you want to read the list?
+43cde8|I led the construction project for\nour JOHTO base. I had to defeat and\lsilence a lot of people to pull it\loff. What did you do?
+43ce6f|Everyone here did something\nimportant for TEAM ROCKET.
+43ced9|If you want some advice, buy a\nLARVITAR and train it.
+43cf10|With a NIDOKING or NIDOQUEEN, ROCKETS\nwill respect you, but with a TYRANITAR\lthey'll fear you.
+43cf68|As a PSEUDO-LEGENDARY and a\nROCK/DARK TYPE, it's the pinnacle of\lstatus and rank. Even for a\lROCKET EXECUTIVE.
+43cfef|An idea doesn't survive because it's\nbetter than another, but because the\lperson who believes in it survived.
+43d064|Thanks to a contact in SINNOH,\nwe can get a few POKéMON from\lthat region.\pSupply is very limited, so the\nmarket is exclusive to EXECUTIVES.
+43d39f|Are you sure you want BUNEARY?\nIt'll cost $14,000.
+43d3ce|Are you sure you want CROAGUNK?\nIt'll cost $25,000.
+43d3fe|Are you sure you want BUDEW?\nIt'll cost $29,000.
+43d42b|Are you sure you want HIPPOPOTAS?\nIt'll cost $33,000.
+43d45d|Are you sure you want SHIELDON?\nIt'll cost $110,000.
+43d48e|Are you sure you want LARVITAR?\nIt'll cost $170,000.
+43d4f4|If I were you, I'd check the stall\nupstairs for all the EGG MOVES\lyour POKéMON can learn.\pMore than one EXECUTIVE has been\npleasantly surprised.
+43d5a2|VIP AREA. EXECUTIVES ONLY.
+43d63f|Use the VIP ROOM KEY?
+43d660|A special key is required.
+43ddf2|{C1922}This way.
+43ddff|{C1906}You're {V01}, correct?\nI'm DESTRA.
+43de28|{C1963}I've heard some rumors about you.\nMake yourself comfortable, please.
+43de66|{C1963}You have meddled with the natural\norder of things, {V01}.\pAnd I won't tolerate that in HOENN!
+43dec0|{C1963}Is that clear?!
+43ded8|{C1963}You think you just stopped some\nblack market deal, but that's\lnot the case.
+43df35|{C1963}Dozens of deals like that happen\nevery month, and the money always\lcomes back to us.
+43df98|{C1963}That's the point! Or did you really\nthink we weren't aware of\lit?
+43dff4|{C1963}You're a young man who thinks only\nin terms of regions and people.
+43e039|{C1963}There are no regions! No people!
+43e060|{C1963}There is no KANTO, no JOHTO,\nno HOENN!
+43e097|{C1963}It's the monetary system that\ndetermines the totality of life in the\lPOKéMON world.
+43e0f0|{C1963}Today, that is the atomic,\nsubatomic and galactic structure of\lthings.
+43e142|{C1963}And you! You{C0819}…{C0819} have interfered with the\nbasic laws of our world.
+43e18e|{C1963}And you're going to atone for it!
+43e1b0|{C1963}Do you understand now, {V01}?
+43e1d9|{C1963}You refuse to understand. Fine.
+43e1fd|{C1963}I'll make you see it by force.
+43e21c|{C1963}Allow me to introduce the host\nof HOENN's great future business:\lSCOTT.
+43e26b|{C1965}Well, well.\nLooks like there's talent here.
+43e297|{C1965}The question is, how much?
+43e2b3|{C1965}We'll find out.
+43e2c8|{C1906}Now we'll see what\nyou're capable of.
+43e2ef|{C1906}Let's see this tactic of yours.\nShow me!
+43e318|What happened here?
+43e32d|Grr… But how…
+43e33d|{C1967}This TRAINER…\nis on another level.
+43e364|{C1966}I hate to admit it, but you could\nbe a future superstar.
+43e3a4|{C1965}Ho ho, kid.\nYou've got talent, real talent!
+43e3da|{C1965}Tell me, would you like to write your\nname in history in letters of gold?
+43e426|{C1965}I can make you richer than\nyou could ever imagine.
+43e484|{C1963}There is no such thing as the POKéMON\nLEAGUE. There is no MASTER. The HALL\lOF FAME is a facade.
+43e4e7|{C1963}There is only DEVON, SILPH, the SAFARI\nZONE, the malls, museums, regional\lleagues, stations and RADIO TOWER…
+43e560|{C1963}Those are the regions of the\nPOKéMON world today.
+43e590|{C1963}And now{C0819}…{C0819} the BATTLE FRONTIER too.
+43e5bd|{C1963}What do you think the POKéMON LEAGUE\ntalks about in its meetings?
+43e5fa|{C1963}Who got into the HALL OF\nFAME? The greatest CHAMPION in history?\pPOKéMON battle theory, perhaps?
+43e675|{C1963}They pull out their linear\nprogramming charts, statistical\ltheories, minimum-cost solutions, and\lwork out how to excite the greatest\lnumber of kids with the least\lpossible investment.
+43e731|{C1963}We no longer live in a world of\nideologies, {V01}.
+43e761|{C1963}The world is a collection of\ncorporations, inexorably\ldetermined by the immutable bylaws\lof business.
+43e803|{C1963}It has always been this way.\nAnd deep down, you know it too.
+43e83f|{C1963}Now, all I ask is that you join\nthe elite in that perfect world.
+43e897|{C1963}So{C0819}…{C0819} you already have your own\nplans for your future.
+43e8da|{C1963}In that case, I'll show you mine.
+43e900|Fine, I understand your plans…
+43e91f|{C1963}It's been a while since I felt\nthis adrenaline in battle.\lThank you.
+43e96b|{C1963}Once I'm the BATTLE TOWER's SALON\nMAIDEN, I'll have to fake that feeling.
+43e9bc|{C1963}It couldn't be otherwise, within\nthe facility's rules.
+43e9fd|{C1963}Perfect for putting on a show,\nfor giving the masses what they want.\pAnd, as a result, incapable of\nreproducing the true splendor of a\lbattle in its purest form.
+43eabb|{C1963}That's right. Your plans don't\nmatter, {V01}.
+43eae2|{C1963}The BATTLE FRONTIER is the perfect\nformula.
+43eb0f|{C1963}With it, the masses will have\neverything they need.
+43eb42|{C1963}All their needs, met.
+43eb67|{C1963}Their anxieties, soothed.
+43eb84|{C1963}Their boredom, eliminated.
+43eba3|{C1963}Think carefully about your next\nsteps, {V01}.\pIf you refuse to preach this,\nyou can't silence it either.
+43ec28|This area is for exclusive clients.\nWe're sorry.
+43ec68|B5 - RADIO WAVES APPLIED TO\nPOKéMON PERFORMANCE
+43ecae|B6 - MAXIMIZING RADIO WAVE\nPERFORMANCE
+43ecf1|B7 - OPTIMIZING RADIO WAVE\nPERFORMANCE
+43ed34|B8 - EFFICIENT USE OF\nRADIO WAVES
+43ed72|B9 - APPLIED THEORY OF\nHOW RADIO WAVES WORK
+43edc6|The first radio wave was\nbroadcast in 1897.
+43edf2|A lot of water has passed under the\nbridge since then, and plenty more\lstill will.
+43ee48|The RADIO TOWER has hired several\nsecurity experts, some from\lKANTO.
+43ee97|We're learning a lot from them.
+43ef4c|If you're here talking to me,\nit's because you're part of the\lelite, right?
+43efb6|The true greatness of this place\ncan never be understood by the\lmasses.

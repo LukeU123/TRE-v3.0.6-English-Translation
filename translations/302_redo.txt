@@ -1,0 +1,23 @@
+20ff9b|MR. BRINEY, an old sea dog, lives\nin a little cottage on the coast.\pHe often goes for walks through\nthe tunnel.
+2102a6|"The tunnel shortcut is almost\ndone!"\pThat's what the sign says, but\nthere's a big red "X"\lpainted over it…{C0805}
+2103a4|DEVON CORP. OFFICES\p"Access restricted to DEVON\nemployees and authorized staff."
+2280a7|I like all mountains, but my true\nlove is volcanoes.
+23f796|S diferentes.\pDo you think using lots of those\nmakes it easier to win?
+25a750|ÁI own the SEASHORE HOUSE, but\nyou can call me MR. SEA.\pWhat I love most in the world is\nwatching red-hot POKéMON battles.\pLet's see if you battle with passion!\pBeat all the TRAINERS here and\nyou'll get a reward.
+28040e|Your POKéMON seem really fond of\nyou, for a ROCKET.
+290595|I love walking around the\nLAKE OF RAGE.\pEspecially after a rainy day!
+2a00b7|S.\pCome back when you have a\nPOKéBLOCK CASE.\pYou can get one at LILYCOVE's\nCONTEST HALL.
+3861b6|Ah, yes…\pI taught AGATHA everything she\nknows. She never came close to my\lmastery of GHOST types, but she\lstill made the ELITE FOUR.\p…\p…\pCurious to see my POKéMON?\pI'm afraid you'll have to live with\nthat curiosity, young man. I belong\lto another generation, and what\lmight have happened in a clash\lbetween our teams at their peak\lbelongs only in fiction.
+3f2560|If you go back, could you let\nher know? After all that's\lhappened, a good chat with her\lwould make me very happy.
+4c6793| is no longer\ndisabled!
+4c6beb| crashed!
+5b5ec5| Difficulty
+8e045e|  Uses the foe's\nAttack stat\nto hit.
+985825|  Continent
+98f10d|  Android
+99132d|  Playful
+9987fd|  Spoiled
+9aaab5|  Duck
+9b088d|  Scaly
+9b685d|  Blessed
+9ba025|  Bat

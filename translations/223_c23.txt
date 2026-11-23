@@ -161,3 +161,268 @@
 3c622e|{C1903}Don't expect fair treatment like\nRED, or even BLUE, got at the\lPOKéMON LEAGUE. The ELITE FOUR will\luse every POKéMON at their disposal\lto defeat anyone they consider a\lthreat to LANCE'S GOVERNMENT.
 3c6309|{C1903}That's why I, ARCHER, HEAD\nADMIN and GIOVANNI's right hand,\lwill be your final test before you\lleave for your most important\lmission.\pShow me everything you've\nlearned!
 3c63b6|Ah… I'm proud to have trained\nmembers like you.\lHere's the EARTH BADGE.
+3c6412|{C1903}Impressive. In very little time\nyou've reached an extraordinary\llevel, and best of all, you still\lhaven't hit your ceiling.
+3c6487|{C1903}Neither GIOVANNI nor I can set\nfoot in the POKéMON LEAGUE. Our\lfaces are far too well known, and\lthe media has dragged our image\lthrough the mud. If we showed up,\lwe'd just be arrested on the spot.\pHowever, after what I've just\nseen, I can say that you'll\lrepresent us well on this mission.
+3c65e5|{C1903}Winning the LEAGUE gives its\nCHAMPION a power that not even\lLANCE and his government can\lchallenge. That's why you must\lexpect the worst once you enter\lthe POKéMON LEAGUE. They won't let\lan outsider claim the title so\leasily{C0805}…{C0805}
+3c66e8|{C1903}But…\pThere's one last mission all of\nTEAM ROCKET must carry out first.\pGet ready, {V01}.\nGIOVANNI is on his way.
+3c6759|{C1903}Play your cards right.
+3c686a|{C1928}Is it over?
+3c687d|{C1920}Indeed, PROTON.\pAs far as KANTO is concerned, we\nofficially no longer exist.
+3c68c1|{C1928}You went far too easy on him,\ndon't you think? You didn't even\lbother using a RHYDON, let alone\lyour RHYPERIOR{C0805}…{C0805}
+3c6937|{C1920}He doesn't deserve to see even a\nglimmer of real power in this\lregion. They handed him the road\lhere on a plate, and I'll return\lthe favor with interest.\pMy hypocrisy and cynicism toward\nRED will be greater still.
+3c6a01|{C1920}This region has become so mediocre\nthat no one bats an eye when the\llast LEADER uses a common,\lunevolved RHYHORN as his ace.\pSo be it. Let it drown in its zero\nstandards. Let it grow bored of\lwinning when the result is known\lin advance.
+3c6b11|{C1920}PROTON! I want everything ready\nso that VIRIDIAN CITY's true GYM\lcan open its doors to ANDRA and\l{V01}!
+3c6b7e|{C1928}Everything is in place, sir.\nAs for your{C0805}…{C0805}
+3c6bb9|{C1920}Yes{C080F}…{C080F} I know{C080F}…{C080F} I must\nleave at once. Making my\ldisbanding public has upset him.\pHe needs calming down.
+3c6c63|I'm the EXECUTIVE in charge of\nthe VIRIDIAN CITY ROCKET BASE.
+3c6ca0|GIOVANNI just called.\nHe's on his way here.\pOur LEADER expects you to have the\nEARTH BADGE by the time he\larrives.
+3c6d12|Apparently, he has something very\nimportant to tell us.\pHurry up.
+3c6e95|{C190B}{V01}! Long time no see!
+3c6ead|{C190B}After we took back KANTO,\nGIOVANNI sent me to all sorts of\lregions to expand TEAM ROCKET's\ltrade relations.
+3c6f30|{C190B}The variety of POKéMON we\nhandle now is much greater.
+3c6f6e|{C190B}And our good friend has had a\nlot to do with it, too.
+3c6fa7|{C190B}I see you've kept climbing even\nhigher. Your POKéMON must be scary!
+3c6ff1|{C190B}If you'll allow me, I'd like to\nbattle you, even if just once.
+3c7040|{C190B}I've gotten much stronger\ntraveling the world.\p{C190B}As a ROCKET EXECUTIVE, I think\nI've reached a high level.
+3c70b6|{C190B}What do you say? Up for a battle?
+3c70df|{C190B}Oh, I understand. You must be\nvery busy.
+3c7109|{C190B}Tell me, {V01}.\nDo you have time for a battle?
+3c7134|{C190B}You won't regret it.
+3c714b|{C190B}I'll show you everything I've\nlearned traveling countless regions!
+3c7197|Well… Quantity isn't quality…
+3c71bd|{C190B}I noticed it from the very first\nmove: every one of your POKéMON is\lincredibly well trained. You bring\lout the best in them.
+3c723d|{C190B}That complete, constant dedication\nis what makes them so hard to beat.
+3c728c|{C190B}BLUE is the new LEADER now.\pWith him, this base and its\noperations are safe.
+3c72e0|{C190B}Like me, he loves traveling and\nstudying POKéMON more than battling.\pMaybe that's why we'll never reach\nyour level.
+3c7364|{C190B}But that doesn't mean we have\nnothing to offer you.\pTake this.
+3c73a7|{C190B}It's the MEGA STONE of my\nfavorite POKéMON: VICTREEBEL.
+3c73df|{C190B}It was discovered very recently.\nWhen I heard, I couldn't believe it.
+3c742a|{C190B}My VICTREEBEL was falling behind,\nand I felt something again that I\lhadn't felt since I was a kid,\lsomething I'd already forgotten.
+3c74a1|{C190B}When I activated the MEGA STONE,\nI went back to the moment my\lBELLSPROUT evolved into WEEPINBELL.\pBack then, anything was possible,\nand{C0819}…{C080F} it still is today.
+3c753a|{C190B}Tell me, how many more barriers\ndo you think we'll break in the\lyears to come?
+3c7ac8|{C1906}It's the only way to storm the\nPOKéMON LEAGUE with any guarantee.
+3c7b32|{C1920}You're both… both ready.
+3c7b55|{C1920}Now you may head to INDIGO\nPLATEAU fully by the book.\pHowever…
+3c7ba7|{C1920}We can't risk walking into that\nplace so carelessly.\pThey won't play fair.
+3c7c02|{C1920}Even if you became CHAMPIONS of\nthe POKéMON LEAGUE, they could use\lall their might to delegitimize\lyour victory.\pMake sure it never came to light.
+3c7c9f|{C1907}Then what can we do, sir?
+3c7cc7|{C1920}We must cut off LANCE's every\nmeans of response, so that only\lthe ELITE FOUR and regular POLICE\lofficers are watching over the\lPOKéMON LEAGUE's security.
+3c7d6b|{C1920}Defeating him in that situation\nwould be the same as saying…
+3c7da9|{C190B}That TEAM ROCKET is taking\ncontrol of KANTO.
+3c7dd9|{C1920}Exactly.
+3c7de4|{C1920}And that means taking every\nmember of his party out of play.
+3c7e2f|{C1907}Who do you mean, sir?
+3c7e50|{C1920}Every member of the POKéMON\nLEAGUE COMMITTEE.
+3c7e87|{C1920}Power doesn't lie with LANCE\nalone, but with a select group:\lthe LEAGUE COMMITTEE.
+3c7edc|{C1920}Ever since the war ended, they've\nkept themselves in power.
+3c7f28|{C1907}And{C0819}…{C0819} who makes it up?
+3c7f4b|{C1920}Mostly former KANTO TRAINERS who\nswore loyalty to LANCE.
+3c7f9a|{C1920}Just like OAK, they knelt before\nhim. And served his government well.
+3c7fe8|{C1920}These days, they're LANCE's\nenforcers. They control the GYMS,\land from the LEAGUE HQ they pump\lout propaganda, pass laws and run\lKANTO's economy.
+3c80a0|{C1907}Oh{C0819}…{C0819} I see{C0819}…{C0819}\pSo KANTO's image of TEAM ROCKET\nis their doing.
+3c8105|{C1906}That's right, ANDRA.
+3c8117|{C1917}They're masters at manipulating\nthe news.
+3c814e|{C1920}Is it confirmed, PETREL?
+3c816b|{C1917}Confirmed.
+3c817a|{C1917}I've set everything in motion as\nyou ordered. We must act fast, sir.
+3c81c1|{C1920}Take a seat, PETREL.
+3c81e8|{C1920}With the COMMITTEE members active,\nstorming the POKéMON LEAGUE is\limpossible.
+3c8236|{C1920}There are too many notable\nTRAINERS among them: former GYM\lLEADERS, and even ex-CHAMPIONS\lfrom the era before the war.
+3c82c2|{C1920}Right now, all their top brass are\ngathered in two places: the\ltelecommunications buildings in\lSAFFRON CITY and CELADON CITY.
+3c8360|{C1920}Our sources have confirmed that\nthey're carrying out a routine\linspection of both cities and\ltheir GYMS.
+3c83df|{C1920}The inspection will last three\ndays.\pMeanwhile, they'll be lodging\nthere, far from INDIGO PLATEAU.
+3c843d|{C1907}Three days?
+3c844c|{C1920}Three.\pThat's how long we have to rewrite\nKANTO's history, and to carry out\lboth that assault and the one on\lthe POKéMON LEAGUE.
+3c84d8|{C1920}Let's talk about the one at hand:\nthe plan is to split into two\lgroups and storm both offices, in\lCELADON and SAFFRON.
+3c8552|{C1920}There, we'll defeat them, take\nthem prisoner and cut off their\lcommunications with the LEAGUE!
+3c85b2|{C1920}ANDRA, you'll come with me and\nPETREL.\pWe'll storm the building in\nSAFFRON CITY.
+3c8608|{C1907}No ex-CHAMPION can beat me, sir!
+3c8634|{C1920}{V01}, you'll storm the one in\nCELADON CITY.
+3c865e|{C1920}This base's EXECUTIVE and the new\nROCKET ADMIN will go with you.
+3c86ab|{C1920}Several HIGH-RANKING grunts will\nalso serve as backup.\pThat is all.
+3c86f9|{C1920}The assault on the POKéMON LEAGUE\nhas begun.
+3c8726|{C190B}See you in CELADON CITY,\n{V01}.
+3c874a|{C190B}The telecommunications building is\nthe one between CELADON MANSION\land the DEPT. STORE.
+3c87ae|{C1907}That wasn't easy, huh?
+3c87c8|{C1907}Between you and me{C0819}…{C0819} it took\nme several tries to beat ARCHER.\lHe was even stronger than I\lthought.\pBut we're lucky to have someone\nlike that in charge. BLUE and RED\lnever got the chance to fight\lsomeone of that caliber before\lfacing the ELITE FOUR.\pRemember when he beat LORELEI at\nthe POWER PLANT?
+3c8928|{C1907}I don't even want to imagine\nGIOVANNI's level these days.\pHe wasn't just CHAMPION several\ntimes. Everything that's happened\lsince has made him even stronger.\lIt's admirable.
+3c89d6|{C1907}I'll try to live up to him. Nobody\nfrom that cushy COMMITTEE will\lbeat me, no matter how many\lresources and private tech they\lhave.
+3c8a5e|{C1907}I hope they won't beat you either,\n{V01}.\pDon't let any of them win!
+3c8af8|See that machine over there?
+3c8b11|If you win the EARTH BADGE, you'll\nbe able to use it to reverse the\ldirection of one of the floor\ltiles.
+3c8b7d|That way you can get to this\nbase's office quickly whenever\lyou want.
+3c8c00|-This machine looks like it can\nreverse the arrows, but the EARTH\lBADGE must be inserted-.
+3c8c60|-You used the EARTH BADGE to\nreverse one of the arrows-.
+3c8f25|{C1906}Well, what do we have here?
+3c8f40|{C1906}Did I really come back to my post\nas LEADER just for this?\pWhat a getup you've got on, kid!
+3c8f9d|{C1906}Oh, well{C080F}…{C080F}\pI am TADEO, the final GYM LEADER\nof our beloved KANTO…
+3c8ff5|{C1906}If you want to go to the POKéMON\nLEAGUE and challenge the HQ that\lrules us all, you'll have to…!
+3c905b|{C1906}You don't miss a thing, do you,\n{V01}?
+3c9080|{C1917}Who was I impersonating? {C080F}…{C080F}\pWho do you think!?
+3c90b2|{C1917}The infamous LEADER of this GYM,\nhand-picked by INDIGO PLATEAU to\lguard the last barrier of entry\lto the POKéMON LEAGUE.
+3c9135|{C1917}In his day, he was one of the\nstrongest ELITE FOUR members in\lKANTO, and one of the first to\lkneel before LANCE, too.
+3c91bd|{C1917}When the LEAGUE COMMITTEE\nannounced that this LEADER's\lidentity would stay secret,\lGIOVANNI acted fast.
+3c9233|{C1917}He found out who it was, and\ndrew up a plan to steal his\lidentity.
+3c927f|{C1917}Now… the real LEADER… is in the\nDEEP BASE prison, and there he'll\lstay until further notice.
+3c92e2|{C1917}That wretch's face is the one I'm\nforced to wear whenever those\lCOMMITTEE vermin show up here for\lan inspection.
+3c9369|{C1917}Luckily, this is the least\nregulated GYM, since it gets the\lfewest challengers, because…
+3c93d1|{C1917}Oh, surprise!\pNobody can collect 7 BADGES\nlegally, and nobody dares face the\lstrongest LEADER in KANTO!
+3c944f|{C1917}GIOVANNI himself sometimes treats\nhimself to battling in a hood.\pAnd honestly, I think part of him\nenjoys it. It makes him feel like\ljust one of the crowd.
+3c94e8|{C1917}Now, with RED{C080F}…{C080F}\pHe's made an exception.\pHe's burned his bridges in the face\nof what's to come.
+3c954c|{C1917}That's right, {V01}.\pWe've reached the point of no\nreturn. The moment you get the\lEARTH BADGE, we'll shake this\lregion's pillars before they have\ltime to react.
+3c960d|{C1917}Because you want the EARTH BADGE,\nright?
+3c9637|{C1917}{V01}{C080F}…{C080F} {V01}{C080F}…{C080F}\pDid you really think GIOVANNI\nwould hand it to you so easily?
+3c968b|{C1917}Ho ho ho! Watch this.
+3c96a4|{C1917}Right below the EARTH BADGE\nemblem, where the LEADER usually\lstands, there's a little trapdoor\lleading to our BASE in VIRIDIAN\lCITY.
+3c9746|{C1917}To get the last BADGE, you'll\nhave to pass the test we've\lprepared for you.\pBelieve me, you'll wish that\nwretch were still LEADER!
+3c97e8|This GYM has many uses. One of them\nis scouting talent, something\lGIOVANNI is very good at.\pTalent attracts talent, right?
+3c989a|GIOVANNI sometimes used the\nSTEALTH CLOAK to go out and battle\las LEADER.
+3c98ea|Whenever that happened, there was\na lot of excitement in the BASE,\land lots of us would gather to\lwatch the battle on the security\lcameras.
+3c9978|No challenger ever managed to beat\nmore than two POKéMON. The few who\ltook down two got GIOVANNI's\lpersonal congratulations.
+3c9a0d|In an unfair world, we're forced\nto stop playing fair.\pDon't you think?
+3c9a67|Every ROCKET in this base is HIGH\nRANK, an EXECUTIVE or a top-level\lSCIENTIST. We can't afford\lmistakes here.
+3c9b14|GIOVANNI and OAK had a fierce\nrivalry back in their youth.
+3c9b5e|Not just as TRAINERS, but in\nacademia too.
+3c9b99|When OAK invented TM DOUBLE-EDGE,\nhe won back the CHAMPION title,\land defended it the following year.
+3c9c03|That forced GIOVANNI to reinvent\nhimself. He kept a low profile in\lthose years. Meanwhile, he put\leverything he knew about the\lGROUND TYPE into practice, until\lhe came up with TM FISSURE.
+3c9cc4|The move's power was even more\ndevastating than OAK's DOUBLE-EDGE.\lThanks to it, he surpassed OAK and\lwon 3 championships in a row.
+3c9d5a|Sadly, the war buried stories like\nthese. None of these TMs\lofficially exist anymore.
+3c9de2|As a TRAINER, GIOVANNI's\nspecialty is the GROUND TYPE.
+3c9e22|People sometimes forget, because\nhe's outstanding with any kind\lof POKéMON.
+3c9e7f|But with the GROUND TYPE, he's\npeerless: his mastery went so far\lthat he devised a move even more\lpowerful than EARTHQUAKE: FISSURE.
+3c9f22|I was once a challenger for the\nEARTH BADGE.
+3c9f59|I fought GIOVANNI without knowing\nwho he was, and managed to beat\ltwo of his POKéMON before his\lNIDOKING finished me off.
+3c9fd6|He recognized my potential, and\nsubtly offered me a hand.
+3ca045|The old KANTO had a huge variety of\nTMs, which LANCE's government made\lsure to censor, deeming them\ldangerous.
+3ca0c8|Many were struck from the official\ncatalog and destroyed.
+3ca102|Some, like FISSURE, SLEEP TALK or\nSUBMISSION, we managed to save.\pOthers, like DOUBLE-EDGE, weren't.
+3ca15d|The real reason for the censorship\nis clear: to limit the options\lavailable to new challengers.
+3ca1cb|You don't have to be a genius to\nrealize that all those "destroyed"\lTMs are safely tucked away in the\lLEAGUE COMMITTEE's private vaults.
+3ca337|I'm from JOHTO, though I haven't\nvisited the region in many years.
+3ca37d|I have lots of memories of it. I was\nvery happy in places like ILEX FOREST.
+3ca3c8|There was a POKéMON there… I've\nnever seen it again, but every so\loften I remember it.
+3ca41b|It was small and fragile, with 5\nblack spots on its back.
+3ca453|Its fluttering and lovely sounds\nfilled ILEX FOREST with joy and\lcolor.\pDo you know which POKéMON I mean?
+3ca4bb|Hmm{C080F}…{C080F} No, not that one.\pIt's nothing like it!
+3ca50a|So it was LEDYBA…
+3ca51d|I'd almost started to doubt it\nexisted.
+3ca542|Thanks to you, I know those happy\nafternoons in ILEX FOREST were\lreal. They really happened…
+3ca5a5|Take this.
+3ca5b0|JOHTO's LEADER back then used one,\nand a very powerful one.\pMaybe you can match, or even\nsurpass, that power.
+3ca622|Hmm?\pWhy don't I go back to ILEX FOREST,\nnow that we can get to JOHTO easily?
+3ca67d|Sure, ILEX FOREST is still the same,\nbut I'm not. And neither are the\lpeople who, like the LEDYBA, helped\lmake that place something special\lback then.
+3ca726|Going back would be like tarnishing\nthose memories. Better to let it\lbe. That time has passed, see?
+3ca796|No one respects weakness, even if\nthey sympathize with it.
+3ca7e1|Some of the prisoners were\nexcellent TRAINERS who became\lnotable LEADERS or ELITE FOUR\lmembers in the past.
+3ca866|We even have an ex-CHAMPION behind\nbars, which is why we keep a\lpermanent guard.
+3ca8da|Many people never understand what\nfreedom means until they're\ldeprived of it.
+3ca93c|Only then do they start dreaming of\neverything they could have done.
+3ca986|Some may still get a second\nchance.\pOthers… not anymore.
+3ca9f2|Not everyone who ends up in the\nELITE FOUR gets there by being an\lexcellent TRAINER.
+3caa45|BRUNO, for example, earned great\nrenown after inventing TM\lSUBMISSION.
+3caa90|That let him climb from the SAFFRON\nDOJO to GYM LEADER of VIRIDIAN\lCITY.
+3caae1|From there he gained more power: he\nevolved his MACHOKE and became a\lsymbol of brute force and physical\lendurance.
+3cab5b|Only then could he earn a place\nin the ELITE FOUR.
+3caba5|All inmates enter this place\nthrough the elevator on the right.
+3cabf1|That elevator connects directly to\nB1F of the ROCKET HIDEOUT. That's\lall of our base they ever see.
+3cacab|A lot was lost in the KANTO WAR.
+3cacdc|Among those things, a large number\nof TMs that had been part of the\lregion since the very beginning,\lsince its first generation.
+3cad57|Some of them could be saved,\nlike this one.
+3cad81|SKULL BASH can be very useful on\nPOKéMON like SNORLAX or TAUROS, but\lmany others can benefit from that\lDEFENSE boost, like BLASTOISE or\lVENUSAUR.
+3cae22|If it holds a POWER HERB, it can\nuse the move in a single turn.
+3cae88|GIRATINA's ORIGIN FORME is\ndiabolical.
+3caeb2|It hits the golden number of 150\ntwice, in HP and ATTACK, while the\lrest of its stats stay at 100.
+3caf28|Unlike its far more passive normal\nform, ORIGIN FORME still keeps\lexcellent defensive stats, while\lbeing faster and able to wreak\lhavoc with SHADOW FORCE.
+3cb09d|I'm loyal to TEAM ROCKET, but I\nhave to admit METAGROSS has always\lfascinated me.
+3cb0f2|Even though it was created before\nthe first PORYGON, it's a POKéMON\lthat's still relevant today.
+3cb15a|Even an ADMIN could use one with\ncomplete dignity.\pTell me, do you have one?
+3cb1b0|Hmm, no. What a shame.
+3cb1c6|Well, then you must know it well.
+3cb1ec|1 immunity… 9 resistances…\pRelentless ATTACK and DEFENSE…\pPriority…\pVaried coverage, the ability to\nboost itself or explode…
+3cb267|And yet, it seems to be falling a\nbit behind these days.
+3cb2a8|If so, give it this, and it may\nbecome a key piece of your team\lagain.
+3cb2f9|MEGA METAGROSS is an even more\nrefined machine.
+3cb32a|It fixes normal METAGROSS's main\nproblem, which was its SPEED.
+3cb374|Not only will it be almost like a\nMETAGROSS with AGILITY, it's a bit\lbulkier and hits noticeably harder.\pWelcome to the 21st century!
+3cb4c8|They say an ancient, powerful\nspecies lives in our lake, but only\lin the deepest parts, which only\la SUPER ROD can reach.
+3cb562|All I ever find are filthy\nCLODSIRE surfing around…
+3cb59c|Wait, you're from outside!
+3cb5b9|With the new JOHTO's technology,\nI bet you've caught that\lLEGENDARY fish, right?
+3cb61a|Hmm. Maybe the new JOHTO isn't all\nthat. Or is the legend a lie?
+3cb680|It's gigantic, look at it!\pIt's even bigger than our ELITE\nFOUR's DUN!
+3cb6cd|I'm impressed.\pBeneath this ground{C080F}…{C080F} that I\nwalk on so cheerfully{C080F}…{C080F} there\lare POKéMON like that{C080F}…{C080F}
+3cb73b|You've opened my eyes.\pI want to thank you, you know?
+3cb772|I found this stone on one of my\nlong walks, inside a big flower.\pTake it!
+3cb7cd|According to MASTER DUN, only the\nperfect flower could hold an\litem like that.
+3cb81b|But{C0823}…{C0819} to me, they're all perfect!
+3cb8e2|The water in our pond is very\npure, and it nourishes our whole\lcult.
+3cb92e|But an ancient curse corrupted all\nthe CORSOLA, degrading them\lcompletely.
+3cb984|Even so, I think it's an adorable\nPOKéMON.\pI'd love to see what those CORSOLA\nwere like before the curse struck\lthem.
+3cb9ff|Hmm, I suppose that's impossible.\pYou'd have to go back in time… Or\nmaybe somewhere else there are\lCORSOLA in their natural state?
+3cba84|Oh{C080F}…{C080F} It's just like CORSOLA. It's{C0823}…{C0823}\na CORSOLA.
+3cbab8|That means{C080F}…{C080F}\pThey were once like that here too?
+3cbb00|JOHTO, you say?\nIts waters must be amazing.
+3cbb33|Thank you for showing me some of\nwhat's out there. For that, I'll\lgive you something highly prized in\lhere.
+3cbb9c|Tell me, do you think JOHTO's\nCORSOLA can evolve the same way\lour CORSOLA does?
+3cbce1|If I could have just one POKéMON\nfrom JOHTO, it would be TYPHLOSION.
+3cbd22|HOUNDOOM is old news, and ARCHER's\nis unbeatable anyway.
+3cbd5f|But TYPHLOSION{C0819}…{C0819} is just as strong,\nor stronger.\pBeing a starter gives it a bit\nmore prestige, don't you think?
+3cbdd0|Sadly, it's extremely rare, as rare\nas seeing a CHARIZARD in KANTO.
+3cbe1d|You wouldn't happen to have one,\nwould you, sir?
+3cbe51|I thought not{C080F}…{C080F}\pSomeone like you might get your\nhands on one on one of your many\ltravels.
+3cbeb4|Oh{C080F}…{C080F} Look at that{C080F}…{C080F}\pThe constant energy its flames\ngive off.
+3cbef9|It's magnificent.\nTell me{C080F}…{C080F}\pHow did you get it?
+3cbf3a|So, the GOLDENROD CITY GAME\nCORNER.\pI see{C080F}…{C080F}
+3cbf6e|I'll go there right away!\pWho knows how much longer they'll\nhave a POKéMON like that on offer?
+3cbfcb|I'm very grateful to you, sir.
+3cbfeb|Have this.
+3cbff7|With that MEGA STONE, SKARMORY can\noutspeed TYPHLOSION, and avoid\lgetting scorched too soon!
+3cc067|I'm off to GOLDENROD CITY.\pIt's a pleasure working for you,\nsir.
+3cc143|I've studied QUAGSIRE's entire\ncellular makeup.\pI'm sure that, in the right\nenvironment, it could have been a\ltotally different POKéMON!\pMy dream is to prove it!
+3cc1f8|Tell me, could you contribute\nsomething to my research?
+3cc22b|Hmm, no. Looks like you can't.
+3cc243|That POKéMON{C080F}…{C080F}\pIt's like QUAGSIRE, but{C080F}…{C080F}\pCovered in mud!
+3cc288|It's just how I imagined it!
+3cc2ae|Tell me, where did you find it?
+3cc2db|So, in the far reaches of JOHTO{C080F}…{C080F}\pThat proves my theory.
+3cc319|Take this. Your spirit of\nexploration deserves it!
+3cc34d|Now I can start a new research\nproject: I'm sure WHISCASH can\levolve into DONDOZO!
+3cc3cb|DUSKNOIR-M:\pHP: 55\nATTACK: 110\lDEFENSE: 170\lSP. ATK: 105\lSP. DEF: 170\lSPEED: 25\lTOTAL: 635\pTYPE: GHOST/DARK\pABILITY: IRON FIST\pIts defenses surpass DEOXYS's\nDEFENSE FORME. Only its mediocre HP\lkeeps it from being the greatest\lwall known.\pWhen it MEGA EVOLVES, it gains the\nability to move its hands entirely\lat will, independent of its body.\pThis gives moves like DRAIN PUNCH,\nSHADOW PUNCH and the elemental\lpunches extra impact compared to\lthose of a normal DUSCLOPS.\pIts nonexistent SPEED makes it a\ngood TRICK ROOM user, though it\ldoesn't need it, thanks to moves\llike SUCKER PUNCH or SHADOW SNEAK.
+3cc66b|Warp to DEEP BASE\nentrance
+3cc6a0|Warp out of the\nROCKET GAME CORNER
+3cc6d2|MAXIMUM SECURITY PRISON
+3cc6f6|Straight to LEAGUE HQ
+3cc72e|- The door is locked -
+3cc786|It's an old photo…\pIt shows ARCHER with a TOTODILE,\nand beside him another TRAINER\lwith a DRATINI.
+3ccba4|{C194F}The mission was a complete\nsuccess, PRESIDENT.
+3ccbd4|{C1954}More than a success. Their\nradio wave technology complements\lours perfectly. With it, we can\loptimize a POKéMON's performance\leven further.
+3ccc78|{C1933}But something still eludes us:\nthat STRONG BOND phenomenon…\pHave you ever experienced anything\nsimilar, S.N.MIGUEL?
+3ccd1b|{C1933}I see. It's reserved only for\nthe most capable TRAINERS, who've\ldeveloped a special bond with one\lof their own.
+3ccdb4|{C1906}But that didn't stop them\ncreating that SUICUNE-& by\lartificial means. Not to mention\lall those prototypes, built on a\lbase similar to ours.
+3cce47|{C194E}Remember, too, that those two\nresearchers know about DEOXYS,\lthough they don't have its most\lvaluable information.
+3ccebe|{C1950}What do you think its limit\nmight be?
+3ccee5|{C1933}Knowing its ability to mutate in\nextreme conditions, I'd say{C080F}…{C080F}
+3ccf33|{C1933}{C080F}…{C080F}the moon and the stars are its\nonly limit.
+3ccf6a|{C1933}And now, I'd like to speak with\nS.N.MIGUEL alone.
+3ccfa2|{C1933}JOHTO is a fascinating region,\nisn't it? A phenomenon unheard of\lelsewhere seems common there.
+3cd00c|{C1931}Indeed. My specialty was always\nFOSSILS. I had few chances to\lleave KANTO.
+3cd074|{C1933}That's why you decided to join\nDEVON, isn't it? One of HOENN's\lstrengths is its ancient POKéMON.
+3cd0df|{C1931}Of course. FOSSILS were always\nmy passion.
+3cd116|{C1931}Although{C0819}…{C0819} I must thank you,\nPRESIDENT. That brief expedition to\lJOHTO's hidden places changed the\lway I see the world.\lThat's when I finally accepted\lyour proposal.
+3cd1dc|{C1933}Oh, indeed. The SACRED DRAGON\nyou were researching.\pPerhaps it's a STRONG BOND after\nall, wouldn't you say?\pThe purest, most powerful STRONG\nBOND on record.
+3cd2aa|{C1931}There may have been more than\none, a similar one but{C0819}…{C0819} buried by\lhistory.
+3cd2fe|{C1933}I hope so. Just as happened with\nyou: at first we hired you for\lyour vast experience with FOSSILS,\lbut{C0805}…{C0805}
+3cd390|{C1933}That's not exactly the main\nreason you now hold this\lprivileged position.
+3cd3f4|{C1933}After all, your chance to dig up\nsomething far bigger than any\lFOSSIL may have come. Do we\lunderstand each other?
+3cd47c|{C1931}We understand each other,\nMR. PRESIDENT.
+3cd4a1|{C1933}That is all. I'll eagerly await\nyour progress.
+3cd4d2|{C1931}We'll show everyone your true\npower, won't we, WRONGSPACE?
+3cd59e|Taab!
+3cd623|Qwil!
+3cd6a8|Ik!
+3cd8bb|{C1906}These tracks are fresh.\nWe're close.
+3cd8ea|{C194D}There's still time to turn\nback. Do you really want to risk\lyour life on this expedition?
+3cd948|{C1906}You should be grateful to me.\pYou've spent your whole life here\nand never ventured to dig into the\llegacy your ancestors left.\pThanks to me, you'll get to see\nwhether the legends were true.
+3cda0d|{C194D}Some things are best left\nas they are.
+3cda3c|{C1906}And others are there precisely\nso people like us can see what can\lbe done with them.\pWe'll put that POKéMON to the test\nproperly, when in D….
+3cdadc|{C1906}So, we have visitors.

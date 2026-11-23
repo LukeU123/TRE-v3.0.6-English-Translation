@@ -1,0 +1,971 @@
+9f108c|RATTATA is extremely cautious. Even\nwhile asleep, it twitches its ears to\nlisten for anything that might be a\nthreat. It digs its burrow anywhere.
+9f1148|Its muscles have grown so powerful that\nit can stay in flight without resting\nfor two whole weeks.
+9f11c8|It has beautiful, hypnotic plumage.\nMany TRAINERS are so captivated by the\nfeathers on its head that they choose\nit as their POKéMON.
+9f1290|It claims a vast territory and patrols\nit from the air. If anything invades its\nspace, it will not hesitate to attack\nwith its razor-sharp talons.
+9f1360|PIDGEY has a highly developed sense of\ndirection. No matter how far it strays\nfrom familiar surroundings, it can\nalways find its way back to its nest.
+9f142c|When it Mega Evolves, venomous\nstingers also grow on its hind legs.\nIt stabs with those first, then\nfinishes with the one on its rear.
+9f14e0|BEEDRILL defend their territory at all\ncosts. For your own safety, stay away\nfrom their hive. If they are disturbed,\na whole swarm will attack ferociously.
+9f15d0|It clings to trees, almost motionless,\nbut inside it is frantically active as\nit prepares to evolve. This makes its\nskin extremely hot to the touch.
+9f16b0|WEEDLE has an extremely keen sense of\nsmell. By sniffing with its big red\nnose, it can tell the leaves it likes\nfrom the ones it doesn't.
+9f173c|It traps foes in a whirlwind strong\nenough to toss a ten-ton truck into the\nair, then finishes them off with its\ntoxic scales.
+9f1804|BUTTERFREE has a special talent for\nfinding delicious nectar in flowers.\nIt locates, gathers and carries pollen\nfrom flowers up to six miles away.
+9f18d0|The shell covering its body is as hard\nas an iron slab. METAPOD barely moves,\nso that its insides can evolve safely\nwithin its armor.
+9f19a8|It has a voracious appetite. It can\ndevour leaves bigger than itself in\nthe blink of an eye. It releases a\nterrible stench from its antennae.
+9f1a38|It isn't very good at precision shots.\nIts style is more about firing all 31\nof its cannons indiscriminately.
+9f1ac4|Its sturdy legs and back let it absorb\nthe recoil of its shell cannons, which\nhave the firepower of a tank.
+9f1b64|It fires jets of water from the spouts\non its shell with great precision.\nIts aim is so good that it could hit a\nsmall can from over 160 feet away.
+9f1c30|Its long tail is covered in thick, rich\nfur that darkens with age. The scratches\non its shell show what a fine warrior\nit is.
+9f1d00|SQUIRTLE's shell doesn't just protect\nit. Its rounded shape and grooves cut\ndown on water resistance, letting it\nswim faster.
+9f1d94|The energy of the Gigantamax\nphenomenon has given this Charizard\nflaming wings and enormous size.
+9f1e0c|Its bond with its Trainer is the\nsource of its power.\nIt can fly faster than a jet\nairplane.
+9f1e98|The overwhelming energy coursing\nthrough its body has blackened its\nskin and set it ablaze with intense\nblue flames.
+9f1f2c|CHARIZARD flies around in search of\nstrong opponents. It breathes fire hot\nenough to melt anything, but it will\nnever use it on a foe weaker than itself.
+9f2008|It shows its foes no mercy, tearing\nthem apart with its sharp claws. Against\nstrong opponents it turns aggressive,\nand its tail flame burns bluish.
+9f20d8|The flame on the tip of its tail burns\naccording to its feelings. It flickers\ngently when it's happy and blazes\nfiercely when it's angry.
+9f2170|It scatters huge amounts of pollen\nwith the force of a volcanic eruption.\nBreathing in too much of it can cause\ndizzy spells.
+9f2200|Its legs and back have grown stronger\nto bear the weight of its flower,\nwhich has grown considerably.
+9f2280|VENUSAUR's flower apparently takes on\nvivid colors when it is well nourished\nand gets plenty of sun. The flower's\ndelicate scent has a calming effect.
+9f2348|Its sturdy legs and trunk support the\nweight of its bulb. If it spends a lot\nof time in the sun, the bulb blossoms\ninto a huge flower.
+9f2404|BULBASAUR can often be seen napping in\nthe sun. The seed on its back grows\nbigger and bigger as it soaks up the\nsun's rays.
+9f28a8|This form specializes in defense.\nIt withstands blows with the sturdiness\nof a house's foundations.
+9f2918|This form specializes in offense.\nIt assails its foes with the violence of\nflames roaring fiercely in a furnace.
+9f299c|This form excels at both offense and\ndefense. It attacks with relentless\nmoves that resemble a powerful jet of\nwater.
+9f2a20|Its type changes with the mask it\nwears. It toys with its foes using its\nswift movements and kicks.
+9f2aa4|It uses its surplus electricity as a\nweapon. Its energy reserves exceed even\nthe electrical charge of a towering\nthundercloud.
+9f2b4c|When it evolved, its hind legs turned\ninto wings. By alternately flapping its\nfront and rear wings, it can fly all day\nwithout stopping.
+9f2bec|Its fangs can pierce even the thickest\nfur. It gorges on the blood of people\nand other POKéMON. It flutters in the\ndark and attacks from behind.
+9f2c8c|After so long spent in dark caverns,\ntheir eyes have withered away and lost\nall sight. They use ultrasonic waves\nto detect obstacles.
+9f2d28|It fights bravely with its fists,\nwhich are covered in steel scales.\nIt has a formidable hook punch.
+9f2d88|It's saddened whenever its identity\nmight be uncovered. It never forgives\nanyone who breaks its disguise and\nwon't rest until it gets revenge.
+9f2e04|Its true appearance is a total mystery.\nA researcher who tried to peek inside\nits sack was quite literally scared to\ndeath.
+9f2e8c|When it feels threatened, it bristles\nthe quills on its back to prick anyone\nwho dares attack it.
+9f2ee8|If its core is exposed, its life is in\ndanger, but it can survive if it gets\ninside a Poké Ball quickly.
+9f2f6c|It lives in the ozone layer until its\nshell grows too heavy, then plummets\nhelplessly to the ground.
+9f2fd8|Having awakened its true potential,\nit can change its type at will, just\nlike a certain Legendary Pokémon.
+9f3040|The trust it shares with its\nTrainer has awakened its potential.\nIt can now change its type at will\nduring battle.
+9f30bc|For some unknown reason, they're\nall female. It usually forms its\nown harem of male Salandit.
+9f312c|It devotes a lot of time and effort to\ngrooming and preserving its vivid\ncolors. For some, it takes all day.
+9f31ac|It headbutts with its bubble. Smaller\nPokémon get trapped inside it and\ndrown.
+9f32a8|It makes many kinds of pollen balls.\nSome are used as food, and others\nfor battle.
+9f3308|It dazes foes with its acrobatic\nflight, then takes advantage of their\nconfusion to zap them with a bolt of\nlightning.
+9f3380|Once it picks up the scent of prey,\nit stalks it relentlessly, but when\nthe sun goes down, it falls asleep.
+9f33e8|It brings down its foes with its sharp\nfangs. This form is unstable, so it\nfalls apart after a while.
+9f346c|It lives deep within caverns, where\nit keeps watch over anyone who would\ndestroy the ecosystem.
+9f34e8|It is said that when the horns on its\nhead shine in seven colors, it shares\nthe gift of eternal life.
+9f3554|Shearing its fluffy coat not only\nimproves its appearance but also\nincreases its agility.
+9f35b8|It lives in the shade of thick brush.\nIf it senses danger, its fur bristles\nand becomes razor-sharp to intimidate\nthe foe.
+9f3644|When attacked by bird Pokémon, it\nreleases black scales that cause\nparalysis on contact.
+9f36c8|It compresses water into ninja stars\nand hurls them at its foes. Spun at\nhigh speed, they can slice clean\nthrough metal.
+9f3750|It was feared 300 million years ago\nas the fiercest, deadliest hunter.\nIt has been modified by Team Plasma.
+9f37c8|It is said to have emerged from an\negg in a place where there was\nnothing. Then it shaped the world.
+9f3828|It has no nest. It flies over\nfields and mountains in search of\nfloral honey.
+9f3876|  This is the result of a space virus\nmutating after exposure to a laser beam.\nIt is notable for its superior speed\nand agility.
+9f391c|They are shaped like ancient letters.\nNo one knows which came first,\nwriting or the various UNOWN, but\nresearch continues.
+9f39a0|Its genetic makeup lets it mutate and\nadapt instantly to any environment. It\nevolves when exposed to the radiation\ngiven off by various STONES.
+9f3a38|The bone it holds belonged to its\nmother. Her grief for her child was so\nstrong that she protects it with flames\neven beyond death.
+9f3ac8|While it sleeps, it stores electricity\nin its cheek pouches. If it can't get\nto sleep, it can only give off weak\ndischarges.
+9f3b54|It hasn't mastered storing electricity\nyet, so it lets off bolts when it's\nhaving fun or gets scared.
+9f3bbc|It often leads groups of Rattata.\nEach group has its own territory,\nand fights break out over food.
+e656e8|Quirky
+e656f0|Careful
+e656f8|Sassy
+e65700|Gentle
+e65708|Calm
+e65710|Rash
+e65718|Bashful
+e65720|Quiet
+e65728|Mild
+e65730|Modest
+e65738|Naive
+e65740|Jolly
+e65748|Serious
+e65750|Hasty
+e65758|Timid
+e65760|Lax
+e65768|Impish
+e65770|Relaxed
+e65778|Docile
+e65780|Bold
+e65788|Naughty
+e65790|Adamant
+e65798|Brave
+e657a0|Lonely
+e657a8|Hardy
+e65b80| É  Stench
+e66601|   Sniper
+e66671|   Techni.
+e666c5|   Mold Breakr
+e6699d|   Cursed Body
+e67377| Soul-Hrt
+e6772d|   Wandr Spirit
+e67e68|Burns on the slightest contact.
+e67e84|Powers up Fire moves by 50%.
+e67ea8|Takes advantage of SUNNY DAY.
+e67ed0|Immune to Ground. KO ups highest stat.
+e67ef8|Normal moves become Dragon and x1.2.
+e67f20|Ignores protection, deals 1/4 damage.
+e67f4c|Halves damage from contact moves.
+e67f74|Cuts super-effective damage by 1/3.
+e67fa4|Poisoned foes get confused.
+e67fb8|Negates weather and terrains.
+e67fd0|Reduces damage at full HP.
+e67fec|Terastallizes on entry.
+e68008|Lowers the foe's evasiveness.
+e68028|Each hit has a 30% poison chance.
+e6804c|Raises Defense by one stage.
+e68068|Raises Sp. Def by one stage.
+e68084|Raises Attack by one stage.
+e680a0|Raises Speed by one stage.
+e680bc|Scrappy + Keen Eye.
+e680d8|Restores 25% of ally's HP.
+e680f4|Status moves ignore foe's Abilities.
+e6811c|Absorbs Ground moves.
+e68138|Protects from priority moves.
+e68160|Lays Toxic Spikes on contact.
+e6817c|Copies stat changes.
+e68194|+10% Atk/Sp.Atk per fainted ally.
+e681bc|Boosts slicing moves by 50%.
+e681e4|Eats a used Berry a second time.
+e68204|Copies the foe's stat changes.
+e68224|Sets Electric Terrain. +33% Sp.Atk in it.
+e68250|Summons sun. +33% Attack in sun.
+e68270|-25% foe's Sp. Def.
+e68288|-25% foe's Attack.
+e682a0|-25% foe's Defense.
+e682b8|-25% foe's Sp. Atk.
+e682d0|Immune to status conditions.
+e682f0|Ups highest stat in Electric Terrain.
+e68318|Ups highest stat in sun.
+e68334|Charges up when hit.
+e68364|Changes form when switched out.
+e68384|Charges up from wind.
+e6839c|+50% Rock moves.
+e683b4|+1 Attack when Intimidated.
+e683d4|+1 Atk in Tailwind/wind moves.
+e683f4|+2 Defense when hit by Fire.
+e68418|Blocks status. x0.5 Ghost.
+e68434|<50% HP: -1 Defs, +1 Atks/Speed.
+e6845c|Prevents burns and ups Attack.
+e68480|Sets Grassy Terrain on contact.
+e684a4|Spreads its Ability on contact.
+e684c4|Unnerve + Grim Neigh.
+e684e4|Unnerve + Chilling Neigh.
+e68504|KOs raise Sp. Atk.
+e68518|KOs raise Attack.
+e6852c|Boosts Dragon moves by 30%.
+e68550|Boosts Electric moves by 30%.
+e68578|Nullifies ally stat changes.
+e68594|Ignores protection, deals 1/4 damage.
+e685c0|Sometimes moves first.
+e685dc|Changes form every turn.
+e685f8|Protects side from poison.
+e68614|Suppresses all Abilities.
+e68638|+50% Attack. Locked into one move.
+e68660|Swaps Abilities on contact.
+e68680|Faints the foe in 3 turns.
+e686a0|Boosts Steel moves by 50%.
+e686c4|Removes barriers.
+e686dc|Changes type to terrain.
+e686f4|Powers up ally moves.
+e6870c|Face regenerates in hail.
+e68728|Doubles Berry effects.
+e68744|Halves special damage.
+e68760|Kicks up a sandstorm when hit.
+e68788|x1.3 sound moves. Halves sound damage.
+e687b4|Ups Speed when hit by Fire/Water.
+e687d8|Ignores redirection.
+e687f0|Spits out prey when hit.
+e6880c|Reflects stat drops.
+e68828|Ignores redirection.
+e68840|Lowers all Speed on contact.
+e6885c|Retrieves Poké Balls.
+e68874|Changes type to the last move used.
+e6889c|Ups Defense on entry.
+e688b4|Ups Attack on entry.
+e688cc|Boosts super-effective moves by 20%.
+e688f8|Cuts super-effective damage by 1/4.
+e68938|Prevents stat reduction
+e6895c|Sets Grassy Terrain.
+e68974|Sets Misty Terrain.
+e6898c|Sets Psychic Terrain.
+e689a4|Sets Electric Terrain.
+e689bc|Disc changes its type.
+e689d4|KOs boost its highest stat.
+e689f8|Copies an ally's Ability.
+e68a14|Copies an ally's Ability.
+e68a30|Lowers Speed on contact.
+e68a4c|KOs raise Sp. Atk.
+e68a60|Protects from priority.
+e68a78|x0.5 contact, x2 Fire.
+e68a94|Ups ally's Sp. Atk.
+e68ab0|Copies dance moves.
+e68acc|Deals the HP lost when it faints.
+e68af4|Protects from priority moves.
+e68b1c|Acts as if asleep. Blocks other status.
+e68b4c|Can poison any type.
+e68b68|Cells help when it's weak.
+e68b88|Changes form after a KO.
+e68bac|Blocks one hit.
+e68bc4|Forms a school at high HP.
+e68be0|Doubles Speed in Electric Terrain.
+e68c04|Normal moves become Electric and x1.2.
+e68c30|Healing moves get priority.
+e68c5c|Sound moves become Water-type.
+e68c80|Never makes contact.
+e68c98|Doubles Speed in hail.
+e68cbc|+1 Sp. Atk when HP falls below 50%.
+e68ce4|Boosts Steel moves by 50%.
+e68d08|x0.5 Fire damage. x2 Water moves.
+e68d34|Strong when foes switch.
+e68d50|Breaks at half HP.
+e68d6c|Crits poisoned foes.
+e68d88|Water boosts Defense.
+e68da0|Switches out below 50% HP.
+e68db8|Flees at half HP.
+e68dd0|Ups Defense when hit.
+e68df4|Protects Flying-type weaknesses.
+e68e1c|Summons harsh sun. Negates Water.
+e68e44|Summons heavy rain. Negates Fire.
+e68e64|Reverses aura Abilities.
+e68e84|+33% power to Fairy moves.
+e68ea4|+33% power to Dark moves.
+e68ecc|Hits twice. 2nd hit deals 1/4 damage.
+e68ef4|Normal moves become Flying and x1.2.
+e68f20|Lowers Speed on contact.
+e68f3c|Normal moves become Fairy and x1.2.
+e68f64|Boosts contact moves by 30%.
+e68fa8|Ups Defense on grass.
+e68fc0|+50% pulse moves.
+e68fdc|+1 priority to Flying moves.
+e69008|Transforms based on battle.
+e69024|Prevents sleep for its side.
+e69040|Normal moves become Ice and x1.2.
+e69068|+50% damage to biting moves.
+e69090|+2 Sp. Atk when its stats are lowered.
+e690bc|Blocks some projectiles.
+e690d8|Steals the foe's item.
+e690f4|Halves physical damage.
+e69118|Changes type to the move used.
+e69134|Restores HP when eating Berries.
+e69150|Protects Grass types.
+e69168|Prevents move restrictions.
+e69180|Suppresses the foe's Ability.
+e6919c|Suppresses the foe's Ability.
+e691b8|+10% accuracy for itself and its side.
+e691e4|Transforms at half HP.
+e69200|-12.5% HP to attackers on contact.
+e6921c|Ups Attack in a sandstorm.
+e69238|Status moves get +1 priority.
+e6925c|Immune to Grass. +1 Attack if hit by it.
+e6928c|Reflects status moves.
+e692ac|Ups Speed when scared.
+e692c8|+1 Attack when hit by a Dark move.
+e692f8|Defeating a foe raises Attack.
+e69320|Spreads on contact.
+e6933c|Bypasses the foe's barriers.
+e6935c|Transforms into the foe.
+e69378|Disguises itself as a partner.
+e69394|+30% power if it moves last.
+e693b8|May avoid status conditions.
+e693dc|Doubles Speed in a sandstorm.
+e69400|Prevents Defense drops.
+e6941c|Heals 33% HP on switching out.
+e6943c|Poisons on the slightest contact.
+e6945c|Blocks weather damage and powders.
+e69480|Its stats rise gradually.
+e694a8|Avoids allies' attacks.
+e694c4|May reuse Berries.
+e694dc|Ups Sp. Atk when burned.
+e694fc|Ups Attack when poisoned.
+e6951c|At full HP, takes half damage.
+e69548|Halves its weight.
+e69564|Doubles its weight.
+e69578|Hit by physical move: +2 Spe, -1 Def.
+e695a4|Reduces damage to allies.
+e695c0|Heals an ally's status.
+e695d8|Disables moves on contact.
+e695fc|Below 50% HP, halves both attacks.
+e69620|+2 Attack when its stats drop.
+e69640|Foes can't eat Berries.
+e69660|Reverses stat changes.
+e69684|Trades added effects for +30% power.
+e696ac|Steals the foe's item.
+e696c8|Hurts sleeping foes 1/8 HP each turn.
+e696f4|Transforms in sunlight.
+e6970c|Changes type to match its held Plate.
+e69734|+20% power to recoil moves.
+e69760|Can see the foe's item.
+e6977c|May find Honey.
+e69794|Summons hail on entry.
+e697b0|Cuts super-effective damage by 1/4.
+e697d8|Heals 6.25% HP each turn in hail.
+e69804|Draws in Water moves.
+e6984c|Charges up quickly.
+e69868|Cuts super-effective damage by 1/4.
+e69890|Doubles damage of not-very-effective moves.
+e698bc|Ignores stat changes.
+e698d8|Detects the foe's strongest move.
+e69900|Senses dangerous moves.
+e69920|If KO'd, foe loses 25% of its HP.
+e6994c|Lands critical hits more often.
+e69968|Suppresses the foe's Ability.
+e69984|Can't use its held item.
+e699a0|Prevents status conditions in sun.
+e699c4|Powers up weak moves.
+e699e8|Always moves after others.
+e69a08|All moves hit.
+e69a28|Only takes damage from attacks.
+e69a4c|Critical hits deal x2.25 damage.
+e69a70|Makes all moves Normal and x1.2.
+e69a98|+50% Speed with a status condition.
+e69abc|+50% Sp.Atk in sun. -1/8 HP per turn.
+e69ae4|Heals status in rain.
+e69afc|Always hits the max number of times.
+e69b24|+50% damage to same-type moves.
+e69b50|Heals 1/8 HP per turn when poisoned.
+e69b78|Boosts punching moves by 20%.
+e69ba4|Ups Atk/Sp.Atk by foe's Def/Sp.Def.
+e69bcc|Immune to Water. +1/8 HP in rain, - in sun.
+e69bf8|Doubles stat changes.
+e69c18|Halves heat and burn damage.
+e69c38|Doubles Speed after using its item.
+e69c60|Maxes Attack when hit by a critical.
+e69c8c|Eats Berries earlier.
+e69ca4|Ups evasiveness in hail.
+e69cc4|Flinching raises Speed.
+e69ce8|+25% Atk vs same sex, -25% opposite.
+e69d10|Ups Speed when hit by Electric moves.
+e69d38|Ups evasiveness when confused.
+e69d58|Negates the effects of weather.
+e69d78|Blocks crits. -10% damage taken.
+e69da0|Doubles the user's Attack.
+e69dc0|Prevents stat drops.
+e69dd8|Prevents falling asleep.
+e69df0|Prevents fleeing.
+e69e00|Summons harsh sunlight.
+e69e3c|+50% Bug moves below 33% HP.
+e69e60|+50% Water moves below 33% HP.
+e69e84|+50% Fire moves below 33% HP.
+e69ea8|+50% Grass moves below 33% HP.
+e69ed0|Draining it hurts the foe instead.
+e69ef8|+50% Defense when statused.
+e69f1c|+50% Attack when statused.
+e69f40|Heals by shedding its skin.
+e69f5c|Prevents item theft.
+e69f78|Changes with the weather.
+e69f90|Boosted by the Plus Ability.
+e69fac|Boosted by the Minus Ability.
+e69fc8|Infatuates on contact.
+e69fe4|+50% Attack, x0.8 accuracy.
+e6a004|Slacks off every other turn.
+e6a020|May pick up items.
+e6a038|Prevents Attack drops.
+e6a054|Prevents accuracy drops.
+e6a070|Makes fleeing easier.
+e6a084|May burn on contact (33%).
+e6a0a4|Wakes up quickly.
+e6a0c0|Protects from heat and cold.
+e6a0dc|Depletes the foe's PP.
+e6a0f8|Whips up a sandstorm.
+e6a114|Heals 6.25% HP in rain.
+e6a134|Blocks sound-based moves.
+e6a150|Traps Steel-type Pokémon.
+e6a16c|Prevents burns.
+e6a184|Prevents freezing.
+e6a19c|Prevents flinching and Intimidate.
+e6a1c4|May poison on contact (33%).
+e6a1e8|Doubles the user's Attack.
+e6a208|Copies the foe's Ability.
+e6a224|Raises accuracy by 20%.
+e6a244|Doubles Speed in sun.
+e6a264|Doubles Speed in rain.
+e6a288|Adds secondary effects.
+e6a2a4|Draws in Electric moves.
+e6a2c0|Heals on switching out.
+e6a2d4|Prevents stat drops.
+e6a2ec|Passes on status conditions.
+e6a30c|May spread spores on contact (33%).
+e6a32c|Immune to Ground-type moves.
+e6a34c|Only hurt by weather and super-effective.
+e6a378|-12.5% HP to attackers on contact.
+e6a398|Stops the foe fleeing or switching.
+e6a3c4|Lowers the foe's Attack.
+e6a3e0|Anchors itself firmly.
+e6a3fc|Prevents confusion.
+e6a410|Blocks secondary effects.
+e6a42c|Powers up when hit by Fire. Immune.
+e6a454|Prevents poisoning.
+e6a470|Takes the type of the foe's move.
+e6a494|Prevents falling asleep.
+e6a4b0|Raises accuracy by 30%.
+e6a4d0|Negates the effects of weather.
+e6a4f0|Prevents infatuation.
+e6a504|Turns Water into HP.
+e6a520|Turns electricity into HP.
+e6a53c|May paralyze on contact (33%).
+e6a560|Ups evasiveness in a sandstorm.
+e6a580|Prevents paralysis.
+e6a594|Prevents self-destructing.
+e6a5b0|Blocks one-hit KO moves.
+e6a5cc|Blocks crits. -10% damage taken.
+e6a5f4|Raises Speed by one stage each turn.
+e6a61c|Makes it rain in battle.
+e6a638|Repels wild Pokémon.
+e70808|LOST TOWER
+e70818|OREBURGH MINE
+e70824|RAVAGED PATH
+e70834|SNOWPOINT TEMPLE
+e70848|ROUTE 210
+e70854|ROUTE 205
+e70860|ROUTE 211
+e7086c|ROUTE 211
+e70878|ROUTE 217
+e70884|ROUTE 230
+e70890|ROUTE 229
+e7089c|ROUTE 228
+e708a8|ROUTE 227
+e708b4|ROUTE 226
+e708c0|ROUTE 225
+e708cc|FLOWER PARADISE
+e708dc|STARK MOUNTAIN
+e708ec|NEWMOON ISLAND
+e708fc|FULLMOON ISLAND
+e7090c|VICTORY ROAD
+e7091c|TURNBACK CAVE
+e7092c|SPEAR PILLAR
+e7093c|FUEGO IRONWORKS
+e70948|LAKE ACUITY
+e70958|LAKE VALOR
+e70964|IRON ISLAND
+e70970|AMITY SQUARE
+e70980|MANIAC TUNNEL
+e70990|MT. CORONET
+e709a0|WAYWARD CAVE
+e709b0|ETERNA FOREST
+e709c0|VALLEY WINDWORKS
+e709d0|OREBURGH GATE
+e709e0|LAKE VERITY
+e709ec|ROUTE 224
+e709f8|ROUTE 224
+e70a04|ROUTE 223
+e70a10|ROUTE 222
+e70a1c|ROUTE 221
+e70a28|ROUTE 220
+e70a34|ROUTE 219
+e70a40|ROUTE 218
+e70a4c|ROUTE 217
+e70a58|ROUTE 216
+e70a64|ROUTE 215
+e70a70|ROUTE 214
+e70a7c|ROUTE 213
+e70a88|ROUTE 213
+e70a94|ROUTE 212
+e70aa0|ROUTE 212
+e70aac|ROUTE 211
+e70ab8|ROUTE 211
+e70ac4|ROUTE 210
+e70ad0|ROUTE 210
+e70adc|ROUTE 209
+e70ae8|ROUTE 209
+e70af4|ROUTE 208
+e70b00|ROUTE 207
+e70b0c|ROUTE 206
+e70b18|ROUTE 205
+e70b24|ROUTE 204
+e70b30|ROUTE 203
+e70b3c|ROUTE 202
+e70b48|ROUTE 201
+e70b54|RESORT AREA
+e70b64|SURVIVAL AREA
+e70b74|FIGHT AREA
+e70b84|ROCKET HIDEOUT
+e70b94|POKéMON LEAGUE
+e70ba4|SNOWPOINT CITY
+e70bb8|SUNYSHORE CITY
+e70bc8|VEILSTONE CITY
+e70bd8|PASTORIA CITY
+e70be8|HEARTHOME CITY
+e70bf8|SOLACEON TOWN
+e70c08|CELESTIC TOWN
+e70c1c|ETERNA CITY
+e70c2c|FLOAROMA TOWN
+e70c40|OREBURGH CITY
+e70c50|CANALAVE CITY
+e70c60|JUBILIFE CITY
+e70c70|SANDGEM TOWN
+e70c80|TWINLEAF TOWN
+e70c94|DUN TOWER
+e70cc8|DUN TOWER
+e70cd4|VILLA ETER
+e70ce0|VILLA ETER
+e70cec|ETER CAVE
+e70cf8|VILLA ETER
+e70d04|ROUTE 50
+e70d0c|ROUTE 55
+e70d14|OLIVINE CITY
+e70d24|ROUTE 47
+e70d34|DUN PILLAR
+e70d40|LAKE OF RAGE
+e70d4c|MT. MORTAR
+e70d5c|TRAIN STATION
+e70d98|ROUTE 54
+e70da0|ROUTE 53
+e70da8|ROUTE 52
+e70db0|ROUTE 51
+e70db8|ROUTE 49
+e70dc0|ROUTE 49
+e70dc8|ROUTE 48
+e70dd0|ROUTE 47
+e70dd8|ROUTE 46
+e70de0|ROUTE 45
+e70de8|ROUTE 44
+e70df0|ROUTE 43
+e70df8|ROUTE 42
+e70e00|ROUTE 41
+e70e08|ROUTE 40
+e70e10|ROUTE 39
+e70e18|ROUTE 38
+e70e20|ROUTE 37
+e70e28|ROUTE 36
+e70e30|ROUTE 35
+e70e38|ROUTE 34
+e70e40|ROUTE 33
+e70e48|ROUTE 32
+e70e50|ROUTE 31
+e70e58|ROUTE 30
+e70e60|ROUTE 29
+e70e68|ROUTE 28
+e70e70|ROUTE 27
+e71358|ROUTE 28
+e71360|ROUTE 27
+e7136c|ROUTE 58
+e71374|ROUTE 57
+e7137c|ROUTE 56
+e714d4|ROUTE 26
+e714dc|ROUTE 25
+e714e4|ROUTE 24
+e714ec|ROUTE 23
+e714f4|ROUTE 22
+e714fc|ROUTE 21
+e71504|ROUTE 20
+e7150c|ROUTE 19
+e71514|ROUTE 18
+e7151c|ROUTE 17
+e71524|ROUTE 16
+e7152c|ROUTE 15
+e71534|ROUTE 14
+e7153c|ROUTE 13
+e71544|ROUTE 12
+e7154c|ROUTE 11
+e71554|ROUTE 10
+e7155c|ROUTE 9
+e71564|ROUTE 8
+e7156c|ROUTE 7
+e71574|ROUTE 6
+e7157c|ROUTE 5
+e71584|ROUTE 4
+e7158c|ROUTE 3
+e71594|ROUTE 2
+e7159c|ROUTE 1
+e715dc|ROUTE 10
+e715e4|ROUTE 4
+e71704|ROUTE 53
+e719f0|ROUTE 134
+e719fc|ROUTE 133
+e71a08|ROUTE 132
+e71a14|ROUTE 131
+e71a20|ROUTE 130
+e71a2c|ROUTE 129
+e71a38|ROUTE 128
+e71a44|ROUTE 127
+e71a50|ROUTE 126
+e71a5c|ROUTE 125
+e71a68|ROUTE 124
+e71a74|ROUTE 123
+e71a80|ROUTE 122
+e71a8c|ROUTE 121
+e71a98|ROUTE 120
+e71aa4|ROUTE 119
+e71ab0|ROUTE 118
+e71abc|ROUTE 117
+e71ac8|ROUTE 116
+e71ad4|ROUTE 115
+e71ae0|ROUTE 114
+e71aec|ROUTE 113
+e71af8|ROUTE 112
+e71b04|ROUTE 111
+e71b10|ROUTE 110
+e71b1c|ROUTE 109
+e71b28|ROUTE 108
+e71b34|ROUTE 107
+e71b40|ROUTE 106
+e71b4c|ROUTE 105
+e71b58|ROUTE 104
+e71b64|ROUTE 103
+e71b70|ROUTE 102
+e71b7c|ROUTE 101
+e70d70|RADIO TOWER
+e70d7c|UNION CAVE
+e70d88|DARK CAVE
+e70e78|GLITTER LIGHTHOUSE
+e70e90|MT. SILVER
+e70ea0|BLACKTHORN CITY
+e70eb0|NEW BARK TOWN
+e70ec4|MT. SILVER
+e70ed4|VIOLET CITY
+e70ee4|MAHOGANY TOWN
+e70ef4|CIANWOOD CITY
+e70f04|GOLDENROD CITY
+e70f14|OLIVINE CITY
+e70f24|ECRUTEAK CITY
+e70f30|AZALEA TOWN
+e70f40|CHERRYGROVE CITY
+e70f50|JOHTO HIDEOUT
+e70f60|BURNED TOWER
+e70f70|BELL TOWER
+e70f80|ICE PATH
+e70f8c|SLOWPOKE WELL
+e70f9c|NATIONAL PARK
+e70fac|WHIRL ISLANDS
+e70fbc|DRAGON'S DEN
+e70fcc|TOHJO FALLS
+e70fdc|ILEX FOREST
+e70fe4|SPROUT TOWER
+e70ff8|RUINS OF ALPH
+e71004|RUINS OF ALPH
+e71058|BIRTH ISLAND
+e7106c|ALTERING CAVE
+e7107c|PATTERN BUSH
+e71088|DOTTED HOLE
+e710a8|TANOBY RUINS
+e710b4|SEVAULT CANYON
+e710c4|CANYON ENTRANCE
+e710d8|TRAINER TOWER
+e710e8|RUIN VALLEY
+e710f8|WATER PATH
+e71108|GREEN PATH
+e71114|OUTCAST ISLAND
+e71124|SEVEN ISLAND
+e71130|SIX ISLAND
+e71168|LOST CAVE
+e71178|ROCKET WAREHOUSE
+e71188|ICEFALL CAVE
+e71198|NAVEL ROCK
+e711a8|MEMORIAL PILLAR
+e711b8|FIVE ISLE MEADOW
+e711c8|WATER LABYRINTH
+e711d4|RESORT GORGEOUS
+e711f0|FIVE ISLAND
+e711fc|FOUR ISLAND
+e71234|EMBER SPA
+e71248|THREE ISLE PATH
+e71258|BERRY FOREST
+e71264|MT. EMBER
+e71270|THREE ISLE PORT
+e71284|BOND BRIDGE
+e71294|CAPE BRINK
+e712a4|TREASURE BEACH
+e712b4|KINDLE ROAD
+e712c4|THREE ISLAND
+e712d0|TWO ISLAND
+e712e0|ONE ISLAND
+e71324|LAVENDER CULT
+e71334|LAVENDER CULT
+e71344|RADIO TOWER
+e71350|SEWERS
+e713d1|   POWER PLANT
+e713e4|CERULEAN CAVE
+e713f4|POKéMON TOWER
+e71404|SEAFOAM ISLANDS
+e71414|ROCK TUNNEL
+e71420|POKéMON LEAGUE
+e71430|SAFARI ZONE
+e7143c|POKéMON MANSION
+e7145c|ROCKET HIDEOUT
+e7146c|VICTORY ROAD
+e7147c|DIGLETT'S CAVE
+e7148c|UNDERGROUND PATH
+e7149c|UNDERGROUND PATH
+e714c4|VIRIDIAN FOREST
+e715b4|FUCHSIA CITY
+e715c4|SAFFRON CITY
+e715ec|SAFFRON CITY
+e715fc|INDIGO PLATEAU
+e71608|CINNABAR ISLAND
+e71614|FUCHSIA CITY
+e71624|CELADON CITY
+e71634|VERMILION CITY
+e71644|LAVENDER TOWN
+e71654|CERULEAN CITY
+e71664|PEWTER CITY
+e71674|VIRIDIAN CITY
+e71684|PALLET TOWN
+e716e0|SPACE CENTER
+e716f4|HOENN HIDEOUT
+e7170c|DESERT UNDERPASS
+e7171c|UNDERWATER
+e7172c|UNDERWATER
+e7173c|UNDERWATER
+e7174c|TERRA CAVE
+e7175c|UNDERWATER
+e7176c|MARINE CAVE
+e7177c|ARTISAN CAVE
+e7178c|FARAWAY ISLAND
+e7179c|MIRAGE TOWER
+e717ac|MAGMA HIDEOUT
+e717bc|AQUA HIDEOUT
+e717cc|SECRET BASE
+e717dc|SKY PILLAR
+e717f0|ANCIENT TOMB
+e71800|DESERT RUINS
+e71810|ISLAND CAVE
+e71820|SCORCHED SLAB
+e7182c|UNDERWATER
+e7183c|SEALED CHAMBER
+e7184c|JAGGED PASS
+e71858|JAGGED PASS
+e71864|FIERY PATH
+e71870|FIERY PATH
+e7187c|SOUTHERN ISLAND
+e7188c|CAVE OF ORIGIN
+e7189c|MIRAGE ISLAND
+e718ac|VICTORY ROAD
+e718bc|UNDERWATER
+e718cc|SEAFLOOR CAVERN
+e718dc|SHOAL CAVE
+e718f8|MT. PYRE
+e71908|METEOR FALLS
+e71918|METEOR FALLS
+e71928|NEW MAUVILLE
+e71934|ABANDONED SHIP
+e71944|RUSTURF TUNNEL
+e71954|PETALBURG WOODS
+e71964|BATTLE FRONTIER
+e71974|SAFARI ZONE
+e71980|MT. CHIMNEY
+e71990|GRANITE CAVE
+e719a0|UNDERWATER
+e719b0|UNDERWATER
+e719c0|UNDERWATER
+e719d0|UNDERWATER
+e719e0|UNDERWATER
+e71b88|EVER GRANDE CITY
+e71b9c|SOOTOPOLIS CITY
+e71ba8|MOSSDEEP CITY
+e71bb8|LILYCOVE CITY
+e71bc8|FORTREE CITY
+e71bd8|RUSTBORO CITY
+e71be8|MAUVILLE CITY
+e71bfc|SLATEPORT CITY
+e71c0c|PETALBURG CITY
+e71c1c|PACIFIDLOG TOWN
+e71c2c|VERDANTURF TOWN
+e71c3c|FALLARBOR TOWN
+e71c4c|LAVARIDGE TOWN
+e71c60|DEWFORD TOWN
+e71c70|OLDALE TOWN
+e71c80|LITTLEROOT TOWN
+e7eae8|Excellent
+e7edd8|LEMONADE{C1348}$350
+e7ede8|SODA POP{C1348}$300
+e7edf8|FRESH WATER{C1348}$200
+e84b04|TM193 MEGA KICK - 25 COINS
+e84b24|TM174 TOPSY-TURVY - 20 COINS
+e84b44|How does it work?
+e84b5c|What's a Gimmighoul Coin?
+e84b78|SELL COINS
+e84b88|BUY COINS
+e85000|Serendipity Egg - $333,333
+e85080|1 Shiny Charm - Drampanite
+e850fc|x3 Beast Ball
+e8510c|x7 Moon Ball
+e8511c|x7 Friend Ball
+e8512c|x7 Love Ball
+e8513c|x7 Heavy Ball
+e8514c|x7 Lure Ball
+e8515c|x7 Level Ball
+e8516c|x7 Quick Ball
+e8517c|HEAD ADMIN JOHTO&HOENN
+e85194|HEAD ADMIN
+e851a0|ADMIN
+e851b0|EXECUTIVE
+e851bc|SENIOR GRUNT
+e851d0|GRUNT
+e852b4|HIPPOPOTAS  $33,000
+e8537c|MORE DESTINATIONS
+e8538c|VERMILION CITY
+e8539c|SEVEN ISLAND
+e853a8|SIX ISLAND
+e853b4|FIVE ISLAND
+e853c0|FOUR ISLAND
+e853cc|MORE DESTINATIONS
+e853dc|THREE ISLAND
+e853e8|TWO ISLAND
+e853f8|ONE ISLAND
+e85594|FLAME ORB   1,000 COINS
+e855b0|WISHIWASHI  7,500 COINS
+e85660|ELECTABUZZ $80,000
+e856d4|VOLTORB  $9,000
+e8579c|PINCURCHIN  $52,000
+e857c8|FLETCHLING  $18,000
+e85824|BOUFFALANT $60,000
+e858b0|CRAMORANT $110,000
+e858c4|CRYOGONAL  $105,000
+e858f0|FERROSEED  $60,000
+e859f4|RENAME
+e85a83| The Exp. Share has been turned off.{C09}
+e85aad|   The Exp. Share has been turned on.{C09}
+e85adb| Berry
+e85af7| ANSWER
+e85b02|  QUESTION
+e85b13| Exit
+e85b1a|  DELETE ALL
+e85b7c|EXIT
+e85b84|OK
+e85b8c|Is this the correct time?
+e85ba8|Deleting data…\nPlease wait a moment.
+e85bd4|Delete your saved data?
+e85c28|ACCURACY/
+e85c34|POWER/
+e85c41|   CONTEST MOVES
+e85c54|BATTLE MOVES
+e85c64|Which move should\nbe forgotten?\p
+e85c88|Give up on teaching\n{V02} a new move?
+e85cb0|{V02} forgot {V04}.\pAnd…\p{V02} learned {V03}.
+e85d00|Stop learning\n{V03}?
+e85d18|{V02} is trying to learn\n{V03}.\pBut {V02} can't learn\nmore than four moves.\pDelete a move to make\nroom for {V03}?
+e85d7c|{V02} learned\n{V03}!
+e85d90|Do you want to teach\n{V03}?
+e85da8|Which move should {V02} learn?
+e85dcb| BP
+e85ddf| TIME 
+e85de8|TIME BOARD
+e85dfe|  Exit
+e85e0c|But they'd rather play with other\nPOKéMON than with each other.
+e85e44|I'd say they're not exactly\ncrazy about each other.
+e85e68|I'd say they get along\nfairly well.
+e85e8c|I'd say they get along\nfamously.
+e85eb0|REEL TIME\nHere's your chance to\nscore big!\nThe reel will spin as many\ntimes as the number shows. You\ncould win a BIG BONUS at the end!
+e85f50|You need three COINS.
+e85f68|You've run out of COINS.\nGame over!
+e85f98|You already have 9,999 COINS!
+e85fb4|Do you want to stop playing?
+e85fd0|Awaiting connection…
+e8a2c8|Exit
+e8a2d0|SELL
+e8a2d8|BUY
+e8a318|Mega Stones
+e8a324|Battle Items
+e8a334|Key Items
+e8a340|Berries
+e8a348|TMs & HMs
+e8a354|Poké Balls
+e8a360|Medicine
+e8a36c|Items
+e8a398|Battle Items
+e8a3a8|Key Items
+e8a3b4|Berries
+e8a3bc|TMs & HMs
+e8a3c8|Poké Balls
+e8a3d4|Medicine
+e8a3e0|Items
+e8a3e8|Return\n{V02}.
+e8a438|to the PC
+e8a440|to the shop
+e8a44c|to the list
+e8a458|to the battle
+e8a464|to the main menu
+e8a478|The Box is full.{C09}
+e8a4c4|The Repel's effects are\nstill lingering.{C09}
+e8a504|Giovanni's words echoed…\n{V01}, there's a time and place\lfor everything!{C09}
+e8a53c|Throw away\n{V03}\n{V02}(s)?
+e8a560|Throw away how many\n{V02}(s)?
+e8a57c|{V02} can't be held.
+e8a594|Moving\n{V02}.\nWhere to?
+e8a5ac|There are no\nPokémon.
+e8a5bc|You can't write\nmail here.
+e8a5e0|{V02}\nselected.
+e8a5f4|Close Bag
+e8a604|{V02} COINS
+e8a628|What would you like to do?
+e8a640|Go back to the\nprevious menu.
+e8a69c|None
+e8a6a8|Exit
+e8a6b0|Exit
+e8a6b8|Confirm
+e8a6c4|Give
+e8a6c8|Register
+e8a6d4|Toss
+e8a6dc|Use
+e8a6e4|Fly where?
+e8a718|ID No.
+e8a720|Name
+e8a72c|Lv. 
+e8a73c|Congratulations!
+e8a74c|Hall of Fame No. {V02}
+e8a764|The Hall of Fame data is corrupted.
+e8a786|  Saving…\nDon't close the game.
+e8a7a8|Pokémon seen: {V02}!\nYour Pokémon: {V03}!\p
+e8a7d1|   Welcome to the Hall of Fame!
+e8a7fa|  None
+e8a804|Not specified
+e8a818|The Pokémon have been sorted.
+e8a840|The Pokémon have been sorted.
+e8a868|The Pokémon have been sorted.
+e8a890|The Pokémon have been sorted.
+e8a8b8|The Pokémon have been sorted.
+e8a8e0|The Pokémon have been sorted.
+e8a908|National Pokédex
+e8a91c|Hoenn Pokédex
+e8a930|Pink
+e8a938|White
+e8a940|Gray
+e8a948|Purple
+e8a950|Brown
+e8a958|Black
+e8a960|Green
+e8a968|Yellow
+e8a974|Blue
+e8a97c|Red
+e8a9a8|Smallest Mode
+e8a9b8|Tallest Mode
+e8a9c8|Lightest Mode
+e8a9d8|Heaviest Mode
+e8a9f4|Numerical Mode
+e8aa04|National Dex
+e8aa14|Regional Dex
+e8aa24|Execute search/switch.
+e8aa40|Filter by type.\nOwned Pokémon only.
+e8aa68|Filter by color.\nSeen Pokémon only.
+e8aa94|Filter by first letter.\nSeen Pokémon only.
+e8aacc|Select the mode.
+e8aae4|Select the mode.
+e8aafc|Return to the Pokédex.
+e8ab14|Switch Pokédex listings.
+e8ab30|Search for Pokémon based\non selected parameters.
+e8ab5c|No matching Pokémon found.
+e8ab7c|Search complete.
+e8ab90|Searching…\nPlease wait.
+e8aba8|HT
+e8abad|   Registered in the Pokédex.
+e8abd0|Size vs. 
+e8abe0|Cry of
+e8ac38|Um… {C088C}
+e8acb4|Time
+e8acd4|Egg
+e8ad45|   will vary.\nFind your ideal starting point!
+e8ad78|Also, depending on which point\nyou choose to start from, the moves
+e8adc0|a signature move of its species and\na risky move.
+e8ae07| Each one will have an Egg or special\nmove, a TM move,
+e8ae4f| All the Pokémon have been carefully\nchosen for a great experience.
+e8ae9f| Various Pokémon-themed packs are\navailable to you.
+e8aee1|   Process complete…\nRemember to head to Giovanni's office.
+e8af77| Here, we'll discover the other Hoenn.\nHere's a list of changes:
+e8afc2|  -Your team will be deleted; you can pick\n10 Pokémon of your choice at Lv. 98.
+e8b016|  Events take place after the Johto adventure.\nWe'll discover a different Kanto and Johto.
+e8b073| -Your team will be deleted; you can pick\n10 Pokémon of your choice at Lv. 77.
+e8b0c6|  At this point, the Johto events begin.\nHere's a list of the changes:
+e8b117| Keep in mind this action\ncannot be undone. OK?
+e8b159|   -Your team will be deleted; you can pick\n10 Pokémon of your choice at Lv. 63.
+e8b1ae|  -All Trainers up to this point defeated.\n-Pokémon obtainable so far sent to PC.
+e8b207| At this point, the Kanto events are over.\nHere's a list of the changes:

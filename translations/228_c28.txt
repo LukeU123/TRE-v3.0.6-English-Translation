@@ -1,0 +1,675 @@
+4166f8|{C194F}But now you've made your intentions\nclear. This time you'll witness some\lof our technological advances, but\labove all…{C0805}
+416782|{C194F}You'll see the true power that\ndestroyed this ship!
+4167bb|You beat PRIMAL KYOGRE?!
+4167de|{C194F}Hmmm… In the end, wasting all those\nstats on that useless PHYSICAL ATTACK\lreally takes its toll. Overwhelming,\luncontrolled power loses efficiency.
+416877|{C194F}We already knew you were a great\nTRAINER, but our mission here was\lnever to beat you in battle.
+4168e0|-ADMIN.SAPPHIRE got the SCANNER-.
+416904|{C194F}Ever since we heard that CAPT.STERN\nwanted to mount an expedition to the\lSHIP to recover lost items, we were\lforced to act fast.
+41699c|{C194F}This SCANNER is what helped us\nlocate the RED and BLUE orbs.\pHowever, with a few adjustments,\nwe'll also be able to locate an even\lmore ancient object{C0805}…{C0805}
+416a48|{C194F}It would be a shame if the real\nSCANNER fell into those fools'\lhands, don't you think?
+416aa7|{C194F}The doctor and your former ally have\nmade sure to erase all evidence that\lcould incriminate DEVON.\pIt's just your word against ours,\nand in HOENN, that counts for nothing.
+416b59|{C194F}And now, you'll have to excuse me.\pADMIN.AMETHYST will be eager to\nhave this SCANNER back.
+416ebe|{C1951}See? What were you expecting?\pA super base with 12 basement floors,\neach the size of MAUVILLE?
+416f29|{C1951}If you really believe that, it's\nbecause you've got something like\lit in KANTO, am I right?
+416f8e|{C1951}You refuse to confirm or deny that\ninformation, huh?\pThat means yes.\pIn CELADON, maybe?
+416ff8|{C1951}But don't worry, we don't care\nabout that.\pWatch.
+417035|{C1951}DEVON isn't like TEAM ROCKET; here we\njust study HOENN's FOSSILS in\ldepth.
+4170a1|{C1951}Forget those crazy conspiracy\ntheories where all we want is more\lpower to control HOENN. Or is that\lwhat you lot do in KANTO?
+417133|{C1951}I'll confess something, {V01}. The\ntip I gave you about the MAUVILLE\lGAME CORNER was genuine.
+417187|{C1951}But letting you into NEW MAUVILLE\nwas DR.RASMUS's idea. After seeing\lyou at MT.CHIMNEY, he wanted to put\lyour team to the test.
+417213|{C1951}Either way, I'm not showing you this\nplace because I want to: our\l2nd-ranked ADMIN would like a few\lwords with you.
+41729e|{C1950}HEAD ADMIN {V01}…\pWe already had the pleasure of\nmeeting at POKéMON TOWER, though…\lyour presence reminds me of a\lTRAINER we ran into on ONE\lISLAND some time ago.
+41734f|{C1950}As you can see, this is a humble\nresearch area. Here we focus on\lextracting the latent power of\lHOENN's endemic FOSSILS:\lARMALDO, CRADILY and RELICANTH.
+4173fe|{C1950}We're aware of your achievements\nwith AERODACTYL. What's more, the\lAKUERIA ADMIN.SAPPHIRE analyzed at\lthe LAKE OF RAGE could also count\las a living FOSSIL.
+4174a6|{C1950}But at DEVON we know the potential\nof HOENN's FOSSILS and ANCIENT\lPOKéMON is unmatched.
+41750f|{C1950}You don't have to believe me, {V01}.\nYou'll see it with your own eyes!
+417555|Impressive.
+417564|{C1950}They say you're the best TRAINER\namong the ROCKETS, and this proves\lit. I'm sure you could have given\lour ADMIN.AMETHYST more of a fight\lthan the other ADMIN did.
+417612|{C1950}That aside, I'd like you to\naccept our apologies.
+417656|{C1950}What we did at the RADIO TOWER was\nwrong, but it was our only option:\lthose radio waves are a very\lvaluable resource that will let us\lprobe beneath the surface.
+417709|{C1950}Even if our technology is more\nadvanced in other fields, in that\lone, KANTO and JOHTO lead the way.
+417777|{C1950}To make it up to you, and as a sign\nof peace, I want you to have this.
+4177b7|{V01} obtained a DEVON STONE!
+4177d4|{C1950}Since you've contributed to our\nresearch, the least we can do is\lgive you some of its fruits.
+417838|{C1950}With this stone you can evolve\nseveral of HOENN's classic FOSSILS.\lThe list is in the document right\lnext to it.
+4178b3|{C1950}Now, if you'll excuse us, we're very\nbusy. To leave, just jump down that\lhole, and you'll come out near the\lexit.
+417951|{C1950}Kid, if we wanted to lock you up,\nwe'd have done it already. Right now\lyou've got nowhere to go.
+4179af|{C1950}Calm down, {V01}.\pThere's no pit full of SHARPEDO\nat the bottom of that hole.
+417a07|{C1951}Anyway, I was just leaving.\nHeh, see you around, {V01}.\pHOENN is a big place!
+417a62|Each of our ADMINS has a\nsignature FOSSIL.\pADMIN.SAPPHIRE chose to keep\nthat rare POKéMON from JOHTO, while\lADMIN.AMETHYST saw great\lpotential in RELICANTH.
+417b2e|ADMIN.EMERALD's CRADILY-P can be\nterrifying. If it manages to trigger\lthe stat boost with ANCIENT POWER,\lthere'll be no getting rid of it!
+417bd1|The BASE STAT total increase\nrecorded with the DEVON STONE was\l+100. Same with your ROCKET STONE,\lright?
+417c65|We are pattern seekers, believers\nin a coherent world in which\lregularities appear not by accident\lbut as the result of mechanical\lcausality or of someone's intent.\lRandom processes produce many\lsequences that convince people\lthat the process isn't random\lafter all.
+417db7|Have you fought ADMIN.RUBY's\nARMALDO-P? Thanks to me, its SPEED\lgot so much better!
+417e23|He's absorbed in reading those\nhieroglyphs.
+418069|{C195E}You want to challenge me? My pleasure!
+418092|{C195E}I've been waiting for someone worthy\nof me! But let me tell you, I'm tough\lto crack because I know how to focus.
+4180ff|{C195E}POKéMON, fashion, romance…\nIt's all about focus!
+41813b|{C195E}You'll see. Get ready to lose!
+418166|That was really interesting.\nI even admire you a little.
+4181a0|{C195E}Wow! You're amazing!\nYou've earned my respect!\pYour focus and your willpower\nhave brought us to our knees.
+418208|{C195E}Wait, I almost forgot!\pI have something to give you!{C0805}…{C0805}
+41824a|{C195E}Here, take the\nICICLE BADGE.
+418275|{C195E}Do you think I should act a bit more\nlike an ICE-type GYM LEADER?
+4182bf|{C195E}Like, do you think I should try to\nbe more… cold and distant? I'm just\lnot very good at that{C0805}…{C0805}
+418326|{C1920}We've arrived, {V01}.\nWe'll wait for you at SNOWPOINT PORT.
+418385|You don't look like you're from here.\nJust passing through?\pWell, you'd better get ready!\pOur LEADER is one of the strongest\nin SINNOH.\pHer POKéMON are used to training\nin really harsh conditions.
+418449|What was that?\pYou won in the blink\nof an eye!\p{C080F}…{C080F} {C080F}…{C080F}\pYou're the CHAMPION of some faraway\nregion?!\pOh{C080F}…{C080F} That explains everything!
+418833|Come on, CROBAT. Let's put everything\nwe've learned to the test.
+41887c|How can a common bat\nbe so strong?!
+4188ba|Is that the famous transformation\nthat defies the laws of science?
+418a15|{C194E}Isn't it fascinating?
+418a2b|{C194E}Not even in my wildest predictions\ncould I have imagined a place like\lthis existing in HOENN.
+418a90|{C194E}And even so{C080F}…{C080F} it seems we're still\nonly scratching the surface.
+418ae3|{C194E}Likewise, I may have made a rather\ninaccurate prediction about you\lback then. Remember our meeting in\lthe REGIROCK CHAMBER?
+418b87|{C194E}Let me check.
+418b9e|Looks like it.
+418bee|{C194E}If there's something in nature we\ndon't understand, it very likely\lmakes sense on a deeper level\lthat lies beyond our\lcomprehension.
+418c89|{C194E}In a way, the same may apply to\nthe acquired abilities a TRAINER\lcan attain.
+418cf5|{C194E}It seems the nature of this place is\neven older and more sacred than that\lof GROUDON and KYOGRE.\pWho would have thought?
+418d73|{C194E}Go on your way. A restless soul like\nyours deserves to crash into a wall\lthat's beyond its understanding too.\lIn fact, deep down, that may be what\lyou want most.
+4190c5|{C1960}For a few seconds. Looks like we'll\nbe putting our lives on the line after\lall.
+419113|{C1960}This place doesn't seem part of the\nS.S.TIDAL. You know what I think, right?
+419157|{C1960}That's right, we're inside a submarine.\nLook.
+419188|{C1906}Initiating dive protocol.
+4191ad|{C1906}Done. We're on course.
+4191c9|{C1954}Splendid. How long do you\nestimate it'll take us to get there?
+419228|{C1934}What a privilege to travel\nso far in so little time.
+419264|{C1906}Indeed, in the old days this\nwas unthinkable. Your company's\ltechnological advances have made\lit possible.
+4192cd|{C1954}Even so, 12 hours is\na long time. Meanwhile, let's go over\lall the details of this expedition.\pWhat do you say, DOCTOR?
+419343|{C1934}With pleasure.
+419356|{C1960}Looks like we've walked right into\none of DEVON's plans.
+41939d|{C1960}That DOCTOR{C0819}…{C0819} I've never seen him.\nBut I do know the submarine's pilot.
+4193f4|{C1960}He's the oldest and most powerful\nmember of HOENN's ELITE FOUR. DEVON's\lweb of influence is bigger than I\lthought.
+419470|{C1960}On the other hand, we have no idea\nwhere we're headed. It could be\lanywhere.
+4194c7|{C1960}All we can do is wait here. Even with\nthe surprises, we've completed the\lmission objective: spying on DEVON.
+419535|{C1960}Now's when we need to pay attention\nto what they might say in private.
+419580|{C1960}Hmm{C080F}…{C080F} Feeling a bit\nparalyzed? Maybe my ARBOK's GLARE\lgrazed you a little.
+4195e2|{C1960}A few hours' rest will sort it out.\nDon't worry, {V01}. Meanwhile, I'll\lkeep an ear on what they might\lsay.
+419870|{C1960}You've been asleep for more than\n10 hours. You and your POKéMON\lclearly needed the rest.
+4198cc|{C1960}You'll have noticed it's colder.\nWe've definitely left HOENN far\lbehind.
+41991c|{C1960}Apparently, they're following the\ncourse a SCANNER is giving them.
+41995e|{C1960}I'd say{C0819}…{C0819} you didn't miss much else\nwhile you slept, at least nothing\lyou didn't already know.
+4199c2|{C1960}But now I'm convinced: DEVON is\nmuch bigger than it looks.
+419a1d|{C1960}When they gave me that POKéMON, I\nwas suspicious, but now{C080F}…{C080F} they've\lsaid themselves that they recovered\lthat SCANNER from the ABANDONED SHIP.\pThat ship sank because of one of\ntheir experiments that went wrong.
+419aeb|{C1960}I wonder how many more skeletons\nthey've got in the closet. Maybe\lwe'll find another on this expedition.
+419b5b|{C1906}Land ho! Prepare\nto disembark!
+419b90|{C1934}Now we'll see if that\nPOKéMON is worth this whole trip.
+419bcd|{C1954}It will be, DOCTOR.\pIt never should have left HOENN.\nThat's where it'll reach its peak.
+419c23|{C1906}Docking at the PORT complete.
+419c47|{C1954}Excellent.\nEveryone out, let's go!
+419c6a|{C1954}You've done DEVON a great service.\nWithout your nautical expertise, we\lcouldn't have made it here so\leasily.
+419cf0|{C1906}I'll stay and guard the vessel.\nDon't worry about a thing.
+419d2b|{C1960}Looks like we've arrived.\pThey've all left except the ELITE\nFOUR member.\pThis is our chance to get out.
+419f8e|{C1960}Hands up, old man!
+419fa9|{C1906}But{C0819}…{C0819} Where did you come from?!
+419fd3|{C1960}We just want to follow DEVON.\nWe won't hurt you if you comply.
+41a019|{C1906}Do you know who you're talking to?\nI'm DRAKE of the ELITE FOUR. This trip\lis nothing compared to the journeys\lI've made with my dragons.
+41a0a0|{C1960}We know how to battle too,\nand there are two of us.
+41a0d3|{C1960}However strong you are, you don't\nstand a chance against both of us at\lonce.
+41a140|{C1960}I'm very sorry, but get ready!
+41a17c|{C1960}Seriously? You want to battle an\nELITE FOUR member all by yourself?
+41a1ba|{C1960}Honestly{C0819}…{C0819} This new generation\nof TEAM ROCKET{C0819}…{C0819} so impractical.
+41a215|{C1960}If you lose and they take you\nprisoner, I won't come rescue you.
+41a256|{C195F}Very noble of you, but you'll\nregret making that decision.
+41a2a4|{C195F}Someone like you will never know what\nit takes to battle with the help of\lPOKéMON, and without that{C080F}…{C080F}\pYou'll never defeat me!
+41a32a|I lost to a mere stowaway?
+41a349|{C195F}Even though you're here for reasons\nthat go against my interests, you\ldeserve my recognition.
+41a3a4|{C195F}You've clearly taken your training\nfar, but let me give you some\ladvice: don't mess with DEVON. You\lcan't beat it by force or through\lthe law.
+41a464|{C195F}DEVON is what's best for HOENN.\nAn outsider like you could never\lunderstand.
+41a4de|Aren't you cold? You should wrap up\nwarmer!
+41a508|Welcome to SNOWPOINT CITY!
+41a824|{C1960}You said you'd\ntake care of him!
+41a84a|{C1920}I did, but in the end, I must\nrespect his wishes.
+41a88c|{C1960}By all the gods of KANTO!\nHe's 10 years old!
+41a8bf|{C1920}10, yes. These days, more than old\nenough to set off on a fantastic\ladventure with his POKéMON, far\lfrom our problems.
+41a94c|{C1920}You can't judge someone's actions\nwithout understanding their world.
+41a998|{C1920}Until recently{C080F}…{C080F} you yourself had\na view of HOENN and DEVON totally\ldetached from reality, didn't you?
+41aa25|{C1920}I know what they're up to. Do you\nknow why? Because we did the same\lthing to topple LANCE: hide most of\lwhat we really were.
+41aaae|{C1920}The question is, what will you do,\nARIANA?
+41aad8|{C1920}Will you return to TEAM ROCKET, or\njust wait for DEVON to settle\lthe score with you?
+41ab2e|{C1920}You've nothing left to fear.\nThe war ended years ago.
+41ab69|{C1960}Not for you. In your position,\nthere will always be a war to fight.\pYou know that well.
+41abbf|{C1960}But, as usual, you leave me no\nchoice: I'll return to TEAM ROCKET.
+41ac0a|{C1920}I expected no less.
+41ac2d|{C1920}Thanks to your work, we now know\nthat one of DEVON's targets is\lREGIGIGAS.
+41ac8b|{C1920}We've looked into it thoroughly.\nIt seems to be in a very limited\lform, but even so, its numbers are\lalready those of a MAJOR LEGENDARY.
+41ad18|{C1920}We'll have to keep an eye on power\nof that magnitude. Predicting DEVON's\lnext move will become a priority.
+41ad9e|{C1920}I can think of only one person who\ncould provide valuable info…\pANDRA.
+41aded|{C1920}She's traveled all over HOENN,\nfinding and defeating every one of\lthe REGIS.
+41ae3c|{C1920}I know she hasn't been heard from\nin months, but{C0805}…{C0805}
+41ae77|{C1920}Her TRAINER CARD is still\nlinked to our database.
+41aec7|{C1920}This is what I wanted to check{C0819}…{C0819}\nThe number of HOENN BADGES on her\lCARD has been going up.
+41af34|{C1920}SOOTOPOLIS, MOSSDEEP{C0819}…{C0819} that one just\na few days ago{C0805}…{C0805}
+41af7d|{C1920}She has only one BADGE left to\nwin in HOENN: FORTREE CITY's.\pShe'll very likely pass through\nthere in the next few days.
+41b008|{C1920}{V01}! Your next destination is\nclear. You must reach FORTREE CITY\lbefore ANDRA does.
+41b05d|{C1920}Wait there and ask for her help.
+41b080|{C1960}That's enough. {V01} and I\nneed to rest.
+41b0b1|{C1960}To be honest{C0819}…{C0819} I'm looking forward\nto seeing KANTO again.
+41b0f6|{C1920}It's changed since then,\nbut it's still recognizable.
+41b140|{C1920}You should rest too,\n{V01}. It's many hours until we\lreach HOENN. That way you'll be\lfresh when you set off for\lFORTREE.
+41b1df|She's asleep. She seems\nespecially calm.
+41b221|We'll stand guard while you\nrest, SIR. You have nothing to\lfear.
+41b280|That talk between ARIANA and\nGIOVANNI was bound to happen sooner\lor later. I couldn't help overhearing.
+41b2f0|SIR, you got revenge for ANDRA by\nbeating ADMIN.AMETHYST! {C080F}…{C080F}\pWasn't he using his strongest\nPOKéMON?\pOh{C0805}…{C0805}
+41b374|We'll reach HOENN in about 8 hours.\nYou've got time to recharge!
+41b3ca|You're incredible! Sneaking onto\nDEVON's SUBMARINE and chasing them\lall the way to SINNOH. Everyone will\lremember your adventure!
+41b527|{C1920}To reach FORTREE CITY, take\nROUTE 118, east of MAUVILLE\lCITY.
+41b585|{C1920}That REGIGIGAS… Nobody awakens a\nPOKéMON like that for archaeology.
+41b5d1|{C1920}Until now we've only been\nfumbling in the dark about DEVON.
+41b617|{C1920}But… I sense that will change\nsoon.
+41b643|{C1920}Once and for all, we'll find out\ntheir true intentions.
+41b686|{C1920}And finding ANDRA will be vital for\nthat. Only you can convince her\lto return to TEAM ROCKET.
+41b74a|Taking a boat to LILYCOVE CITY\nisn't a priority right now.
+41b7ec|{C192C}This region never stops\nsurprising me.
+41b819|{C192C}It seems we were only seeing a\nsmall part of ROCK TUNNEL.\pThis little crack goes even\ndeeper underground.
+41b893|{C192C}I'm intrigued, {V01}.\nWhere will this lead?
+41b9ce|{C192C}Amazing! Did you see, {V01}?
+41b9ef|{C192C}CUBONE, MAROWAK and KANGASKHAN have\nagreed to work together to build\lthis enormous tunnel.
+41ba56|{C192C}It's as if they've learned from the\npast. They want to build a place\laway from humans, where they can\llive in peace.
+41bad1|{C192C}But this tunnel stretches much\nfarther south{C080F}…{C080F} I'm intrigued.
+41bb1f|{C192C}Why make it so big?
+41bd73|{C1906}Huh?\nHow can anyone be down here?
+41bd9b|{C1906}I'm SACHIKO, daughter of KOGA, former\nLEADER of FUCHSIA CITY and future\lmember of the ELITE FOUR.
+41bdfc|{C1953}When FUCHSIA CITY's GYM reopens,\nI'll take his place. I've spent years\lpreparing for that moment.
+41be6b|{C1953}Tell me, who are you?
+41be91|{C1953}TEAM ROCKET? I haven't heard that\nname in years.
+41bec6|{C1953}My KANGASKHAN is the one who\nbrought me here.
+41bef9|{C1953}My father told me it used to be a\nPOKéMON found only in the SAFARI\lZONE, but now it appears in ROCK\lTUNNEL too.
+41bf6e|{C1953}I got curious. After all, there\naren't many interesting places left\lto visit in KANTO, you know?
+41bfdb|{C1953}So I decided to explore the cave.
+41c000|{C1953}Ever since I flew to LAVENDER\nTOWN, my KANGASKHAN has been\lacting strangely.
+41c063|{C1953}As soon as I entered ROCK TUNNEL, it\ncame out of its POKé BALL and led me\lto this narrow tunnel.
+41c0c8|{C1953}To be honest, I'm a little scared.\nBut I'm excited, too.
+41c115|{C1953}Tell me something: do you prefer\nKANTO now, or 3 years ago?
+41c159|{C1953}Mmm{C080F}…{C080F} I get it. You value\nnostalgia, but you don't idealize it\lor let it cloud your present.
+41c1c5|{C1953}Me, though{C080F}…{C080F} I really miss the\nold KANTO.
+41c203|{C1953}When the SAFARI ZONE was in its\nheyday.
+41c239|{C1953}Back then, the streets were full of\ntourists, the GYM was packed with\lchallengers, we had barbecues on the\lbeach and cursed TENTACOOL\lstings.
+41c2e1|{C1953}Even the BIKERS helped fill the\ncity with life and color. They were\lpart of its atmosphere and\lidentity.
+41c356|{C1953}Now{C080F}…{C080F} there's nothing{C080F}…{C080F} it's\ndeserted{C080F}…{C080F} no expectations{C080F}…{C080F} no\lhope, no events worth getting\lexcited about.
+41c3f0|{C1953}They say the WARDEN went on\nvacation, but I know that, just like\lthe KANTO I still remember so well,\lhe won't be coming back.
+41c471|{C1953}When I'm LEADER, I'll do everything\nI can to bring back the FUCHSIA my\lfather built.
+41c4cc|{C1953}But in the meantime, Mr. ROCKET{C080F}…{C080F}\nwe'd better stay alert.\pThe wild POKéMON don't seem to\nwant humans here!
+41c708|{C1953}Oh{C080F}…{C080F} So that's why this\nplace is full of CUBONE,\lMAROWAK and KANGASKHAN now.
+41c764|{C1953}I didn't know the whole story\nof the old POKéMON TOWER, or the\levolution line that links these\lPOKéMON.
+41c7ce|{C192C}That's right, young lady. Baby\nCUBONE whose mothers are still alive\lend up becoming\lKANGASKHAN.
+41c83d|{C192C}That's why more and more of them are\nappearing here. They've found a\lhabitat where they can finally\lthrive.
+41c8ba|{C192C}That both my MAROWAK and your\nKANGASKHAN sensed this is\lfascinating.
+41c909|{C192C}It's as if{C080F}…{C080F} that whole evolution\nline had developed a kind of hive\lmind, driving it to build this\limmense tunnel.
+41c99d|{C1953}It's even bigger than DIGLETT'S\nCAVE. Do you think it leads\lanywhere?
+41c9eb|{C192C}I don't know, young lady. I only know\nthat if our POKéMON led us here,\lit's because they trust us.\pWe have to live up to that.
+41ca7c|{C1953}Don't worry, MR.FUJI!\nI won't let my POKéMON down!
+41cfa1|{C192C}Look. There are more KANGASKHAN\nthan before. It's incredible.
+41cfde|{C1953} Yes, how strange.\nWhat could the reason be?
+41d012|{C1953}That KANGASKHAN{C080F}…{C080F}
+41d02b|{C1953}FUJI{C080F}…{C080F} {V01}{C080F}…{C080F} I'll handle\nthis.
+41d06a|{C192C}What do you mean, you'll handle it?
+41d092|{C1953}I have a hunch.\pIf it's right, only I can\ngo any farther.
+41d0df|{C192C}Now, young lady, we've come\nthis far with you.\pDon't you trust us?
+41d12d|{C1953}It's not that! It's just I can't{C080F}…{C080F}\nI can't let you go on!
+41d16d|{C1953}{V01}! Don't go any farther!
+41d186|{C192C}SACHIKO, calm down.
+41d1a1|{C1953}No, you don't understand!
+41d1ba|{C1953}You leave me no choice. I made a\npromise, and I'll keep it! Whatever\lit takes!
+41d20c|Forgive me, Father{C080F}…{C080F}
+41d224|{C1953}No{C080F}…{C080F} it can't be{C080F}…{C080F} I failed.
+41d251|{C1953}If I can't protect this place, how\ncan I show my face as LEADER of\lFUCHSIA CITY?\pI don't deserve that position.
+41d2cf|{C192C}Oh, come on, girl!\pGYM LEADER?
+41d2f8|{C192C}{V01} is the best TRAINER, not\njust in KANTO, but in JOHTO too.\pHe's stronger than the ELITE FOUR\nand any LEAGUE CHAMPION.
+41d38e|{C192C}You should be proud you\nstood up to the best of\lour time.
+41d3dc|{C192C}MAROWAK and I were really\nimpressed by your KANGASKHAN.\pSuch vigor and power!
+41d431|{C192C}When I see young people caring for\ntheir POKéMON so well, it restores\lmy faith in the new generation.
+41d49f|{C1953}None of that{C080F}…{C080F} matters.\pI made a promise, and I failed.\pNow I can't stop you going on\nand my fears coming true.
+41d516|{C192C}Stop what? Girl{C080F}…{C080F} {V01}\ncan be trusted. His actions stayed\lpure when he could have abused his\lpower.
+41d58b|{C192C}I've spent years working to protect\nPOKéMON like these.\pYou've nothing to fear.
+41d624|{C192C}The very same!
+41d632|{C1953}I see{C080F}…{C080F} In that case{C080F}…{C080F}\pI'll tell you what I know. I've got\nno other choice anyway.
+41d695|{C1953}That KANGASKHAN you see there…
+41d6b4|{C1953}It isn't a KANGASKHAN that\nevolved from a baby MAROWAK\lhere in ROCK TUNNEL.
+41d710|{C192C}How do you know?
+41d723|{C1953}Because{C080F}…{C080F} I've seen it before.\nIn{C080F}…{C080F} the SAFARI ZONE.
+41d764|{C192C}The SAFARI ZONE?\nHow is that possible?!
+41d789|{C1953}I don't know, but now that I\nthink of it{C080F}…{C080F} This tunnel has\lalready crossed half the region to\lthe southwest. We can't be far…
+41d803|{C1953}If this KANGASKHAN is here, it means\nwe're near the SAFARI ZONE, and the\lTUNNEL is finished.
+41d86e|{C192C}Well… That's why there are more\nKANGASKHAN here. From the SAFARI\lZONE, they were digging in the\lopposite direction too…
+41d8e4|{C192C}Every researcher would be tearing\ntheir hair out right now.
+41d926|{C192C}Both evolution lines, miles apart,\nwere perfectly in sync, so much\lso that they managed to join both\ltunnels into one.
+41d9b8|{C1953}If that's true, we'll reach the\nSAFARI ZONE…
+41d9e3|{C192C}What's the problem?
+41d9fc|{C1953}N-Nothing. For now it's just\na guess.\pWe still have to confirm it.
+41da45|{C1953}Let's go on.
+41da51|{C192C}The SAFARI ZONE closed months ago.\pShe's hiding something there, no\ndoubt. But I won't be the one to\lpry into it.
+41dacd|{C192C}That girl{C0819}…{C0819} she clings to her ideals\nwith real tenacity.
+41db0d|{C192C}She's a treasure for KANTO, and with\nvalues like hers, I have no doubt\lthere are noble reasons behind it.
+41db71|{C192C}We have to help her, {V01}.
+41db8e|{C192C}Because right now, I feel a mix of\nterror and wonder.
+41dbd0|{C192C}Achieving something like this, a\nTUNNEL twice the size of the\lDIGLETT one{C080F}…{C080F} is impossible\lwithout an enormous force behind it.
+41dc54|{C192C}Maybe, after all, a new place won't\nbe the only thing we discover on\lthis journey.
+41e33c|{C1953}Oh! KANGASKHAN…
+41e350|{C192C}{V01}! This POKéMON… the\nmoment it saw us, it flew into a\lterrible rage.
+41e3a4|{C192C}So much that even SACHIKO's\nKANGASKHAN couldn't handle it.\pRight now it's out of control.
+41e3ff|{C192C}There's no doubt it belongs to the\nMAROWAK-KANGASKHAN evolution line.\pUnder these conditions, it's best\nthat you take care of it.
+41e481|Guar!
+41e488|Guar…
+41e48e|Guar…
+41e494|{C1953}What a battle, you beat i…!
+41e4c2|{C192C}The POKéMON seems to have no\nstrength left to fight, but{C080F}…{C080F}\leven so, it refuses to give up.
+41b7e6|Wak!
+41c5b6|Wak!
+41e531|{C192C}That distinctive glint in its eyes,\nthat tenacity{C080F}…{C080F} I know it well.\pIt'll fight for this place to the\nbitter end.
+41e5bf|{C192C}SACHIKO's KANGASKHAN couldn't make\nyou see reason, but maybe my\lMAROWAK can.
+41e627|Wak!
+41e62d|Guar!
+41e639|Mar!
+41e63f|{C1953}{V01}, do something!\pFUJI's MAROWAK will be seriously\nhurt if we don't step in!
+41e69f|{C192C}My MAROWAK has faced extreme\nsituations since birth, and\ldespite that, it's still here\lwith us.
+41e711|{C192C}Like me, it's a survivor. It won't\nfall to a POKéMON of its own kind.
+41e760|Wak!
+41e766|{C1953}This is a massacre!
+41e77f|I can't…!
+41e78a|Wak!
+41e790|{C1953}It's{C080F}…{C080F} evolving again?!
+41e7ba|Guar!
+41e7c1|G-Guar?
+41e806|{C192C}My suspicions are confirmed.
+41e82a|{C1953}What happened?
+41e83f|{C192C}It's sad to say, SACHIKO, but\nalmost all MAROWAK die before\lreaching full adulthood.
+41e8ab|{C1953}So you mean…?
+41e8c7|{C192C}This MAROWAK has endured more\nhardship than any other without\lperishing. Because of that, it\lreached a high enough level to\levolve again.
+41e971|{C192C}The result is a POKéMON with a body\nlike an adult KANGASKHAN's, but\lhardened by the tough life of a\lMAROWAK.
+41e9f7|{C192C}Seeing my MAROWAK evolve too\nhas made it trust us.
+41ea52|{C1953}It's as if, somehow, all the\nexperiences they've lived through\lcontribute to and enrich the rest\lof their species.
+41eace|{C1953}Serving as a guide and a beacon…\pLike a guardian watching over its\nown, so they don't have to go\lthrough the same thing.
+41eb3e|{C192C}Maybe GUARDIA's powers are greater\nthan we think, and among them is the\lability to create a "hive mind" that\lguides its whole evolution line,\luniting them to work together\ltoward a single goal.
+41ec1b|{C192C}It's astonishing, but fleeting: we\nwon't see any more "GUARDIA" in\lthe future.
+41ec7c|{C192C}Now that they've created this\nparadise, new generations won't\lhave to bear the cross of becoming\lCUBONE.
+41eceb|{C1953}The evolution line will be lost…
+41ed0d|{C192C}That's right.\pNature is frugal: without hard\ntimes, this POKéMON's existence\lhas no purpose.
+41ed7c|{C1953}I guess{C080F}…{C080F} I should be happy.\pIt means baby KANGASKHAN\nwon't suffer anymore.
+41eddc|{C1953}Though{C080F}…{C080F} on the other hand, I can't\nhelp feeling a bit sad. A miracle\lof nature vanishing without a trace…\lSome POKéMON should live forever!
+41ee8e|{C192C}Some things are precious\nbecause they don't last. The KANTO\lyou long for is no different, dear.
+41eef6|{C1953}Maybe you're right, MR.FUJI.\pWe're lucky to live in\nthese times.
+41ef46|{C1953}{C080F}…{C080F} …{C080F} I have to thank you both.\nThis adventure has made my purpose\las FUCHSIA's LEADER clear to me.
+41efc0|{C1953}I'll make sure myself that these\nPOKéMON, and this KANTO, are never\lforgotten!
+41f016|{C192C}Ho ho ho! Splendid!
+41f4c1|{C1907}Oh! This room gives off a\n…solemn aura.
+41f4ef|{C195D}Look at these ancient writings.\nThey date back to primeval times.\lNo one can imagine what HOENN was\llike back then. Even so, the heroes\lof this story have passed into\leternity.
+41f5c4|{C1907}There's something carved in bigger\nletters. Is it the story's title?
+41f609|{C195D}It is. Read it.
+41f627|{C1907}"Whoever unravels the workings of\ncosmic chance shall prosper. This\ltale tells how a mortal crossed the\lapparent limits."
+41f6c4|"…then the sky turned black.\nLightning, thunder and a relentless\lstorm like we had never seen\lshook HOENN{C080A}…{C080A}
+41f743|…KYOGRE's power was legendary, but\nseeing it firsthand was truly\lstupefying. Under the constant\ldeluge, its water moves didn't just\lfell other types of POKéMON in a\lsingle blow{C080A}…{C080A}
+41f814|…they also finished off most of its\nfellow water creatures on first\lcontact, which showed us clearly\lthe difference between the POKéMON\lwe raised and a creature of sacred\lorigin.
+41f8d5|Things grew worse and worse. The\nwater level kept rising, and if\lKYOGRE's fury continued, all the\ldry land in HOENN would be\lswallowed for centuries.
+41f97f|And yet… there was a TRAINER… who\ndared to challenge the LEGENDARY\lPOKéMON. What's more, on the ground\lwhere KYOGRE was unbeatable: water\lmoves.
+41fa1d|To do so, he relied on a MILOTIC,\nknown as the most extraordinary of\lthe WATER-TYPE POKéMON we knew in\lHOENN.
+41faa1|Its special qualities, though\nexceptional in our eyes, were still\lfar from enough against the\lbrutality of a KYOGRE unlike\lanything we had ever seen{C080A}…{C080A}
+41fb5f|…and yet, the POKéMON had been\ntrained to such an extreme that it\lcould narrow the genetic gap, so\lthat at that moment… in that very\lplace… that MILOTIC seemed like\lanother LEGENDARY POKéMON and not a\lmere mortal like us{C080A}…{C080A}
+41fc58|…if seeing WATER-TYPE POKéMON fall\nin one blow to KYOGRE had inspired\ldeep respect, seeing that MILOTIC\ltake KYOGRE's HYDRO PUMP and\lWATER SPOUT with some composure\lwas just as worthy of awe and\ladmiration.
+41fd59|And so the battle sank into an\nendless exchange of water moves,\lMILOTIC's endurance rivaling\lKYOGRE's power. Both had ways to\lrestore their health, turning the\lbattle for HOENN's future into an\lepic fight to exhaustion.
+41fe88|As the hours passed, what for\nKYOGRE had been surprise, even some\lcuriosity at this unexpected\lopposition, turned into rage and\lfrustration.
+41ff2c|That a MILOTIC could reduce the\nduel to a contest of wills, just as\lhad happened with GROUDON, was a\ldisgrace to KYOGRE and its status\las king of the seas.
+41ffdc|At the end of its patience, it\nresorted to something only its great\lrival had ever forced it to do:\lreturn to its PRIMAL FORM.
+42005f|With even more power and endurance,\nthings looked bleaker and bleaker,\land reality surpassed the worst of\lomens… it chose to break the unwritten\lcode between the two water POKéMON\land… use THUNDER.
+42012c|A tremendous shock lit up the sky,\nturning it white. The electric\ldischarge, which must have been felt\lfor miles around, knocked senseless\leveryone present as it went straight\lfor its target: the MILOTIC that had\ldared so much.
+42022e|Not falling on the spot was itself a\nmiracle, even for an exceptional\lPOKéMON, and… though paralyzed, and\lin a state where any wild MAGIKARP\lcould finish it off, that MILOTIC\lwas still standing{C080A}…{C080A}
+420310|…but… none of that mattered anymore.\nThe battle was decided. What had\lfirst been surprise, then rage, had\lnow turned into respect: KYOGRE\lwould give it the end it deserved.
+4203e6|That was when it happened… some say\nit was the electric shock, others\lits TRAINER's unwavering faith. In\ltruth, the mix that formed there\lallowed that MILOTIC to transform\lone last time.
+4204c1|As if it were nature's own answer,\nin its desire to keep its state of\lbalance at any cost… it gave its\lfinest resources without hesitation\lto win the battle for HOENN.
+420593|Seeing this, KYOGRE moved to secure\nvictory, unleashing an even more\lpowerful THUNDER, but… not only did\lit not affect MILOTIC, it absorbed\lall its energy and healed with it:\lit had become immune to electric\lmoves.
+420684|Somehow, the traumatic experience\nof taking that first divine bolt had\ltriggered a tremendous adaptation\lin record time. Now the battle was\lright back where it had been hours\lbefore.
+420754|But… something had changed. Unlike\nthe chaotic waste of resources shown\lby KYOGRE's PRIMAL FORM, MILOTIC's\lgain in power was carefully\lmeasured, answering a clear\lneed.
+42082c|PRIMAL KYOGRE's power was\nunbeatable, yet the renewed MILOTIC\lhad reached power close to that of\lKYOGRE before its PRIMAL\lFORM{C080A}…{C080A}
+4208cb|…but most impressive of all was its\nendurance: it had surpassed even\lthe power of PRIMAL KYOGRE itself.
+42093f|It seemed to deceive our senses: an\nORIGIN PULSE able to raze all in its\lpath, which would have broken through\lthat MILOTIC at the start of the\lduel, was now held back by a POKéMON\lthat had become one with its\lsurroundings.
+420a22|The battle of wills was over:\nKYOGRE, never having faced\ladversity, had lost the battle, and\lreturned to the depths of the sea{C080A}…{C080A}
+420abf|…and with that, HOENN returned to\nits natural state. Ever since,\lSOOTOPOLIS has kept a close bond\lwith WATER-TYPE POKéMON,\lespecially FEEBAS and its evolution\lline.
+420b76|As for the remarkable MILOTIC and\nits LEGENDARY TRAINER… they went on\ltheir journey in search of new\lchallenges, never to be heard from\lagain{C080A}…{C080A}"
+420c0a|{C195D}What did you think?
+420c2d|{C1907}Withstanding that THUNDER made all\nthe difference. Without knowing it,\lthat POKéMON had prepared its whole\llife for that moment, that chance…\land it rose to the occasion.
+420cdb|{C1907}Somehow, it reminded me of the\nlegend of JOHTO's SACRED\lDRAGON.
+420d3b|{C1907}Yes, but… this one feels\ncloser. I don't know how to put it.\lMore attainable, something that\lcould actually happen today.
+420db2|{C195D}You've seen things like what's\ndescribed here?!
+420de6|{C1907}Not in HOENN, but what it describes\nmatches exactly what they call a\lSTRONG BOND in JOHTO.
+420e53|{C195D}Oh! So that special CROBAT\nis one of them?
+420e8e|{C1907}That's right. The MILOTIC in the\nlegend may have gone through the\lsame thing as my CROBAT.
+420eef|{C1907}Thank you so much for showing me\nthis. It's only reaffirmed my view.\lNow I know my search won't be in\lvain.
+420f87|{C1907}One last thing.
+420fa3|{C1907}This legend is extraordinary, far\nmore inspiring than the classic duel\lbetween GROUDON and KYOGRE…\pIt could be an example for all\nthose new TRAINERS who aspire\lto great heights.
+421061|{C1907}Shouldn't all of HOENN know\nabout it?
+421093|{C195D}You're right, ANDRA, but… you're\nvery out of touch with today's world.\pNot just HOENN, but as far as I know,\nthe whole POKéMON WORLD.
+421118|{C195D}These days, what sells is the\nLEGENDARY, the divinely gifted. The\lvalues that made that MILOTIC great\laren't taken seriously anymore.
+4211ad|{C195D}This legend would be seen as\nnothing more than a children's\lstory… too heavy to tell, too\lfar-fetched even for them.
+42123d|{C195D}Your mindset of truly believing\nit's possible is what makes the\ldifference, but you won't find that\lout there.
+4212b2|{C195D}Even for me, the strongest LEADER\nin HOENN, it's hard to believe. What\lcould you ask of the average\lroute TRAINER?
+421339|{C1907}Mmm… I see… that makes sense. It's\nnot the first region where this has\lhappened. I just hope this view\ldoesn't reach JOHTO too{C080A}…{C080A}
+4213c4|{C1907}It's been a pleasure to visit this\nsacred place.
+4215f1|You've made enough noise already.
+42160e|Think you can walk in here and do\nas you please? Let me tell you,\lthat's not how things work here.
+421681|I've trampled many flowers and\nweathered many storms to get\lhere…
+4216d1|I have no intention of letting\nmy luck change now.
+421712|{C1906}Luck{C0823}…{C0823} something many dreamers\nnever quite understand.
+421753|{C1964}The truth is{C080F}…{C080F} everyone\nseeks their own fortune.
+421790|{C1964}I believe in mine.\nTell me, boy, do you believe in\lyours?
+4217d0|{C1964}Because it seems to have run out!
+42187d|{C1964}Enough. You have to know when\nwhat's left isn't worth it.
+4217fa|No way! FORTUNIA will be one of the\nfuture FRONTIER BRAINS! She's as\lstrong as HOENN's CHAMPION, or more!
+42186f|You can't…!
+4218c9|{C1964}You won, but what you think is luck\ntoday may turn into misfortune\ltomorrow.
+421920|{C1964}Remember that{C0819}…{C0819} I won't forget you…
+42194c|{V01} got back the SLATEPORT\nMUSEUM's painting!
+421c36|{C192C}I see…
+421c41|{C1953}The day he named me future GYM\nLEADER, my father told me the\lsecret.
+421c97|{C1953}He made me swear not to talk about\nit with absolutely anyone.
+421cd9|{C1953}What I never imagined was meeting\none of the TRAINERS who gave those\lBIKERS a second chance.
+421d52|{C1953}Tell me, {V01}. That ANDRA must be\nan exceptional TRAINER too.\pRight?
+421da0|{C1953}When you see her again, please\nthank her for me.
+421de4|{C1953}FUCHSIA CITY will always be your\nhome.
+421e10|{C192C}With a POKéMON like GUARDIA,\nthis place is safe. No TRAINER\lin KANTO will be able to cross\lthis immense tunnel.
+421e8c|{C192C}Besides… now there'll be two\nGUARDIA.
+421eb0|Guar!
+421ebf|Kan!
+421ed5|{C1953}Then that's how it must be.
+421ef0|{C1953}I'll visit you. Every full moon I'll\ncome back to your cave. It'll be like\lgoing back to the old KANTO!
+421f4d|{C192C}My, young lady! Maybe that KANTO\nis more alive than you think!
+421f99|{C1953}Who knows?!
+421fc7|{C192C}Who'd have thought? I'm going back\nwithout my MAROWAK, but with a\lclear conscience!
+42201a|{C1953}I had fun like a little kid,\n{V01}.
+42203e|{C1953}Everything I told you about the KANTO\nof the past… today I got to live\lexperiences just as intense and\lrewarding.
+4220b6|{C1953}I'll always be grateful to you for it.
+4220e0|{C1953}When FUCHSIA's GYM reopens,\ncome visit me.
+42211c|{C1953}We'll look back fondly on this day\ntoo, I'm sure. It isn't even over\land I already feel nostalgic!
+42218c|What are you doing here? Hey, wait…\pSorry, {V01}, I didn't\nrecognize you!
+4221e2|KOGA told us all this was thanks\nto ANDRA. Since then, we BIKERS\lhave looked up to her.
+422258|It's not so bad here.\pAnyway, FUCHSIA's a dump\nnow. There's nothing!
+4222b6|KOGA gave his WEEZING a super\nrare item to hold.\pWith it, it lasted longer\nand hit harder!
+42231d|A few BIKERS have moved to\nARCHI7.\p They said one of the islands has\na pretty sweet ARCADE.
+42239d|POKéMON can sense danger.\pWe've been able to stay here\nbecause, even if we look the part,\lthey know we won't hurt\lthem.
+42244a|Hey, man, seen any KANGASKHAN\naround here? This was supposed to be\lwhere they show up, but I don't see\lany!
+4224d2|Bah! Following rules is the worst!\nTEAM ROCKET rules!
+42253a|Look at all those KANTO citizens\nstuck in the rat race. They live in\la totally different region from the\lone they think they do!
+4225bc|All their possibilities, their\naspirations, the potential they\lonce had, gone forever. They've\laccepted their fate and capped\ltheir options.
+42265e|That's why I don't talk to any\nnormal man over forty. A man with\lno heroic leanings starts dying\lat thirty.
+422718|Sorry, {V01}, but no outsiders\nare allowed in here.
+42274e|Only KOGA and PETREL. These huts\nconnect to a certain point on the\lCYCLING ROAD, which we've linked\lup to the SAFARI ZONE.
+4227d3|You'll understand that location\ncan't be made public. Otherwise,\lthis place's secrecy could be put\lat risk.
+422889|The KANGASKHAN's secret tunnel\nstarts here.\pDo you want to go in again?
+42292f|A buddy of mine decided to head off\nto a faraway region before the biker\lrebellion kicked off.
+422986|He traded me a couple of rare\nPOKéMON. They look like TENTACOOL.
+4229d4|Look!
+4229db|{V01} got an INKAY at Lv.50!
+4229f9|My buddy told me it evolves into an\neven bigger, sinister squid.\pWhen I've got that POKéMON, everyone\nhere's gonna be so impressed.
+422a81|The only catch is it looks like it\ncan't poison the enemy like\lTENTACRUEL or WEEZING!
+422d4a|{C1906}I've been looking for you.
+422d68|{C1907}JIRACHI…
+422d74|{C1907}Where am I? What have you done?!
+422d97|{C1962}I've teleported you to my\nresting place.
+422dc9|{C1907}Don't toy with me, I'm warning you.\nI've beaten LEGENDARY POKéMON far\lstronger than you.
+422e2d|{C1907}Tell me, what do you want?
+422e4e|{C1962}People usually call me\nthe "WISH POKéMON".
+422e88|{C1962}But they don't know I can also see\nthrough to a person's will, their\lworries and their reasons for living.
+422efe|{C1962}Pouring energy into something, even\nwhat seems a lost cause, is never\lharmless or futile.
+422f5b|{C1962}It always has an impact. It's\nwatering something, keeping a\lpossibility alive.
+422fb5|{C1962}Your complete faith that, no matter\nwhat, you can always reach greater\lheights hasn't gone unnoticed.
+42301e|{C1962}I hadn't felt energy like that in\ncenturies upon centuries.
+423055|{C1962}Your words and choices hold claims\nthat seem to offend reason… but\lothers' reason, not that of a true\lTRAINER.
+4230dd|{C1962}That's why I brought you here: more\nthan anyone, I want to grant you\la wish.
+423128|{C1907}I don't want your wish.\nI'll do it my way.
+423154|{C1962}Oh! Don't you see, ANDRA?
+42316f|{C1962}That's exactly why I want\nto grant it to you!
+4231b0|{C1907}Long ago, I swore I'd never\naccept divine gifts. Whatever I\lachieve, I'll achieve by my own\lmeans.
+423222|{C1962}It's a divine gift… that you've\nearned by your own means.
+423264|{C1907}What do you mean?
+42327b|{C1962}That this situation is due to you\nalone. It's a result of your\lactions and only thanks to them.
+4232e5|{C1962}Your wish will still be just that.\nYou can ask for anything, and the\lchoice will be yours.
+42334b|{C1907}Anything…
+423361|{C1907}Very well. I want just one thing.
+423384|{C1907}Take me back to the past, to ancient\nSOOTOPOLIS.\pWhen PRIMAL KYOGRE was defeated\nby a NON-LEGENDARY.
+4233f6|{C1907}I want to see it with my own eyes,\nlearn from what happened there and\lmeet that TRAINER.
+423457|{C1907}Can you do that, and then bring me\nback to this moment?
+423491|{C1962}If that's what you wish, I\ncan.
+4234b8|{C1962}Come closer.
+4234c5|{C1962}You know, ANDRA? Not everyone\nexpects the same from great events.
+423ed4|{C1907}I can't believe it. Am I really…\nin the past?
+423f09|{C1962}Thousands of years ago.
+423f21|{C1907}It's not so different from the\nSOOTOPOLIS I know.
+423f55|{C1962}Hmmm{C080F}…{C080F} Looks like KYOGRE's\nalready here.
+423f84|This is the very POKéMON still\nsleeping in HOENN's seas today.\lIts longevity is astonishing.
+423ff5|{C1962}And its power.
+424004|{C1907}But we'll witness an even greater\none, the one I really care about.
+424047|{C1907}Look! That must be the TRAINER!
+42406b|KYOGRE! Stop!
+42407e|Dra!
+424084|{C1907}A KINGDRA? It can't be!
+4240a3|No, KINGDRA!
+4240b1|{C1907}What does this mean? Will that\nTRAINER show up now?
+4240ea|{C1907}If this keeps up, it'll flood the\nwhole city. What's happening,\lJIRACHI?
+42412e|{C1907}Did{C080F}…{C080F} did it vanish?
+42414d|KYOGRE, I beg you! Stop!
+42416d|{C1907}That's enough.
+424182|{C1907}MILOTIC!
+42418f|{C1907}This is what you wanted, isn't it?\nI'm ready.
+4241c0|{C1907}That HYDRO PUMP won't be enough. My\nPOKéMON have taken worse hits.
+42420e|{C1907}MILOTIC, HYDRO PUMP!
+424227|{C1907}Keep going! Again! RECOVER!
+424267|{C1907}If that's how you want it{C0819}…{C0819} MILOTIC\nand I can keep this up for 3 days.\lDo you hear me, KYOGRE?!
+4242be|{C1907}You'll never beat our tenacity.\nAfter 8 hours{C0819}…{C0819} the scales are\lfinally start…
+424320|{C1907}PRIMAL KYOGRE…
+424336|{C1907}MILOTIC! No!
+424348|{C1907}MILOTIC…
+424354|{C1907}You're{C080F}…{C080F} still standing?{C0819}…{C0819} That\nSPECIAL DEFENSE{C080F}…{C080F} is incredible…
+4243a7|{C1907}I refuse to believe all that\ndefensive effort was for nothing,\lbut…
+4243f7|{C1907}What can anyone do in a situation\nlike this?
+424423|{C1962}Carrying on when you think you\ncan't go any further is what makes\lall the difference.
+424470|{C1962}I thought you knew how the laws of\nthis world worked, ANDRA.
+4244b4|{C1962}We're confined to a narrow plot that\nis already boundless in itself. Even\lin this situation, your possibilities\lare still infinite.
+42453a|{C1907}Yes{C0823}…{C0823} You're right{C0823}…{C0823} As long as\nthere's air in our lungs, there's\lalways a chance.
+4245a2|{C1907}I'll{C0819}…{C0819} never doubt what can be\npossible again.
+4245e5|{C1907}All right, MILOTIC-&{C080F}…{C080F} Now the real\nbattle begins.
+424627|Girl, you saved us! We'll never\nforget what you did today.
+424665|{C1907}No{C080F}…{C080F} it won't be forgotten{C080F}…{C080F} I'm\nsure of that.
+4246a0|{C1907}By the gods! Or maybe I should\nsay{C080F}…{C080F} by the mortals! What did\lwe just witness here today?!
+42471e|{C1907}My eyes saw it, but my mind can't\nquite grasp what happened.
+424770|{C1907}I feel{C080F}…{C080F} different now.
+424795|{C1907}Before, I'd have felt tricked. I'd\nhave thought it was all planned by\lyou, JIRACHI.
+4247f3|{C1907}That you knew what would happen\nbecause… it already had. But that's\lnot it, is it?
+424843|{C1962}I can grant wishes, but I'm\nnot omniscient. When I gave you the\lchoice, I didn't know your answer.
+4248a6|{C1962}I only saw a TRAINER with enormous\npotential, who just needed a\llife-changing experience like this\lto push her limits even further.
+424939|{C1962}A wish as simple and pure as the\none you made made it possible.
+4249a0|{C1962}I see someone who can make it\nso that, for once{C0823}…{C0823} I'm the one\lwho gets a wish granted.
+424a0d|{C1907}You're a LEGENDARY POKéMON, but{C080F}…{C080F}
+424a38|{C1907}Welcome, JIRACHI.
+424e12|{C1907}Go on ahead. This is nothing for me.
+424e3a|{C1906}It seems this expedition brings\nunexpected surprises.
+424e74|{C195C}Ha ha ha ha! This looks promising!
+424e97|{C195C}Truly, I admire the courage that\nbrought you to this unknown place.
+424ee9|{C195C}Unfortunately, I can't let you go\nany farther.
+424f21|{C195C}Life is grand, isn't it?
+424f3f|{C195C}Grand, yes. Though sometimes,\nsadly, more complicated than one\lwould like.
+424f9a|{C195C}I doubt you can appreciate the\ndifference, but{C080F}…{C080F} let me see if\lyou have enough courage!
+425004|Your POKéMON… have had countless\nadventures, haven't they?
+42503c|{C195C}Astonishing…\nHow many regions have you been to?
+425078|{C1907}Now I recognize you{C080F}…{C080F} you knew\nthis place better than anyone. Thanks\lto you, I discovered it.
+4250d9|{C195C}Ah, that restless girl.\nI saw potential in you; your being\lhere proves it.
+42512d|{C1907}How could you let them end up\ndesecrating this place?
+425166|{C195C}Desecrating? Mind your\nwords, little girl.
+425198|{C195C}DEVON is going to honor this place\nby awakening REGIGIGAS's true\lpower. Doesn't TEAM ROCKET do the\lsame in KANTO?
+425210|{C1907}But{C080F}…{C080F} I thought you were a\nlover of mysteries too.
+425251|{C1907}When I saw you in FALLARBOR TOWN,\nyou were thrilled at the chance\lof discovering those FOSSILS.
+4252b3|{C1907}There, you told me about strength,\ncourage and intelligence. How those\lvalues were what shaped the world.
+425322|{C1907}What happened to those words?
+425344|{C195C}I lied. It was a trifle, the\nkind of thing a 10-year-old would\lwant to hear to keep his dreams\lalive.
+4253c1|{C1907}No, it wasn't that at all.
+4253dd|{C195C}Reality is very different!
+4253ff|{C1907}You've given up on that reality!\pYou sold yourself to DEVON just to\ncomplete a collection of artificial\lREGIS!
+425476|{C195C}There's no other way. Everything is\nset in HOENN, and my place in the new\lamusement park for kids{C0819}…{C0819}\lis guaranteed.
+4254f7|{C1907}In that case{C0819}…{C0819} you'll never get\nto see the true mysteries life had\lin store for you.
+425561|{C195C}Don't worry,\nI'll live with that.
+42558b|{C1907}It's funny, {V01}. But…
+4255a4|{C1907}I see more and more similarities\nbetween TEAM ROCKET and DEVON.
+4255e2|{C1907}How someone I respected could end\nup so corrupted{C080F}…{C080F}\lI've lived through this before.
+425646|{C1907}When VALENTE spoke, I didn't see him.
+425672|{C1907}It was EUSINE I was seeing:\nsomeone whose eyes shone\lbrightly at the chance of owning\lthe 3 LEGENDARY BEASTS.
+4256fd|{C1907}The same glint VALENTE had in his\neyes a moment ago when he used\lthose cloned REGIS.
+425760|{C1907}Do you see now why I left?\nI won't be that kind of TRAINER.
+4257d2|I should go with ANDRA. We can't go\nany farther in this area.
+4258f2|Look, {V01}.
+4258ff|It seems clear that if we want to\nmove on, it has to be that way.
+425937|I've seen this before{C080F}…{C080F} the REGI caves\nhave things like this.
+425987|We'll have to take another path.\nMaybe we'll find answers that way.
+4259d1|Let's see what we find over there.
+425be0|{C1907}What EMERALD and SAPPHIRE were\nguarding were coordinates.
+425c19|{C1907}If I'm right, the lake is a front,\nand we can walk across certain\lspots.
+425c71|{C1907}The question is{C080F}…{C080F} where's the\nstarting point?
+425cb7|{C1907}It must be that one.
+425cd2|{C1907}Listen carefully, {V01}.
+425cee|{C1907}The coordinates carved into\nthose ruins were:
+425db0|{C1907}I'll leave them carved here.
+425dda|{C1907}This place is huge. It feels like an\neternity ago, but not long back we\lwere in a similar situation.
+425e49|{C1907}At the RUINS OF ALPH, remember?
+425e68|{C1907}Back then, you were the only one\nwho managed to pass every trial.
+425eb9|{C1907}But now{C080F}…{C080F} I'm more than ready\nto go all the way with you.
+426339|{C1950}I see our meeting in GRANITE CAVE\ndidn't bring you to your senses.
+426383|{C1950}What's more, you insisted on\nchasing us to the edges of HOENN's\ldeepest abyss.
+4263e3|{C1950}And even so, DEVON had already\nconsidered the tiny chance that TEAM\lROCKET might plan some crude attempt\lto foil our plans here.
+426471|{C194F}What we didn't consider was…
+42648f|{C1950}…that you'd come with\ncompany.
+4264ae|{C194F}ANDRA "the explorer", missing\never since her defeat at the hands\lof our HEAD ADMIN AMETHYST.
+42650f|{C194F}And now, after a long journey to\nfind herself, she makes a triumphant\lreturn to TEAM ROCKET.
+426580|{C1907}No, I haven't. You may find it\nhard to understand, but some of us\lstill have a genuine interest in\lmystery.
+4265fd|{C1907}And my gut tells me you're standing\nin front of what we need to know to\lgo deeper into this place.\pSo step aside: I'll only say\nthis once.
+426699|{C1950}You're right.\nThose hieroglyphs show how to cross\lthe lake that leads deeper into\lthis abyss.
+426706|{C194F}And no one gets past here.
+426725|{C1907}Very well.
+426732|{C1907}{V01}, ready to battle?
+42674f|{C1907}I want to see how you've grown as\na TRAINER{C080F}…{C080F} from a new\lperspective.
+42679e|{C1907}Come on, let's fight together!
+4267ba|So this is the power of two\nSTRONG BONDS in action…
+4267f6|You're on the edge of the abyss…
+426812|{C1950}That way of battling,\nthat synchronicity…
+42683f|{C1950}You didn't come just for\narchaeology, did you, ANDRA?
+426880|{C194F}After all, you still have some\nloyalty to TEAM ROCKET, or…
+4268c5|{C1950}Or rather, loyalty to\n{V01}. Isn't that so?
+4268f0|{C194F}That pair of CROBAT-& is certainly\nworth studying.\pDR.RASMUS would be delighted\nto analyze the phenomenon.
+426964|{C1907}That "DOCTOR" will never lay a\nfinger on our CROBAT!
+4269a5|{C1907}Now, out of my way!
+426a01|{C1907}All right{C080F}…{C080F} {V01}, I'll wait for\nyou at the lake.
+426a37|{C1950}Know this{C0819}…{C0819} it doesn't matter.
+426a57|{C1907}It doesn't matter?
+426a67|{C1950}No matter what\nyou do, our plans are far too\lcomplex for you to act against\lthem.
+426ae5|{C1950}Keep going. You've earned it, and I\nknow that feeling. As great TRAINERS,\lyou think you can handle anything.
+426b67|{C1950}But{C080F}…{C080F} you'll hit a wall\nsooner or later.
+426baa|{C1950}You've improved, ANDRA. But keep\none thing in mind: our ADMIN.AMETHYST\lwas only toying with you in LAVENDER\lTOWN, just like with {V01} in\lSINNOH.
+426c44|{C1950}When it comes down to it, neither\nof you stands a single chance.
+426c8f|{C1950}If you already fell to a team that's\nmediocre by his standards, this\ltime he'll crush you mercilessly.\lYou don't stand a chance!
+426d12|{C1907}That's not for you to decide.
+426d58|How do you seem to know our own\nregion so well?!
+426d9f|That MILOTIC… Is it a new\nevolution?!
+426dd2|You're surrounded! You're\nnot going anywhere!
+426e07|Once we beat you, we'll take that\npeculiar CROBAT of yours and study\lit in depth!
+426e72|Get ready! I'm one of the strongest\nsecurity officers in all of DEVON!
+42764c|{C1931}You two! How…?!
+42766f|{C1934}You've become quite the expert\nat making the improbable utterly\lcommonplace.
+4276c0|{C1934}And beside you, ANDRA. Who else?
+4276ee|{C1934}Someone who hates seeing the\nextraordinary made ordinary, and\lyet didn't hesitate to leave it all\lbehind to go after it.
+427780|{C1907}You haven't understood a thing.
+42779a|{C1934}Maybe if you explain it to your\nformer partner, we can all\lunderstand.
+4277e7|{C1934}What do you say, MIGUEL?\nThis is your chance.
+427824|{C1907}MIGUEL{C080F}…{C080F} I saw that POKéMON\nin LAVENDER TOWN.
+42785f|{C1907}Believe me, if you're trying what I\nthink you're trying, this isn't the\lwa…
+4278b5|{C1934}Enough!
+4278c5|{C1934}A blessed one trying to give advice\nthat, applied to others, will never\lhelp them touch the same sky.
+427933|{C1934}I thought you were smarter\nthan that, ANDRA.
+427964|{C1934}MIGUEL! You know there's no other way!
+42798f|{C1934}You have to humiliate those who\nstood above you through trivial\ltwists of fate, crush them in battle\lto prove you rose above them with\leverything against you!
+427a44|{C1934}They don't deserve more than you!\nYou're just one last step from\lreaching what you've sought so long!
+427ab5|{C1934}And that's why I'm here, to\nhelp you achieve it!
+427aed|{C1934}With me and the technology DEVON\nhas given you, you'll succeed!
+427b5c|{C1931}I'll confess something, {V01}. When\nthat RED crushed us on MT.MOON,\lI felt a deep rage.
+427bbc|{C1931}That someone with such exceptional\ninnate gifts existed gave me a huge\lsense of inferiority and\lhelplessness. It was pure injustice!
+427c52|{C1931}That guy could barely talk, he was\nhopeless socially, and{C080F}…{C080F} yet{C080F}…{C080F}\lhe commanded his POKéMON with total\lmastery. Not because he'd done\lanything different from the rest,\ljust by{C080F}…{C080F} a mere whim of fate.
+427d35|{C1931}Even so{C0819}…{C0819} over time{C0819}…{C0819} you've become\nsomething even more hateful.
+427d95|{C1931}You had those gifts too, and on top\nof that{C080F}…{C080F} you've pushed them to the\lmax{C080F}…{C080F} making it impossible to\lcatch you by natural means, no\lmatter what I did!
+427e38|{C1907}You're wrong! There are always\nways to keep improving!
+427e75|{C1907}Everyone has to follow their own\npath. Not everyone grows the same!
+427ebe|{C1931}Grow? I noticed my own limits a\nlong time ago.
+427efe|{C1931}I'd have given anything to be\nwrong, but no: I watched, resigned,\las every single prediction marking\lthe end of my own progress came\ltrue, as I fell short of my own\lexpectations.
+427fe0|{C1931}Yes{C0819}…{C0819} I saw that disgusting line\ncharting a trend as unfair as it\lwas inexorable.
+42803d|{C1931}Before you two even suspected it\nexisted!
+42807d|{C1907}Maybe that's exactly why\nyou've stagnated.
+4280bd|{C1931}Why? What should I wait for?\pA miracle?!
+4280f4|{C1907}Sometimes they happen. But{C080F}…{C080F} only\nif you wait until the very end, when\lthe music stops and everyone's\lgone home.
+428172|{C1931}Silence! You're just another\nprivileged one! I've heard enough!
+4281bf|{C1931}With starting points so unequal,\nwe have no choice but to take\ljustice into our own hands!
+42822c|{C1934}Well said. Destroying this pair of\n"chosen ones" using POKéMON that\lare unjust in the eyes of nature…
+428297|{C1934}…is an act of justice in itself.
+4282bf|{C1931}An act that will finally\ngive me what I crave!
+4282ec|What do I have to do\nto beat you?!
+428314|I see, you can't break your limit yet.
+42833d|{C1931}No{C0819}…{C0819} it shouldn't be like this…\nit was supposed to…
+428373|{C1934}MIGUEL{C0819}…{C0819} I'm sick of you.\nYou're a fraud, and an incompetent\ltraitor besides.
+4283d9|{C1934}With your great talent for joining\nany side, in the end you've proven\lyou're nobody at all.
+428447|{C1934}Your personality has no core.\nYou're empty, you have no face of\lyour own.
+42849b|{C1934}You can work for SILPH, TEAM\nROCKET or DEVON because no trait\lof your own defines you.
+4284fe|{C1934}What's that supposed to mean?!
+42851f|{C1934}I've given you countless chances\nover these months.
+428566|{C1934}I held back my power in this battle,\nhoping you'd finally take a step\lforward with WRONGSPARCE.\pAnd you've failed again.
+4285f8|{C1934}Now I see you can't get blood from\na stone. I expected little of you\land you still let me down.
+428666|{C1934}You've proven unworthy of our\ntrust, and of the expectations\lwe placed in you.\pDo you know what that means?
+4286f3|{C1934}That you're a loser. You always were.
+428727|{C1934}Your contract with us has expired.\nYou're no use to us anymore.
+428775|{C1934}Now, hand over WRONGSPARCE.\pYou only got that POKéMON because\nof us, and only thanks to us.
+42882a|{C1931}I'll do it on my own! I don't need\nyou either!
+428880|{C1934}You can't run, MIGUEL!
+42889c|{C1934}Your fate is sealed!\nWe'll find you, and then{C0805}…{C0805}!
+4288de|{C1934}{C0805}…{C0805}we'll get what we want,\nwhatever it takes.
+42891b|{C1934}As for you two, I have nothing to\nsay.
+42894d|{C1934}You may be great TRAINERS. You may\nthink you're doing something heroic\lcoming all this way with common\lPOKéMON.
+4289d3|{C1934}But at the end of the day, you're\njust part of a statistic. One more\lvariable whose ranges are well\lunder control.
+428a53|{C1907}You won't say that once we've\nstopped whatever you came here for.
+428aa5|{C1934}Such ignorance, little girl.\nIf only you knew what awaits you…
+428ae4|{C1934}Your mistake is thinking REGIGIGAS\nis the end, when{C080F}…{C080F}
+428b22|{C1934}{C080F}…{C080F}it's only the beginning.
+428b41|{C1907}What could he have meant?
+428b5e|{C1907}That DOCTOR{C080F}…{C080F} I don't approve of what\nMIGUEL did, but that level of\lcruelty is too much.
+428bc3|{C1907}Cruelty{C080F}…{C080F} seems to be the only way\nto improve these days.
+428c0d|{C1907}Mmm{C080F}…{C080F} never mind.
+428c27|{C1907}We made a deal, {V01}.\nRemember?
+428c4c|{C1907}And I sense we're nearing the end.
+428c77|{C1907}Whatever lies beyond this cave,\nwe're ready.
+429956|{C1954}How interesting…
+42996a|{C1954}Mystery, TEAM ROCKET's orders,\nseeing what your POKéMON are\lcapable of…
+4299c6|{C1954}Whatever brought you here, what\nyou're about to witness won't\lleave you indifferent.
+429a42|{C1954}Of all the orbs, the PURPLE ORB has\nbeen the best kept by the traditions\lof MT. PYRE.
+429aac|{C1954}And for good reason: the place\nwhere its glow has meaning is far\lmore obscure and inaccessible, and\lthe POKéMON it awakens far more\lancient and sacred…
+429b4d|{C1954}Anyone can reach the depths of\nthe SEAFLOOR CAVERN or\lMT. CHIMNEY, but here…
+429baf|{C1954}Only the chosen make it here, and\nI'm glad you're the lucky ones!\lWatch!
+429c0d|{C1907}That POKéMON{C0819}…{C0819} it's brimming with\nimmense physical power. It might\leven be…
+429c5a|{C1954}Immeasurable?
+429c69|{C1907}Yes, immeasurable, or at least{C080F}…{C080F}\nbrute force beyond anything else.
+429cb4|{C1954}How could it be otherwise?\nThe world as we know it was\lshaped by REGIGIGAS.
+429d14|{C1954}This is its true form, the one\ncapable of moving whole continents.
+429d5f|{C1907}It's impressive, but…
+429d7a|{C1954}But you've faced bigger\nthings before.\pRight?
+429db5|{C1907}How do you know…?!
+429dc8|{C1954}Allow me to disagree.\pThat ESSENCE POKéMON may be more\npowerful in absolute terms, but\leven so…
+429e2b|{C1954}What really matters in battle is\nefficiency: what you can control\land turn to your advantage.
+429e9a|{C1954}In this case{C080F}…{C080F} that might{C080F}…{C080F} that\nPHYSICAL ATTACK{C080F}…{C080F} is so colossal\lthat, though finite, its upper\llimits are unknown to all of us.
+429f48|{C1954}Which, in practice, makes it\ninfinite.
+429f84|{C1907}Infinite?
+429f92|{C1954}That's right. The kind of power\nthat, properly channeled, could\loverwhelm anything put before it.
+429ffa|{C1907}Even…?
+42a008|{C1954}Even the much-adored\n"ESSENCE POKéMON".
+42a035|{C1907}Enough talk! {V01} already put\nwhat you're saying into practice at\lthe RUINS OF ALPH, without needing\lall that power!
+42a09a|{C1954}You're right.\pBut you forget that, with equal\nskill, power is what makes the\ldifference.
+42a103|{C1954}I proved I was more skilled than\nyou in LAVENDER TOWN, ANDRA.
+42a140|{C1954}Do you really think that now, with\nfar greater power at my command,\lyou stand a single chance?
+42a19b|{C1907}Maybe not on my own, but…
+42a1ba|{C1907}If what you say is true, you\nshouldn't have any trouble crushing\lboth of us at once, right?
+42a21f|{C1954}Bwa ha ha! Looks like you've\ngained some sense!
+42a259|{C1954}I'll have no trouble beating you\nboth at once. It'll be quicker and\lpainless.
+42a2aa|{C1954}After all, you've forgotten\nthat… you're still finite.
+42a2ea|{C1954}And against something infinite,\nlike what stands before you…
+42a31f|{C1954}It doesn't matter how many come or\nwhat they do! No one can stop me!
+41e61d|MAROWAK!

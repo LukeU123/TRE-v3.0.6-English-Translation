@@ -117,8 +117,8 @@
 212ce7|{C1907}You ran straight through LILYCOVE\nCITY without even stopping to heal,\ldidn't you?\pYou're hopeless!
 212d47|{C1907}Well, now you'll have to wait,\nbecause{C080F}…{C080F} just as I thought, we\lhave time. Look.
 212d9f|{C1907}DEVON is everywhere in HOENN. Who\nknows what deals and schemes they're\lcooking up at the SPACE\lCENTER…
-212e14|{C1907}What we do know is that, of all the\nADMINS, AMATISTA is the one most\linterested in REGIGIGAS.
-212e81|{C1907}While AMATISTA's still in town,\nthey won't make their next move.
+212e14|{C1907}What we do know is that, of all the\nADMINS, AMETHYST is the one most\linterested in REGIGIGAS.
+212e81|{C1907}While AMETHYST's still in town,\nthey won't make their next move.
 212ec0|{C1907}I'll stay. This place gives me peace,\nand I don't mind staying here as long\las it takes.
 212f22|{C1907}As for you{C0805}…{C0805} you could visit\nthis city's GYM, or…
 212f69|{C1907}…if you have DIVE, you could go\nafter KYOGRE.
@@ -492,7 +492,7 @@
 221e3a|{V01} used the DEVON SCOPE.\pAn invisible POKéMON became\ncompletely visible!\pThe startled POKéMON attacked!
 221f08|I should stop by the FORTREE GYM\nfirst and ask about ANDRA.
 222075|MR. STONE: After all this time, the\nREGIS are no longer a mystery to us.
-2220bf|ADM.ESMERALDA: It's been many years,\nbut at last we'll start to see the\lfruits of all that research.
+2220bf|ADM.EMERALD: It's been many years,\nbut at last we'll start to see the\lfruits of all that research.
 222128|DOC.RASMUS: Indeed. Interesting\ntimes are ahead.
 22215e|MR. STONE: Tell me, Doctor.\nHow is MIGUEL's WRONGSPARCE doing?
 2221a4|DOC.RASMUS: No change.

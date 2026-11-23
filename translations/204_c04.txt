@@ -78,10 +78,10 @@
 2712d9|Don't you want to join the\nCopycat Club?
 27130d|Who knows everything there is to\nknow about survival?\pPOKéMON RANGERS, obviously-ously!
 27136d|Looks like I've still got a lot to\nlearn about POKéMON.
-2713b3|We have a dream: to get away from\ncivilisation and awaken the wild\lspirit within us.
+2713b3|We have a dream: to get away from\ncivilization and awaken the wild\lspirit within us.
 271417|Huh, how odd… For someone off on\nan adventure, you're not carrying\lmuch with you.
 27146f|Bad things happen when you're not\nready for anything that might come.
-2714ba|You're travelling light, but you've\nprepared well. You're in good shape\lphysically and mentally, too.\pI congratulate you.
+2714ba|You're traveling light, but you've\nprepared well. You're in good shape\lphysically and mentally, too.\pI congratulate you.
 27153d|The endless sky holds all kinds of\npromises and dreams!\pThere's nothing more beautiful\nthan flying!
 27159d|I went into a nosedive…{C0805}
 2715b4|Thanks to my bird POKéMON, my dream\nof soaring through the air came true!
@@ -117,7 +117,7 @@
 271d4f|You can rely on POKéMON that keep\non growing steadily.
 271d8d|Let's see if your POKéMON are ready\nto live out in the wild…{C0805}
 271dd4|With POKéMON that strong, you don't\nneed anyone to rescue you!
-271e16|Travelling wherever your heart takes\nyou with your POKéMON…\pThat's the best part of being a\nTRAINER!
+271e16|Traveling wherever your heart takes\nyou with your POKéMON…\pThat's the best part of being a\nTRAINER!
 271e75|Are you in shape?\nIf not, you could struggle when a\lbattle gets tough.
 271ec8|I was in shape, but…{C0805}
 271ee5|I go for a run every day to stay in\nshape, always with my POKéMON!
@@ -144,11 +144,11 @@
 2724ea|I wonder… Did I do the right thing\nevolving my POKéMON?
 27251e|Tell me, do you have different\ntypes of POKéMON on your team?
 272556|I just saw you put theory\ninto practice!
-272589|I think it's great you battle so\nwell with your favourite POKéMON.
+272589|I think it's great you battle so\nwell with your favorite POKéMON.
 2725cb|Want to play with my POKéMON?\nIt's as pretty as a picture!
 272608|That's not what I meant!
 272622|I'm off to a contest in LILYCOVE.\pMy POKéMON should clear the\nMaster Rank with no trouble.
-272681|I've travelled the world from end\nto end with my POKéMON.\pSo you can imagine I'm pretty\nconfident in my chances.
+272681|I've traveled the world from end\nto end with my POKéMON.\pSo you can imagine I'm pretty\nconfident in my chances.
 2726fc|You battled really well…{C0805}
 272715|Your POKéMON pull off memorable\nfeats. Allow me to register you!
 272756|There are powers in this world that\nare beyond our understanding…{C0805}
@@ -174,7 +174,7 @@
 272c2c|Your POKéMON are amazing!\nHow did you raise them?
 272c5e|I want everyone to see the POKéMON\nI've raised!
 272c97|Wow!\nSpectacular!
-272cac|I raise all my POKéMON equally.\nI don't have any favourites.
+272cac|I raise all my POKéMON equally.\nI don't have any favorites.
 272cea|My POKéMON have never known defeat!\nNext time they win, I'll enter\lthem in a contest.
 272d43|Oh, no, what just happened here?
 272d60|Looks like we'll need more training\nbefore entering a contest.
@@ -251,7 +251,7 @@
 273f7b|I'm going to find a lady swimmer\nwho wants to float around with me.
 273fbd|I won't lose to some insignificant\nTRAINER.
 273feb|My eyes are just sweating,\nI'm not crying!
-274017|You can find colourful patches\naround here.
+274017|You can find colorful patches\naround here.
 274049|I was waiting for you… Here I come!
 27406d|This wasn't part of the plan!
 274087|Sound travels faster in water than\nin air. Interesting, huh?
@@ -318,7 +318,7 @@
 274e5f|My fishing line's started dancing!\nThe tangle tango! Ha, ha, ha!
 274ea3|Bird POKéMON can spot their prey\nfrom way up high.
 274ee9|Phew… I give up.
-274ef7|There are loads of diving spots\naround here.\pThey're easy to spot by the colour\nof the water, which is darker.
+274ef7|There are loads of diving spots\naround here.\pThey're easy to spot by the color\nof the water, which is darker.
 274f77|I'll show you what I learned at the\nDEWFORD POKéMON GYM.
 274fbf|Ow, ow, ow! I've got a pebble stuck\nunder my big toenail!
 275006|BRAWLY, the DEWFORD GYM LEADER,\nused to train with someone called\lBRUNO in KANTO, or so I've heard.
@@ -461,10 +461,10 @@
 277382|The tide carried our boat off.\pMy buddy's a bit of a timid sort,\nso I'm worried about him.
 2773e7|On FIVE ISLAND, it's our custom to\ntest new recruits' skills right\lfrom the start.\pEn garde!
 27745c|Good, recruit. Carry on.
-27747b|Not everyone at the induction will\nend up worthy of belonging to our\lorganisation. For now, though,\lyou're making the cut.
+27747b|Not everyone at the induction will\nend up worthy of belonging to our\lorganization. For now, though,\lyou're making the cut.
 277510|The secrecy of our underground\nWAREHOUSE is vital.
 27754d|Looks like this year's RECRUITS\nare a strong bunch.
-277581|In case of invasion, we'd move the\ncells next door so they'd block\laccess to the stairs leading down\lto our secret underground area.\pNobody can get into one of our\nmain export centres.
+277581|In case of invasion, we'd move the\ncells next door so they'd block\laccess to the stairs leading down\lto our secret underground area.\pNobody can get into one of our\nmain export centers.
 27765a|So ARCHER has summoned you to his\noffice along with the other three\lrecruits…\pWhat he didn't tell you is that\nwe're going to test you first!
 2776ec|This is what we expect from\nyou lot.
 277712|ARCHER has a special mission\nlined up for you on FIVE ISLAND.\lMake the most of this chance.\lVery few ever get one.
@@ -476,7 +476,7 @@
 2778b9|As long as you respect this place,\nwe won't object to you setting\lup your businesses.
 277912|I'm the middle BIRD BROTHER.\pThe best thing about birds\nmust be their wings.
 277970|Flap, flap!
-27797d|Further south is the MEMORIAL\nPILLAR, apparently in honour of an\lONIX that passed away not long ago.
+27797d|Further south is the MEMORIAL\nPILLAR, apparently in honor of an\lONIX that passed away not long ago.
 2779da|I'm the youngest of the BIRD\nBROTHERS.\pThere's no doubt the best thing\nabout birds is their feathers.
 277a42|Bah, I'm used to losing by now.
 277a67|Watching my birds play so happily\nmakes me feel happy!
@@ -631,7 +631,7 @@
 279a73|I'm on duty, but I can see you're\nup for some action!
 279aac|I thought I could beat you!
 279ac9|Looks like you're not one to drop\nyour guard at parties.\pIf you were, I'd have beaten you!
-279b2e|They say SHUCKLE liquor is the\nstrongest for 1,000 kilometres\laround.\pWant to try some?
+279b2e|They say SHUCKLE liquor is the\nstrongest for 1,000 kilometers\laround.\pWant to try some?
 279b91|That didn't work!
 279ba0|If you'd tried that liquor, you\nwouldn't even be able to stand.\pI guarantee it!
 279bef|What's a ROCKET doing here?
@@ -743,7 +743,7 @@
 27affa|I read that CLEFAIRY can evolve\nwhen exposed to a MOON STONE.\lI read it in a POKéMON magazine.\lCould it be true?
 27b06f|A ROCKET around here?\nHow odd!
 27b08f|Oh, no!\nMy POKéMON!
-27b0a6|I don't like you or your\norganisation. You take all the\lrare POKéMON!
+27b0a6|I don't like you or your\norganization. You take all the\lrare POKéMON!
 27b0f3|Ah!\nThere's nothing like breathing pure\lmountain air!
 27b12c|That cleared my head!
 27b144|I feel puffed up with mountain\nair!
@@ -838,7 +838,7 @@
 27bf69|I see why GIOVANNI trusts you;\nyou're right at home here.
 27bfad|It's not so easy to join TEAM\nROCKET's ELITE.\pShow me your POKéMON have\nwhat it takes!
 27c022|Welcome to the club, RECRUIT!
-27c040|I hope you and your POKéMON\nbring a lot to this great\lorganisation.
+27c040|I hope you and your POKéMON\nbring a lot to this great\lorganization.
 27c085|You know that even though we're in\nthe secret base within the secret\lbase, this is still just a surface\llevel of our infrastructure,\lright?
 27c118|What drive! That's what I like!
 27c133|I hope they sign up more recruits\nlike you and that girl!
@@ -950,7 +950,7 @@
 27d703|You'll never find where the\nSACRED BIRDS are!
 27d737|Why did I lose?
 27d74c|What?\pYou're going to make clones even\nmore powerful than the original\lSACRED BIRDS?!
-27d79e|So GOLBAT is your favourite\nbird… Not bad.
+27d79e|So GOLBAT is your favorite\nbird… Not bad.
 27d7d7|Bah, it's over!
 27d7e7|Winning or losing is irrelevant\nbefore the vastness of this sky.
 27d827|I need to kill some time.\nShut up and fight.
@@ -961,11 +961,11 @@
 27d8f4|An ARIADOS wouldn't hurt\neither!
 27d918|FUCHSIA is under control,\nHIGH RANKER {V01}!
 27d942|I got a flat!
-27d950|It's been an honour to battle one\nof the hottest ROCKETS around!
+27d950|It's been an honor to battle one\nof the hottest ROCKETS around!
 27d991|WEEZING and MUK are the best!
 27d9b1|Argh!\nI lost!\lGet lost!
 27d9cb|What?\pGOLBAT can evolve into a\nPOKéMON even more powerful than\lWEEZING or MUK?
-27da1c|They say you're becoming one of\nGIOVANNI's favourites.
+27da1c|They say you're becoming one of\nGIOVANNI's favorites.
 27da61|Now I see why.
 27da7b|Life's too short, and this region\nforces us to live outside the\llaw.\pTEAM ROCKET rules!
 27dae0|How's PETREL doing, RECRUIT?
@@ -976,7 +976,7 @@
 27dbc6|Forget me!
 27dbd1|I raise my POKéMON so they can\nprotect me…\pIn case I ever run into a\ncriminal like you!
 27dc3b|They didn't protect me!
-27dc4f|Luckily you don't abuse your\npower. Others in your organisation\lwould've robbed me blind by now!
+27dc4f|Luckily you don't abuse your\npower. Others in your organization\lwould've robbed me blind by now!
 27dcaa|I just traded for some POKéMON.\nLet me test them out on you!
 27dce9|I wasn't good enough!
 27dd0b|I think I'll keep them.
@@ -1003,12 +1003,12 @@
 27e062|I think DODRIO gives PIDGEOT a run\nfor its money as the best bird\lin the region.
 27e0c2|This turf is mine,\nso beat it!
 27e0e7|Curses!
-27e0f3|This area is my favourite spot\nfor catching POKéMON.
-27e123|An honour to see you here, {V01}!\nGrant me this battle!
+27e0f3|This area is my favorite spot\nfor catching POKéMON.
+27e123|An honor to see you here, {V01}!\nGrant me this battle!
 27e15a|Pure ROCKET power!
 27e16e|You're going to be TEAM ROCKET's\nnext ADMIN, just you wait!
-27e1b0|Rumour has it there's a new ROCKET\nwho's a real ace in battle.
-27e1ef|The rumours were true!
+27e1b0|Rumor has it there's a new ROCKET\nwho's a real ace in battle.
+27e1ef|The rumors were true!
 27e20a|Is it true you taught that spoiled\nbrat BILL a lesson?
 27e244|Be a rebel!
 27e251|Aaaargh!
@@ -1036,7 +1036,7 @@
 27e621|It's hard to earn PETREL's trust.\nLooks like you managed it.
 27e667|So you're the rising ROCKET star\neveryone's talking about!
 27e6af|Bad, bad, bad!
-27e6bf|Loyalty and honour matter most\nin TEAM ROCKET.\pDon't forget it.
+27e6bf|Loyalty and honor matter most\nin TEAM ROCKET.\pDon't forget it.
 27e712|Hey!\nLet's have some fun!
 27e72f|Don't make me angry!
 27e745|POISON-TYPE POKéMON like WEEZING\nor MUK are the best!

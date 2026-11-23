@@ -32,7 +32,7 @@
 353f50|{C1948}They'll never know what it's like\nto start from zero and work your\lway up, climbing step by step,\lstruggling and learning from defeat.
 353fd6|{C1948}They envy us because, at the end of\nthe day, we're mortal. Any battle\lof ours could be our last.\pWe'll never have this talk again,\nor stand here again, {V01}.
 354076|{C1948}Do you see? It's in how fleeting\nour existence is that its value\llies.
-3540c7|{C1948}That's why I came all this\nway, {V01}. I can't think of a\lbetter way to honour my POKéMON\lthan giving it this battle while\lits light still burns at full\lstrength, so everyone remembers\lhow it was at its peak.
+3540c7|{C1948}That's why I came all this\nway, {V01}. I can't think of a\lbetter way to honor my POKéMON\lthan giving it this battle while\lits light still burns at full\lstrength, so everyone remembers\lhow it was at its peak.
 3541a6|{C1948}It doesn't matter if 5 or 50 years\ngo by.\pNo one can take away what we lived\nhere today, or the LEGENDARY level\lwe reached!
 35421c|I'll never forget this battle.
 354239|{C1948}You're a TRAINER for the ages, {V01}.\pWith this battle, I close a chapter\nof my journey.
@@ -60,7 +60,7 @@
 354e8f|{C1945}After what happened at the RUINS OF\nALPH, what's left for you to do? Well,\las the saying goes, there's always\lsomething to do in JOHTO, if you know\lwhere to look.
 354f23|{C1945}And here's the proof. I'd be surprised\nby anyone else, but you making it\lthrough ETER CAVE was only a matter\lof time.
 354fa9|{C1945}I'm glad you're the one crossing to\nthe other side.
-354fdd|{C1945}I see you're still looking for\nchallenges, eh?\pWell, you're in the right place,\nthe very best place…\pI{C0819}…{C0819} I hadn't been here in decades. I\nthought the ECRUTEAK MASTER had\ltravelled to this sacred place. I\lhoped to speak with him one last\ltime, but{C0819}…{C0819}\pIt seems HO-OH decided his time\nhad come.
+354fdd|{C1945}I see you're still looking for\nchallenges, eh?\pWell, you're in the right place,\nthe very best place…\pI{C0819}…{C0819} I hadn't been here in decades. I\nthought the ECRUTEAK MASTER had\ltraveled to this sacred place. I\lhoped to speak with him one last\ltime, but{C0819}…{C0819}\pIt seems HO-OH decided his time\nhad come.
 35511c|{C1945}But there's nothing to mourn. The best\nsuccessor I could ask for is right here.
 35516d|{C1945}DUN TOWER is a very special place.\nI'm sure you'll find it as\lenlightening as the BELL TOWER, or\lmore so.\pIf you can make it to the top and\ndefeat the DUN MASTER, come back here.\lI'd like to give you something.
 35526b|-I should go west with EUSINE\nfirst-.
@@ -81,7 +81,7 @@
 355f5c|{C194B}You don't understand, girl.\pThe difficulty of the trial lies in\ngetting the SACRED DRAGON to deign to\lappear. There's no other way to obtain\lsuch an item.
 356001|{C194B}What? You defeated the dragon\ntoo?! That's not possible. It has\lonly ever blessed one person at a time.
 356074|{C1907}Didn't you say your GRAND\nMASTER knows everything?\pHe can prove it.
-3560ba|{C194B}I'm sorry, but our customs\nmake no allowance for this\lexception. You must battle for the\lhonour of entering this sacred place.
+3560ba|{C194B}I'm sorry, but our customs\nmake no allowance for this\lexception. You must battle for the\lhonor of entering this sacred place.
 35614c|{C1907}So that's how it's going to be{C080F}…{C0805}
 35616f|{C1907}Don't think I'm fighting because\nyou willed it, old man, or because\lI agree with this injustice.\pIf I battle {V01} now, it's\npurely for the sheer joy of\lfacing a rival at my level.
 356241|{C1907}Come on! Let's leave these monks\nslack-jawed and show them the fruits\lof all our training!
@@ -101,7 +101,7 @@
 356a43|{C1932}Every blade of grass in this place\noozes history.
 356a7b|{C1932}All of JOHTO was like this, not so\nlong ago. Before it gave way to this\lera they call "progress".
 356aec|{C1932}Even the most beautiful flower wilts\nwith time.
-356b24|{C1932}But at least, thanks to the great\nmountain that splits the two JOHTOS,\lit seems we can keep this place in all\lits splendour a little longer.
+356b24|{C1932}But at least, thanks to the great\nmountain that splits the two JOHTOS,\lit seems we can keep this place in all\lits splendor a little longer.
 356bb4|{C1932}I'll be frank with you, {V01}.
 356bcb|{C1932}Despite everything I've told you, I\ndon't mind the direction of recent years.
 356c1f|{C1932}Like every TRAINER, and just like you,\nI pursue excellence: to keep getting\lbetter and more powerful.
@@ -111,7 +111,7 @@
 356db9|{C1932}This is where true power lies,\nand it should be within reach of\lonly a few.\pNothing in the 'New World' has shown\nme a reality greater than this.
 356e65|{C1932}Ah, yes. Impressive, isn't it?
 356e88|{C1932}Curious to see how far down it\ngoes, aren't you? There's more to go.
-356ec8|{C1932}This pagoda was raised in honour of\nDUNSPARCE. It's older and taller than\lthe BELL TOWER.
+356ec8|{C1932}This pagoda was raised in honor of\nDUNSPARCE. It's older and taller than\lthe BELL TOWER.
 356f25|{C1932}A symbol that anything is possible,\nand the reason I showed you the way\lto ROUTE 47.
 356f81|{C1932}Any villager has access to the\nfirst eight floors.
 356fcd|{C1932}However, with people like you,\nVILLA ETER is even stricter than\lECRUTEAK CITY.
@@ -133,24 +133,24 @@
 35761c|Despite its wounds, it managed to\nmake its way here, drawn by the\lenergy of the SACRED DRAGON.
 357686|It's an extraordinary story, one that\nrestores our faith in the present.\pBut something like that could never\nhave happened without a great TRAINER.
 357718|All of VILLA ETER is curious to\nmeet such a TRAINER.\pWhat could make someone abandon a\nSCYTHER they'd trained so tirelessly?
-3578b7|They say it was at this waterfall that\nthe SACRED DRAGON unravelled the\lmysteries of harmony and strength.
+3578b7|They say it was at this waterfall that\nthe SACRED DRAGON unraveled the\lmysteries of harmony and strength.
 357921|All of VILLA ETER was built\naround it.\pWould you like to hear its story?
 35796f|This is the tallest waterfall in JOHTO,\nand by a long way.
-3579ae|It's a 180-metre free fall… or a\nfrantic climb. That's over three times\lthe falls at the WHIRL ISLANDS\lor TOHJO FALLS.
+3579ae|It's a 180-meter free fall… or a\nfrantic climb. That's over three times\lthe falls at the WHIRL ISLANDS\lor TOHJO FALLS.
 357a32|Its great height, combined with the\nviolence of its waters, means no\lWater POKéMON can climb it without\lcollapsing first.
 357ab3|Not even the fiercest GYARADOS\ncould reach the top, let alone\lPOKéMON that don't live in water.
 357b0c|But there was one POKéMON, not a Water\ntype, that tried everything it could\lto achieve the impossible.
-357b65|At first it could barely climb a couple\nof metres. Over days and weeks,\lthat grew to 10.\pStill absurdly far from the top.
+357b65|At first it could barely climb a couple\nof meters. Over days and weeks,\lthat grew to 10.\pStill absurdly far from the top.
 357bf9|But that DUNSPARCE was no ordinary one.\nIts tenacity was unmatched.\pIts optimism, infinite.\pFor it, this was never a question of\nphysical limits, the law of gravity\lor some bodily impediment.
 357cc6|No{C0819}…{C0819} for that POKéMON, it all came\ndown to willpower, adaptation\land time.
-357d24|By its logic, if it could climb\n10 metres, it could also climb 11,\land the training that got it to 11\lwas what would eventually let it\lreach 12.
+357d24|By its logic, if it could climb\n10 meters, it could also climb 11,\land the training that got it to 11\lwas what would eventually let it\lreach 12.
 357de3|On that premise, it spent 30 years\ntrying to climb the waterfall.
 357e20|It got to the point where it was\noutdoing Water POKéMON, and its\lwhole body, though still that of a\lDUNSPARCE, took on exceptional\lmental qualities.\pFor it was this, more than physical\ngrowth, that let it adapt to such an\lextreme degree, with a climbing\ltechnique all its own.
 357f46|11,000 days later, after 72,700 active\nhours spent trying to climb the vast\lwaterfall, that DUNSPARCE achieved\lthe impossible: it reached the top,\lup above, from down below.
 357ff6|Some say that this event, thought\nimpossible, somehow altered the laws\lof the universe, or the very laws of\lphysics that should have applied to\lthat DUNSPARCE.
 35809d|Whatever the case, that day the\nPOKéMON left behind a little of what\lwe now know as DUNSPARCE, and began\lto become the SACRED DRAGON.
-358123|That feat inspired VILLA ETER. In an\nera before the pagodas of ECRUTEAK\lCITY, when no building stood taller\lthan 20 metres, it drove our\lancestors to build something\lof similar height.
-3581f7|Following DUNSPARCE's own logic,\nthey started with one metre, then\ltwo… until they matched the\lwaterfall's 180 metres.
+358123|That feat inspired VILLA ETER. In an\nera before the pagodas of ECRUTEAK\lCITY, when no building stood taller\lthan 20 meters, it drove our\lancestors to build something\lof similar height.
+3581f7|Following DUNSPARCE's own logic,\nthey started with one meter, then\ltwo… until they matched the\lwaterfall's 180 meters.
 358273|And that's why DUN TOWER and this\nwaterfall are exactly the same height,\las proof that we humans can also\lovercome our limits.
 358322|There's a monk in the hut to the south\nwho has spent over 10 years meditating\lin front of a blank sheet of paper.
 35838d|Some in VILLA ETER say that when the\nday finally comes that he writes\lsomething, his words will enlighten\lus all.
@@ -185,7 +185,7 @@
 35946c|{C1935}Good morning, {V01}.\pAnd in case I don't see you again,\ngood afternoon and good night.
 3594c8|{C1935}TEAM ROCKET has achieved something\nthat seemed unthinkable a couple of\lyears ago. Not only are KANTO and\lJOHTO starting to row in the same\ldirection, but their most\linfluential figures are working\las one.
 359594|{C1935}Tell me, {V01}, would you like to\nsee the latest technological\ladvances we've achieved?
-3595e6|{C1935}And now what?\pTime to work on the future! Two\nyears from now, we won't recognise\lthe region we stroll through today!
+3595e6|{C1935}And now what?\pTime to work on the future! Two\nyears from now, we won't recognize\lthe region we stroll through today!
 35965c|{C1935}I expected nothing less. My army of\nprototypes is ready!
 359699|Mixing technology with technique.\nInteresting.
 3596c5|{C1935}This is what happens when everyone\npitches in a little, {V01}.\lBILL's PORYGON3, BLAINE's\lMAGMORTAR-Y, OAK's\lexperiments{C0819}…{C0819}\lThey all work for KANTO and JOHTO now.\lThe union of the two regions will be\lthe leading power of the POKéMON world,\land you one of its highest-ranking.\pThat's why I want you to have this.
@@ -199,7 +199,7 @@
 359c70|I'm looking for items that boost\nPOKéMON's abilities for a single\lbattle.\pI'm looking for X ATTACK,\nX DEFENSE, X SPEED and\lX SPECIAL.\pDo you know where to find them?
 359d35|It's getting harder to spot POKéMON\nlike CYNDAQUIL or CHIKORITA on\lthese routes. The other day,\lthough, I thought I saw a\lTOTODILE in the pond to the north.
 359de3|We used to live in GOLDENROD CITY,\nbut it's got far too crowded these\llast few months. Moving here was\lthe right call. It's the peace we\lneed to find ourselves.
-359eae|LANCE is the best!\nThe saviour of KANTO and JOHTO!\lThe TV just said so!
+359eae|LANCE is the best!\nThe savior of KANTO and JOHTO!\lThe TV just said so!
 359f09|After LANCE won the war, one of\nthe first things he did was give\la TV and a radio to every family\lin JOHTO, as a symbol of the\labundance and progress to come,\land to keep the people informed.\pStill, I'd rather my son went out\nto play on the nearby routes more.\lWe mustn't lose our traditions.
 35a07c|There isn't much to do around here,\nand that's exactly what's great\labout this place. Without noise and\loutside distractions, you have all\lthe time in the world to get to\lknow yourself and see what you're\lcapable of, out in the wild.
 35a162|What?\nNEW BARK TOWN?\lIn 50 years living here, I've never\lheard of the place!
@@ -214,7 +214,7 @@
 35a746|VIOLET CITY POKéMON GYM\nLEADER: FALKNER\pWINNING TRAINERS:\n{V01}
 35a7ca|Sorry to disappoint you, kid, but\neven though FALKNER is back from\lhis long journey, he won't battle\lanyone. Besides, with the current\lpolicy centring the POKéMON LEAGUE\lin KANTO, JOHTO's GYMS are\lobsolete. We're only here out of\lrespect for this place and what\lit used to be.
 35a8d5|That was incredible!\pI've never seen FALKNER lose.\pThis battle will be remembered\nforever, no doubt about it!
-35a948|I can't believe it!\pA challenger!\pThe GYM will finally host a\nhigh-flying battle again after\lso long!\pLet me give you some advice:\nFALKNER knows everything about the\lFLYING TYPE. He knows how to cover\lits weaknesses, but even so, his\lwhole team is weak to the ROCK\lTYPE. You can do a lot of damage\lwith those moves, if you manage to\lhit him first, that is. His birds,\lhand-picked from every region\lhe's been to, have SPEED and\loverall offence that can beat\lyou before you know it.\pA good ROCK TYPE holding an\nASSAULT VEST, or really fast\lELECTRIC TYPE POKéMON, would be\lyour best options, I'd say.\pGood luck!
+35a948|I can't believe it!\pA challenger!\pThe GYM will finally host a\nhigh-flying battle again after\lso long!\pLet me give you some advice:\nFALKNER knows everything about the\lFLYING TYPE. He knows how to cover\lits weaknesses, but even so, his\lwhole team is weak to the ROCK\lTYPE. You can do a lot of damage\lwith those moves, if you manage to\lhit him first, that is. His birds,\lhand-picked from every region\lhe's been to, have SPEED and\loverall offense that can beat\lyou before you know it.\pA good ROCK TYPE holding an\nASSAULT VEST, or really fast\lELECTRIC TYPE POKéMON, would be\lyour best options, I'd say.\pGood luck!
 35ad35|{C1947}Come on, Father!\pI want to know how you got to the\npoint of having that POKéMON\lon your team!\pIt was never meant to be a FLYING\nTYPE, and yet, under your care, it\lbecame the purest FLYER I know.
 35ae1a|{C193E}You can't put a process\nlike that into words.\pYou need to be there to\nexperience it for yourself.
 35ae7f|{C193E}I knew that specimen had an\nunbreakable will to fly beating\linside it. We both shared that\lpassion for the sky, and thanks\lto that, together we reached\lgreater heights than we ever\lcould have apart.
@@ -258,14 +258,14 @@
 35c251|He even gave me a bird from some\nfaraway region when he saw how\linterested I was in them.\pGuess what?\pI paired it up with my PIDGEOT,\nand it laid a few eggs that\lhatched.\pI'll give you one of the babies!
 35c322|YOU OBTAINED A LV. 10 STARLY!
 35c341|Be careful with STARLY when it\ngrows up.\pIts final evolution is fiercer\nand feistier than PIDGEOT!
-35c635|{C193E}Right. That concludes our brief\noverview of each and every bird\lthat lives in KANTO and JOHTO.\pRemember: FEAROW stands for\nvariety, DODRIO for offence,\lNOCTOWL for endurance and\lPIDGEOT for balance.
+35c635|{C193E}Right. That concludes our brief\noverview of each and every bird\lthat lives in KANTO and JOHTO.\pRemember: FEAROW stands for\nvariety, DODRIO for offense,\lNOCTOWL for endurance and\lPIDGEOT for balance.
 35c71e|{C193E}Now we'll move on to strategy,\nand here I'd like to place special\lemphasis on two of the FLYING\lTYPE's biggest weaknesses:\lROCK and ELECTRIC.
 35c7c4|{C193E}Does anyone here have any idea\nhow a bird can deal with the\lELECTRIC or ROCK TYPE?
 35c82e|{C1906}There's a move called\nMUD-SLAP that most birds\lcan learn.\pIt's super effective on both.
 35c8a3|{C193E}We've talked about this, son.\pMUD-SLAP's power is very poor,\nand the accuracy drop it causes\lleaves us at the mercy of luck,\ltaking control of the battle\laway from us.
 35c95a|{C193E}I'm not talking about turning this\ninto roulette and hoping we survive\lby sheer luck: I'm talking about\ldecisively taking these types down\lwith FLYING TYPE POKéMON.
-35c9fa|{C193E}In this case, the best defence is\na good offence.\pA trained DODRIO holding a\nLIFE ORB will OHKO 100% of the\lELECTRIC TYPES it hits super\leffectively with STOMPING TANTRUM,\land is only outsped by a few, like\lJOLTEON or ELECTRODE, for which\lwe have the CHOICE SCARF.
-35cb21|{C193E}FEAROW with DRILL PECK or PIDGEOT\nwith CLOSE COMBAT will also hit\lsuper effectively.\pThey can exploit ROCK types' low\nSPEED to strike first, or ELECTRIC\ltypes' low DEFENCES to take them\lout in one hit.
+35c9fa|{C193E}In this case, the best defense is\na good offense.\pA trained DODRIO holding a\nLIFE ORB will OHKO 100% of the\lELECTRIC TYPES it hits super\leffectively with STOMPING TANTRUM,\land is only outsped by a few, like\lJOLTEON or ELECTRODE, for which\lwe have the CHOICE SCARF.
+35cb21|{C193E}FEAROW with DRILL PECK or PIDGEOT\nwith CLOSE COMBAT will also hit\lsuper effectively.\pThey can exploit ROCK types' low\nSPEED to strike first, or ELECTRIC\ltypes' low DEFENSES to take them\lout in one hit.
 35cbff|{C193E}The lesson you should take from\nthis is that countless variables\laffect a battle.\pAny POKéMON, with the right moves,\nitems and training, can take\ldown any other.
 35ccd2|{C193E}Note that we've barely touched\na fraction of the resources at\lour disposal for overcoming type\ldisadvantages.\pA GLIGAR, or GLISCOR, is outright\nimmune to the ELECTRIC TYPE and\ltakes neutral damage from ROCK.\lMeanwhile, it hits both super\leffectively, with STAB, using\lEARTHQUAKE.\pThat's because, besides being\nFLYING, it's also a GROUND TYPE.
 35ce3a|{C193E}And that's all for today.\pNext class, we'll discuss how the\nmove ROOST can quite literally\lcancel out every weakness of the\lFLYING TYPE, and even let us play\ldefensively against those types.\pYou'll also see why it can be a\ndouble-edged sword.\pThank you all for coming.
@@ -282,7 +282,7 @@
 35d3f4|{C193E}Climb to the top of SPROUT\nTOWER and speak with the elder\lmaster. Tell him I sent you.
 35d453|{C193E}If you defeat him, I'll battle you,\nand I'll use my best POKéMON.
 35d496|{C193E}Whatever happens, I hope visiting\na place as sacred as that enriches\lyou.\pThat's part of your journey\ntoo, isn't it?
-35d571|Legend says the column holding up\nthis tower is the stem of a giant\lBELLSPROUT that stood 30 metres\ltall.\pCould it be true?
+35d571|Legend says the column holding up\nthis tower is the stem of a giant\lBELLSPROUT that stood 30 meters\ltall.\pCould it be true?
 35d605|In this place we worship\nBELLSPROUT, but also POKéMON\lbattling. If you think you've got\lwhat it takes, climb to the top\lfloor and see for yourself.
 35d6f0|I've heard KANTO respects its own\ntraditions and history less and\lless.\pI hope JOHTO never comes to that.
 35d771|The huge pillar holding up this tower\nis based on BELLSPROUT's stem. Its\lgreat flexibility makes it immune\lto earthquakes. That's why this\ltower is still standing today.
@@ -290,7 +290,7 @@
 35d95b|It's a solemn statue of a\nBELLSPROUT.\pSomething is engraved on it in gold:\p"We all start from different places{C080F}…{C080F}\n…but we can all reach out and touch\l the same sky."
 35da17|He seems to be meditating…{C0805}
 35dbc9|{C1906}You've disappointed me, old man.
-35dbea|{C193D}I came here thinking this place\nhad some kind of valuable\linformation on JOHTO's two\lLEGENDARIES, something to help\lme dig deeper into this region's\lhistory.\pAnd all I find is a bunch of\nthinkers who do nothing but\lhonour BELLSPROUT's mediocrity.
+35dbea|{C193D}I came here thinking this place\nhad some kind of valuable\linformation on JOHTO's two\lLEGENDARIES, something to help\lme dig deeper into this region's\lhistory.\pAnd all I find is a bunch of\nthinkers who do nothing but\lhonor BELLSPROUT's mediocrity.
 35dd0d|{C193D}Why waste your life devoting\nyourself to something like that,\lwhen the most you can aspire to\lis being less bad than the rest\lof the BELLSPROUT?
 35dd9e|{C193D}I trust the BELL TOWER in\nECRUTEAK CITY will have something\lmore interesting to say.\pI've seen enough of this place.
 35de1b|{C193D}{V01}{C0819}…{C0819} I didn't expect to see\nyou again, least of all in a place\llike this. I thought you only\loperated in KANTO and the SEVII\lISLANDS.
@@ -323,7 +323,7 @@
 35ee3e|That's where KURT grew up. Even\npast 60, he's still active at\lhis GYM.\pOn his travels he brought back\nseveral POKéMON from other\lregions and gave a few to those\lclosest to him.\pI want you to have one too.
 35ef28|YOU OBTAINED A LV. 10 WIMPOD!
 35ef47|Don't you dare underestimate that\nlittle tadpole!\pWhen it grows up, it gets the\nstrength of a HERACROSS and the\ltoughness of a SKARMORY!
-35efcf|Here in AZALEA TOWN, we\nspecialise in making\lCHARCOAL.\pFunny, really, since it powers up\nFIRE moves, the very thing our\lGRASS and BUG TYPES fear most!
+35efcf|Here in AZALEA TOWN, we\nspecialize in making\lCHARCOAL.\pFunny, really, since it powers up\nFIRE moves, the very thing our\lGRASS and BUG TYPES fear most!
 35f094|SACRED ASH is the most powerful\nhealing item there is. It even\lrestores the health of every\lfainted POKéMON.\pIt originally comes from\nECRUTEAK CITY.
 35f13e|It's so calm and peaceful\naround here!\pGOLDENROD CITY is suffocating\nin comparison!
 35f1a4|Not long ago, a SILPH rep came\nby, all suited up.\pHe spent a good while at KURT's place.\pI think they're interested in the\nvariety of POKé BALLS that can\lbe made from APRICORNS.
@@ -386,7 +386,7 @@
 36122e|{C193F}Here, take the\nHIVE BADGE.
 361257|{C193F}I also want you to have this\nPOKéMON. I got several of them a\llong time ago, on one of my\lmany journeys.
 3612cf|YOU OBTAINED A LV. 25 GRUBBIN!!
-3612f1|{C193F}VIKAVOLT is one of my favourite\nBUG TYPES. Its mighty SP. ATK is\la real rarity that can punch holes\lin any team.\pIt may not look it, but its\nelectric blasts are stronger than\lthose of ZAPDOS itself!
+3612f1|{C193F}VIKAVOLT is one of my favorite\nBUG TYPES. Its mighty SP. ATK is\la real rarity that can punch holes\lin any team.\pIt may not look it, but its\nelectric blasts are stronger than\lthose of ZAPDOS itself!
 3613da|{C193F}Now that I think about it…\nI never asked MIRTO where he came\lfrom. I'd like to breed at least\lthe normal form of that very\lspecial POKéMON.\pThat moth is the most incredible\nthing I've ever seen.\pWhat a shame the finest flowers\nwither soonest, but nothing can\ltake away the light they showed\lthe world while it lasted.
 361540|I don't know who you are or why\nyou're here.\pBut I'm thrilled to have a new\nchallenger!\pListen, KURT is a BUG TYPE master.\nYou can use FLYING, FIRE and ROCK\lagainst him, but I'd advise using\lthem wisely. He can counter all of\lthose types. Several of his\lPOKéMON know GIGA DRAIN, and for\lFLYING he has a BUG/ELECTRIC\lthat fires bolts like nobody else.\pSame goes for the FIRE TYPE: he has\na very sturdy WATER/BUG.\lYou'll need to be sharp in 1-on-1s.\lIf he takes out one of yours first,\lit'll be hard to win back the edge.\lGo get him!
 36177c|I can't believe it!\nThe last time I saw KURT lose\llike that, AZALEA TOWN and ILEX\lFOREST weren't even split up by\lthe security checkpoint!\lIncredible!
@@ -427,12 +427,12 @@
 3628af|Huh, I thought they taught DRAIN\nPUNCH here. I guess I'll have to\lgo to the depths of MT. MORTAR\lso my POLIWRATH can\llearn it.
 3629f8|This place needs a lift. I reckon\nthey'll build one soon.
 362a4d|Bah!\nBODY SLAM, they say!\lMy GOLEM doesn't even flinch!
-362a90|Optimise your team!\n5F POKéMON MOVES
+362a90|Optimize your team!\n5F POKéMON MOVES
 362acb|Some TRAINERS in this city are way\ntoo competitive. I think they\lshould relax and just enjoy all\lthe possibilities GOLDENROD has\lto offer.\pThen there's the opposite extreme:\nthose posh girls who ruined the\lGYM, of course{C0805}…{C0805}
 362bda|I'm going on an amazing camping\ntrip in ILEX FOREST.\lI've spent half an hour buying\lsodas and lemonades one at a time\lto save money!
 362c75|Recharge your batteries!\n6F REST AREA
 362cbd|Welcome to the RADIO TOWER, sir.\pThe POKéMON LOTTERY isn't\navailable yet.
-362d19|The RADIO TOWER is big, but it's\nhard to get lost in. Everything\lis very well organised.
+362d19|The RADIO TOWER is big, but it's\nhard to get lost in. Everything\lis very well organized.
 362d80|SILPH had no trouble supplying us\nwith a legion of GROWLITHE for\lour units.\pGestures like that go a long way\ntowards rebuilding trust between\lregions.
 362e37|We've learned from what happened\nto SILPH. An assault like the one\lthere will never happen in a place\llike this.\pLeast of all at the hands of\nthose ROCKETS!
 362ed6|Have you heard of the SAFARI ZONE?\pIt's great, but apparently they\nwant to close it soon.
@@ -461,7 +461,7 @@
 363c33|The GAME CORNER sells some really\ngood POKéMON, but there's a guy\lin the underground who sells\lPOKéMON from other regions, even\lPSEUDO-LEGENDARIES from there.\pI think I should go before\nthey sell out.
 363d2e|2F SALES
 363d41|POKéMON Radio.\nAny time, anywhere.
-363d81|Our work is going to affect even\nthe colour of POKéMON.\pJust you wait!
+363d81|Our work is going to affect even\nthe color of POKéMON.\pJust you wait!
 363ddc|TEDDIURSA is cute, but nothing's\nas sweet as MARY's MEOWTH.\pMeowth!
 363e38|The radio still has a way to go\nbefore it's heard all over KANTO\land JOHTO.\pBut we'll get there!
 363ea2|I heard my cousin held a very\nimportant post on FIVE ISLAND,\lbut I haven't heard from her\lin ages{C0805}…{C0805}
@@ -469,7 +469,7 @@
 363fca|By my estimates, in a couple of\nyears everyone in JOHTO will have\la radio at home.
 364034|BEN is a fabulous DJ.\nHis sweet voice makes me melt!
 3640d2|3F PERSONNEL
-3640eb|The RADIO TOWER, the MAGNET TRAIN,\nOLIVINE PORT…\pGlobalisation has come to JOHTO,\nand it's here to stay.
+3640eb|The RADIO TOWER, the MAGNET TRAIN,\nOLIVINE PORT…\pGlobalization has come to JOHTO,\nand it's here to stay.
 36415f|That's what we need here: important\npeople in suits like you, not those\lthugs from the underground.
 3641d1|GOLDENROD CITY isn't just JOHTO's\nmost populous city. Not even\lKANTO has a city with more people.\pThis RADIO TOWER has had a lot\nto do with it.
 364269|We broadcast entertainment shows\n24 hours a day.\pWe'll do our very best!

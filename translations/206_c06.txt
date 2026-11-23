@@ -50,7 +50,7 @@
 28e1ec|This is where we work!
 28e207|I lost on my own turf…{C0805}
 28e229|We're going to carry lots of\npassengers on the VERMILION-\lOLIVINE route from now on.
-28e275|You think you're better than me\njust because you wear a suit?\pYou should know nobody outranks\na COOL TRAINER.\pI'll show you!
+28e275|You think you're better than me\njust because you wear a suit?\pYou should know nobody outranks\na COOLTRAINER.\pI'll show you!
 28e2fa|What?\nI've been beaten?
 28e313|What?!\nYou're GIOVANNI's top man?\pI thought TEAM ROCKET had\ndisbanded!
 28e36a|Headed to CIANWOOD CITY?\nFancy a battle first?

@@ -426,7 +426,7 @@
 44ac23|{C1906}If you think you've found something\nthat could shed light on my\lresearch, come and see me.\pI'll reward you with a very special\nPOKéMON.
 44aca2|{C1906}Have you discovered something?
 44acc9|{C1906}Hmm{C080A}…{C080A}\pThat METEORITE{C080A}…{C080A}\pTell me, where is it from?
-44ad0f|{C1906}SHIFTING CAVE, you say.\pVery interesting.
+44ad0f|{C1906}ALTERING CAVE, you say.\pVery interesting.
 44ad3c|{C1906}I believe this is just what I was\nlooking for. With it, I'll be closer\lto finding the reason for all this\lbiodiversity.
 44adb6|{C1906}{V01} handed the METEORITE to the\nmysterious SCIENTIST!!
 44aded|{C1906}Oh! Surprising. You hand it over\nwithout hesitation; that means that,\las a TRAINER, you must feel complete.

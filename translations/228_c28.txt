@@ -170,7 +170,7 @@
 41bad1|{C192C}But this tunnel stretches much\nfarther south{C080F}…{C080F} I'm intrigued.
 41bb1f|{C192C}Why make it so big?
 41bd73|{C1906}Huh?\nHow can anyone be down here?
-41bd9b|{C1906}I'm SACHIKO, daughter of KOGA, former\nLEADER of FUCHSIA CITY and future\lmember of the ELITE FOUR.
+41bd9b|{C1906}I'm JANINE, daughter of KOGA, former\nLEADER of FUCHSIA CITY and future\lmember of the ELITE FOUR.
 41bdfc|{C1953}When FUCHSIA CITY's GYM reopens,\nI'll take his place. I've spent years\lpreparing for that moment.
 41be6b|{C1953}Tell me, who are you?
 41be91|{C1953}TEAM ROCKET? I haven't heard that\nname in years.
@@ -209,7 +209,7 @@
 41d0df|{C192C}Now, young lady, we've come\nthis far with you.\pDon't you trust us?
 41d12d|{C1953}It's not that! It's just I can't{C080F}…{C080F}\nI can't let you go on!
 41d16d|{C1953}{V01}! Don't go any farther!
-41d186|{C192C}SACHIKO, calm down.
+41d186|{C192C}JANINE, calm down.
 41d1a1|{C1953}No, you don't understand!
 41d1ba|{C1953}You leave me no choice. I made a\npromise, and I'll keep it! Whatever\lit takes!
 41d20c|Forgive me, Father{C080F}…{C080F}
@@ -248,7 +248,7 @@
 41dc54|{C192C}Maybe, after all, a new place won't\nbe the only thing we discover on\lthis journey.
 41e33c|{C1953}Oh! KANGASKHAN…
 41e350|{C192C}{V01}! This POKéMON… the\nmoment it saw us, it flew into a\lterrible rage.
-41e3a4|{C192C}So much that even SACHIKO's\nKANGASKHAN couldn't handle it.\pRight now it's out of control.
+41e3a4|{C192C}So much that even JANINE's\nKANGASKHAN couldn't handle it.\pRight now it's out of control.
 41e3ff|{C192C}There's no doubt it belongs to the\nMAROWAK-KANGASKHAN evolution line.\pUnder these conditions, it's best\nthat you take care of it.
 41e481|Guar!
 41e488|Guar…
@@ -258,7 +258,7 @@
 41b7e6|Wak!
 41c5b6|Wak!
 41e531|{C192C}That distinctive glint in its eyes,\nthat tenacity{C080F}…{C080F} I know it well.\pIt'll fight for this place to the\nbitter end.
-41e5bf|{C192C}SACHIKO's KANGASKHAN couldn't make\nyou see reason, but maybe my\lMAROWAK can.
+41e5bf|{C192C}JANINE's KANGASKHAN couldn't make\nyou see reason, but maybe my\lMAROWAK can.
 41e627|Wak!
 41e62d|Guar!
 41e639|Mar!
@@ -274,7 +274,7 @@
 41e7c1|G-Guar?
 41e806|{C192C}My suspicions are confirmed.
 41e82a|{C1953}What happened?
-41e83f|{C192C}It's sad to say, SACHIKO, but\nalmost all MAROWAK die before\lreaching full adulthood.
+41e83f|{C192C}It's sad to say, JANINE, but\nalmost all MAROWAK die before\lreaching full adulthood.
 41e8ab|{C1953}So you mean…?
 41e8c7|{C192C}This MAROWAK has endured more\nhardship than any other without\lperishing. Because of that, it\lreached a high enough level to\levolve again.
 41e971|{C192C}The result is a POKéMON with a body\nlike an adult KANGASKHAN's, but\lhardened by the tough life of a\lMAROWAK.

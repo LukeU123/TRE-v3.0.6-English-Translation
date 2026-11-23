@@ -58,7 +58,7 @@
 2d42e5|And done!\nAll your POKéMON are back in\ltop shape!
 2d4370|Welcome to our POKéMON CENTER!\pWe heal your POKéMON back to\nperfect health.\nShall we heal the POKéMON\nin your party?
 2d43ef|Very well. Please be patient.\nThis will only take a moment.
-2d4429|Mission accomplished.\pWe specialise in getting POKéMON\nback in shape.
+2d4429|Mission accomplished.\pWe specialize in getting POKéMON\nback in shape.
 2d4472|Come back any time!
 2d449c|I'd like to swap letters with\npeople all over the world.\lI sent my PIDGEY to the UNION ROOM\lto do it for me.
 2d451b|My PIDGEY will fly north\nto SAFFRON CITY to deliver\la letter!
@@ -76,7 +76,7 @@
 2d5022|So we've got yet another\nchallenger for the title, eh!\lWait{C0819}…{C0819}
 2d50dd|Get out of here before I call\nthe authorities! No GYM LEADER\lis going to waste time on some\lpathetic ROCKET!
 2d5157|There's nothing but trash here.
-2d521b|Wait!{C0819} …{C0819} "The KANTO DELEGATION,\nalong with LANCE and the entire\lELITE FOUR, authorise this TRAINER\lto take part in the POKéMON LEAGUE\lCHAMPIONSHIP." {C080F}…{C080F} …{C080F}\pMy deepest apologies, sir. KOGA\nwill be eager to battle you.
+2d521b|Wait!{C0819} …{C0819} "The KANTO DELEGATION,\nalong with LANCE and the entire\lELITE FOUR, authorize this TRAINER\lto take part in the POKéMON LEAGUE\lCHAMPIONSHIP." {C080F}…{C080F} …{C080F}\pMy deepest apologies, sir. KOGA\nwill be eager to battle you.
 2d5306|Social scum aren't allowed in\nGYMS. You should know that\lby now.
 2d5356|Leave quietly, or I'm calling the\nINDIGO PLATEAU POLICE!
 2d53fe|{C0819}…{C0819}\nNo way!\pA LICENSE approved by LANCE himself!\pIt's even got your photo and\nTRAINER number!\pPlease forgive the misunderstanding,\nsir.\pCome in, please.
@@ -112,7 +112,7 @@
 2d6215|It's true that a higher-level\nPOKéMON is stronger.\pBut every POKéMON is weak\nagainst certain types.\pIn other words, there's no such\nthing as an invincible POKéMON.
 2d62c2|POKéMON DAILY\pBreaking news on LT. SURGE,\nVERMILION GYM LEADER.\pAccording to close sources, LT.\nSURGE was a pilot when he lived\lin America.\pHe used electricity generated\nby his POKéMON to power\lhis plane.
 2d64c3|That blasted TAMER…\nThanks to him, everyone treats my\lOLD ROD like a joke. I can't let\lthis go on. My brothers are going\lto steal the whole\lspotlight{C0805}…{C0805}
-2d65ea|Look after that MAGIKARP, and soon\nyou'll have a POKéMON everyone in\lyour organisation will envy and\lrespect. It'll give you unmatched\lstanding in battle. It might\leven help you get promoted!
+2d65ea|Look after that MAGIKARP, and soon\nyou'll have a POKéMON everyone in\lyour organization will envy and\lrespect. It'll give you unmatched\lstanding in battle. It might\leven help you get promoted!
 2d66a4|You really taught him a lesson?\nAnd he was so scared by your\lthreats that he promised never to\ltalk about my OLD ROD again?\lYou must hold a really important\lposition in TEAM ROCKET to have\lbeaten those POKéMON. I bet with\lthis POKéMON you can get even\lbetter.
 2d67c0|YOU OBTAINED A LV. 5 MAGIKARP!
 2d67e0|What?\nExpecting something better?\lLet me tell you, ROCKET, this\lPOKéMON holds some very special\lpotential inside it. All you have\lto do is take good care of it and\lraise it, and you'll have one of\lthe best POKéMON in all of KANTO,\la true DRAGON, just like the one\lLANCE himself has on his team.
@@ -160,10 +160,10 @@
 2d8347|What was your name again?\n{V01}?\lLook at this!\lThis HIKER had no fewer than\l20 DIG TMs!\lAnd he wanted them all to himself!\lThanks to you, we managed to\lget them off him. Rest assured,\lI'll tell PETREL about you.
 2d8418|Take this. You've earned it.
 2d842f|He had this other item too.\nApparently it powers up GROUND-\lTYPE moves. The crook probably\lused it to hit harder with his\lDIG. You keep it.
-2d84d2|That's all, comrade. With these\nTMs, we can supply and speed up\lour research in enclosed spaces\land get out of caves more\leasily. You've helped stock our\lorganisation with resources.
+2d84d2|That's all, comrade. With these\nTMs, we can supply and speed up\lour research in enclosed spaces\land get out of caves more\leasily. You've helped stock our\lorganization with resources.
 2d85a3|Good work. See you back at\nthe BASE, you know where.
 2d85ee|I'll never reveal privileged\ninformation about GYM BADGES\lto a ROCKET.\l…\l…\lWhat?\lYou don't need those stupid\lBADGES to roam free using\levery HM?\l…\l{C0805}…{C0805}
-2d86b9|A POKéMON becomes easier to\ncatch if it has a status\lproblem.\pAsleep, poisoned, burned or\nparalysed…\pThey all work.\pBut nothing guarantees\na catch!
+2d86b9|A POKéMON becomes easier to\ncatch if it has a status\lproblem.\pAsleep, poisoned, burned or\nparalyzed…\pThey all work.\pBut nothing guarantees\na catch!
 2d8785|POKéMON learn new moves\nas they grow, but there are\lcertain moves that only\lwe can teach\lthem.
 2d8817|Don't tell my dad, but when my\nNIDORAN becomes a NIDOKING, I'll\ljoin you guys. I bet GIOVANNI will\lcongratulate me for having a\lNIDOKING at my age! Right?
 2d8981|Good things could happen if\nyou trained your POKéMON fast,\leven the weakest ones!
@@ -210,7 +210,7 @@
 2da06c|{C1931}Prepare to suffer, {V01}!
 2da088|But my POKéMON are even\nstronger now!
 2da106|{C1917}Take his POKéMON!
-2da120|C.MIGUEL USED ESCAPE ROPE
+2da120|MIGUEL USED ESCAPE ROPE
 2da13a|{C1917}Curse him{C080F}…{C080F}\nNext time we won't take his\lPOKéMON. We'll haul him straight\lto a cell so he can't cause any\lmore trouble.
 2da1c5|{C1918}He almost took the AMBER from us.\nIf you hadn't stepped in…\pTake this as thanks,\nyoung ROCKET.
 2da23b|YOU RECEIVED A LV. 30 OMANYTE!
@@ -348,16 +348,16 @@
 2deec3|{C1920}Everything you need to take your\nPOKéMON to the next level is here,\lright at your fingertips.
 2def2b|{C1920}In this room, you're in charge.\nYou decide whether to stop or\lkeep going. I hope you make good\luse of it before your final\lassault on the POKéMON LEAGUE.
 2defc8|{C1920}I trust you, {V01}.\pIt doesn't matter what kind of power\nyou face, as long as you keep a cool\lhead and bring out the best in your\lPOKéMON.\pWe'll be watching everything that\nhappens from here. You won't be\lalone against the ELITE FOUR.
-2df231|I specialise in EXP. training.\nFor $9000, you'll get a full\ltraining session.\lInterested?
-2df298|I specialise in EXP. training.\nFor $7500, you'll get a full\ltraining session.\lInterested?
-2df2ff|I specialise in EXP. training.\nFor $5000, you'll get a full\ltraining session.\lInterested?
+2df231|I specialize in EXP. training.\nFor $9000, you'll get a full\ltraining session.\lInterested?
+2df298|I specialize in EXP. training.\nFor $7500, you'll get a full\ltraining session.\lInterested?
+2df2ff|I specialize in EXP. training.\nFor $5000, you'll get a full\ltraining session.\lInterested?
 2df37a|An honor to help you improve\nyour team.
-2df410|I specialise in SP. ATK training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
-2df4e3|I specialise in DEFENSE training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
-2df5b2|I specialise in SPEED training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
-2df683|I specialise in ATTACK training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
-2df751|I specialise in SP. DEF training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
-2df825|I specialise in HP training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df410|I specialize in SP. ATK training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df4e3|I specialize in DEFENSE training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df5b2|I specialize in SPEED training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df683|I specialize in ATTACK training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df751|I specialize in SP. DEF training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
+2df825|I specialize in HP training.\nFor $2000, you'll get a full\ltraining session.\lInterested?
 2dfe0e|{C1920}What do you think, {V01}?\pA more fitting workplace than\nthe S4 front, wouldn't you say?\pHave you found anything?
 2dfe7f|{C1920}I see. DAISY is OAK's granddaughter\ntoo, and BLUE's sister.
 2dfebc|{C1920}From what you tell me, something very\nstrange is going on there. Either OAK\lteleported using some POKéMON, or that\lLAB isn't as innocent and charitable\las they make it out to be.
@@ -434,7 +434,7 @@
 2e2683|{C1920}{C080F}…{C080F} he was raised from childhood in\nthe art of training what many consider\lthe most powerful and sacred TYPE. He\lshowed an innate talent for taming the\lpower of DRAGONITE, which many regard\las the most powerful NON-LEGENDARY.\pA well-trained one surpasses even\nthe power of the LEGENDARY BIRDS.
 2e27ae|{C1920}LANCE became a TRAINER to be\nfeared, with 3 of these sacred\ldragons. It didn't take him long to\lseize power in JOHTO.
 2e2836|{C1920}That, however, wasn't enough\nto bring KANTO to heel as he wished.\lOur region has always had\lTRAINERS of great talent.
-2e28c7|{C1920}Back then, OAK and I had spent\nyears fighting over the CHAMPION\ltitle, which kept changing hands\lbecause we were so evenly matched\land so fiercely competitive.\pWhen one of us wasn't CHAMPION, the\nother took the post BRUNO holds today\lin the ELITE FOUR. I specialised in\lthe GROUND TYPE, and OAK in the\lNORMAL TYPE{C080F}…{C080F}
+2e28c7|{C1920}Back then, OAK and I had spent\nyears fighting over the CHAMPION\ltitle, which kept changing hands\lbecause we were so evenly matched\land so fiercely competitive.\pWhen one of us wasn't CHAMPION, the\nother took the post BRUNO holds today\lin the ELITE FOUR. I specialized in\lthe GROUND TYPE, and OAK in the\lNORMAL TYPE{C080F}…{C080F}
 2e2a2c|{C1920}LANCE knew that with the two of us in\nKANTO, he could never impose his might,\leven with his dragons.\pThat was when he began searching for\nthe power he couldn't attain through\ltraining, in the divine, in the{C0819}…{C0819}\pLEGENDARY.
 2e2b15|{C1920}He learned about LUGIA and HO-OH.\pTwo POKéMON of superior power,\nnot found here in KANTO.\pHe never came close to finding them.
 2e2ba0|{C1920}Even so, he eventually learned of\nthe legend of HO-OH, the one telling\lof 3 POKéMON doomed to die but saved\lby the so-called MIRACLE of the\lBURNED TOWER, 150 years ago.\pAccording to legend, these 3 POKéMON\nwere reborn as the JOHTO BEASTS, and\lbegan roaming the region aimlessly,\lunable to contain their power.

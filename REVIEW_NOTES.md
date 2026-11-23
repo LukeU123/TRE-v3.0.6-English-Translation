@@ -39,3 +39,5 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 - CUEVA CAMBIANTE: c08 and c16 use ALTERING CAVE (official FRLG), c30 uses SHIFTING CAVE -> unify to ALTERING CAVE
 - "Inventar diálogo" placeholder: c31 translated it as "Write dialogue", c30 skipped it (left Spanish) -> pick one (suggest "Write dialogue" everywhere)
 - OLGA: c30 used JULIA (Sunyshore ribbon lady), c31 kept OLGA -> check
+- INVERNA = CANDICE (c27). Name box 300_manual_fixes still maps INVERNA->INVERNA: change it to CANDICE after the consistency pass finishes
+- Pokédex entries (c36): about 35 run to 4 lines where the Spanish has 3. Check in-game whether the Dex box shows 4 lines; if not, shorten them

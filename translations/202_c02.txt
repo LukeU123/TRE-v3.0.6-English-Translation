@@ -1,4 +1,4 @@
-23aaf2|{C195A}Never before have I seen a TRAINER\ncommand their POKéMON with more\lgrace than I do…\pI must recognise such a feat as\nit deserves. Take this BADGE.
+23aaf2|{C195A}Never before have I seen a TRAINER\ncommand their POKéMON with more\lgrace than I do…\pI must recognize such a feat as\nit deserves. Take this BADGE.
 23ab95|{V01} received the FEATHER BADGE\nfrom WINONA.
 23abbb|FORTREE CITY POKéMON GYM
 23abdf|FORTREE CITY POKéMON GYM
@@ -93,14 +93,14 @@
 23d93b|Yes, yes… Exactly that…
 23dc0c|This is our special exhibition\nhall.
 23dc3b|As you can see, we don't have\na single painting on display…\pI don't want to show works of\nso-called classical art here.\pThose works are on our ground\nfloor.\pHere, I want to show completely\nnew, different works.\pArt isn't limited to the most\nfamous works of times gone by!\pThis room… I would like to fill it\nwith…\pbold, modern works about POKéMON,\nworthy of going down in the\lannals of history!
-23ddd5|Forgive me, I didn't mean to\nmonopolise the conversation.\pAnyway, young as you are, I can\ntell you've travelled a lot…\pI'm sure you'll come across many\nPOKéMON and works depicting them.\pIf you find a painting of that\nkind, could you get the artist's\lpermission to exhibit it here?
+23ddd5|Forgive me, I didn't mean to\nmonopolize the conversation.\pAnyway, young as you are, I can\ntell you've traveled a lot…\pI'm sure you'll come across many\nPOKéMON and works depicting them.\pIf you find a painting of that\nkind, could you get the artist's\lpermission to exhibit it here?
 23def2|I wish to fill this exhibition hall\nwith bold, modern paintings\labout POKéMON.
 23df49|Thanks to you, this painting will\nbecome part of our collection.\pAnd it depicts your POKéMON, too.\nIt's an exceptional work!\pThank you so very much.
 23dfd4|Ah, it's you, {V01}!
 23dfe6|Isn't it superb?\nWhat an art collection!\pAll of them flawless!\nAll of them admirable!\pThese works have drawn many\nvisitors to our MUSEUM.\pI'm truly grateful to you, {V01}.\nIt's a dream come true!
 23e0ae|This is just a token of my gratitude.
 23e0d7|I'll keep it for you until you\ncome back.
-23e100|How lovely to see you, {V01}!\pIt's an honour that you make time\nto visit us despite your travels.\pPlease, come in, relax and\nenjoy your visit.
+23e100|How lovely to see you, {V01}!\pIt's an honor that you make time\nto visit us despite your travels.\pPlease, come in, relax and\nenjoy your visit.
 23e189|It's a frame with a pink pattern.
 23e1a8|It's a frame with a yellow pattern.
 23e1cb|It's a frame with a blue pattern.
@@ -111,7 +111,7 @@
 23e2d4|Aha, so this is where they show\nthe new POKéMON paintings.\pWell, I have to say, they're\npretty fun.
 23e34d|Whoa, really?\nThese are paintings of your POKéMON?\pThat must be the greatest joy\nany TRAINER could have.
 23e544|Yes{C0819}…{C0819} Understood{C0819}…{C0819} Right away.
-23e56f|You look like you've travelled a\ngreat deal, am I right?
+23e56f|You look like you've traveled a\ngreat deal, am I right?
 23e5a1|Come with me.
 23e5b0|HOENN is a fascinating region.
 23e5d0|You must have been to many regions,\nI imagine. But surely none with\lflora and fauna like this, this\lperfect{C080F}…{C080F} balance.
@@ -120,7 +120,7 @@
 23e6a1|This MUSEUM's majority shareholder\nwould like to thank you in person\lfor what you did.
 23e6ef|She's waiting for you in the boardroom.
 23ec4c|Congratulations!\pI've drawn a portrait of your POKéMON\nto commemorate its victory.\pYour POKéMON's performance was so\nfantastic, it inspired me like\lnever before. See?
-23ecfb|What do you think? I really like it,\nbut I'd love to know your opinion.\pI'd say a work of this calibre would\nlook great in an art museum.\pWhat? A real museum is looking\nfor paintings?\pDo you think I should take mine there?
+23ecfb|What do you think? I really like it,\nbut I'd love to know your opinion.\pI'd say a work of this caliber would\nlook great in an art museum.\pWhat? A real museum is looking\nfor paintings?\pDo you think I should take mine there?
 23edea|Really? Then I'll rush my painting\nover there right away.\pAnd I'll give it a title, too.\pI hope they like it and put it on\ndisplay…\pPlease, go and see if they do…\nThank you!
 23ee92|I'm so happy!\pSo you'll always remember the time I\npainted your POKéMON, take this.
 23eef1|{V01} received a RIBBON.
@@ -144,7 +144,7 @@
 23fbc2|Go! Sweetie, you're the best!
 23fbe7|Even when TRAINERS enter the same\nkind of POKéMON, each one makes\lits appeal with a different move.\pBecause, of course, everyone\nhas their own fighting style!
 23fc93|I think those POKéMON look much\nsmarter than their TRAINERS.
-23fcdc|No matter how often I come, I still\nlove these SMART CONTESTS.\pThat green colour is so… sharp…\nSo very… intellectual{C0805}…{C0805}
+23fcdc|No matter how often I come, I still\nlove these SMART CONTESTS.\pThat green color is so… sharp…\nSo very… intellectual{C0805}…{C0805}
 23fd61|MC: Are you entering the BEAUTY\nCONTEST too?\lWell, good luck!
 23fdaf|JUDGE: Every POKéMON here is a\nmodel of perfect beauty.\pOops, instead of admiring them so\nmuch, I should be scoring them!
 23fe38|This POKéMON's BEAUTY is beyond\ncompare… It has no rival.\pThe audience is sure to be\nawestruck when they see it.
@@ -175,8 +175,8 @@
 240e4d|Everyone here is a huge\nfan of POKéMON\lbattles.\pWe're always arguing about who\nthe best TRAINER of all is.\pIf you ever get famous, we\nmight become your fans!
 240f79|I'm always on your side, {V01}!\nAlways, always, always!\pI know you won't lose, {V01}!\nYou're really, really strong!
 240fea|{V02} is so cool…\pAnd everyone agrees,\nyou know?
-241023|{V02} is really cool, right?\pEven if nobody's with me, I'm going\nto cheer on my favourite TRAINER.
-241081|My favourite TRAINER is…\psuper cool…\psuper strong…\pand super nice.\pIf only they really existed{C0805}…{C0805}
+241023|{V02} is really cool, right?\pEven if nobody's with me, I'm going\nto cheer on my favorite TRAINER.
+241081|My favorite TRAINER is…\psuper cool…\psuper strong…\pand super nice.\pIf only they really existed{C0805}…{C0805}
 2410e9|Hey! It's {V01}!\nSo cool!\pWhen I grow up, I want to be\nas strong as you, {V01}.
 241137|Even if I'm alone…\pI'll always cheer for you, {V01}.\pBecause I believe in you, {V01}!\nYou're my idol!
 24119a|{V02} is so cool…\nI wish I could shake hands{C0805}…{C0805}
@@ -231,7 +231,7 @@
 243143|I want my POKéMON to be\nmore resilient.\pNow I can't decide between raising\nDEFENSE with IRON or SP. DEF with ZINC.
 2431b9|I gave my POKéMON some CARBOS\nand its SPEED went up.
 24325e|Hmmm…\pAn ATTACK move…\nA DEFENSE move…\pIt's not easy deciding which TM\nmoves to teach a POKéMON{C0805}…{C0805}
-2432e5|There are so many TM moves…\pI read in a catalogue that there are\nsomething like 246 different kinds.
+2432e5|There are so many TM moves…\pI read in a catalog that there are\nsomething like 246 different kinds.
 24333e|I'd love to have every TM, but it\ndoesn't matter since a POKéMON can\lonly learn four moves.
 2433dd|There's nothing on offer in this\nsection right now. Sorry!
 24348e|This place is full of lovely DOLLS.\pInstead of buying them for the kids,\nI should buy one for myself!
@@ -261,7 +261,7 @@
 24466f|I can see it…\nI can see it crystal clear…\pWho will win this battle?\nI'm not telling you!
 2446d2|I didn't foresee this!
 2446ec|I can see you'll fight a terrible\nbattle against our LEADERS…\pAnd the winner will be…\nI'm not telling you!
-24474d|You've travelled far and had\nall kinds of experiences…\pNow show me what you've\nlearned!
+24474d|You've traveled far and had\nall kinds of experiences…\pNow show me what you've\nlearned!
 2447b4|You've walked the path\nof the greats!
 2447df|For those who work hard,\na bright future awaits.\pFor those who slack off,\nonly hard knocks await…\pYou always reap what you sow!
 24487e|I'm going to win this battle,\nwhatever it takes!
@@ -397,7 +397,7 @@
 248581|You don't have a big LOTAD?\nWhat a letdown…\pIf you get one, come and see me.
 2485cb|The biggest LOTAD ever seen!\nA {V04} {V02} colossus\lbelonging to {V03}!\pIt's always so much better to have\na LOTAD that's bigger\lthan a SEEDOT!
 248b94|The POKéMON LEAGUE is just past\nVICTORY ROAD.\pIf you've made it this far, you're\nnot going to back out now, are you?
-248c0a|The long, gruelling VICTORY ROAD…\pis like living your whole life again…\pRemember to believe in your\nPOKéMON and give it your all!
+248c0a|The long, grueling VICTORY ROAD…\pis like living your whole life again…\pRemember to believe in your\nPOKéMON and give it your all!
 248ef1|I've never seen anyone use POKéMON\nwith such skill before.\pYou even managed to beat\nour son!\pHe's so strong that he's going to\ntake on the POKéMON LEAGUE challenge.
 248fa8|We use the MACHO BRACE to help our\nPOKéMON improve even more during\ltraining.\pSomeone as strong as you doesn't need\nsomething like that, but… I think I do\lhave something that might interest you.
 249068|When it comes to POKéMON battles,\nwe tend to take them very seriously{C0805}…{C0805}
@@ -474,7 +474,7 @@
 24b784|{C1920}What you saw on that ABANDONED SHIP\nonly strengthens our suspicions: they're\lafter something big. That SCANNER, what\ldo they want it for{C0805}…{C0805}
 24b80e|{C1920}Listen, {V01}. Forget about DEVON\nfor now. The way things stand,\lwe can't get anything out of them.\pThey clearly know HOENN better than\nwe do.
 24b8aa|{C1920}We're also moving ahead with\nour own projects, which is\lwhy I want you to travel to\lMOSSDEEP CITY.
-24b91d|{C1920}Now that you can DIVE,\nyou can explore the seas of\lHOENN in detail, and find KYOGRE\lto analyse its data.
+24b91d|{C1920}Now that you can DIVE,\nyou can explore the seas of\lHOENN in detail, and find KYOGRE\lto analyze its data.
 24b99e|{C1920}That way, we'll buy time while\nwe advance on another front. That's\lall, {V01}. We'll be in touch.
 24bb47|{C1951}You're starting to be everywhere\nin this region too, huh?
 24bb90|{C1951}A DEVON base here? Do you want\nme to stop playing with you? To know\lthe truth about me?
@@ -528,7 +528,7 @@
 24d2ea|{C1906}You want to know what we're doing\nhere…? GROUDON?
 24d319|{C1906}Kid, we've known all about GROUDON\nfor years. What's more, we've\lmastered its PRIMAL form too.
 24d37c|{C1906}No.{C080F} The truth is, I came all the way\nhere to run some practical\ltests.{C080F} Watch.
-24d3e0|{C1906}Recognise that POKéMON? It's a\nBLACEPHALON. You should know it.\lSomeone like you has surely met\lan ULTRA BEAST already.
+24d3e0|{C1906}Recognize that POKéMON? It's a\nBLACEPHALON. You should know it.\lSomeone like you has surely met\lan ULTRA BEAST already.
 24d464|{C1906}I threw it into the volcano to see how\nits body reacts.
 24d4a3|{C1906}So you think that's cruel?
 24d4c7|{C1906}Don't be a hypocrite, ROCKET ADMIN.\pYou lot do exactly the same thing\nwith radio waves.
@@ -608,7 +608,7 @@
 25007c|{C1907}For a moment, I glimpsed you as an\nordinary grunt, like when we started.
 2500cc|{C1907}Back then, my instinct would have been\nto battle you again.
 250110|{C1907}That's right. One more time, to\nconfirm and prove everything we'd\limproved, to show off the new\lPOKéMON we'd caught or the\lnew evolutions of the ones we\lalready had.
-2501cd|{C1907}It was a nice way to honour our\ngrowth, an ode to our progress.
+2501cd|{C1907}It was a nice way to honor our\ngrowth, an ode to our progress.
 25021e|{C1907}But it was also{C0819}…{C0819} our way of\nmaking sure that all the time\lthat had passed since we last\lmet hadn't been in vain,\lright?
 2502c1|{C1907}Making sure our path kept\nevolving in a steady, straight line,\lso our egos and expectations\lwouldn't get hurt.
 250353|{C1907}Because otherwise, our greatest\nfear would be confirmed. Progress\lwould stop and, as a result,\lany journey or new experience\lwould lose all meaning, right?

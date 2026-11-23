@@ -13,7 +13,7 @@
 3ad48c|{C1931}Deep down, I should thank you.\pI said before that the method\ndidn't matter, but the truth is it\lwouldn't be the same to beat you\llike this, using that abomination\lout of desperation.
 3ad546|{C1931}Now I have the same tools you do,\n{V01}. DEVON's technology and the\lBOND I needed. My victory will be\lcomplete when, on equal terms,\leveryone sees you're nothing special.
 3ad611|{C1931}Just you wait, {V01}.\pThis is just the start of a great\ngeneration of FOSSILS that will\lbring you to your knees.
-3ad682|{C1931}You and ANDRA are the only ones left\nchampioning what you call tradition.\lYour beloved JOHTO MASTERS have\lalready shown how inferior their\lteams are to the new order.
+3ad682|{C1931}You and ANDRA are the only ones left\nchampioning what you call tradition.\lYour beloved JOHTO MASTERS have\lalready shown how inferior their\lteams are to the NEW ORDER.
 3ad72e|{C1931}Remember my words, {V01}!\pYou'll end up just like them!
 3ad76f|{C1921}Blast! What just happened?
 3ad793|{C190E}Your assistant betrayed us, BILL.\nWho knows how long he'd been in\lleague with DEVON. We should have\lkept a closer eye on him.
@@ -53,7 +53,7 @@
 3aea93|We've invested millions exploring\nevery corner of the known regions.\lNow our information network is the\lmost complete in the world.
 3aeb2a|That's right, UNOVA is the region\nwhere the ORIGINAL DRAGON was born.\pIt split into 3 POKéMON, each with\npower similar to MEWTWO's…\pHow did you manage to defeat such\na beast?
 3aebf1|VOLCARONA is incredible. The gods of\nthe POKéMON WORLD must have granted\lit the rank of PSEUDO-LEGENDARY…\pOr do you think they don't decide\nthat, but the will of mortals does?
-3aecb3|Lots of people confuse MEGA AERODACTYL\nwith PRIMAL AERODACTYL. The first was\lcreated by S.N.MIGUEL, who forged its\lspecific MEGA STONE.\pThe second was the work of OAK and\nBLAINE. Its STAT spread is slightly\ldifferent, but PRIMAL AERODACTYL is\lbetter, since it can hold an item.
+3aecb3|Lots of people confuse MEGA AERODACTYL\nwith PRIMAL AERODACTYL. The first was\lcreated by SUPER NERD MIGUEL, who\lforged its specific MEGA STONE.\pThe second was the work of OAK and\nBLAINE. Its STAT spread is slightly\ldifferent, but PRIMAL AERODACTYL is\lbetter, since it can hold an item.
 3aedea|Have you seen HOENN's seas? They make\nup 50% of the region. There's a\lperfect balance between land and sea\lhere. Nobody should try to upset it.
 3aee88|There's no greater suffering than\nwaking up in the morning knowing\lyou're nothing but a digit, a\lliability, a pawn, a slave, an inert\lcloned being bound to endless\lservitude.
 3aef5a|That SEVIPER looks a lot like our\nARBOK. I think it might be even\lbetter.\pA SCIENTIST told me it learns\nFLAMETHROWER to defend itself from\lSTEEL TYPES!

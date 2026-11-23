@@ -19,7 +19,7 @@ e86fd8|OPEN LV
 e87065|   Pal
 e87080|{V01}'s LINK CONTEST:
 e8709f| Awaiting link…
-e870b4|Somebody dropped out.\nThe link will be cancelled.
+e870b4|Somebody dropped out.\nThe link will be canceled.
 e870e8|Want to play again?
 e87101|   Can't carry any more!
 e8711b| No room left.
@@ -27,7 +27,7 @@ e87162|  PERFECTS in a row:
 e87179|   Best score:
 e871ac|Awaiting link…
 e871c0| points
-e871c8|Somebody dropped out.\nThe link will be cancelled.
+e871c8|Somebody dropped out.\nThe link will be canceled.
 e871fc|Want to play again?
 e87215|   No room left.
 e8722b| You can't carry more!
@@ -86,7 +86,7 @@ e87858|{V02}BERRY
 e87866|   time(s)
 e87888|Awaiting link…
 e8789c|Time's up!\pGood POWDER couldn't be made\nfrom the BERRIES…\p
-e878db| Somebody dropped out.\nThe link will be cancelled.
+e878db| Somebody dropped out.\nThe link will be canceled.
 e87910|You don't have any BERRIES!\nYou can't use this.
 e87945|   Use the BERRY CRUSH again?
 e87968|Saving your game data.\nPlease wait.

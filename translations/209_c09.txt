@@ -45,13 +45,13 @@
 2c298b|ROUTE 1:\nPALLET TOWN - VIRIDIAN CITY
 2c29bd|Will you leave me alone?\nCan't you see I'm teaching my\lSCYTHER CUT?
 2c2a15|Got a problem?\nIf you want to get by, go another\lway. I couldn't care less what a\lROCKET has to do or not do.
-2c2aa7|Those cool TRAINERS said they\nfinally found a wild PINSIR\lhere.
+2c2aa7|Those COOLTRAINERS said they\nfinally found a wild PINSIR\lhere.
 2c2b01|There's no way there could be a\nwild PINSIR in this forest.
 2c2b49|DIGLETT'S CAVE
 2c2b60|ROUTE 2\nVIRIDIAN CITY - PEWTER CITY
 2c2b91|If I had a SCYTHER, everyone in\nVIRIDIAN FOREST would respect me,\land this tree would be gone with a\lsingle slash{C0805}…{C0805}
 2c2c10|Lots of POKéMON only live in\nforests or caves.\pYou'll need to stay alert and keep\nat it if you want to catch\lthem all.
-2c2c99|There's nothing here that could\ninterest a COOL TRAINER like me,\lexcept those legends people tell\labout a wild PINSIR{C0805}…{C0805}
+2c2c99|There's nothing here that could\ninterest a COOLTRAINER like me,\lexcept those legends people tell\labout a wild PINSIR{C0805}…{C0805}
 2c2da2|When the legal system finally\nworks the way it's supposed to,\lyou ROCKETS will stop scavenging\lthe crumbs we leave you. That's\lall you've got left in your\lmiserable existence.
 2c2e88|I'd never leave my POKéMON in a\nROCKET's hands, get that straight.
 2c2ef6|RATTATA might be small, but never\nunderestimate its powerful bite.\pThough your organization knows\nthat better than anyone.\pRight?

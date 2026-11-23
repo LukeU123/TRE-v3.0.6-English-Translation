@@ -69,7 +69,7 @@
 29cb99|Starting to feel tired?\pA good TRAINER thinks only of\nwinning, no matter how they feel.
 29cbfb|I don't feel so good…{C0805}
 29cc10|The TRAINER's feelings and the\nPOKéMON's feelings…\pIf they're in tune with each other,\nthey can't lose.
-29cc71|Our ADMIN AMATISTA has waited for\nthis moment for a long time.\pNo one can interfere.
+29cc71|Our ADMIN AMETHYST has waited for\nthis moment for a long time.\pNo one can interfere.
 29ccc5|Who are you?
 29ccd5|The king of the REGIS will return to\nits rightful place after so long.
 29cd1e|Are you TEMPLE staff?\nIs there a problem?\p… …\pWait!\pI've seen you before in HOENN!
@@ -123,7 +123,7 @@
 29d855|Who do you think you are, defiling\nthis sacred place?!
 29d892|Hmm… You're very strong.
 29d8a8|This place is so vast, it's easy\nto get lost.\pYou won't defile it that easily!
-29d8ff|Hold it! I'll beat you right here\nand drag you before AMATISTA.\pAfter that, they'll promote me to\nPOLICE CHIEF!
+29d8ff|Hold it! I'll beat you right here\nand drag you before AMETHYST.\pAfter that, they'll promote me to\nPOLICE CHIEF!
 29d97d|My perfect plan failed…
 29d997|Ugh, what a letdown.\nI just hope they don't demote me.
 29d9ce|If you have no idea why we do what\nwe do, why do you insist on\lgetting in our way?
@@ -132,7 +132,7 @@
 29dad4|I won't let you interfere\nwith DEVON's plans!
 29db0a|If only you weren't so gifted\nat battling…
 29db31|Greatness awaits DEVON.\nOblivion awaits you!
-29db5e|AMATISTA is about to do something\nspectacular! Don't you meddle!
+29db5e|AMETHYST is about to do something\nspectacular! Don't you meddle!
 29dba7|Sacrilege!
 29dbb8|Can't you recognize the sacred\nwhen it's right in front of you?\pShow this place some respect!
 29dc0a|I may not be able to beat you, but I\ncan slow you down and buy our\lADMIN some precious time!
@@ -144,9 +144,9 @@
 29ddd1|I've heard about you… They say you\nhave a rare gift for battle.\pYou know what else they say?
 29de34|No doubt about it, you're talented,\nbut…
 29de57|Even the greatest talent can do\nnothing without the right\lmotivation.
-29dea6|AMATISTA has been working toward\nthis moment for years.\pEvery last detail and every absurd\nvariable has been calculated!
+29dea6|AMETHYST has been working toward\nthis moment for years.\pEvery last detail and every absurd\nvariable has been calculated!
 29df27|You're part of her calculations\ntoo!
-29df51|Even meddling by nobodies who think\nthey can undo, in a matter of\lseconds, a plan orchestrated over\lyears has been foreseen\lby AMATISTA.
+29df51|Even meddling by nobodies who think\nthey can undo, in a matter of\lseconds, a plan orchestrated over\lyears has been foreseen\lby AMETHYST.
 29dfeb|How did a common ROCKET born on that\ntiny island make it this far?!
 29e035|It's impossible!
 29e044|You defy the laws of statistics\nand probability.
@@ -227,7 +227,7 @@
 29f209|I didn't mean it.\pI'm a SILPH supporter too!
 29f243|RITA: Oh, no! Where do you think\nyou're going? Got an appointment?\pThe exclusive interview with the\nPOKéLOTODO is ours. Wait your turn!
 29f2b7|Are you really going to barge in\nwithout an appointment?
-29f2e1|RITA: The POKéLOTODO grants very few\ninterviews. I hope they throw you\lout the moment you walk in!\pMARCOS: We're filing a complaint\nwith the CG DIRECTOR!
+29f2e1|RITA: The POKéLOTODO grants very few\ninterviews. I hope they throw you\lout the moment you walk in!\pMARCOS: We're filing a complaint\nwith the LEAGUE HQ DIRECTOR!
 29f37f|Curse you! Why didn't you invade\nthe SAFFRON HQ instead?\pI was getting a raise\nnext week!
 29f3e9|Unforgivable!
 29f3fc|What? The SAFFRON HQ is being\ninvaded too?!
@@ -553,7 +553,7 @@
 2aa351|{C192D}I see. You've been busy with\nother matters these years. One\llast question, it's a bit…
 2aa3b0|{C190E}A bit?
 2aa3be|{C192D}I'm not sure you can help us.
-2aa3e1|{C192D}When we consulted the archives at\nthe POKéMON LEAGUE's CG, we saw the\lCHAMPION title listed as an "X" on\las many as 8 occasions during the\l1970s and 1980s.
+2aa3e1|{C192D}When we consulted the archives at\nPOKéMON LEAGUE HQ, we saw the\lCHAMPION title listed as an "X" on\las many as 8 occasions during the\l1970s and 1980s.
 2aa48d|{C192D}Do you know why? Is there a\nname behind that "X"?
 2aa4cc|{C190E}You see, I have a bad habit of\nforgetting any name that isn't\lworth remembering.
 2aa52a|{C190E}But, in all seriousness…

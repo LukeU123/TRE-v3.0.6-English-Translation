@@ -969,3 +969,215 @@ e8b117| Keep in mind this action\ncannot be undone. OK?
 e8b159|   -Your team will be deleted; you can pick\n10 Pokémon of your choice at Lv. 63.
 e8b1ae|  -All Trainers up to this point defeated.\n-Pokémon obtainable so far sent to PC.
 e8b207| At this point, the Kanto events are over.\nHere's a list of the changes:
+10984a0|To win, everything counts. Once violence enters the picture, you'll need more than your damn battle skills.{C09}
+1098514|Sometimes ignorance is bliss.{C09}
+1098540|How fun… You're going to make me use POKéMON banned by the COMMITTEE…{C09}
+1098588|Who are you?! Nobody makes so few mistakes!{C09}
+10985c4|The first mistake never ruins you. It's the spiral of repeated mistakes that follows.{C09}
+1098624|The system's true power isn't in what it offers you, but in what it makes you believe doesn't exist.{C09}
+1098690|Now you'll see why the LEAGUE HQ rules over all TRAINERS.{C09}
+10986e4|Adversity is no misfortune; to bear it with nobility of spirit is a blessing.{C09}
+1098738|One must defy adversity and face the enemy without fear.{C09}
+109877c|Tell me, doesn't our story tempt you? Do you really refuse to be part of it?!{C09}
+10987d0|What matters in a good story is that the information is consistent, not that it's complete.{C09}
+109883c|You can ignore reality, but you can never ignore the consequences of ignoring reality.{C09}
+10988a0|History will be our judge. As for you… you'll be erased from it.{C09}
+10988e8|Just because the world forgets its values doesn't mean you have to as well.{C09}
+109893c|You dance well for someone so worn out.{C09}
+1098968|I can't make out your true self. Perhaps it's hidden, shrouded in nature's darkness.{C09}
+10989c4|If we set obsession aside, everything we are becomes a farce.{C09}
+1098a18|The world has become a stage where everyone plays a role they never chose.{C09}
+1098a74|The tragedy is that much of what you think is random is under your control. And worse, the reverse is true too.{C09}
+1098af8|A sure loss inspires great aversion, and that's what drives us to take risks.{C09}
+1098b48|The world owes you nothing, but it gives you the tools to keep trying until you bleed or find what works.{C09}
+1098bcc|Not even a god is meant to know what will happen by chance or fate.{C09}
+1098c28|A reaction that's too rehearsed never ends well.{C09}
+1098c60|Those who live in an overprotective bubble end up weaker than the chronically ill.{C09}
+1098cc8|Only to those who wait until the end are the world's mysteries revealed.{C09}
+1098d1c|Go on! I want to see if there's any value in this "bond" of yours!{C09}
+1098d68|KYOGRE is the sea, and we have tamed KYOGRE. Therefore, the sea is ours.{C09}
+1098dbc|This time I'll snuff out your flame like a match dunked in water.{C09}
+1098e04|That battle style feels very familiar…{C09}
+1098e34|Nobody in HOENN battles like that. You're from KANTO or JOHTO, right?{C09}
+1098e7c|Those who don't grow disappear. But so do those who grow without knowing why.{C09}
+1098ecc|Just as I expected. Nothing but dull, predictable moves.{C09}
+1098f14|You're a loser until you win, and once you win, nobody cares how many times you lost.{C09}
+1098f78|The method doesn't matter if it works. I'll do whatever it takes to win!{C09}
+1098fc8|Now face the strongest POKéMON of the century in all its glory!{C09}
+1099014|Change isn't a miracle, it's an assault. It doesn't come gently or knock politely. Either you take it by force or it never comes. There's no middle ground.{C09}
+10990b4|I've still got one last ace up my sleeve. You won't see this coming.{C09}
+10990fc|Two years ago, PORYGON2 was all the rage. Now it's old news. But don't worry, I've got new toys just for me.{C09}
+1099170|Well… So this is the power of the new KANTO…{C09}
+10991a8|That POKéMON is nothing like the one from last time.{C09}
+10991e0|Look at this! The real SUICUNE is nothing compared to this!{C09}
+1099220|I was wrong. The new world had so much to offer. I want you to see it.{C09}
+1099274|Perfectionism draws straight lines, but the path of genius is a winding one.{C09}
+10992c8|Shadows linger until you choose to light them up.{C09}
+1099300|The deeper you dig into a single well, the less you can see of the vast ocean around you.{C09}
+109936c|You're forcing me to use my new secret weapon?! You asked for it!{C09}
+10993b0|The best plan is only worth as much as the units carrying it out.{C09}
+1099400|If I have to fall, I'll do it with a clear conscience.{C09}
+109943c|I admire your skill, but RED was skilled too. You're something more, right?{C09}
+1099490|KANTO is watching, WEEZING. This time, only you.{C09}
+10994c4|Looks like we taught you a little too well in TEAM ROCKET.{C09}
+1099500|Fortune favors the bold. Some people are too inert, indecisive or passive to deserve any fate other than the one they've built.{C09}
+10995a0|Life isn't a place to rest. It's a challenge, a constant test, a battlefield where every day you must prove to yourself that you're worthy of existing.{C09}
+1099650|Hmm… You're predictable, but you do it extraordinarily well.{C09}
+109969c|Far too predictable.{C09}
+10996b4|That's it! Be your own audience, seek your own applause!{C09}
+10996f4|Except from a distance or as mere spectators, we're uncomfortable with uncertainty.{C09}
+1099754|We dream of a new day when the new day never comes, and await a battle when we're already fighting.{C09}
+10997c0|Desire doesn't seek to be satisfied, only to stay alive.{C09}
+10997fc|Confined to my chair with nothing in front of me, nothing to scatter my mind, nothing to distract me, I have no choice but to listen to my own thoughts.{C09}
+10998a0|Clarity of mind is born of courage, not vice versa.{C09}
+10998d8|Chance can never perfectly imitate the truth.{C09}
+109991c|The problem isn't how to relive the great moments, but how to endure the mediocre ones.{C09}
+1099978|The good is beautiful, and vice versa.{C09}
+10999a4|Impressive. Tell me, what is sacred to you?{C09}
+10999d4|This is why we're here, to fly higher and higher, right?{C09}
+1099a14|I don't know where the sky ends, but I know where it doesn't.{C09}
+1099a58|How are you able to keep that flame burning for so long?!{C09}
+1099aa8|A single flash of brilliance won't beat me.{C09}
+1099ae0|The essence is… leaving me?!{C09}
+1099b08|All of this has been foreseen. The essence is with me.{C09}
+1099b44|All that to beat a single POKéMON? Two more just as strong or stronger await.{C09}
+1099b98|Wait. Why isn't the ORIGINAL DRAGON immune to mortals like you?!{C09}
+1099be4|Well, well… You beat overwhelming power, but you can't beat infinite power.{C09}
+1099c38|Never in history has anyone gathered such a cast of LEGENDARIES. My weakest POKéMON far surpasses your strongest. Crushing you will be a mere consequence of that insurmountable gap.{C09}
+1099d0c|It's far easier to follow established rules, accept other people's truths and walk paths already laid out, but all that ease comes at a price: your soul.{C09}
+1099db0|To live in peace, virtue in itself is enough.{C09}
+1099dec|Happiness is your enemy. It weakens you, makes you doubt. You have something to lose.{C09}
+1099e48|You're not who you used to be. How could you be?{C09}
+1099e7c|What makes a legend? The things someone did in life? Or the way they're remembered after death?{C09}
+1099ef0|Will is a reason for being, but the will has no reason for being.{C09}
+1099f3c|They can push me to my limit, but they'll never break me. Never!{C09}
+1099f84|Hmm… Not bad at all, actually.{C09}
+1099fa8|Do you truly think{C0819}…{C0819} you can change your fate?{C09}
+1099fe4|We battle to prove to ourselves that we were capable of giving our all. The rest is just an excuse.{C09}
+109a054|Ho ho ho! This looks promising! JOHTO's watching!{C09}
+109a08c|If we want to understand the future, we must give greater weight to the things that have survived the test of time.{C09}
+109a118|Ever higher, ever harder challenges{C0819}…{C0819} but faith and hope still intact.{C09}
+109a170|Close your eyes and remember our first battle{C0819}…{C0819} Now open them and see where we are.{C09}
+109a1d0|No… Not yet{C0819}…{C0819} I won't surrender without making a bit more noise!{C09}
+109a21c|Come on{C0819}…{C0819} We're surrounded by champions, by history{C0819}…{C0819} Give it your all!{C09}
+109a278|Why so serious? After the meeting, we're hitting the GOLDENROD GAME CORNER!{C09}
+109a2cc|No! It's not over yet! I know I've got one last dance in me!{C09}
+109a318|Hard work doesn't always bear fruit, but it's always rewarding.{C09}
+109a35c|Steel is nothing without the will of its wielder.{C09}
+109a398|Wanting isn't always enough, but to be able, you must always want.{C09}
+109a3e0|Hey, easy! With attacks like that, you'll end up sinking the ship!{C09}
+109a428|Experience is a dim lamp that only lights the one who carries it.{C09}
+109a478|Doesn't it discourage you, knowing you face a ceiling far higher than yours?{C09}
+109a4c8|Well… Who'd have thought that within these four walls I'd find the battle I never got in a whole city like GOLDENROD.{C09}
+109a548|Whoever finds satisfaction in solitude is either a wild beast or a god.{C09}
+109a59c|The modern world has turned pleasant activities, like crafting BALLs, into automated "work."{C09}
+109a604|You don't become truly free just by avoiding being a slave; you must also avoid becoming a master.{C09}
+109a66c|Hmm… You're an oddity, yes… A useful one, at that.{C09}
+109a6a4|At last it comes, borne on the wind's wings.{C09}
+109a6d8|A newborn bird flies not because of its wings, but its undying desire to fly.{C09}
+109a734|Don't fight for power, but for virtue.{C09}
+109a764|The more you understand, the more you realize how limited everything is. Routine, human relationships, even great achievements lose their shine when you overanalyze them.{C09}
+109a81c|Limits are limits. You can't transform the immutable. You can't open a door that simply doesn't exist.{C09}
+109a898|Willpower and mastery have a limit, kid. Technology{C0819}…{C0819} doesn't.{C09}
+109a8e8|Most TRAINERS are like dice. They roll themselves to decide their lives.{C09}
+109a948|Tell me, which do you prefer? The fleeting noise of applause, or the solidity of a legacy built in silence?{C09}
+109a9b8|Power isn't in reacting, it's in deciding when and how to act.{C09}
+109aa00|Pay attention to just one thing: the price you sell your free will for. If nothing else, man, don't sell it cheap.{C09}
+109aa7c|These days, talent and passion aren't enough to shine. The reason{C0819}…{C0819} is right in front of you.{C09}
+109aae8|Oh! How very inconvenient!{C09}
+109ab08|Fate sends us no heralds. It's too wise, or too cruel, for that.{C09}
+109ab60|True power lies not in what you show, but in what you hide.{C09}
+109abb4|The essence blesses you not only when it gives, but when it takes away.{C09}
+109ac00|You're the CHAMPION, but things are changing fast. Don't get comfy!{C09}
+109ac4c|Avoiding small mistakes makes the big ones even worse.{C09}
+109ac90|Time flies. Yesterday's fragile ZUBAT is today's daring CROBAT. Could this be the end of the road?{C09}
+109acfc|That's it! I knew I hadn't reached my limit!{C09}
+109ad30|Phew{C080F}…{C080F} You've set the bar way too high, huh?{C09}
+109ad70|Whoa! What a hellish pace! Is this how KANTO's CHAMPION attacks?{C09}
+109adb8|This prototype finished development in secret just a week ago. There's no way you've seen it before!{C09}
+109ae24|Bah. If you wanted to see my collection again, you could've just asked. Look! It's even fancier than last time!{C09}
+109ae98|This POKéMON is what I've fought for all these years. It can't possibly be defeated!{C09}
+109aef0|Come on… Beat one more… Make me use GROUDON!{C09}
+109af2c|Bwahaha! Time to unleash the ancient power!{C09}
+109af64|Get ready to see the biggest fish in the seven seas!{C09}
+109afa4|I might need a bit more than 50% to see that limit.{C09}
+109afe0|Not bad… I'm curious to see where your limit lies.{C09}
+109b018|About time the young ones woke up, but the old guard's still going strong!{C09}
+109b068|Choose to serve what you love, not to be a slave to what you fear.{C09}
+109b0b0|This'll be so much fun, I already dread it ending.{C09}
+109b0ec|Where do you get that energy?! {C080F}…{C080F} …{C080F} Whatever. Execute!{C09}
+109b130|Still thrashing about? Good. You'll suffer slowly before you lose.{C09}
+109b17c|You're the first in ARCHI7 to force me to use this POKéMON.{C09}
+109b1c8|That move is inefficient, but effective.{C09}
+109b1f8|No ROCKET will rob me of my glory! My legacy will last 1,000 years!!{C09}
+109b244|In such a hurry to lose? So be it. Face the sacred!{C09}
+109b28c|Hmmm… I thought those moves weren't available in KANTO.{C09}
+109b2cc|You have the talent, but not the tools.{C09}
+109b300|In this world, kindness without strength is irrelevant.{C09}
+109b33c|I've spent 40 years beating impetuous youngsters who crumble at the slightest difficulty.{C09}
+109b398|This POKéMON has survived hellish training. Nothing you can do to it will top that.{C09}
+109b3f8|A weight is never light because it's light. It's light because you can lift it.{C09}
+109b44c|If you battle not to lose, fear freezes you, and you'll never win.{C09}
+109b49c|Brace yourself. A long, icy battle awaits.{C09}
+109b4d0|I always prepare for the worst, but I hope the ELITE FOUR aren't as strong as you.{C09}
+109b52c|I'm going to make the most of this battle. Only then can I enter the LEAGUE with a clear conscience.{C09}
+109b598|It can't be! I've only seen skill like that in… RED.{C09}
+109b5d0|You look sharp… I'll be careful this time.{C09}
+109b5fc|Giving up isn't just an act of weakness, it's an act of betrayal. Betrayal of yourself, your potential and everything you could be.{C09}
+109b684|The world is immune to your emotions. It responds only to your actions.{C09}
+109b6d0|Get ready. This is the strongest WEEZING you'll see in KANTO. Even KOGA's!{C09}
+109b724|Drat! The ASSAULT VEST didn't work!{C09}
+109b754|Looks like you're going to be part of our glorious plans…{C09}
+109b794|That move is better than a ROCKET EXECUTIVE's.{C09}
+109b7cc|I've still got fuel left!{C09}
+109b7ec|Waaah! Everything's ready to burn!{C09}
+109b814|Ignorance of future evils is more useful than knowledge of them.{C09}
+109b85c|Why are your moves so hard to read?{C09}
+109b88c|Heh heh… This was my ace in the hole all along!{C09}
+109b8c8|Wahahaha! Wait till you see my next trap!{C09}
+109b8f8|What, trying to corner me?{C09}
+109b91c|Don't hold back one bit! Hit me with all you've got!{C09}
+109b958|Dammit! Are you really going to make me activate plan C?!{C09}
+109b99c|I've changed my plan of attack, ROCKET. Get ready!{C09}
+109b9d4|Why won't you go down?! You must be exhausted!{C09}
+109ba04|Hey, you! You'll suffer with me!{C09}
+109ba28|I see you're not the type who just shows up to cause trouble.{C09}
+109ba68|You're not half bad, huh?{C09}
+109ba84|This is when willpower and determination are put to the test. Let's go!{C09}
+109bad0|Ha ha ha… That tickles!{C09}
+109baf4|I may not be the best TRAINER, but I don't need to be with the latest tech on my side.{C09}
+109bb50|What are you doing? Commoners like you don't deserve to lay hands on the sacred!{C09}
+109bba8|You'll see what a well-trained starter from old KANTO can do.{C09}
+109bbf4|Discipline, order and patience: the pillars of SILPH.{C09}
+109bc34|My GOLBAT isn't ARTICUNO or ZAPDOS, but it doesn't need to be to shine.{C09}
+109bc80|So this is the team that beat two LEGENDARIES… I still see mortal POKéMON that can fall like any other.{C09}
+109bcf8|This one POKéMON is more than enough to finish you off!{C09}
+109bd34|No pain, no gain.{C09}
+109bd50|Oh! Look at this disaster! You're making a mess of the LABORATORY!{C09}
+109bda0|Thanks to you, I'm going to miss teatime!{C09}
+109bdd0|No! Not again!{C09}
+109bde8|Hmph… No big deal. You're still light-years from RED.{C09}
+109be24|People want to experience danger, but always from a safe distance. I'm not afraid: if you hesitate, you lose.{C09}
+109bea0|You've grown a lot in a short time. But don't worry, I've saved some surprises for you.{C09}
+109bf00|Grrr… What a waste of time!{C09}
+109bf24|The DEEP BASE isn't for everyone, and it might not be for you.{C09}
+109bf68|Whichever way you lean, you make yourself a slave, you submit, you bow to hindrances and coercion.{C09}
+109bfd4|What doesn't depend on free will can be neither evil nor good by nature.{C09}
+109c028|The best pillow is a clear conscience.{C09}
+109c05c|Will you really sell your soul for a seat at the table of the mediocre?{C09}
+109c0ac|Wait! You're no ordinary SENIOR GRUNT either! You're at an EXECUTIVE's level!{C09}
+109c100|You're no ordinary ROCKET. A SENIOR GRUNT? That's not enough to beat me!{C09}
+109c14c|I remember how you beat me last time. That won't work on me this time!{C09}
+109c198|Hah! I knew you'd make that move!{C09}
+109c1c4|It's too late to back out now. If I'm going down, I'm taking you with me!{C09}
+109c218|So you're serious… Let's see if you can keep up with my cruising speed.{C09}
+109c264|Ha ha ha… Go on, get cocky… and you're history!{C09}
+109c298|Very well. Let's see if you're any good.{C09}
+109c2c4|All POKéMON are equal, except for mine.{C09}
+109c300|Ha ha ha… Watch this. I bet you've never seen this POKéMON in your life!{C09}
+109c34c|You'll see the difference between a SENIOR GRUNT and a lowly GRUNT who'll spend his life digging up FOSSILS.{C09}
+109c3bc|Is that all? Now I get why you lost!{C09}
+109c3f0|Don't think my hand will shake. Now the real battle begins!{C09}
+109c440|Clearly, you're not just another TRAINER. But… neither am I!{C09}
+109c480|This POKéMON alone is worth more than your team. You can't win!{C09}
+109c4c8|Oh…\nHow dare you?!{C09}

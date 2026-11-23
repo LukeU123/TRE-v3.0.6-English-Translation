@@ -22,7 +22,7 @@
 42a8fb|{C1951}Hey, easy there!
 42a90e|{C1951}Now it's just you and me, {V01}.\nHee hee hee.
 42a939|{C1951}That ANDRA is so boring, always\nobsessed with getting better.\pWouldn't you rather dance with me?
-42a9ab|{C1951}You could still catch AMATISTA.\pBut you'll have to dance with me,\nwhether you like it or not!
+42a9ab|{C1951}You could still catch AMETHYST.\pBut you'll have to dance with me,\nwhether you like it or not!
 42a9fa|Bah! How boring!
 42aa0f|{C1951}Hmm{C0819}…{C0819} facing such well-cared-for\nPOKéMON gets tedious in the end.
 42aa59|{C1951}Surprising, but{C080F}…{C080F} so dull.

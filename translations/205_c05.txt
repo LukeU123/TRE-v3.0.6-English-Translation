@@ -48,7 +48,7 @@
 27f27b|So you're the one who narrowly\nescaped a life sentence for\lrobbing BILL's house.\pIt's very stupid of you to push\nyour luck again.
 27f30e|This time we'll catch you.
 27f327|Your final destination is jail.
-27f346|All traitors to the new order\nwill be silenced!
+27f346|All traitors to the NEW ORDER\nwill be silenced!
 27f37d|You!
 27f382|TEAM ROCKET's days are\nnumbered!
 27f3ab|How sweet of you to come rescue\nyour partner, even though all\lyou'll achieve is keeping her\lcompany in the cell.
@@ -788,15 +788,15 @@
 28aa5d|I like going for walks. Every\nmorning I come here from\lAZALEA TOWN.\pI do it up to 3 times!
 28aabf|Ah…\nTo be young…{C0805}
 28aad3|It's rare to see young people\nlike you these days.\pDon't lose what makes you you!
-28ab2d|Everything I know about BUG types\nI owe to CESAR.\pI won't let you reach him\nthat easily!
+28ab2d|Everything I know about BUG types\nI owe to KURT.\pI won't let you reach him\nthat easily!
 28ab92|I've been exterminated!
 28aba7|The atmosphere in and around\nAZALEA TOWN is ideal for any\lBUG-type lover.
 28ac0f|HERACROSS is the best BUG type\nthere is.\pKnow why it's better than\nPINSIR?\pBecause HERACROSS is from JOHTO!
 28ac7c|No!\nI had HERACROSS with me!
 28ac9d|I was kidding. HERACROSS is really\ngood, but our LEADER has some\leven better BUG types.\pI once saw him train with a\nstrange form of PINSIR. The power\land speed of its attacks were\lscary and awe-inspiring, honestly…{C0805}
-28ad8a|You must be someone very special\nto have caught CESAR's\lattention.\pShow me your partners!
+28ad8a|You must be someone very special\nto have caught KURT's\lattention.\pShow me your partners!
 28adf1|Great battle, youngster. Great\nbattle.
-28ae13|Even though he's a bit younger\nthan me, I really respect CESAR.\pThis town wouldn't be the same\nwithout him.
+28ae13|Even though he's a bit younger\nthan me, I really respect KURT.\pThis town wouldn't be the same\nwithout him.
 28ae76|This forest has a life of its own.\nCan't you feel it?
 28aea5|No!\nYANMEGA couldn't cut it!
 28aec5|I'd like to visit VIRIDIAN\nFOREST.\pThey say it's even bigger\nthan ILEX FOREST!

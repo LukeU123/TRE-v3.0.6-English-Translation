@@ -147,7 +147,7 @@
 3431f9|Seriously?\pNo FISHERMAN, except my big\nbrother, has what I can\loffer you.\pThink it over!
 34329b|My POKéMON's ashes are kept in\nthe POKéMON TOWER.\pYou can have this TM. I don't\nneed it anymore{C0805}…{C0805}
 34331b|{V01} received TM27\nfrom the girl!
-343344|You don't realise the power of\nfriendship. Frustration won't get\lyou anywhere, trust me.
+343344|You don't realize the power of\nfriendship. Frustration won't get\lyou anywhere, trust me.
 3433a8|You looked through the binoculars…\pA man is fishing!
 3433e6|You looked through the binoculars…\pIt's the POKéMON TOWER!
 343424|One false move and you're under\narrest. Come on, make it easy!
@@ -181,7 +181,7 @@
 344e60|{C1908}About time, {V01}.\nI've been waiting for you.
 344e88|{C1908}I know I should be on my way\nto ONE ISLAND right now.\lBut between you and me, I'll\lfinish this mission way before\lthe rest of you.\pMy BLASTOISE is tailor-made for\nMOLTRES, even if it is a\lLEGENDARY{C080F}…{C080F}
 344f56|{C1908}It's ANDRA who should watch her\nstep: your GOLBAT can't do\lanything against a ZAPDOS.\lI hope the rest of her team\lcovers that weakness, and the\lstrategy they've planned works.
-345028|{C1908}My grandpa used to say a LEGENDARY\nwas an untouchable POKéMON, and\lthat it was unwise to tempt\lnature's favourite children.
+345028|{C1908}My grandpa used to say a LEGENDARY\nwas an untouchable POKéMON, and\lthat it was unwise to tempt\lnature's favorite children.
 3450ae|{C1908}"They form a world apart. Their\norigins differ from those of a\lcommon POKéMON, and their genes\lseem polished by the creator\lhimself, compared with the\lmediocrity that rules mortals."
 34518d|{C1908}What nonsense.\pWhat's the point of knowing\nincredible POKéMON exist if you're\lgoing to stay hidden, never\lfinding out what you and your\lteam can do against those\lso-called superior beings?
 34524c|{C1908}What better way to admire the\nBIRDS than to challenge them?\pIf they're so pure and sacred,\nthey won't mind if we make them\lsweat a little.\pRight?
@@ -197,8 +197,8 @@
 345c69|{C1906}But you even admit that\nyou understand their cause!
 345c98|{C1906}You haven't been in contact with\nthe ROCKET gang as well, have you?\lYou know that would mean your\limmediate removal as FUCHSIA's\lLEADER, right?
 345d2c|{C191D}You insult me, BRUNO.\pYou know as well as I do that my\nhighest concern has always been\lthe good of this region.
-345d9d|{C191D}I understand your position in the\nELITE FOUR has certain demands,\lbut it isn't my job to force a\lhandful of bikers to stop\lsympathising with TEAM ROCKET.
-345e55|{C1924}I don't think you understood\nme, KOGA.\pIt's not about whether they want\nto sympathise or not: anyone who\lshows the slightest hint of\ldealings with those criminals\lmust answer to the law.
+345d9d|{C191D}I understand your position in the\nELITE FOUR has certain demands,\lbut it isn't my job to force a\lhandful of bikers to stop\lsympathizing with TEAM ROCKET.
+345e55|{C1924}I don't think you understood\nme, KOGA.\pIt's not about whether they want\nto sympathize or not: anyone who\lshows the slightest hint of\ldealings with those criminals\lmust answer to the law.
 345f0f|{C1924}And as it happens, here in FUCHSIA\nis the main hotbed of rebels.\pBy doing nothing about it, you'll\nbe treated as guilty too, KOGA.
 345fad|{C191D}Don't do this to me, BRUNO{C080F}…{C080F}\pYou know that after AGATHA\nretires, you'll move up a rank in\lthe ELITE FOUR, and the open spot\lwill be mine.
 346040|{C1924}That's exactly what worries me.\pSomeone who shows such an\ninability to keep law and order\lin FUCHSIA shouldn't be part of\lKANTO's ELITE.
@@ -261,7 +261,7 @@
 3483ee|ROUTE 18\nCELADON CITY - FUCHSIA CITY
 348609|SEA ROUTE 19\nFUCHSIA CITY - SEAFOAM ISLANDS
 3486c0|-I should help KOGA and\nthen look for him on the outskirts\lof FUCHSIA-.
-348713|Lots of TRAINERS who specialise\nin the Water type hang out\laround here.\pThey say MISTY of CERULEAN CITY\ntrains here.
+348713|Lots of TRAINERS who specialize\nin the Water type hang out\laround here.\pThey say MISTY of CERULEAN CITY\ntrains here.
 34898a|SEAFOAM ISLANDS
 3489a0|SEAFOAM ISLANDS
 3489d6|-I'm not on holiday. No time to\nexplore KANTO, I've got more\limportant things to do-.
@@ -289,28 +289,28 @@
 3495a4|{C1908}I wish you luck, honestly.\pIf I wanted anyone to become\nCHAMPION and make RED bite the\ldust{C0819}…{C0819} that someone, apart from\lme, would be you.
 349639|{C1908}Oh!\pAnd one last thing!\pDon't even think about picking up\nany RARE CANDY you find.\pIt's mine!
 349892|{C1920}I told you clearly to stay in\nHOENN with your mother.\pDo you know the danger you're in\nif they find out who you are?
-34990c|{C1906}Who cares about that!\nHow could you?\pDisbanding the organisation you've\nfought for all these years!\pYou're the laughingstock of every\nnews outlet in KANTO!
+34990c|{C1906}Who cares about that!\nHow could you?\pDisbanding the organization you've\nfought for all these years!\pYou're the laughingstock of every\nnews outlet in KANTO!
 3499b3|{C1920}You're still too young, and you\ndon't deserve to be caught up in\lall this. My reasons for\ldisbanding are beyond your\lunderstanding of the world.\pOne day, when this is all over,\nyou'll have answers and you'll\lunderstand.\pYou have my word.
 349a96|{C1906}There's nothing to understand!\nYou failed, and that's that!\pYou got beaten and you gave up!
 349af1|{C1920}Sometimes it isn't as simple as\nwinning or losing. What has\lhappened serves a greater end.\lIt's impossible to understand if\lyou look at each event from the\loutside, like a mere spectator.\pBut taken as a whole{C0805}…{C0805}
 349bcb|{C1906}The best… You said you wanted to\nbe the best TRAINER in the world!
 349c10|{C1906}And now you're going to quit?\pSo what are you going to do?
 349c56|{C1920}A man who can't admit defeat\nis incapable of moving\lforward{C0805}…{C0805}
-349ca3|{C1920}I must be alone for a while so I\ncan build a more powerful\lorganisation.
-349d73|{C1920}A well-structured organisation\nwith enough manpower should be\lable to wield great power.
-349de6|{C1920}That is the purpose of an\norganisation.
+349ca3|{C1920}I must be alone for a while so I\ncan build a more powerful\lorganization.
+349d73|{C1920}A well-structured organization\nwith enough manpower should be\lable to wield great power.
+349de6|{C1920}That is the purpose of an\norganization.
 349e11|{C1920}I failed to make use of my\nsubordinates' potential{C0805}…{C0805}
 349e57|{C1920}I swear that one day I'll revive\nTEAM ROCKET!
 349e86|{C1906}I don't get all that meaningless\nbabble!
 349eb7|{C1906}None of your ravings make sense!
 349ede|{C1920}{C0819}…{C0819} You'll understand someday too.
 349f0f|{C1906}I'd rather not understand!
-349f2b|{C1906}I won't end up like you! Surrounded\nby miserable lackeys who join your\lorganisation to feel important,\lbecause on their own they're nobody.
+349f2b|{C1906}I won't end up like you! Surrounded\nby miserable lackeys who join your\lorganization to feel important,\lbecause on their own they're nobody.
 349fc4|{C1906}I'll be strong on my own, without\nanyone's help! All by myself!
 34a01a|{C1920}I hope so, SILVER. It's best for\nus both. Grow up far from this\lfarce, improve on your own.\pMeanwhile{C080F}…{C080F}\pI'll see to shaping the region you\nlive in as it should be{C0819}…{C0819} at\lany cost.
 34a24e|VICTORY GATE - POKéMON LEAGUE
 34a464|{C1907}So you made it too.\nIt wasn't easy, was it?\pThey told me what you did in the\nCELADON SEWERS…\pThat guy won the CHAMPIONSHIP\nthree times, and wow, you beat him!\pOnly GIOVANNI and OAK have won the\nLEAGUE more times in KANTO's\lrecent history!\pWithout that feat, we'd never have\nmade it here.\pIt's thanks to you that we can\ndream of the POKéMON LEAGUE.
-34a5d6|{C1907}Don't expect much from VICTORY ROAD.\pIts TRAINERS are only just strong\nenough to train on. The only\luseful thing I did there was\lrelease the MOLTRES that lived\lthere, before the CG DIRECTOR\lcould catch it.\pIn the end, you got to face all 3\nLEGENDARY BIRDS, huh, {V01}?\pHow does it feel?\p{C0819}…{C0819} …{C0819}\pSomeday I'll know too,\nyou'll see.\pBack to VICTORY ROAD, I think a\nlot of TRAINERS are only there\lbecause they bought their BADGES\lon the black market.
+34a5d6|{C1907}Don't expect much from VICTORY ROAD.\pIts TRAINERS are only just strong\nenough to train on. The only\luseful thing I did there was\lrelease the MOLTRES that lived\lthere, before the LEAGUE HQ DIRECTOR\lcould catch it.\pIn the end, you got to face all 3\nLEGENDARY BIRDS, huh, {V01}?\pHow does it feel?\p{C0819}…{C0819} …{C0819}\pSomeday I'll know too,\nyou'll see.\pBack to VICTORY ROAD, I think a\nlot of TRAINERS are only there\lbecause they bought their BADGES\lon the black market.
 34a7e7|{C1907}Funny, isn't it?\pThe ones going in there legally\nare us, of all people.
 34a843|{C1907}Still{C0819}…{C0819}\pI can prepare a bit more.\pIt's been tough, but my team is\nfinally complete. A few more\llevels and the ELITE FOUR won't\lbe able to beat me!
 34a8e2|{C1907}Tell me, {V01}.\pCould you beat them already?!
@@ -347,7 +347,7 @@
 34c339|{C190B}HEAD ADMIN {V01}!
 34c34c|{C190B}It's been a long time, but you've\nbecome TEAM ROCKET's greatest\llegend.\pHere on FIVE ISLAND, you're an\nidol.
 34c3c9|{C190B}As you can see, I've climbed the\nranks too. I'm now a ROCKET\lEXECUTIVE and ARCHER's right hand\lin Archi7.
-34c43e|{C190B}Forgive my forwardness, sir…\pIt would be a real honour to\nbattle you and make my POKéMON\leven stronger.
+34c43e|{C190B}Forgive my forwardness, sir…\pIt would be a real honor to\nbattle you and make my POKéMON\leven stronger.
 34c4ba|{C190B}Would you like to battle?
 34c4d4|{C190B}I understand.\pSomeone like you must have matters\nof great importance waiting.
 34c528|{C190B}I won't let you down, SIR!
@@ -355,8 +355,8 @@
 34c57d|{C190B}I won't forget this lesson, sir.\nPlease take this for your time.\lSomeone of your standing should\luse ULTRA BALLS at the very least.
 34c714|{V01} received 5 GREAT BALLS\nfrom the High-Ranking Rocket!
 34c755|{C190A}You've become a legend since you\nleft the island! Who'd have thought\lyou'd make ROCKET ADMIN by\ltoppling LANCE'S GOVERNMENT!
-34c7ea|{C190A}I've managed to move up in the\norganisation too. I'm HIGH RANK now!
-34c834|{C190A}Forgive my forwardness, sir.\pIt would be a real honour to\nbattle you and make my POKéMON\leven stronger.
+34c7ea|{C190A}I've managed to move up in the\norganization too. I'm HIGH RANK now!
+34c834|{C190A}Forgive my forwardness, sir.\pIt would be a real honor to\nbattle you and make my POKéMON\leven stronger.
 34c8b0|{C190A}Would you like to battle?
 34c8ca|{C190A}I understand.\pSomeone like you must have matters\nof great importance waiting.
 34c91e|{C190A}I won't let you down, SIR!
@@ -372,19 +372,19 @@
 34ce18|{C1908}Ah, {V01}.\pBack to your roots, huh?
 34ce42|{C1908}ARCHER's been filling me in on\neverything I can explore around\lthese islands. Archi7 is perfect\lfor a breather after everything\lthat went on at the POKéMON\lLEAGUE.
 34cef2|{C1908}Technically I'm the CHAMPION of the\nPOKéMON LEAGUE, but we both know\lwhat happened there was different.\lYou're the one who beat the best\lTRAINERS{C0819}…{C0819}and RED.
-34cfa1|{C1908}That's when I realised I only\nwanted to be CHAMPION to prove my\lworth to others, to be above RED\land come out as the better of the\ltwo.\pNot purely because I wanted it.
-34d054|{C1908}Now that I'm CHAMPION, I realise\nthis title is worthless.\pI'm only the best in the eyes of\nthe masses, but reality is very\ldifferent.
+34cfa1|{C1908}That's when I realized I only\nwanted to be CHAMPION to prove my\lworth to others, to be above RED\land come out as the better of the\ltwo.\pNot purely because I wanted it.
+34d054|{C1908}Now that I'm CHAMPION, I realize\nthis title is worthless.\pI'm only the best in the eyes of\nthe masses, but reality is very\ldifferent.
 34d0ea|{C1908}I've decided to take things easier\nfrom now on, and enjoy places like\lthis and their nature.{C0823}\pGIOVANNI has also offered me his\nGYM in VIRIDIAN CITY. After all,\lI think that's where I belong.
 34d1cd|{C1908}You, on the other hand, want to go\nfurther than anyone ever has,\lright? Explore other regions,\lpush past the limits around you{C080F}…{C080F}
 34d257|{C1908}ARCHER recommended a couple of\nspots for catching good POKéMON.\lMaybe it won't impress you after\lbattling LANCE, but{C080F}…{C080F}\pGrant me this battle!
 34d300|Well, at least I competed.
 34d31e|{C1908}Just as I expected, you've improved\neven more since then.\lBut I'm satisfied. I think I've\lreached the level RED was at when\lI last faced him, and with a bit\lmore training, I can surpass him.\lThat's the goal I'll chase,\lhumbly, as I go my own way.
-34d43d|{C1908}{V01}!\pEnjoy your well-earned\nholiday!\pI'm sure GIOVANNI will call on you\nto take part in TEAM ROCKET's\lbiggest projects! Maybe someday\lyour feats will be recognised by\lsociety, but I'm telling you, you\ldon't need that. What happened,\lhappened, whether the truth is\lknown by ten people or by a\lmillion.
+34d43d|{C1908}{V01}!\pEnjoy your well-earned\nholiday!\pI'm sure GIOVANNI will call on you\nto take part in TEAM ROCKET's\lbiggest projects! Maybe someday\lyour feats will be recognized by\lsociety, but I'm telling you, you\ldon't need that. What happened,\lhappened, whether the truth is\lknown by ten people or by a\lmillion.
 34d6c3|Even if you were to live 3,000\nyears, or ten times as many,\lremember always that no one loses\lany life but the one he lives, nor\llives any but the one he loses.
 34d766|And so the longest life and the\nshortest come to the same thing.\lThe present moment is the same\lfor all, so what is lost is the\lsame too, and what is lost turns\lout to be a mere instant.
 34d82f|For no one can lose either the\npast or the future: how could\lanyone take from us what we do\lnot have?
 34d9bd|Hmm, I see. Doesn't seem like a\nvery friendly guy, honestly.
-34da00|Here lies my ONIX, TECTONIX.\nI built this place in his honour,\lso everyone remembers his name.
+34da00|Here lies my ONIX, TECTONIX.\nI built this place in his honor,\lso everyone remembers his name.
 34db2f|TECTONIX loved lemonade. I'd love\nto leave some here as a\ltribute.
 34db88|But they stopped selling it in\nArchi7 a long time ago.
 34dbbc|There is a cook, though… He often\nstops by the island's POKéMON\lCENTER.
@@ -492,9 +492,9 @@
 351b8c|ROUTE 33\nWest to AZALEA TOWN
 351bce|The old couple who run the\nDAY-CARE are on holiday. They say\lthey won't be back until KANTO-\lJOHTO relations are sorted out.
 351c5d|Fewer and fewer fish are biting\naround here!\pAll the water POKéMON are\navoiding GOLDENROD like the\lplague!
-351ce5|GOLDENROD CITY is unrecognisable.\nModern life has taken it over!
+351ce5|GOLDENROD CITY is unrecognizable.\nModern life has taken it over!
 351e2f|ROUTE 34\nGOLDENROD CITY-AZALEA TOWN\lILEX FOREST in between.
-351e75|TRAINER TIPS\nBERRIES on trees grow back\levery so often. Keep an eye out\lto pick your favourites!
+351e75|TRAINER TIPS\nBERRIES on trees grow back\levery so often. Keep an eye out\lto pick your favorites!
 351efa|DAY-CARE\nLet us raise your POKéMON for\lyou!
 351f4b|The GOLDENROD POLICE often train\non this route.\pThose ARCANINE from KANTO are\nreally intimidating!
 351fb1|Do you know where I could find a\nMAGMAR?\lRelax!\lI'm not going to burn down the\lNATIONAL PARK!
@@ -507,11 +507,11 @@
 3523f8|…{C080F}\n…{C080F}\p{C080F}-It's a POKéMON. It seems to\nbe resting-.
 352437|ROUTE 36\nEast to VIOLET CITY
 3524ef|{C1920}Great work, {V01}.\pThe balance and 665 BASE STAT\ntotal of that KINGDRA-& amazes\lall our scientists. Did you know\l4 of its 6 STATS have a base of\l120?\pThe JOHTO beasts you faced only\nhad two base 115s as their best\lSTATS.
-3525f5|{C1920}Now that you've seen GOLDENROD\nCITY, I imagine ECRUTEAK CITY is\lyour next destination.\pUse the chance to look into the\nlegendary HO-OH. Meanwhile, the\lgreat meeting at the RADIO TOWER\lis now a reality. The question is\lwhen it will take place.\pAs one of TEAM ROCKET's pillars,\nyou'll have the honour of\lattending. Your presence will be\lrequired at the RADIO TOWER in\ldue course{C0805}…{C0805}
+3525f5|{C1920}Now that you've seen GOLDENROD\nCITY, I imagine ECRUTEAK CITY is\lyour next destination.\pUse the chance to look into the\nlegendary HO-OH. Meanwhile, the\lgreat meeting at the RADIO TOWER\lis now a reality. The question is\lwhen it will take place.\pAs one of TEAM ROCKET's pillars,\nyou'll have the honor of\lattending. Your presence will be\lrequired at the RADIO TOWER in\ldue course{C0805}…{C0805}
 3527e9|ROUTE 37
 3527fa|…{C080F}\n…{C080F}\p{C080F}-It's a POKéMON. It seems to\nbe resting-.
-352853|DODRIO is my favourite bird. I\nlove how it attacks without any\lfear, never looking back. Its\lATTACK-SPEED combo is unique\lamong birds.
-3528ef|The behaviour of wild TAUROS and\nMILTANK is fascinating.
+352853|DODRIO is my favorite bird. I\nlove how it attacks without any\lfear, never looking back. Its\lATTACK-SPEED combo is unique\lamong birds.
+3528ef|The behavior of wild TAUROS and\nMILTANK is fascinating.
 3529d6|Remember!\nTAUROS hits harder, but\lMILTANK is tougher!
 352a22|ROUTE 38\nOLIVINE CITY - ECRUTEAK CITY
 352a68|From here you can already see\nOLIVINE CITY's LIGHTHOUSE, but the\lBELL TOWER is still more\limpressive!

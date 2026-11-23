@@ -5,7 +5,7 @@
 
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
-**Status:** about 24,000 strings translated, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
+**Status:** about 25,700 strings translated, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
 **Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
 
 ## Progress
@@ -22,16 +22,18 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 ### In progress
 - [x] Chunks c19–c22, c24 and c25
 - [x] Speaker name boxes, ability names, the title menu and the recruit lines
-- [ ] Chunks c23 and c26 (partly translated, see `chunk_status.txt`)
+- [x] Chunks c23 and c26–c31
+- [x] Chunk c36 (Pokédex entries)
+- [x] Consistency pass, round 1 (KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling)
+- [x] Redo of the mid-sentence strings (23 of 27; the rest are fragments or species names)
 - [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
 
 ### To do
-- [ ] Chunks c27–c32: the rest of the story
-- [ ] Chunks c36–c38: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
+- [ ] Chunk c32: the last story chunk
+- [ ] Chunks c37–c38: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
 - [ ] Any other strings the extractor missed (found during playtesting)
-- [ ] 27 strings to retranslate as full sentences (their pointers start mid-sentence)
 - [ ] Check the fast-forward stutter (it didn't happen on a later run). The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
-- [ ] Consistency pass over names and terms that differ between chunks (`REVIEW_NOTES.md`), using US spelling throughout
+- [ ] Final consistency pass (`REVIEW_NOTES.md`)
 - [ ] Full playtest
 - [ ] Out of scope for now: text drawn as graphics (naming-screen buttons, type icons)
 

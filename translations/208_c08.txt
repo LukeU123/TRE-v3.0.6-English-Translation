@@ -1,13 +1,13 @@
-2af433|Your organisation has shown me how\nthings work around here, so now\lI'll be part of your private\lmarket.
+2af433|Your organization has shown me how\nthings work around here, so now\lI'll be part of your private\lmarket.
 2af4a4|It's what I wanted in the end, because…\neven if any TRAINER could pay for\lmy precious POKéMON EGGS, I won't\llet just anyone get their hands on them.
 2af539|You've proven you deserve my\nfinest pieces!
 2af568|So, tell me, which POKéMON EGG\nwould you like to buy?
 2af602|-I can get into the SEWERS from here-.
 2af62b|-Get into?-
-2af67d|All right.\pRemember, I'll keep travelling, and in\ntime I'll bring even rarer EGGS,\lso don't forget to drop by every\lnow and then!
+2af67d|All right.\pRemember, I'll keep traveling, and in\ntime I'll bring even rarer EGGS,\lso don't forget to drop by every\lnow and then!
 2af717|My father is the GYM LEADER\nof this city.\lI'm training to use\lPOISON-type POKéMON just\llike he does.
 2af798|Leave me alone, ROCKET. I'm not\nhere to meet you.
-2af7d2|The SAFARI ZONE is open to the\npublic. Too bad you and your\lorganisation don't count as\lthe public.
+2af7d2|The SAFARI ZONE is open to the\npublic. Too bad you and your\lorganization don't count as\lthe public.
 2af846|Aghh!\nSo you've come to join the\lFUCHSIA BIKERS!
 2af894|ROCKETS like you will never\nget into the SAFARI ZONE!\p…\p…\pWhat? You don't need to, because\nyou already caught a KANGASKHAN\lin ROCK TUNNEL?\pNot just a thief, but a liar too!\pIt was proven that the KANGASKHAN\nthere was just a hoax!
 2af98a|FUCHSIA CITY POKéMON GYM\nLEADER: JANINE\lThe Poisonous Ninja Master.
@@ -91,10 +91,10 @@
 2b21b5|{C1926}Despite the progress of recent\nmonths, much work remains before\lwe open up to the rest of the world.\lARCHI7, HOENN{C080F},{C080F} JOHTO{C0819}…{C0819} they\lcan wait. But you needn't worry:\lSILPH is more than capable of\lsupplying all of KANTO.
 2b22aa|{C1926}That is why I am granting it full\ncontrol over TRAINER goods. All of\lthem will come from its HQ in\lSAFFRON and will mostly be sold at\lthe CELADON DEPT. STORE. Small\lbusinesses that could compete with\lit are strictly prohibited, as\lthey interfere with the general\linterest of the region.
 2b23f5|{C1926}Furthermore, word has reached me of\na certain criminal gang calling\litself -TEAM ROCKET-. Its presence\lgrows ever more noticeable, and its\lcrimes do nothing but hold back the\lregion's progress.
-2b24c7|{C1926}As if that weren't enough, part of\nthe population even supports them.\lThe full weight of the law will fall\lequally on those who help them,\lsympathise with them, or withhold\lany information about this gang.
+2b24c7|{C1926}As if that weren't enough, part of\nthe population even supports them.\lThe full weight of the law will fall\lequally on those who help them,\lsympathize with them, or withhold\lany information about this gang.
 2b259a|{C1926}From now on, every shop in the\nregion is closed to any ROCKET.\lAnyone who dares to sell them goods,\lprovide them with resources or\lengage in any kind of economic\ldealings with TEAM ROCKET will be\lseverely punished.
 2b269b|{C1926}And believe me, if it weren't for\nthe nurses' moral code, I wouldn't\lthink twice about banning them from\levery POKéMON CENTER as well.
-2b272f|{C1926}On the other hand, anyone who\nprovides us with information, or\leven captures members of the\lorganisation by their own means,\lwill be rewarded.
+2b272f|{C1926}On the other hand, anyone who\nprovides us with information, or\leven captures members of the\lorganization by their own means,\lwill be rewarded.
 2b27cb|{C1926}Should the -TEAM ROCKET- problem\npersist, the ELITE FOUR themselves,\lwith LANCE at their head, will be\lforced to step in, and they will\lshow the insurgents no mercy.
 2b2873|{C1926}That is all. If we all pull in the\nsame direction, this region can\lregain its former glory{C0819}…{C0819} within a\lfew years.
 2b2999|Oh!\nWeren't you lot gone already?
@@ -104,7 +104,7 @@
 2b2a95|Don't worry, EXECUTIVE {V01}!\nNobody will leave this GYM to\lhelp SILPH while I'm\lhere!
 2b2b07|From my PIDGEOT, I saw your BOSS\nflee SILPH in disgrace after\lyour failure.\lYou're finished!
 2b2b7d|You've failed, ROCKETS!\nI can't wait to see the moment\lLANCE deals you the final\lblow!
-2b2bee|You really beat BRUNO of the\nELITE FOUR?\lIt's an honour to work for you,\lsir!
+2b2bee|You really beat BRUNO of the\nELITE FOUR?\lIt's an honor to work for you,\lsir!
 2b2c4e|At your command, EXECUTIVE {V01}!\nEverything's under control here!
 2b2c93|I saw your BOSS flee SILPH\nin disgrace.\lYou're finished!
 2b2ce4|The ELITE FOUR will put every\nlast one of you in your place!
@@ -119,7 +119,7 @@
 2b30d8|FIGHTING DOJO
 2b30ed|SAFFRON CITY POKéMON GYM\nLEADER: SABRINA\lThe Master of PSYCHIC\lPOKéMON!
 2b3146|TRAINER FAN CLUB\nMany TRAINERS have written\ltheir names on this sign.
-2b31a9|TIPS, SKILLS AND\nREQUIREMENTS FOR SURVIVING\lIN THE CITY:\p-Minimum required working hours:\n10 hours a day, 5 days a\lweek.\p-$150,000 per resident per month\ninvested in R&D.\p- Be a TRAINER far above\naverage (in the top 10%).\p- A constant drive for improvement,\nself-fulfilment, performance\loptimisation and loyalty to\lSILPH.
+2b31a9|TIPS, SKILLS AND\nREQUIREMENTS FOR SURVIVING\lIN THE CITY:\p-Minimum required working hours:\n10 hours a day, 5 days a\lweek.\p-$150,000 per resident per month\ninvested in R&D.\p- Be a TRAINER far above\naverage (in the top 10%).\p- A constant drive for improvement,\nself-fulfilment, performance\loptimization and loyalty to\lSILPH.
 2b3558|{C1917}Good, we're all here. The\ninvasion of SILPH can begin.
 2b359b|{C1917}From what we've been able to find\nout, the PRESIDENT is in the office\lon 11F, protected by his personal\lguards. What's more, it's impossible\lto get there just by taking the\lelevator; we'll have to use the\lwarp tiles.
 2b3674|{C1917}On top of that, we can only get\ninto his office if we obtain the\lCARD KEY, which is needed to\lopen his door.
@@ -190,7 +190,7 @@
 2b5b5e|{C1906}Blast it, where could they have\nput them{C0805}…{C0805}
 2b5b8c|{C1906}You don't seem to be from around\nhere. Nor do you seem to be an\lordinary TRAINER, though that\lmatters little.\pAll TRAINERS and their POKéMON\nare equal before the creator.
 2b5c3c|{C1906}I'm on the trail of two dangerous\ncriminals. Someone very wise sealed\laway 2 ANCIENT POKéMON on these\lislands.\pTwo POKéMON with the power to make\nthe world tremble and change its\lclimate.
-2b5d13|{C1906}These 2 POKéMON sleep somewhere,\nsealed away and far from civilisation,\lwithin the territory of ARCHI7.
+2b5d13|{C1906}These 2 POKéMON sleep somewhere,\nsealed away and far from civilization,\lwithin the territory of ARCHI7.
 2b5d88|{C1906}I came here because of a legend\nabout this cave, about a powerful\lICE-type POKéMON.\pBut all I could find were wild\nLAPRAS, and there doesn't seem to\lbe anything more interesting.
 2b5e4b|{C1906}My next destination is ALTERING CAVE.\nIt's north of SIX ISLAND. There are\lfootprints there that could match\lthose of an ANCIENT POKéMON.
 2b5ee4|{C1906}I must find those POKéMON before\nthose fanatics do.\pNow that they know how to wake them,\nI can't allow that to happen.
@@ -209,10 +209,10 @@
 2b66e6|{V01} showed GLASTRIER\nto the OLD WOMAN!
 2b670c|You received TM85 AVALANCHE\nfrom the OLD WOMAN!
 2b6797|This rock is almost completely sunk.\nIf you're careful, you might be able\lto cross it. Want to try?
-2b6857|As a ROCKET GRUNT, you should\nknow that QWILFISH and TENTACOOL\lare two WATER/POISON-type POKéMON\lthat could serve you really well,\lwhile also fitting the image of\lthe organisation. Make the most of\lthese waters to catch them.
+2b6857|As a ROCKET GRUNT, you should\nknow that QWILFISH and TENTACOOL\lare two WATER/POISON-type POKéMON\lthat could serve you really well,\lwhile also fitting the image of\lthe organization. Make the most of\lthese waters to catch them.
 2b694e|I really don't like the new consul\nof FIVE ISLAND. She put her house\lright in the middle of RESORT\lGORGEOUS. We used to play there in\lpeace, but since she arrived it's\lbeen off-limits.
 2b6a08|This island is seen as a bridge,\na passage between the old\land the new. Maybe someday\lyou'll find out why.
-2b6a8d|We already do enough by honouring\nthe contract ARCHER made us sign to\lferry certain ROCKETS to KANTO\lfrom time to time.\lI don't want to see you trying\lanything funny outside your\lassigned schedules!
+2b6a8d|We already do enough by honoring\nthe contract ARCHER made us sign to\lferry certain ROCKETS to KANTO\lfrom time to time.\lI don't want to see you trying\lanything funny outside your\lassigned schedules!
 2b6b6a|FIVE ISLAND\nChrono Island: Where Time\lGoes By.
 2b6bbc|-I can't leave the WAREHOUSE\nwithout knowing what ARCHER\lwants from me-.
 2b6c33|Come on, they're all waiting!\nDon't make us waste any more\ltime!
@@ -227,11 +227,11 @@
 2b70e8|Up for a battle?
 2b70ff|The CHOICE SCARF boosts the SPEED\nof the POKéMON holding it by 50%,\lbut only lets it use a single\lmove.\pIt's great for striking before\nanyone else, and it can even give\lslow POKéMON like MACHAMP a\lchance at a good SPEED stat.
 2b7212|I expected nothing less from you.\nLet's go!
-2b7233|You've smashed through all my\ndefences!
+2b7233|You've smashed through all my\ndefenses!
 2b7257|You've got what it takes.\pI'm surprised I haven't seen you\nin tournaments like the POKéMON\lLEAGUE. You could be a top TRAINER…\pHere's something to give\nyou an edge.
 2b72f7|Seems I misjudged you. I thought\nyou had more guts than that.
 2b768a|{C1907}I've been to the ruins next to\nthis island, but I couldn't\lfind anything interesting.\pHowever, this{C0805}…{C0805}
-2b770a|{C1907}When I arrived there was nothing, but\nwhen I stood in the centre, the stone\linside the flask we stole started\lto glow, and this strange triangle\lappeared.
+2b770a|{C1907}When I arrived there was nothing, but\nwhen I stood in the center, the stone\linside the flask we stole started\lto glow, and this strange triangle\lappeared.
 2b77b1|{C1907}That stone broke the flask, shot\nout towards the triangle, and was\labsorbed into it.
 2b7814|{C1907}The CAPTAIN said it belonged to\nsome POKéMON with LEGENDARY and\lPSEUDO-LEGENDARY traits.\pCould this strange object contain\nthat POKéMON?\pWhat POKéMON could it be?
 2b78b9|{C1906}It's DEOXYS, girl.\nA space virus with a genetic makeup\lthat's impossible to replicate\lanywhere on the planet.
@@ -253,7 +253,7 @@
 2b7e97|Ouch!\nI tripped over a rocky POKéMON,\la GEODUDE!
 2b7ed6|If it weren't for being banned from\nPOKéMON GYMS, I might even consider\lbecoming a ROCKET GRUNT. That\lcriminal life outside the law\lalways appealed to me,\lbut I'd rather challenge BROCK!
 2b7fbc|Remember!\nSteady, constant, controlled power\lthat keeps wearing down the foe\lbeats power without control\lany day!
-2b8048|Half measures are useless. If you\nwant to knock out your foe, do it\lwith raw, uncontrolled power. It's\lthe only way to catch them off\lguard and crack their defences\lbefore they have time to\lrecover.
+2b8048|Half measures are useless. If you\nwant to knock out your foe, do it\lwith raw, uncontrolled power. It's\lthe only way to catch them off\lguard and crack their defenses\lbefore they have time to\lrecover.
 2b814e|MT. MOON\nTunnel Entrance
 2b8171|ROUTE 4\nMT. MOON - CERULEAN CITY
 2b82c7|What do you want, ROCKET?\n{C080F}…{C080F}\l{C080F}…{C080F}\lMEGA PUNCH and MEGA KICK?\lSure, we're experts in those\lmoves. Nothing like a good kick\lto OHKO your foe, don't you\lthink?
@@ -284,13 +284,13 @@
 2b92c4|{C1907}The thing is, that place is\nhiding something. I sensed a\lvery powerful presence inside,\la being able to generate almost\linfinite energy. Could there be\lan ELECTRIC POKéMON like that?\pIf only I'd been able to go\na little deeper{C0805}…{C0805}
 2b93c2|{C1907}We could suggest a raid on the\nPOWER PLANT to GIOVANNI, in due\ltime of course. First we'll have\lto show him what we're worth.\pBut{C080F}…{C080F} a POKéMON with that presence\nmust be very strong. Maybe our\lsuperiors in KANTO know more.
 2b94ba|{C1907}Now that I think about it, it's\nbeen quite a while since our last\lbattle. No doubt you've exceeded\lexpectations, beating our superior\lin MT. MOON, BILL, and then an\lexperienced CAPTAIN like the one\lon the S.S. ANNE.
-2b95aa|{C1907}But{C0819}…{C0819} you know what?\nI haven't fallen behind, {V01}.\pI told you I'd be the strongest\nROCKET in the whole organisation,\land I stand by it. We're both\lHIGH-RANKING GRUNTS now, so the\lquestion is{C080F}…{C080F}\pWhich HIGH-RANKER is the\nbetter TRAINER?!
+2b95aa|{C1907}But{C0819}…{C0819} you know what?\nI haven't fallen behind, {V01}.\pI told you I'd be the strongest\nROCKET in the whole organization,\land I stand by it. We're both\lHIGH-RANKING GRUNTS now, so the\lquestion is{C080F}…{C080F}\pWhich HIGH-RANKER is the\nbetter TRAINER?!
 2b9690|So it's still not enough.\nHeh heh, thanks for raising\lthe bar.
 2b96d9|{C1907}I wouldn't want you as an\nenemy, {V01}. I still don't get\lhow that mysterious TRAINER\ldressed in red could beat you in\lMT. MOON. He must be a real\lbattle prodigy.
 2b9798|{C1907}Anyway, it doesn't matter. That\nguy doesn't know who he's messing\lwith. Now that they're moving us\lto CELADON, we'll make a name for\lourselves among the elite.
 2b9821|{C1907}That poor kid will wish he'd\nnever messed with us\lin MT. MOON!
 2b986b|{C1907}Bah, I'm heading back to the HQ.\pThe teleporter should be almost\nready. Finish your preparations\land don't be late:\pCELADON CITY AWAITS!
-2b9973|Looks like people are already\nexploring the cave looking for\lthat KANGASKHAN. The rumour\lspread like wildfire.\pLet's hurry before someone\nelse catches it!
+2b9973|Looks like people are already\nexploring the cave looking for\lthat KANGASKHAN. The rumor\lspread like wildfire.\pLet's hurry before someone\nelse catches it!
 2b9a2e|We've already built the base of\nthe town. Now comes the hardest\lpart. We're counting on OAK to\lhelp us with the AI.
 2b9aa8|And in less than 3 years, it'll all\nbe ready to start THE TRUMAN SHOW!\pOh, sorry!\pI shouldn't have said that!
 2b9c23|{C1935}The borders have barely opened and\nthis area is already full of\lsightseers, all trying to be the\lfirst to visit ROUTES 26 and 27.\pBoth have been kept away from\nhuman contact for years, apart\lfrom the few people who already\llived there{C0805}…{C0805}
@@ -331,14 +331,14 @@
 2bb323|You received a PIDGEOTITE\nfrom the TRAINER!
 2bb36b|{C1936}They say the BIRD KEEPERS of the\nregion gather on KANTO's ROUTES\l13 and 14 to battle and enjoy\ltheir birds.\pI'd love to visit that place.
 2bb402|{C1936}Would you like to battle now?
-2bb422|{C1936}So you're the only one who's\nmanaged to beat FALKNER in\la 6-on-6 battle.\pIt would be a real honour for me\nto battle you.
+2bb422|{C1936}So you're the only one who's\nmanaged to beat FALKNER in\la 6-on-6 battle.\pIt would be a real honor for me\nto battle you.
 2bb4a4|{C1936}May I?
 2bb4b5|{C1936}I expected nothing less. My birds\nare ready to take flight.\pI won't make it easy for you!
 2bb512|My PIDGEOT's drive has faded{C0805}…{C0805}
 2bb53a|{C1936}I'm impressed.\pFALKNER wasn't exaggerating about\nyou. I want you to have this.
 2bb586|{C1936}Very few know PIDGEOT's true\npower, and fewer still have the\ltool to unlock it. With the\lPIDGEOTITE, you can. Only FALKNER\land I have one in the whole\lJOHTO region.
 2bb646|{C1936}As you wish. I'll keep training\nin case you change your mind.
-2bb6b5|My ancestors built this temple\n1000 years ago to honour the\lresilience of BELLSPROUT.\pThe current ELDER of SPROUT\nTOWER still keeps the last of\lthat sacred BELLSPROUT line.\lThat's right, his BELLSPROUT is\lthe strongest in the world. Only\lthose worthy of witnessing what\lmany believe impossible will\lever see it.
+2bb6b5|My ancestors built this temple\n1000 years ago to honor the\lresilience of BELLSPROUT.\pThe current ELDER of SPROUT\nTOWER still keeps the last of\lthat sacred BELLSPROUT line.\lThat's right, his BELLSPROUT is\lthe strongest in the world. Only\lthose worthy of witnessing what\lmany believe impossible will\lever see it.
 2bb816|The other day I had a nice swim\nin the lake around our pagoda.\lThey say it's forbidden, but they\lhave no idea how good it feels to\lswim with that scenery in the\lbackground.
 2bb8cf|FALKNER's father is super cool!\nHe has POKéMON I'd never seen\lbefore. I think some of them\lare even LEGENDARIES from\lother regions!
 2bb96b|You're not from around here, are\nyou? I recommend visiting the\lTRAINERS' SCHOOL.\pOur SPROUT TOWER is\nalso very famous.
@@ -392,7 +392,7 @@
 2bcac3|{C1906}He's not here. He must be\nat his house in\lAZALEA TOWN.
 2bcb02|{C1906}You don't look like you're\nfrom around here either, do you?
 2bcb3a|{C1906}You seem like a good TRAINER.\pI'd be glad to chat with\nyou, but you'll have to\lexcuse me.
-2bcb9f|{C1906}I've travelled from very far\naway for the advanced medical\lknowledge this region has always\lhad.
+2bcb9f|{C1906}I've traveled from very far\naway for the advanced medical\lknowledge this region has always\lhad.
 2bcc13|{C1906}It's the only thing that can save\nmy POKéMON. My last hope.
 2bcc78|The POKéMON seems to be digging a\ntunnel to try and escape.
 2bccc9|This POKéMON is extinct\nnowadays.\pIt doesn't seem to be in its\nnatural habitat.
@@ -445,7 +445,7 @@
 2be0d3|ECRUTEAK CITY\nA Historical City Where the\lPast Meets the Present.
 2be11b|ECRUTEAK DANCE THEATER
 2be2a1|{C1945}Oh, {V01}, you got here\nquickly.
-2be2c3|{C1945}It's a shame about that POKéMON.\nStill, while it lasts, its light\lwill shine brighter than any\lmortal POKéMON's. I think ALDER\lis starting to accept that fate,\land to realise that he can't\lchange it, but he can choose how\lto face it.
+2be2c3|{C1945}It's a shame about that POKéMON.\nStill, while it lasts, its light\lwill shine brighter than any\lmortal POKéMON's. I think ALDER\lis starting to accept that fate,\land to realize that he can't\lchange it, but he can choose how\lto face it.
 2be3c5|{C1945}Ah, {V01}, look at this.\nIsn't it magnificent?
 2be3ed|{C1945}I suppose there's nothing like\nthis in KANTO. It was built 700\lyears ago. Even today, there's\la close bond between this tower\land HO-OH.
 2be481|{C1945}The MASTER and LEADER of ECRUTEAK\nCITY awaits you at the top.\pFarewell, {V01}. I'm sure we'll\nhave the chance to talk\lagain.
@@ -492,8 +492,8 @@
 2bfbd8|{C1948}I'm sorry you couldn't come into\nthe BELL TOWER with us. That\lAGATHA clearly thinks a lot of you.\pIt's only a matter of time before\nthe GRAND MASTER invites you in.\lHe's been very busy lately sorting\lout various matters{C0805}…{C0805}
 2bfcdc|{C1948}As for my POKéMON, we tried\neverything, but it's no better.\lNone of the remedies that work\lfor other POKéMON have any\leffect on my VOLCARONA.
 2bfd7b|{C1948}I was advised to come to this\nPHARMACY, the oldest in JOHTO,\lbut nothing seems to affect my\lPOKéMON's body. Nothing but its\lown energy, the very energy that's\leating it up from the inside.
-2bfe3c|{C1948}Many people want stronger\nPOKéMON. They talk about power as\lif it were just numbers tossed\linto the air, but they don't\lrealise the huge toll that reaching\lcertain levels takes on a\lPOKéMON's body.\pThey only see the result, not the\ncauses and effects behind it.
-2bff59|{C1948}Whatever happens, I'll never see\nthe power and strength of\lPOKéMON the same way again. I've\lseen their ultimate limits. My\lbond with VOLCARONA was so strong\lthat we crossed the limit of vigour\land strength, only to run into its\lopposite: illness.
+2bfe3c|{C1948}Many people want stronger\nPOKéMON. They talk about power as\lif it were just numbers tossed\linto the air, but they don't\lrealize the huge toll that reaching\lcertain levels takes on a\lPOKéMON's body.\pThey only see the result, not the\ncauses and effects behind it.
+2bff59|{C1948}Whatever happens, I'll never see\nthe power and strength of\lPOKéMON the same way again. I've\lseen their ultimate limits. My\lbond with VOLCARONA was so strong\lthat we crossed the limit of vigor\land strength, only to run into its\lopposite: illness.
 2c0067|{C1948}I'll go back to the BELL TOWER one\nmore time, to exhaust all my options.\pThe wisest, most powerful TRAINER\nin the region will be visiting\lsoon. The LEADER of ECRUTEAK CITY\ltold me about him. He's the only\lone with a STRONG BOND POKéMON\lwith a higher stat total than\lmy VOLCARONA.
 2c0181|{C1948}That's right. The difference is\nthat his is a PSEUDO-LEGENDARY,\lso we can't judge them the same.\pBut perhaps{C080F}…{C080F} he knows something\nwe've overlooked.
 2c0225|{C1948}Farewell, {V01}. If I hurry,\nI can still watch the twilight\lsettle over ECRUTEAK CITY.

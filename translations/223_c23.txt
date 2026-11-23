@@ -396,14 +396,14 @@
 3cc786|It's an old photo…\pIt shows ARCHER with a TOTODILE,\nand beside him another TRAINER\lwith a DRATINI.
 3ccba4|{C194F}The mission was a complete\nsuccess, PRESIDENT.
 3ccbd4|{C1954}More than a success. Their\nradio wave technology complements\lours perfectly. With it, we can\loptimize a POKéMON's performance\leven further.
-3ccc78|{C1933}But something still eludes us:\nthat STRONG BOND phenomenon…\pHave you ever experienced anything\nsimilar, S.N.MIGUEL?
+3ccc78|{C1933}But something still eludes us:\nthat STRONG BOND phenomenon…\pHave you ever experienced anything\nsimilar, SUPER NERD MIGUEL?
 3ccd1b|{C1933}I see. It's reserved only for\nthe most capable TRAINERS, who've\ldeveloped a special bond with one\lof their own.
 3ccdb4|{C1906}But that didn't stop them\ncreating that SUICUNE-& by\lartificial means. Not to mention\lall those prototypes, built on a\lbase similar to ours.
 3cce47|{C194E}Remember, too, that those two\nresearchers know about DEOXYS,\lthough they don't have its most\lvaluable information.
 3ccebe|{C1950}What do you think its limit\nmight be?
 3ccee5|{C1933}Knowing its ability to mutate in\nextreme conditions, I'd say{C080F}…{C080F}
 3ccf33|{C1933}{C080F}…{C080F}the moon and the stars are its\nonly limit.
-3ccf6a|{C1933}And now, I'd like to speak with\nS.N.MIGUEL alone.
+3ccf6a|{C1933}And now, I'd like to speak with\nSUPER NERD MIGUEL alone.
 3ccfa2|{C1933}JOHTO is a fascinating region,\nisn't it? A phenomenon unheard of\lelsewhere seems common there.
 3cd00c|{C1931}Indeed. My specialty was always\nFOSSILS. I had few chances to\lleave KANTO.
 3cd074|{C1933}That's why you decided to join\nDEVON, isn't it? One of HOENN's\lstrengths is its ancient POKéMON.

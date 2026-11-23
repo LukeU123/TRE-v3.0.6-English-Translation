@@ -377,7 +377,7 @@
 3172c9|{C1931}SILPH told me that with the\nlatest upgrade, my team's level\lcould take down even a\lGYM LEADER!\pI've been scammed!
 317356|{C1906}Says the one who built\nhis current team by\lscamming people?
 3173ab|{C1928}Excellent work, {V01}.\pYou've just disarmed a dangerous\nTRAINER, along with the KANGASKHAN.\pI'll make sure he's put in his place\nbefore he flees with an ESCAPE ROPE.\pThis scoundrel knows every trick!
-317476|-PROTON TOOK ALL OF SCIENTIST\nMIGUEL'S POKéMON-.
+317476|-PROTON TOOK ALL OF SUPER NERD\nMIGUEL'S POKéMON-.
 3174c3|{C1928}So the rumor was true{C080F}…{C080F}\pWho'd have thought a KANGASKHAN\ncould live in this cave…
 31752a|{C1928}Anyway.\nI'm heading back to HQ immediately.\pThe importance of what I'm carrying\ndemands it. You should head back\las soon as possible too.\lGIOVANNI will be waiting, ready\lto reward you and ask about\lthe details of the mission.\pHail GIOVANNI!
 31762d|{C1931}Unforgivable!\pIn a matter of seconds I lost the\nteam it took me years to build.

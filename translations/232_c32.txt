@@ -358,3 +358,139 @@
 46f589|{C1903}Stubbornness{C080F}…{C080F}\pDo you really think I'd humiliate\nmyself like that, serving LANCE?
 46f5df|{C197F}That's your problem.\pLANCE, OAK, a new CHAMPION…
 46f614|{C197F}I don't care who's in power,\nor what they think.\pI simply manage it.
+46f671|{C197F}And if something can't be managed,\nit's removed from the equation.
+46f6b2|{C197F}I know your LEADER doesn't care\nfor that kind of pragmatism.
+46f6ef|{C1903}With us{C0819}…{C0819} you and that pragmatism\nwould cease to exist.
+46f732|{C197F}I know, and that's why you'll\nnever get near power.
+46f767|{C197F}All that stands between me and\nwarning the INDIGO PLATEAU is this\lEXECUTIVE.\pI admire your persistence. You've\nfollowed me all the way here, despite\leverything you've already seen.
+46f802|{C1903}We've cut off every exit from the\nSEWERS.
+46f838|{C197F}Cut off?\pThere isn't a single ROCKET out there\nwho can measure up.\pThe bubble you live in won't allow it.
+46f8ad|{C197F}We have KANTO under control, and every\nresource it generates works for\lus.
+46f908|{C197F}What better way to shape a\nregion than this?!\pMy level is simply the result\nof managing those resources\lproperly.
+46f992|{C1903}So{C080F}…{C080F}\pThe devalued LEADERS, the price\nhikes on battle items, the scarce\linformation about POKéMON from other\lregions{C080F}…{C080F}\pNone of it is really about the\npostwar period. All of it…
+46fa5f|{C197F}It's all been carefully calculated.\nThe wider the gap between those\lwho manage power and the general\lpublic, the better the odds of\lholding on to it.
+46fb14|{C197F}How do you think the POKéMON LEAGUE\nhas stayed unassailable all these\lyears?\pYour actions break the rules, and\ngive you a higher level than sedated\lKANTO, but never equal to the other\lside of the gap.\pYou're in limbo, and you'll never\nescape that state.\pNow you'll see.
+46fc3c|{C197F}Show me, EXECUTIVE, how you handle\nyourself in the tiny world you\lgrew up in.
+46fc93|I was wrong about you… you'd be\nhard to replace.
+46fcc9|{C1903}You underestimated our resources,\nDIRECTOR.\pPerhaps not me, but someone like\n{V01} has been able to make use\lof them, enough to be able to\ldefeat you.
+46fd61|{C1903}Now that your fate is sealed, you\nmay as well know not only that we own\lthe CELADON GAME CORNER, but that we\lhave a large underground base of\loperations there, which GIOVANNI has\lbeen expanding over the years.\pThat's where you'll spend the rest of\nyour days.
+46fe50|{C197F}Resources{C0819}…{C0819} No{C0819}…{C0819} That's not why\nyou won.\pMy battle skill was presumed to be\nunbeatable, on par with your LEADER's.
+46fee4|{C197F}On that premise, no one with less\neducation and fewer resources could\lpose a threat.
+46ff3a|{C197F}But you, boy, have shown even more\nskill, enough to bridge a gap that\lshould be unbridgeable.\pPerhaps, with that skill, you can\nreach heights still unknown\lto us.
+470022|{C197F}My duties as DIRECTOR end here.\nWhat happens to me from now on\lis of no concern to me.\pAll I ask is to keep bearing witness\nto the history of KANTO,\lto the story of {V01}.
+4700f2|{C1903}You'll hear all about it.\pEven in your little cell in the\nDEEP BASE, you'll be able to read\lthe paper.
+47014c|{C1920}{V01}? {C080F}…{C080F} …{C080F} …{C080F}\pSo we did it.\p{C080F}…{C080F} …{C080F} …{C080F} …{C080F}\pARCHER is escorting the HQ DIRECTOR\nto our BASE?\pThen it's all over. We're doing the\nsame with the COMMITTEE members\lin SAFFRON.\pI'll be waiting for you in the DEEP\nBASE. I want one last talk with you\lbefore you leave for INDIGO PLATEAU.\pThis time, I'll wait for you in the\nTRAINING ROOM, right next to\lmy OFFICE.
+4702ef|- Return to the DEEP BASE? -
+47040c|{C1922}Ah, {V01}. You've arrived.
+47042b|{C190B}I'm a ROCKET EXECUTIVE\ndisguised as a POLICE OFFICER.
+47045e|{C190B}We've blocked the sewers'\nentrances and exits.
+47049b|{C190B}I've told all the workers it's\na temporary blackout, so nobody\lpanics.
+470505|{C190B}GIOVANNI has mobilized every\navailable unit: we've blocked every\lpossible escape route for the\lHQ DIRECTOR.
+470577|{C190B}There's no signal at all inside\nthe sewers.\pThat cuts him off, but it cuts\nus off too.\pThe only option left is to take\nhim down by force.
+470612|{C190B}Now he's all yours.\pWe've paved the way so that you,\nalong with ARCHER and the other top\lbrass, can bring him down.
+47068a|{C190B}They're farther south.\pTo get there, you'll have to go up\nthose stairs and down through the\lother access point.
+470ba3|Zone!
+470baa|{C197F}Very impressive.\pTEAM ROCKET has more resources than\nI imagined, I must admit.\pBut there's no way you can compete\nwith the whole machinery of the system.
+470c65|{C1903}Come on, send out your next POKéMON.
+470c8c|{C197F}You won't get past this one.
+470cb5|{C197F}So{C0814}…{C0814} you did have something more\nto offer.
+470cec|{C1917}Ufufufu{C0814}…{C0814} Thank goodness you're here,\n{V01}.\pHe really made us sweat. My POKéMON\nwere already begging for mercy.
+470d66|{C1903}What happened?\pWhat took you so long?
+470d97|{C1917}FRANK? It can't be, he…
+470db4|{C1903}It fits, PETREL.\pSadly, it fits.
+470def|{C1903}Those who use the most violence to\nearn respect are usually the first\lto kneel when someone comes along\lwho can use even greater\lviolence.
+470e98|{C1903}The DIRECTOR saw that, and used\nthat weakness to win him over.
+470ee8|{C1903}That DIRECTOR{C080F}…{C080F} is cunning and\ndangerous.
+470f1e|{C1903}But he made one mistake:\nleaving {V01} in action.\pHe must have assumed his battle\nskill was lower than FRANK's, given\lthe difference in their ranks.
+470fbc|{C1903}Now the four of us can go after him.\pThere's no way he'll escape this place.
+47100d|{C1917}I know the SEWERS well.\pThere's an automatic healing machine\nin the control center.
+47106d|{C190B}Then…
+47107a|{C1917}It's his only option: he'll make\nthat place his stronghold.
+4710b5|{C190B}Curse him…\pAfter all it took to wear down\nhis POKéMON!
+4710f2|{C1903}We'll head there at once.
+47110f|{C1917}It's to the north. To get there, we\nhave to go into the western part of\lthe sewers.
+471162|{C1903}There's no time to lose.\pSee you there, {V01}.
+47119f|Those guys… snatched the KEY from\nme like it was nothing…
+4711df|This place doesn't exist for KANTO.\pWhat are you doing here?
+471389|{C1903}Ration the healing supplies\nwe have left.
+4713c1|{C1903}We can't afford to go back. He\ncould come out at any moment.
+471406|{C1917}With this, our teams are\nat 90%.\pNow we need to worry about opening\nthis door.
+471463|{C190B}The KEY we got from that\nMECHANIC doesn't work on it.
+4714af|{C1917}To get into the control center, we\nneed the keys from the outer\lcontrol centers.
+47151e|{C1917}You go, {V01}.\pYour POKéMON are fresh, so you'll\nhave an easier time beating the\lguards on duty.
+47158c|{C1917}The KEY we have should open the\neastern control center, over there.
+4715d4|{C1917}Once you get the one from there,\nyou can unlock the northern area.
+471616|{C1917}Here you go.
+471629|{V01} obtained KEY 1!
+471640|{C1903}We'll be fine, {V01}.\pHurry.
+471697|{C190B}We're counting on you, {V01}.
+4716ce|-ARCHER and PETREL must be further on-.
+4717d7|We were told the blackout would\nend soon.\pAnd now you show up?
+47181d|What's going on?
+47183d|What?\pIt's not in my best interest to\nkeep asking questions?
+47186e|Now you'll see!
+471880|W-Who are you?
+471892|LANCE's government needs access to\nthe control center?
+4718cf|Oh, I see… Here you are.
+4718e3|{V01} obtained KEY 2!
+4718fa|The other keys are in the northwest\npart of the SEWERS.
+471930|I hope I've been of help.
+471a0d|LEAGUE COMMITTEE?
+471a21|INDIGO PLATEAU security didn't\ntell us you were coming.\pI'll have to step out and che…
+471a7c|I'm not going anywhere?\pI have to hand over the KEY now?
+471ab1|Who are you to talk to me like that?\pI run security for the SEWERS,\nand I'm going to teach you manners!
+471b16|It can't be!
+471b25|Those POKéMON are terrifying… only a\nCOMMITTEE bigwig could have them.\pHere.
+471b79|{V01} obtained KEY 3!
+471b90|I hope you wrap up your\noperations soon.
+471ec7|Roger.
+471ed1|Here he is, just as you said.
+471f09|Put you through to him? Of course.
+471f2d|{V01}{C0828}…{C0828} Say goodbye to your friends.
+471f50|Not so fast… What's the big rush?
+471f75|This control area and the central area\nare connected by radio.
+471fb8|That means no blackout can cut\nus off.
+471ff1|The DIRECTOR already told me what's\ngoing on.\pHe said a ROCKET EXECUTIVE would\nshow up here.
+47204f|It's lucky the LEAGUE COMMITTEE lets\nme run all sorts of tests in the\lSEWERS, you know?
+4720b2|They cash in on my talent, and I\nget funding for my\lprojects.\pWe both win.
+472115|And we wouldn't want that luck\nto run out.\pWould we, MAGNEMITE?
+472155|Magnet!
+47215e|MAGNEMITE!\pShow him the results of my\nexperiments!
+472197|Magnet!
+4721a4|You know what you're doing, yes…\pYour level surprises me, given\nhow few resources you have.
+4721fd|But you've already seen too much,\nfar too much to believe that\lmyth of the 150.
+472251|People like you are already past the\npoint of no return. Once the DIRECTOR\ldeals with your friends, none of you\lwill ever see daylight again.
+4722d7|So I'll treat you to the best\ngift possible…\pYou'll see POKéMON that, on paper,\ndon't exist!
+47233c|Statistically astonishing.
+472358|From what?\nWhere did those POKéMON come from?
+472381|{V01} obtained the CENTRAL KEY!
+47239e|It makes no sense!
+4723be|So it's no miracle.\pThen the reason for your level, just\nlike the existence of my POKéMON…\ldoesn't exist on paper either?
+472442|Now I understand.
+472455|It seems we underestimated the\nenvironment TEAM ROCKET has managed\lto build outside the law.
+4724d2|Tres!
+4724d9|- This was the LEAGUE HQ DIRECTOR's\nMOLTRES.\lBest left in its natural habitat. -
+472618|The VIRIDIAN BASE EXECUTIVE is\nunconscious.
+472654|ADMIN PETREL is\nunconscious.
+4726b7|Bill's Journal - June 12, 1997
+4726dc|I've been allowed to build this\nsmall lab right inside CERULEAN\lCAVE, to study how its POKéMON\ldevelop in such a hostile environment.
+472770|Now that MEWTWO is no longer "the\nstrongest POKéMON of the 20th century,"\lthe elites' interest in this place has\lwaned, and with it the security and\lstrict access laws.
+472827|I'm amazed at all they managed\nto achieve during the war.
+472863|If someone had told me back in the\ndays of the 150 that a POKéMON like\lthis could exist, I'd never have\lbelieved it.
+4728cb|Today, it even seems underwhelming.\pTrue, but that doesn't take away from\nall I can learn from its genes to\lperfect my PORYGON prototypes\leven further.
+472988|There's no way that LEAGUE HQ, or\nwhatever it's called, gets this far…
+4729e0|I'll show him no mercy.\pPRIMEAPE, get ready!
+472a15|Nobody's getting out of those SEWERS\nalive without our say-so.
+472a65|The rat is in the trap.\pHo, ho, ho!
+472a9b|The backup is here.\pThere's no way he gets past\nall of us!
+472af2|{C190B}Get ready, RHYDON.\nThe moment he comes out, shake\leverything with Fissure.\pJust like GIOVANNI taught us…
+472b60|The world, and everything in it,\nwill be ours.
+472ba1|{C190B}Today is the day.\pToday we rebel against our\nown destiny.
+472bf0|From here I can catch him by surprise.\pThere's no way he'll see me!
+472c3d|Having an EXECUTIVE nearby makes me\nfeel really safe…
+472c79|That TRAINER's POKéMON must be\nmonstrous for them to call in\levery unit…
+472ce3|That LEAGUE HQ boss is in for a\nnasty shock when he expects to\lbeat me fast and sees that all my\lPOKéMON are holding a FOCUS\lSASH.\pHa!
+472d85|The moment of truth has come…
+472db2|MUK!\pYour only job is to latch onto one\nof the DIRECTOR's POKéMON and\lself-destruct.\pRemember that!
+472e20|{C190B}I'll show you why I earned my\nplace as an EXECUTIVE…
+472e6e|{C190B}If my partner goes down, I'll step\nin immediately with TAUROS and\lits Giga Impact.\pWe won't give him a moment's rest.

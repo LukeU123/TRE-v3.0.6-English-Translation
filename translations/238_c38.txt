@@ -284,7 +284,7 @@ e697d8|Heals 6.25% HP each turn in hail.
 e69804|Draws in Water moves.
 e6984c|Charges up quickly.
 e69868|Cuts super-effective damage by 1/4.
-e69890|Doubles damage of not-very-effective moves.
+e69890|Doubles damage of not-very-effective\nmoves.
 e698bc|Ignores stat changes.
 e698d8|Detects the foe's strongest move.
 e69900|Senses dangerous moves.
@@ -1163,7 +1163,7 @@ e69f78|Changes with the weather.
 e69f90|Boosted by the Plus Ability.
 e6a0c0|Protects from heat and cold.
 e6a150|Traps Steel-type Pokémon.
-e6a34c|Only hurt by weather and super-effective.
+e6a34c|Only hurt by weather and\nsuper-effective.
 e6a378|-12.5% HP to attackers on contact.
 e6a4d0|Negates the effects of weather.
 e6a4f0|Prevents infatuation.

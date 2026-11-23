@@ -94,3 +94,8 @@ All the graphics on the list are replaced with the engine's own English art (sam
 - naming screen (uncompressed): BACK / B BUTTON button (0x7e5ab8), others/lower/UPPER labels, SELECT frame (0x7e5c98)
 - 18 text lines with button-icon codes (F8): naming header "CHOOSE OK BACK", Rocket Timeline help, difficulty descriptions, etc. (308_button_text.txt)
 None of this has been tested in-game yet. LZ77 repacking relies on the engine's DecompressDataWithHeader accepting MODE_LZ77; if a screen shows garbage, that graphic needs smol re-encoding instead.
+
+## 23 Nov (late): items 3/4/5
+- Pixel-width check (tools/pxcheck.py, real font widths from the ROM table at 0x7a7774; message box 216px; Pokédex 240px): 27 overflowing lines re-wrapped (tools/rewrap.py only swaps spaces for line breaks, so byte length is unchanged). 2 stat-sheet lists split by hand. Remaining flags are trainer battle quotes that are just as long in the Spanish, plus Pokédex entries under 240px. The Spanish Pokédex mostly uses 4 lines (948 entries), so 4-line English entries are fine.
+- Graphics sweep (all engine interface PNGs vs ROM): newly fixed: status icons (party/summary sheet 0x82b25c) and the 4 healthbox status sets (0x8b159c, 0x8b1c3c, 0x8b1e7c, 0x8b20bc); Pokédex search (0x9655e8), list (0x967480) and info SEEN/OWN tiles (0x9670e0, keeping the hack's own "REGIONAL" label); bag "MO" -> "HM" (0x7f1324). Checked and fine: party menu bg, Pokédex menu3 (no text differences).
+- Leftovers: "galeón" -> "Ship", 2a031d translated. LEFT AS SPANISH: the two "Baya" labels (e85ae2, e8a60e: only 4 letters fit and no pointer was found, so they can't be moved), and the " son" fragments (4c06eb/4c06f0: unknown context).

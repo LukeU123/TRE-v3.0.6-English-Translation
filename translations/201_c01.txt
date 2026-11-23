@@ -109,7 +109,7 @@
 22ae34|What color is your TRAINER\nCARD? Mine's copper!
 22ae78|PACIFIDLOG TOWN floats on top of\na colony of CORSOLA.\pIf I told you that,\nwould you believe me?
 22aecb|They say the ancestors of the\npeople of PACIFIDLOG were born,\llived and died on boats.\pI think they lived that way\nbecause they were searching\lfor something.
-22b07a|{C1907}Very good. Make yourself at home, {V01}.
+22b07a|{C1907}Very good. Make yourself at home,\n{V01}.
 22b099|{C1907}I don't know if you noticed, but\nADMIN.RUBY was outside, gazing out\lto the west…
 22b0ef|{C1907}The currents there are very strong. It's\na long, confusing route, and few\ldare to travel it.
 22b156|{C1907}Amid all that confusion lies a\nnarrow ocean trench where you\lcan dive.

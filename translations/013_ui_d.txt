@@ -124,8 +124,8 @@ e89488|There's only one\nPokémon in battle.
 e89664|Choose Pokémon and confirm.
 e89904|{V02} snapped out\nof its confusion.{C09}
 e89970|{V02} became friendly.\nIts base {V03} fell!{C09}
-e899b0|{V02} gained {V03} EXP. Points\nand grew to LV. {V04}!
-e899dc|{V02} gained {V03} EXP. Points!{C09}
+e899b0|{V02} gained {V03} EXP.\nPoints and grew to LV. {V04}!
+e899dc|{V02} gained {V03} EXP.\nPoints!{C09}
 e89cfc|This Pokémon is already\nholding an item. You can't do that.{C09}
 e89dc4|{V02} was given\nthe {V03} to hold.{C09}
 e89df0|It'll be deleted, okay?

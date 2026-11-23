@@ -34,7 +34,7 @@
 31a5c0|{C1926}But don't worry: I won't\nmake that mistake again.
 31a615|{C190E}W{C0819}-{C0819}we're doomed{C080F}…{C080F}\nHe's{C0819}…{C0819}\pG{C080F}…{C080F}\pGoing to unleash the beas{C080F}…{C080F}
 31a66b|{C1926}CHAMPION{C0819}…{C0819} GOVERNOR{C0819}…{C0819}\pThey're just words. Whoever holds\nthe power controls the world.
-31a6ca|{C1926}Why do you think people worship the\nLEGENDARY and PSEUDO-LEGENDARY POKéMON?\pNobody cares where they come from.\nAll that interests us about them is\lthat, compared to other POKéMON, they\lhave a unique, exceptional power.
+31a6ca|{C1926}Why do you think people worship the\nLEGENDARY and PSEUDO-LEGENDARY\lPOKéMON?\pNobody cares where they come from. All\nthat interests us about them is that,\lcompared to other POKéMON, they have a\lunique, exceptional power.
 31a7b6|{C1926}That's where their magic lies: in\nthe unknown nature of that power,\land here, in it being out of reach.
 31a822|{C1926}As far as I know, science is unable to\nreproduce the miraculous combination\lthat creates a LEGENDARY POKéMON.
 31a895|{C1926}So many years of hard work, only\nto find better fruit in nature\litself, OAK.

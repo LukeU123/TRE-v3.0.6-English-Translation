@@ -323,12 +323,12 @@
 25e558|This area is covered in volcanic\nash, achoo, achoo!\pI know how to use it, achoo!\pI make glass items with it.\nPretty cool, huh? ACHOOO!!!\pYou can collect ash with this…
 25e60d|Take this SOOT SACK and walk through\nthe piles of ash, achoo!\pIt'll fill up with volcanic ash,\nachoo, achoo!\pWhen you've collected a good\namount, come see me, ACHOO!
 25e6c4|Have you collected ash? Achoo!\nLet's see… Achoo, achoo!
-25e6f9|Hmmm…\nThere's not enough ash, achoo!\lI can't make glass with this…\pLet's see… You need to take {V02} steps\nto collect enough ash for me to\lmake you a BLUE FLUTE, achoo!
+25e6f9|Hmmm… There's not enough ash, achoo! I\ncan't make glass with this…\pLet's see… You need to take {V02}\nsteps to collect enough ash for me to\lmake you a BLUE FLUTE, achoo!
 25e7ae|Oh!\nYou've got loads of ash, achoo!\pI'll make you a glass item…\nWhich one do you want? Achoo!
 25e813|A {V02}? Achoo!\nAre you sure? ACHOO!!
 25e843|Which one do you want? Achoo!
 25e85a|Okay, a {V02} it is,\nachoo!\pI'll make it in a minute, achoo!\nJust be patient, ACHOO!
-25e8bc|A {V02}? Achoo!\pYou don't have enough ash for\nthat, sorry, achoo, achoo!\pLet's see… You need to take {V03} steps\nto collect enough ash for me to\lmake you that item, achoo!\pDo you want me to make you\nsomething else instead? ACHOOO!!!
+25e8bc|A {V02}? Achoo!\pYou don't have enough ash for that,\nsorry, achoo, achoo!\pLet's see… You need to take {V03}\nsteps to collect enough ash for me to\lmake you that item, achoo!\pDo you want me to make you something\nelse instead? ACHOOO!!!
 25e9b7|You collected all that ash and now\nyou don't want anything, achoo?
 25e9fd|I've finished your {V02}.\nHere, it's yours, achoo!
 25ea26|What?\nYou've got no room in your BAG, achoo!\pI'll hold onto this for you, so come\nback whenever you like, ACHOO!!

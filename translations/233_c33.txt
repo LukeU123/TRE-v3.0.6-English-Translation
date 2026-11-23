@@ -66,7 +66,7 @@
 4c5360|{V0F} sucked up\nthe liquid ooze!
 4c5380|{V13}'s {V1A}\ncured its {V00} problem!
 4c53b8|{V10}'s {V19}\ninfatuated {V3E}!
-4c53d0|{V13}'s {V1A}\nprevents its {V00} from being lowered!
+4c53d0|{V13}'s {V1A} prevents its\n{V00} from being lowered!
 4c53f4|{V13}'s {V1A}\nwhipped up a sandstorm!
 4c545c|{V10} hung on\nusing its {V16}!
 4c5478|{V16} only allows the use of\n{V14}!\p
@@ -1378,7 +1378,7 @@
 4c5d38|It's not very effective…
 4c5d4c|You can't escape!\p
 4c5db4|It's super effective!
-4c609c|{V0F} shrouded itself with Magic Coat!
+4c609c|{V0F} shrouded itself with Magic\nCoat!
 4c61b4|{V10} anchored\nitself with its roots!
 4c6254|{V0F} switched\nitems with its target!
 4c630c|{V0F} can't use the same\nmove twice due to the Torment!\p

@@ -582,7 +582,7 @@
 4c0124|Well done, {V00}!\nCome back!
 4c015c|You lost to\n{V20} and {V21}!
 4c017c|{V43} withdrew\n{V00}!
-4c01a0|{V42} and {V43} challenge you!\p
+4c01a0|{V42} and {V43} challenge\nyou!\p
 4c01e0|You drew with\n{V20} and {V21}!
 4c0200|{V1C} {V1D} \nsent out {V00}!
 4c0528|You lost to {V42}!
@@ -614,7 +614,7 @@
 4c16b4|You sense the presence of many!
 4c16d8|Would you like to forfeit? That counts as losing the battle.
 4c178c|Add {V39} to your party?
-4c17a4|It doesn't affect {V3F} and {V3C}…
+4c17a4|It doesn't affect {V3F} and\n{V3C}…
 4c17f8|{V3F} stayed awake!
 4c1814|Waggling a finger let it use {V14}!
 4c1838|The battlefield seems weird!
@@ -637,7 +637,7 @@
 4c1c3c|{V0F} lost its {V00} type!
 4c1c54|The {V16} was used up…
 4c1c68|{V0F} absorbed electricity!
-4c1c84|{V11} drank down everything {V41} made!
+4c1c84|{V11} drank down everything\n{V41} made!
 4c1ca8|{V0F} is getting ready to tell a bad joke!
 4c1cd4|The swamp around {V38}'s team disappeared!
 4c1d08|A swamp enveloped {V3B}'s team!
@@ -689,10 +689,10 @@
 4c2580|{V0F}'s trap didn't work!
 4c25a0|{V0F} set a trap!
 4c25b8|{V13}'s {V1A} prevents {V19} from activating!
-4c25e0|{V13} gained strength from the fall!
+4c25e0|{V13} gained strength from the\nfall!
 4c2600|{V13}'s {V1A} weakened the {V00} of all POKéMON!\p
-4c2630|The Electric Terrain activated {V41}'s Quark Drive!
-4c26ac|Being hit by {V14} charged {V3F} with power!
+4c2630|The Electric Terrain activated\n{V41}'s Quark Drive!
+4c26ac|Being hit by {V14} charged\n{V3F} with power!
 4c26f4|{V0F} used up all its electricity!
 4c2714|{V10} endured the hit!
 4c2728|{V0F} melted the ice with its fiery determination!
@@ -720,11 +720,11 @@
 4c2b08|{V10} became weaker to fire!
 4c2b28|{V0F} can't escape\nbecause of No Retreat!
 4c2b58|No POKéMON can flee!
-4c2b74|Its {V00} type changed to {V13}!
+4c2b74|Its {V00} type changed to\n{V13}!
 4c2b90|{V10} was cured of its poisoning!
 4c2bb0|{V10} swapped Abilities\nwith its target!
 4c2be0|{V18} only allows the use of {V14}!\p
-4c2c00|It broke through {V3F}'s protection!
+4c2c00|It broke through {V3F}'s\nprotection!
 4c2c20|But {V3E} can't use it!
 4c2c3c|But {V3E} can't use it!
 4c2c58|{V13}'s Primal Reversion!
@@ -880,25 +880,25 @@
 4bff18|{V20} and {V21}\nwant to battle!
 4bffb0|{V20} sent out\n{V0A}!\p{V21} sent out\n{V0C}!
 4c0140|That's enough, {V00}!\nCome back!
-4c01b8|You defeated {V42} and {V43}!\p
+4c01b8|You defeated {V42} and\n{V43}!\p
 4c0228|You can do it, {V00}!
 4c088c|Huh? {V02}\nstopped evolving!\p
 4c08a8|Congratulations! Your {V02}\nevolved into {V03}!{C0A}\p
-4c17bc|It's not very effective on {V3F} and {V3C}!
-4c17dc|It's super effective on {V3F} and {V3C}!
+4c17bc|It's not very effective on {V3F}\nand {V3C}!
+4c17dc|It's super effective on {V3F} and\n{V3C}!
 4c191c|The sunlight is scorching!
 4c20a8|{V0F} blew away the sharp steel!
 4c23a8|{V11} was frozen solid!
 4c2428|{V00} had its HP restored!
 4c2664|{V13}'s {V00} was heightened!
-4c2678|The harsh sunlight activated {V41}'s Protosynthesis!
-4c26d4|{V0F} switched {V00} with its target!
+4c2678|The harsh sunlight activated\n{V41}'s Protosynthesis!
+4c26d4|{V0F} switched {V00} with its\ntarget!
 4c27e4|{V0F} managed to expel the poison!
 4c2c74|It can't be used without a Berry!\p
 4c2ce8|The effects of the strong winds\nhave worn off!
 4c2dcc|It started to rain!
 4c2f00|{V0F} is cured of its Heal Block!
-4c2f54|{V13} is switched out with the {V16}!
+4c2f54|{V13} is switched out with the\n{V16}!
 4c2fb8|The {V16} attacked {V3E}!
 4c31d4|{V13} is radiating\na fairy aura!
 4c32e4|{V13} fell in love\nbecause of the {V16}!

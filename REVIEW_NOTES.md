@@ -30,3 +30,6 @@ To diagnose:
 (b) List every pointer write build.py makes (address, old value, new value). Flag any outside the script region 0x1E0000-0x500000 or the known text tables, and any whose address falls in the code area (below ~0x1E0000, e.g. 0x0006xxxx and 0x0011xxxx hits seen for UI strings).
 (c) Bisect the moved strings to find the culprit or culprits.
 Safer long-term fix: only repoint a reference when the referencing context is verified (a script opcode, or a known string-pointer table). Otherwise shorten the English so it fits in place.
+UPDATE (Luke, 23 Nov): he started the patched ROM again later and there was NO stutter, so it may have been something else on his PC. Lower priority; keep an eye on it.
+Quick check (23 Nov): the bytes changed outside text are pointer updates. Most are in the script region (0x200000+). There are a few dozen in the code and data area (0x06xxxx, 0x0Exxxx-0x1Axxxx); these are literal-pool pointers to UI strings, which is expected. Nothing obviously wrong.
+- Name box: ESMERALDA kept (dialogue keeps it) while RUBÍ/ZAFIRO became RUBY/SAPPHIRE; MORFEO, INVERNA, VALENTE kept; consider unifying

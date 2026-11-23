@@ -17,14 +17,14 @@ c15 476/476 translated
 c16 518/518 translated
 c17 477/477 translated
 c18 501/501 translated
-c19 360/463 translated
-c20 120/387 translated
-c21 240/470 translated
-c22 100/242 translated
+c19 462/463 translated
+c20 378/387 translated
+c21 356/470 translated
+c22 203/242 translated
 c23 0/428 translated
-c24 122/401 translated
-c25 120/481 translated
-c26 0/497 translated
+c24 266/401 translated
+c25 358/481 translated
+c26 222/497 translated
 c27 0/587 translated
 c28 0/678 translated
 c29 0/806 translated
@@ -37,3 +37,4 @@ c35 820/1589 translated
 c36 0/507 translated
 c37 0/410 translated
 c38 0/2036 translated
+cAB 0/320 translated

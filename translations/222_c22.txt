@@ -98,3 +98,106 @@
 3b2be2|No. 6: VICTINI\pHP: 100\nATTACK: 125\lDEFENSE: 100\lSP. ATK: 50\lSP. DEF: 100\lSPEED: 125\lTOTAL: 600\pTYPE: PSYCHIC/FIRE\pABILITIES:\nVICTORY STAR\pThe VICTORY POKéMON, owner of one\nof the most privileged MOVEPOOLS,\lsince it has access to both BLUE\lFLARE and BOLT STRIKE from UNOVA's\llegends. Then there's its signature\lV-CREATE, with an insane 180 power.\lAn attack like that is a rarity\lamong POKéMON of this rank, even\lmore so given the mild penalty of\lonly lowering SPEED and defenses.\pThanks to VICTORY STAR, V-CREATE\nalways hits, while BOLT STRIKE and\lBLUE FLARE get 93.5% accuracy.
 3b2e97|No. 5: GENESECT
 3b2ea7|HP: 71\nATTACK: 120\lDEFENSE: 95\lSP. ATK: 120\lSP. DEF: 95\lSPEED: 99\lTOTAL: 600\pTYPE: BUG/STEEL\pABILITIES:\nDOWNLOAD/BATTLE ARMOR\pA POKéMON modified from the most\nlethal BUG-TYPE predator in UNOVA\l300 million years ago. We don't\lknow its BASE STATS, but we\lestimate them at 520-540, with a\lreally low SP. ATK of 40 to 60. The\lmain upgrade from the original\lGENESECT to the modified one is\lthat 60-80 increase in SP. ATK,\lwhich would put it at 600 BASE.\pA possible link to KABUTOPS has yet\nto be studied.
+3b310f|No. 4: LANDORUS\pHP: 89\nATTACK: 125\lDEFENSE: 90\lSP. ATK: 115\lSP. DEF: 80\lSPEED: 101\lTOTAL: 600\pTYPE: GROUND/FLYING\pABILITIES:\nSAND FORCE/SHEER FORCE\pThe god and genie of UNOVA's\nharvests. Both its INCARNATE and\lTHERIAN FORMES have great\lcompetitive uses.
+3b3244|No. 3: KYUREM\pHP: 125\nATTACK: 130\lDEFENSE: 90\lSP. ATK: 130\lSP. DEF: 90\lSPEED: 95\lTOTAL: 660\pTYPE: DRAGON/ICE\pABILITIES:\nPRESSURE/SNOW WARNING/ICE SCALES\pThe BOUNDARY POKéMON, the empty shell\nleft behind when the ORIGINAL DRAGON\lsplit into RESHIRAM and ZEKROM.\lThe fact that it breaks 120 points,\lthe ceiling set by ARCEUS, in 3 of\lits 6 stats (HP and both attacks)\lproves we're dealing with a very\lunconventional POKéMON. Despite\lhaving the numbers of a MAJOR\lLEGENDARY, its so-so SPEED and an\lICE TYPE full of weaknesses keep it\lfrom being far more dangerous.
+3b34b4|No. 2: ZEKROM\pHP: 100\nATTACK: 150\lDEFENSE: 120\lSP. ATK: 120\lSP. DEF: 100\lSPEED: 90\lTOTAL: 680\pTYPE: DRAGON/ELECTRIC\pABILITIES:\nTERAVOLT/TRANSISTOR/TOUGH CLAWS\pThe YIN POKéMON, the pure half that\nsplit from the ORIGINAL DRAGON.\pThe violence of its discharges is\nunmatched. BOLT STRIKE was voted\lunanimously the best ELECTRIC-TYPE\lmove in existence: it has 10 more\lpower than VOLT TACKLE and 85%\laccuracy, and not only does it skip\lthe recoil damage, it'll even\lparalyze the foe 30% of the time.
+3b36fa|No. 1: RESHIRAM\pHP: 100\nATTACK: 120\lDEFENSE: 100\lSP. ATK: 150\lSP. DEF: 120\lSPEED: 90\lTOTAL: 680\pTYPE: DRAGON/FIRE\pABILITIES:\nTURBOBLAZE/GALE WINGS/ILLUMINATE\pThe YANG POKéMON, the truthful half\nthat split from the ORIGINAL DRAGON.\pThe intensity of its flames knows no\nequal. Our SCIENTISTS consider BLUE\lFLARE one of the 3 best FIRE-TYPE\lmoves in existence: 17% stronger\lthan FIRE BLAST, with similar\laccuracy, and it burns 30% of the\ltime.\pIts fire and dragon combo hits 99%\nof POKéMON for neutral damage, bar\lexceptions like PRIMARINA or HEATRAN.
+3b3973|No. 8: FLORGES\pHP: 78\nATTACK: 65\lDEFENSE: 68\lSP. ATK: 112\lSP. DEF: 154\lSPEED: 75\lTOTAL: 552\pTYPE: FAIRY\pABILITIES:\nGRASSY SURGE/MISTY SURGE/SYMBIOSIS\pOne of the best-statted POKéMON that\nare neither LEGENDARY nor PSEUDO,\lwith 552 total BASE STATS. It ties\lLUGIA and HO-OH's 154 SP. DEF, on\ltop of 112 SP. ATK.\pA thoroughbred FAIRY POKéMON. That\nSP. DEF and its power to overwhelm\lthe terrain are proof of it.
+3b3b4e|No. 7: GOODRA\pHP: 90\nATTACK: 100\lDEFENSE: 70\lSP. ATK: 110\lSP. DEF: 150\lSPEED: 80\lTOTAL: 600\pTYPE: DRAGON\pABILITIES:\nPOISON HEAL/HYDRATION/GOOEY\pPerhaps the least competitively\nuseful PSEUDO-LEGENDARY, though it\lhas interesting qualities. Its 150\lSP. DEF is the highest stat any\lPSEUDO has reached. Combined with\l110 SP. ATK and a wide movepool, it\lmakes for a top-tier POKéMON in a\lslugfest on the special side. But\lits frailty on the physical side and\lso-so SPEED leave it too vulnerable.
+3b3d93|No. 6: DIANCIE\pHP: 50\nATTACK: 100\lDEFENSE: 150\lSP. ATK: 100\lSP. DEF: 150\lSPEED: 50\lTOTAL: 600\pTYPE: ROCK/FAIRY\pABILITIES:\nCLEAR BODY/LEVITATE/MISTY SURGE\pLike REGISTEEL, it was blessed with\nthe golden number, 150, in both\ldefenses, though with less HP and\lmore weaknesses than the STEEL REGI.\pEven so, it has notable offensive\npower, with its signature DIAMOND\lSTORM and access to PLAY ROUGH or\lMOONBLAST, all with STAB.\pIts low SPEED (50) makes it a good\nuser of TRICK ROOM, a move it can\llearn.
+3b3fe4|No. 5: HOOPA\pHP: 80\nATTACK: 110\lDEFENSE: 60\lSP. ATK: 150\lSP. DEF: 130\lSPEED: 70\lTOTAL: 600\pTYPE: PSYCHIC/GHOST\pABILITIES:\nMAGICIAN/PRANKSTER/INFILTRATOR\pIt creates dimensional portals and\ncan travel through them. It stands\lout for its abnormally high SP. ATK\l(150) for its looks, and its SP. DEF\l(130) too.\pLow SPEED and a 4x weakness to GHOST\nand DARK hold it back too much.
+3b41a3|No. 4: VOLCANION\pHP: 80\nATTACK: 110\lDEFENSE: 120\lSP. ATK: 130\lSP. DEF: 90\lSPEED: 70\lTOTAL: 600\pTYPE: FIRE/WATER\pABILITIES:\nWATER ABSORB\pA more than interesting FIRE/WATER\ntype, immune to the latter thanks to\lWATER ABSORB and resisting fire 4x.\lBut a useless 110 ATTACK and a very\lso-so SPEED of 70 are its biggest\ldrawbacks, despite its good STATS.\lIts STEAM ERUPTION is one of the\lbest WATER-TYPE moves: 110 power,\l95% accuracy, and it'll burn the foe\l30% of the time.
+3b43cc|No. 3: XERNEAS\pHP: 126\nATTACK: 131\lDEFENSE: 95\lSP. ATK: 131\lSP. DEF: 98\lSPEED: 99\lTOTAL: 680\pTYPE: FAIRY\pABILITIES:\nFAIRY AURA\pThe X POKéMON, owner of one of the\nbest boosting moves in existence:\lGEOMANCY. It can fire off in a\lsingle turn with a POWER HERB, and\lraises its SP. ATK, SP. DEF and\lSPEED by 2 stages.\pWith MOONBLAST boosted by its FAIRY\nAURA, and coverage like THUNDERBOLT,\lFOCUS BLAST, PSYCHIC and GRASS KNOT,\lit's ready to one-shot anything it\lhits for neutral damage.
+3b45f8|No. 2: YVELTAL\pHP: 126\nATTACK: 131\lDEFENSE: 95\lSP. ATK: 131\lSP. DEF: 98\lSPEED: 99\lTOTAL: 680\pTYPE: DARK/FLYING\pABILITIES:\nDARK AURA\pThe Y POKéMON. Its DARK PULSE boosted\nby its DARK AURA is a nightmare.\pOBLIVION WING is even more\ninteresting, recovering 75% of the\ldamage dealt. For a STAB move with\l80 power off a 131 SP. ATK, many see\lit as the perfect balance between\lOFFENSE and DEFENSE, since with LIFE\lORB or CHOICE SPECS it'll drain and\lrecover huge amounts of HP at once.\pIts SUCKER PUNCH also does serious\ndamage even with no ATTACK investment.
+3b487d|No. 1: ZYGARDE COMPLETE\pHP: 216\nATTACK: 100\lDEFENSE: 121\lSP. ATK: 91\lSP. DEF: 98\lSPEED: 95\lTOTAL: 708\pTYPE: DRAGON/GROUND\pABILITIES:\nPOWER CONSTRUCT\pPerhaps the greatest physical wall\nin existence, this POKéMON's\lcompetitive potential is endless.\lTHOUSAND ARROWS is the most\linescapable move there is, hitting\leverything and covering most types.\lThat lets it spend the rest of its\lmoveset on boosts, stalling and\lrecovery.\pAll without losing its punch, which\nmakes it one of the most awkward\lPOKéMON to face.
+3b4ad9|Would you believe me if I told you\nthere's a POKéMON with no weaknesses?\p… … … …\pNo?\p… … … …\pHere!
+3b4b36|You got a Lv. 25 TYNAMO!
+3b4b55|The TYNAMO line is pure ELECTRIC\nTYPE, and it covers its only\lweakness thanks to LEVITATE.\pIsn't that amazing?
+3b50a8|{C1907}You're done.\pFollow me!
+3b50bf|{C190E}Well, well{C0823}…{C0823}\pHere I am again, facing the new\ngeneration, and two capable youngsters\lhungry for more as its finest\lexamples.
+3b5171|{C190E}You shouldn't address me with\nsuch contempt, young ROCKET.\pWe work together now, and I'm fully\ncommitted to the future.\pAre you?
+3b5210|{C190E}I thought you despised LEGENDARIES\nsimply for being born that way.\lDon't you think the ultimate goal\lof all these bases and meetings is\lto build something far more\ldespicable?
+3b52e8|{C1907}Not even close! They'll be the\nfruit of our effort and will!
+3b5326|{C190E}Your will{C0819}…{C0819} The POKéMON that\nemerge will have nothing to do with\lit, just as with the LEGENDARIES.\p… …\pNo, not just as.\pTheir birthright will be far\ngreater than a LEGENDARY's.
+3b53ef|{C190E}Ahh{C080F}…{C080F} Will{C080F}…{C080F}\pSo easy to bend with the right\nincentives and setbacks!
+3b5453|{C1907}You haven't answered us.\nWhat are you doing in my BASE, OAK?\pNo one told me you'd be\nhere.
+3b54b5|{C190E}I got a call from GIOVANNI.\nI know all about your clash\lwith DEVON.\pI've come to warn you.
+3b5525|{C1907}Warn us?
+3b5534|{C190E}Back when we in KANTO had barely\nmanaged to create the first version\lof PORYGON, DEVON had already\lsimulated the power of a\lPSEUDO-LEGENDARY.\pDEVON created METAGROSS.
+3b55cd|{C190E}That was several years ago. Who\nknows what resources they have at\ltheir disposal today.
+3b5624|{C190E}Luckily, they know nothing about\nMEWTWO, but BLAINE and I worked with\lthem in the past, and they know all\labout our progress with DEOXYS.
+3b56c0|{C1907}{V01} already beat them.\pHe's defeated the greatest powers\nin the POKéMON WORLD. Nothing they\lcan create will top that.
+3b5736|{C190E}Perhaps, but they don't need to\ncreate something with more raw\lpower. Something more efficient,\loptimized for the rules that govern\lour battles… could be enough to\lbring you down.
+3b57ee|{C1907}What do you mean?
+3b5805|{C190E}That you should be careful.\pWe don't know what they're after,\nwhat power they have or what they\lintend.
+3b5860|{C190E}Like you, I want to see the\nKANTO-JOHTO of the original 251\ltriumph. I hope you'll keep that in\lmind, and that we attend the 2nd\lGREAT MEETING in GOLDENROD as true\lallies.
+3b5910|{C190E}I have nothing left to hide,\nand here's proof.
+3b594b|-ANDRA got a METEORITE!-
+3b5969|{C1907}What's this?
+3b597a|{C190E}Can't you see? A METEORITE from\nspace.\pI managed to tune its properties so\nit reacts to DEOXYS. With it, you\lcan quickly access all of its\lFORMES.
+3b5a42|{C190E}It's time you adapted to the\nnew times.\pWEAVILE is a great POKéMON.\pBut{C080F}…{C080F} it's reached its limit.
+3b5ab3|{C190E}In a year it'll be left behind.\pA PSYCHIC type like DEOXYS would\ndo you good, for starters.
+3b5b1d|-ANDRA threw the METEORITE away!-
+3b5b3b|{C1907}My POKéMON aren't replaceable\ntrading cards, get that straight.
+3b5b7b|{C1907}And I'll tell you something else:\nplease, keep using those DEOXYS.\pIf the day comes when I have to\nface them, I'll know exactly how to\lneutralize them with those POKéMON\lthat "got left behind."
+3b5c3f|{C1907}Now get out of my base.
+3b5c5b|{C190E}Ha ha! GIOVANNI was right.\pA strong character, and I'd add a\nblind faith that defies all reason.
+3b5cc5|{C190E}But I like that, ANDRA.
+3b5ce2|{C190E}Thanks to people like you, the\nworld can move forward in\lunexpected ways.
+3b5d27|{C190E}What do you think, {V01}?\pYou're more flexible, aren't you?
+3b5d5a|{C190E}I was going to give you a\nMETEORITE too, but it seems your\lfriend doesn't need hers.
+3b5db4|{C190E}Pick it up if you like, or don't.\nYour call.
+3b5dde|{C190E}Go your own way, young ANDRA, but\nkeep one thing in mind: if there's a\lnext time, I won't use any DEOXYS\lFORME at all.
+3b5e52|{C190E}In time, not even a miracle of\nnature like that will be enough.\pIt'll be left behind too.
+3b5eb7|{C1907}That OAK{C080F}…{C080F} He treats us like we're\nstill grunts digging up FOSSILS\lin MT. MOON.\pWe should shut him up again\nin a battle.
+3b5f48|{C1907}Anyway. I'll wait for you on B2.\nTake this CARD KEY to get in.
+3b5fbe|-This is the exit. I should check out\nthe BASE with ANDRA first, like we\lagreed.-
+3b6056|You used the CARD KEY.
+3b63dc|Are you sure you want JANGMO-O?\nIt'll cost $168000.
+3b640c|Are you sure you want POPLIO?\nIt'll cost $76000.
+3b6439|Are you sure you want CHIMCHAR?\nIt'll cost $82000.
+3b6468|Are you sure you want OSHAWOTT?\nIt'll cost $68000.
+3b64c8|Are you sure you want FROSMOTH?\nIt'll cost $48000.
+3b6525|Are you sure you want DRILBUR?\nIt'll cost $22500.
+3b6553|Are you sure you want ROCKRUFF?\nIt'll cost $15000.
+3b658c|RESEARCH AREA FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pSINNOH
+3b65e0|RESEARCH AREA FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pUNOVA
+3b6635|RESEARCH AREA FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pKALOS
+3b6688|RESEARCH AREA FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pALOLA
+3b66db|RESEARCH AREA FOR THE MOST\nPOWERFUL POKéMON OF EACH\lREGION:\pGALAR
+3b68be|{C190B}Oh{C080F}…{C080F} HEAD ADMIN\n{V01}. I was expecting you.
+3b68ef|{C190B}We know about HEAD ADMIN ANDRA. At\nthis base I'm her right hand, which\lis why she entrusted me with this\lbefore leaving. Now it's yours, sir.
+3b6984|You got the HOENN OFFICE KEY\nfrom the EXECUTIVE!
+3b69bb|{C190B}ANDRA predicted you'd come and\nhad the office prepared for your\larrival. She left some written\lrecommendations for you, before\lyou begin your adventure in HOENN.
+3b6a6d|{C190B}Look.
+3b6a79|{C190B}The KEY I gave you also opens\nthat door. It's a shortcut to the\lOFFICE, if you'd like to use it.
+3b6ae6|{C190B}I recommend stopping by. I'll\nbe guarding its doors, ready\lwhenever you need me, SIR.
+3b6b8b|-There are more important things to do\nin HOENN. I have to find ANDRA and go\lafter DEVON.-
+3b6c3e|-Now's not a good time to go to JOHTO.-
+3b6c74|Welcome to HOENN, HEAD ADMIN\n{V01}.\pYou've already conquered two\nregions and ARCHI7.\pThink you can do it again?
+3b6cf2|These radio waves are a beta version\nof the ones that'll be installed in\lLAVENDER TOWN.\pThere, we'll push the limits of what\na POKéMON can reach!
+3b6d96|It's not enough to give a hundred\npercent in the work itself. You also\lhave to focus on optimizing the\lsystem you work in.
+3b6e2c|The famous {V01}…\pI'm afraid a humble SCIENTIST like\nme has nothing to teach you.
+3b6e8a|Exposure to radio waves is a harsh\nprocess for POKéMON, physiologically\lspeaking.
+3b6ef9|ALOLA is the region with the most\n"SINGULAR POKéMON," especially\ldue to the phenomenon of the\l"ULTRA BEASTS."\pWe opened a research program solely\nto understand them better.\pThe anarchy in how their qualities\nare distributed is formidable.
+3b6ffa|Even once you reach the\nstabilization phase, always act as\lif you were still in the learning\lphase.
+3b7078|Do you think we're doing the\nright thing?
+3b70ad|We're in the middle of the DESERT.\nThere's no better place for a base.\pDon't you think?\pNo one will bother us here.
+3b7129|What isn't defined can't be measured.\nWhat isn't measured can't be improved.\lAnd everything that isn't improved\lis doomed to decay.
+3b71c1|Every progression hits a point of\nstagnation, where the law of\ldiminishing returns kicks in, and no\lmatter how much you give to the\lcause, the gains are pitifully small\lcompared to the extra time put in.\pWhen will we reach that point in\noptimizing a POKéMON's\lperformance?
+3b7314|Seeing the power of all these\nPOKéMON… you realize how mediocre\lKANTO is when it comes to BASE\lSTATS. Even so, our region's magic\lis unbeatable. Is it because of the\lESSENCE POKéMON, or is it the other\lway around, and it's a product of\lthat magic?
+3b7410|They say HOENN is more\ntechnologically advanced than KANTO.\pWell, they hide their advances\nvery well…
+3b747e|It doesn't matter if you're wrong 1,\n2, 5 or 10 times. For better or\lworse, people filter out everything\lelse and only remember the one time\lyou won.
+3b752b|KANTO, ARCHI7, JOHTO, HOENN…\pWe're building the greatest empire\nin the POKéMON WORLD, don't you think?
+3b75a2|Do you think we can go past 800\nBASE STATS without the prototypes\lcollapsing?
+3b7601|We managed to break the 800 BASE\nSTATS limit.\pHow far are we going to go?
+3b7661|Once we have the strongest POKéMON\nin existence, what happens then?\pDo we just stash them in a drawer\nin case someone attacks us?\pThat's boring!
+3b7708|Comfort is the worst slavery man is\nexposed to, because it inexorably\lconditions him to fear someone will\ltake it away.
+3b77a8|Few things are good or bad in\nthemselves. Rather, it's human\lexperience, emotion and behavior\lthat give them their moral weight.
+3b784c|BLAINE and OAK have cooperated\nsurprisingly easily. It seems\lGIOVANNI's plan for the future\lhas won them over. After all, they\lwanted to squeeze every bit of\lMEWTWO's potential, and that's what\lthey'll do.
+3b7931|Sir!\pHow does it feel to be in a place\nthat doesn't exist on paper, yet\lwhere everything is decided?
+3b79a9|Complicated, thrilling times\nawait us.\pCan you handle the pressure?\pHistory is on the line in these\nyears!
+3b7a33|Randomness knows no mercy, merit,\nneed, comfort, convenience, justice\lor happiness.\pOtherwise, chance would no longer\nbe chance.
+3b7ad5|Ho ho ho!\pTEAM ROCKET rules\nfrom the shadows!
+3b7b17|RED would collapse if he were\nsuddenly dropped into a place like\lthis.\pHe couldn't take in the reality\nof the vast world beyond KANTO\land the original 151.
+3b7bc3|You and ANDRA are the future of\nTEAM ROCKET.\pI've followed you since the SILPH\nraid!\pAlways at your service!

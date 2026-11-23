@@ -118,3 +118,241 @@
 3e42e1|Well{C0805}…{C0805} not many can match\nSHELLY. Seems your presence here\lisn't pure coincidence.
 3e4349|But at this point, what someone\nlike you or me can do is of no\limportance compared to what's\labout to happen beyond this room.
 3e43ed|You have no idea who we are,\nROCKET.\pUnlike those fake captains, like\nthe one on the S.S. ANNE or\lCAPT. STERN, we've sailed the 7\lseas, obeying nothing but our\linsatiable thirst for exploration.
+3e44dd|We've had the courage to get lost in\norder to find unreachable shores, and\lit's toughened us up good and proper.
+3e454a|All our voyages, with one single\nultimate goal{C080F}…{C080F} to find the king,\lthe origin of the sea: KYOGRE!
+3e45af|Our LEADER, ARCHIE, is the perfect\nperson to awaken it.\pAnd his sea POKéMON are the only ones\nworthy of witnessing its rebirth!
+3e463d|I don't think you realize yet\nwhat lies behind these walls,\lkid.
+3e4690|With one flick of its fins, KYOGRE\ncan create tsunamis that would\lflood entire cities.
+3e46f0|If it chose to unleash its full\npower, it could turn the whole\lplanet into a giant blue sphere,\lwith only water on its surface.
+3e4776|Luckily, we know KYOGRE well, and we'll\nonly use it in just the right measure,\lso everything returns to its course.
+3e47ed|What I've told you still hasn't\nconvinced you, has it?
+3e4822|You asked for it.\pDuty comes first, and you're forcing\nme to use force.
+3e4874|Now face my crew, hardened\non the high seas!
+3e48a7|My loyal POKéMON!\nSeriously?
+3e48c7|So you'll keep going, no matter\nthe consequences{C080F}…{C080F}\lYou asked for it, and you've chosen\lthe course of your own doom.
+3e4946|Listen!\pKYOGRE's rebirth has begun!\nI must prepare everything for our\ltriumphant return to HOENN!
+3e4eea|{C193C}Soon you'll be free, KYOGRE.\pThose who confined you will pay for\ncommitting such an atrocity against\lthe one who made it possible for life\lto flourish.\pThe sea shall reclaim its prodigal son.
+3e4fa6|{C193C}Impossible!\pNo one from TEAM ROCKET should be\nable to defeat ADMIRAL TOLO!
+3e4ff6|{C193C}Maybe I underestimated you, kid.\nMaybe you're not all like they say.\pYou've shown great courage and a thirst\nfor the unknown. With those qualities,\lyou'd make a great member of TEAM AQUA.
+3e50b2|{C193C}I'm sure you can appreciate the show\nthat's about to unfold here.\pCome on, ROCKET! Walk!
+3e511c|{C193C}It's far too late to back\nout now, the storm will swallow\lyou up either way!!
+3e5175|{C193C}KYOGRE sleeps in the depths of this\nsmall sea grotto. That a being destined\lto rule the oceans with an iron fist\lhas been confined to this puddle for\lmillennia is a sacrilege I will put\lan end to right now.
+3e524f|{C193C}All I need is to make the\nBLUE ORB shine one last time, and\lKYOGRE will make its appearance.
+3e52ae|{C193C}Watch closely, ROCKET!\nYou'll never see the like again!
+3e52f3|{C193C}KYOGRE!\pLord of the seas!\pThe world needs your immense\npower to restore the balance!\pWith you back, the seas will regain\ntheir ancient strength and supremacy!
+3e53a5|{C193C}I beg you!\pMake me worthy of sailing through\nthe worst storm that all your\lfury can unleash!\pMy POKéMON and I are\nready!
+3e542f|{C193C}Game over, kid.\pIt's time you faced the consequences\nof your actions. Courage led you to\lwitness KYOGRE's awakening, and the\lthrill of chasing that dangerous\lprize is what's going to lead you\lto your ruin.
+3e5512|{C193C}I've been through many adventures, and\nevery one made my crew better.
+3e5562|{C193C}Unlike those LEADERS, like that\nMISTY of CERULEAN, or JUAN in\lSOOTOPOLIS{C080F}…{C080F} my WATER-TYPE POKéMON\lare made of sterner stuff. They've\lbeen toughened by sailing the\lroughest waters in the world.
+3e5633|{C193C}Now, with KYOGRE as the crowning\nglory of this great adventure.\pNo one can stop me!
+3e5682|Impossible! Everything was perfect!\nKYOGRE!!
+3e56ad|{C193C}What is the meaning of this?!\pKYOGRE was at full strength. I've\nnever seen water attacks of such\lpower.\pWhere did you find the strength to\ndeal with this ancient power?\pMy whole plan can't go to waste like\nthis in a matter of seconds!
+3e57bd|{C1906}It already has, ARCHIE.\pYou'll never get this close to KYOGRE\nagain.
+3e5814|{C193D}Someone like you can't handle such\na POKéMON as if it were a toy.\pNow, KYOGRE will be back in\nthe right hands.
+3e5896|{C193C}The right hands?\nYou don't mean yours, do you?\pDon't make me laugh!\pYou know as much about KYOGRE as\nI know about land POKéMON!
+3e5922|{C193C}You're just an opportunist who…!
+3e5945|{C193D}FLOETTE!\lPSYCHIC!
+3e595d|-ZEUS took all of ARCHIE's POKéMON\nand the BLUE ORB from him-.
+3e59a9|{C193C}W{C080F}-{C080F}what am I doing here?
+3e59c7|{C193D}That's what we were wondering.\pThis cave holds nothing important.\nYour comrades talked about KYOGRE,\land a RED ORB that awakens it.\pBut that's in HOENN{C080F}…{C080F}
+3e5a81|{C193C}KYOGRE! Yes!\pI must find that RED ORB, there's\nstill much to do!\pWe're going back to HOENN!
+3e5add|{C193D}Now both ARCHIE and MAXIE are\ndestined to be incompetent. They\lwon't put anyone in danger.\pEven if they got the orbs back,\nthey'd be the wrong ones, so their\lwhole plan would fail all over again.
+3e5bb3|{C193D}Do you think it's unfair that I took\nthe teams they spent decades building?
+3e5c02|{C193D}It's necessary, {V01}.\pNow they only know about HOENN. What\nwould ARCHIE think if he saw he had\la POKéMON called WISHIWASHI?
+3e5c88|{C193D}Exactly, he'd start asking\nquestions, and the cycle would\lbegin again.
+3e5cc7|{C193D}Either way, they were\nboth wrong.
+3e5cf3|{C193D}More land, more water{C080F}…{C080F}\pHow stupid. Only the creator of\neverything has the power to decide\lthe fate of the planet as a whole.
+3e5d73|{C193D}I'm sorry, {V01}.\pBut I didn't tell you everything.\nIt's true I wanted to keep KYOGRE\land GROUDON out of their hands.
+3e5ded|{C193D}But not to keep them confined\nuntil the end of time{C080F}…{C080F}
+3e5e37|{C193D}ARCHIE and MAXIE thought they were\nchasing the greatest powers in this\lworld.\pBut{C080F}…{C080F} they worshipped false idols.
+3e5ead|{C193D}Just like you, {V01}.
+3e5ec2|{C193D}CHAMPIONS, LEADERS, MASTERS{C080F}…{C080F}\pThe same imperfection, the same{C080F}…{C080F}\nWeakness.\pThe modern POKéMON WORLD has lost\nits way.\pMore water, more land{C080F}…{C080F} absurd.
+3e5f74|{C193D}Any power you could aspire to will be\nnothing more than a tiny fraction of\lthe true origin of everything.\pI will show you.
+3e5ff5|{C193D}Nothing keeps me here anymore.\pJOHTO is my next destination. I\nsuspect there's something there that\lalso belongs to me.
+3e6063|{C193D}I hope, {V01}, it doesn't even\ncross your mind to try to oppose my\lwill. In our test battle, I didn't\luse more than 50% of my power.
+3e60f1|{C193D}I'd rather you didn't force me to use\n100% of my abilities, but I won't\lhesitate if you get in my way.
+3e6167|{C1920}ADMIN {V01}?\pAre you still in the SEVII ISLANDS?\pWe have many things to discuss.\nI require your presence in my\loffice as soon as possible.
+3e625e|That POKéMON is so fast and elusive\nthat nobody's managed to see it\lclearly, but we're assuming it's\la FLYING type.
+3e6314|In theory, our ELECTRIC and ROCK\nPOKéMON should stop that POKéMON,\lbut we can't even spot it.
+3e654c|{C1906}It's close, you can feel it too.\nCan't you, my loyal POKéMON?
+3e658a|{C193E}Oh, {V01}! You manage\nto be everywhere!
+3e65c2|{C193E}What do you think of this place?
+3e65e0|{C193E}Although nature has worn away most\nof the land, there are still remains\lof what looks like an ancient\lsettlement.
+3e6660|{C193E}Maybe older than the RUINS OF ALPH,\nwho knows? We know so little about\lour own region{C0819}…{C0819} and that's normal.\pBefore the vastness of time, we're\njust a single drop in the ocean.
+3e6726|{C193E}My THUNDURUS has been restless for\nweeks. It seems to be reacting to a\lpowerful presence whose source of\lenergy lies somewhere around here.
+3e67b8|{C193E}I decided to come here and\ninvestigate. I don't know if this\lPOKéMON is also a FLYING type, but\lits electric charge is enormous.
+3e6840|{C193E}I have to find out. As a bird expert,\nit's quite the challenge for me.\pAlthough{C0819}…{C0819}\pI have strong suspicions about what it\nreally is.
+3e68c6|{C193E}I'll carry on alone, {V01}.\pMy POKéMON are eager to face an\nopponent like this, and I don't\lwant to spoil their fun in a\lregion that's ever more predictable.
+3e69a4|Who was that guy? He dealt with me in\nno time using some weird bird.\pAnd here I was feeling safe with my\nROCK types. I don't even want to\limagine what would've happened if that\lother bird we're after had shown up{C0805}…{C0805}
+3e6d45|-PRIMAL ZAPDOS FLEW\nOFF TO THE EAST-
+3e6d88|{C193E}My suspicions were confirmed. So\nyou were here{C0805}…{C0805}
+3e6dc5|{C193E}You alone were enough to trouble 6\nbirds trained to the extreme.\pYour immense power lives up to your\nlegend, no doubt about it.
+3e6e4a|{C193E}{V01}{C080F}…{C080F} you missed a real\nhigh-flying battle.
+3e6e82|{C193E}I suppose you're curious to see what\nkind of POKéMON dwells in a place as\lsolemn as this.
+3e6ee9|{C193E}Don't worry, I've already made my\ndecision about my team. I just want\lyou to grant me this one last battle.
+3e6f59|{C193E}I won't make it as easy for you as\nthe first time!
+3e6f8c|You have the heart of the great\nmasters, no doubt about it.
+3e6fc5|{C193E}You were already a true master when\nyou first visited VIOLET, but now\lyou're even better.
+3e7027|{C193E}Look.
+3e7033|{C193E}The POKéMON before you is a ZAPDOS,\nbut not just any ZAPDOS.
+3e7079|{C193E}Unlike every other ZAPDOS, this one\nis unique. There's only one in\lthe world.
+3e70c7|{C193E}If you've fought PRYCE and the MASTER\nof BLACKTHORN, you'll have faced their\lcounterparts in ARTICUNO and MOLTRES.
+3e7138|{C193E}They're what we used to call\nPRIMAL FORMS. ZAPDOS was the only\lone of the 3 whose whereabouts had\lbeen unknown for decades.
+3e71bc|{C193E}It would be a dream come true\nto command such a POKéMON, even\lif just once.
+3e7211|{C193E}Good{C0819}…{C0819} I see you'll do me the honor. I\ncan't think of a better rival for it.
+3e7269|{C193E}ZAPDOS! Let's fly together!
+3e7286|Ah, magnificent!
+3e7296|{C193E}I'm not disappointed with ZAPDOS's\nlevel. If anything, I'm impressed by\lyours.
+3e72ea|{C193E}ZAPDOS is known as the most\naggressive of the 3 birds, and yet\lyou calmed its fury with absolute\lmastery.
+3e735f|{C193E}I've seen everything I could dream\nof. The time has come.
+3e7399|-FALKNER released LANDORUS, THUNDURUS,\nTORNADUS and ENAMORUS-.
+3e73d5|{C193E}We've had great adventures and\nlearned from each other, but your\lfeathers are far too beautiful to\lstay caged.
+3e745c|{C193E}You must return to your origins. I\nonly hope my humble part has made\lyou better.
+3e74c6|{C193E}VIOLET GYM will finally be passed\ndown to my son.
+3e7500|{C193E}As for me, I'll set off on a new\njourney with the birds that have been\lby my side all along.
+3e755e|{C193E}With you, JOHTO is in good hands,\nI have no doubt.
+3e7596|-My mission here seems to be over-.
+3e766c|SEVEN ISLAND GYM\nLEADER: ZOE\lThe cheerful lady who makes the\lextraordinary routine!
+3e7858|SWORDS DANCE sharply raises your\nATTACK.\pIf your POKéMON is already fast or\nhas good priority moves, it can end\lthe battle in no time.
+3e7903|{V01} received TM81 SWORDS\nDANCE from ZOE!!
+3e7936|Ha!\pYou thought that was all?\pI'll give you something else!
+3e7972|Aha! I see you've got heart, kid!
+3e7998|Back in the day, she was an expert in\nNORMAL and BUG POKéMON, many of\lwhich grew up here.
+3e79f5|I won't beat around the bush, I'm\ndying to see you battle. I always say\lnew TRAINERS are a bunch of softies\lwho give up at the first setback.\pProve me wrong!
+3e7ab0|So there's a new generation. About\ntime{C0805}…{C0805}
+3e7ad7|Ha! That ARCHER!\nHe sure kept you a secret!
+3e7b0c|My road is coming to an end, and\nyours is only just beginning. It's\linevitable, it's the way of life, but\lthat doesn't stop us from recognizing\leach other. Here, I want you to take\lcare of this little one.
+3e7bbf|YOU GOT A HISUIAN ZORUA AT LV. 50!
+3e7be3|Ah! And I almost forgot! Our old\nsignature badge.
+3e7c26|Here, take the\nMYSTERY BADGE.
+3e7c4b|This POKéMON hasn't been seen on the\nislands for almost 4 decades. I just\lgave you one hatched from an EGG of\lmy ZOROARK. I hope you take good\lcare of it.
+3e7cd8|Every mystery only opens a door to an\neven bigger one. The hidden will\lalways have a place in this world.\lThe day we know everything, we'll\lhave no purpose left. It'll be the\lend of the road.
+3e7dbf|Good heavens! You're clearly no\nordinary TRAINER. Nobody had ever\lmatched the physical power of our\lLEADER's URSALUNA. Apparently, her\lURSARING evolved during a trip to an\lancient place in JOHTO.
+3e7e8f|Our LEADER was and still is a NORMAL-\ntype specialist. If you go toe to toe\lwith her without FIGHTING-type moves,\lyou're in for a rough time. All her\lPOKéMON are very sturdy and hard\lto beat.\pGood luck!
+3e7f6b|I thought I'd never say this again,\nbut{C0819}…{C0819} welcome to the\lSEVEN ISLAND GYM!
+3e7fda|URSALUNA: GROUND/NORMAL\pHP: 130\nATTACK: 140\lDEFENSE: 105\lSP. ATK: 45\lSP. DEF: 80\lSPEED: 50\lTOTAL: 550
+3e80dd|It's an old newspaper article. It\nmust be at least 10 years old.
+3e8133|On the connection between JOHTO and\nARCHI7{C0805}…{C0805}
+3e8161|The SEVII ISLANDS are known for their\nrich wildlife and plant life, but it\lisn't unique in the world. Despite the\ldistance and climate, their species\lmatch those of the JOHTO region.
+3e8213|Some experts maintain this strange\ncoincidence is due to the link between\lthe RUINS OF ALPH and TANOBY RUINS.\lThese places must have laid the\lfoundations of today's wildlife and\lplant life, stemming from a single\lcivilization that settled both regions.
+3e830e|This happened millennia ago, and it's\nalso known that certain POKéMON could\lonce evolve into more developed\lforms, something the environmental\land cultural changes of recent\ldecades have made impossible for\lnew generations.
+3e83fe|Proof of this is the LEADER of SEVEN\nISLAND and the LEADER of THREE ISLAND,\lwho both have -ancient- POKéMON with\lthese traits. In their own words,\lobtaining such POKéMON on the islands\lis impossible nowadays. However, they\lbelieve certain places in JOHTO still\lpreserve the ancient species that\lboth regions, ARCHI7 and JOHTO,\lshared in the past.
+3e858d|When she was just a girl, our LEADER\nmade a long journey to JOHTO. She\lapparently explored its most remote\lplaces, and that's why some of her\lPOKéMON grew in a special way.
+3e8733|-The HARD DRIVE must be behind\nFUJI's painting. I should look\lthere-.
+3e87db|YOU GOT THE HARD DRIVE!!
+3e87f7|Do you want to go back outside?
+3e8b6b|{C190E}The security system is very\nsimple. Watch.
+3e8b9f|{C190E}To access the next rooms, the pairs\nof POKéMON held in the containment\lbooths must be defeated.
+3e8c21|{C190E}There are 5 booths like these\nin total. Once they're all off{C0805}…{C0805}
+3e8c70|{C190E}This door will open automatically.
+3e8c9a|{C1935}Which prototypes were used to\nguard the entrance?
+3e8cd6|{C190E}Every one we made up to the 1st\nGOLDENROD MEETING.
+3e8d0d|{C1921}Only those? We've made better\nones since then.
+3e8d4f|{C1931}We're talking about POKéMON\nwith 600+ BASE STATS, well spread, and\lgood abilities.\pThey were made to fight, and only a\nhandful of TRAINERS could get past\lthem.
+3e8e06|{C1921}Bah! They're not that impressive\nanymore. Everything moves on and\lstandards are surpassed every day.\lLook at your MEGA AERODACTYL. Its\lPRIMAL form is far more efficient.
+3e8eb4|{C1935}Don't exaggerate, BILL. You yourself\nthought you had no room left to\limprove before you had access to all\lthis technology and worked with us.\pStagnation will come, because we're\nnot infinite.
+3e8f78|{C190E}But{C0814}…{C0814} he does have a point.\pWhat was considered strong yesterday\nis mediocre today. When did a POKéMON\llike ZAPDOS stop impressing us?\pWhen did we stop thinking of TAUROS\nas such a fast POKéMON?
+3e905c|{C1935}What are you getting at, OAK?
+3e907d|{C190E}MEWTWO was special because it was\nthe first to arrive, the first to\lbe truly extraordinary.
+3e90dc|{C190E}But now, faced with this new legion\nof PROTOTYPES, they all are.
+3e9128|{C190E}Normalizing excellence means that,\nin the eyes of the observer, it isn't\lseen as such, even though biologically\land physiologically, it is.
+3e91c1|{C190E}In other words, if everyone is\nextraordinary…{C0805}
+3e91ef|{C190E}…then no one is.
+3e9211|SECURITY BOOTH: NO. 1
+3e9236|SECURITY BOOTH: NO. 2
+3e925b|SECURITY BOOTH: NO. 3
+3e9280|SECURITY BOOTH: NO. 4
+3e92a5|SECURITY BOOTH: NO. 5
+3e92ca|MAIN DOOR
+3e9679|-You woke up wild POKéMON!-
+3e969f|-BOOTH 2 has opened!-
+3e96bd|-BOOTH 3 has opened!-
+3e96db|-BOOTH 4 has opened!-
+3e96f9|-BOOTH 5 has opened!-
+3e9717|-The MAIN DOOR has opened!-
+3e9cd1|It has over 1,000 pages!
+3e9cfa|-How to achieve greater performance\ngains and surpass the STRONG\lBOND-.
+3e9d5e|NIDOGOD\pHP: 111\nATTACK: 172\lDEFENSE: 147\lSPECIAL ATTACK: 85\lSP. DEF: 115\lSPEED: 50\lTOTAL: 680\pTYPE: POISON/STEEL\pABILITIES:\nSHEER FORCE/ULT.ARMOR/STURDY\pFirst successful prototype using\nradio wave technology\l{C080A}…{C080A} …{C080A} …{C080A} …{C080A} …{C080A} Confirms a stat\lincrease of +150 over the original\lNIDOKING, beating NIDOKING-X by 50\lpoints with hardly any loss of\lefficiency.\pDesigned to act as a tank, it can\ntopple POKéMON that many others\lcouldn't, thanks to its armored\lDEFENSE and brute strength greater\lthan MEGA-GARCHOMP's.
+3e9fb2|MEWTWO-ARM\pHP: 106\nATTACK: 120\lDEFENSE: 140\lSPECIAL ATTACK: 164\lSP. DEF: 140\lSPEED: 110\lTOTAL: 780\pTYPE: PSYCHIC/STEEL\nABILITY: FILTER\lAfter many attempts, we managed to\lreproduce the +100 BASE STATS boost\lof prototypes X and Y in\lMEWTWO{C0819}…{C0819} without needing to create\la MEGA STONE. Thanks to its custom-\lmade armor, its defenses rise\lsharply and its offense rises\lslightly, at the cost of only some\lSPEED. Its physical offense is weaker\lthan its special offense; however,\lcertain tests suggest this may be\lwhere its greatest destructive\lpower lies{C0819}…{C0819} with the right\lcomplement{C0805}…{C0805}
+3ea36f|{C190E}What do you think, {V01}?
+3ea386|{C190E}However far we've come, we\nstill can't control phenomena\llike this.
+3ea3db|{C190E}I don't believe in these things, but\nit's as if nature were answering our\lattempts to reach its ultimate\llimits.
+3ea45a|{C190E}Reclaiming its decisive role. Nature\nhas the last word, and to punish us\lfor uncovering more than we should,\lit buries our progress.
+3ea4ea|{C190E}But{C0819}…{C0819} isn't this a sign we're on\nthe right path? That we're entering\lforbidden ground?
+3ea55e|{C190E}These are just the last thrashings of\na nature that can't stop the\linevitable, nothing more.\pAnd now, you'll recover even what\nit tried to destroy.
+3ea5ff|{C190E}We sent several scouts while you\nwere away. We managed to locate our\lunderground bunker through the\lvolcano, now dormant.
+3ea67f|{C190E}Your mission is to go into the\ndeepest part of the place. In its last\lroom is a painting of FUJI. Behind it\lis a hard drive with all the progress\lmade in the lab compiled on it.
+3ea73f|{C190E}Be careful. Some of our greatest\nadvances are down there, many still\lin testing. They won't even be\lpresented at the 2nd GOLDENROD\lCONFERENCE.
+3ea7e6|{C190E}I won't keep you any longer, {V01}.\pI hope you'll show once again\nwhy you're the best TRAINER.
+3ea86a|The volcano erupted just a week\nago.
+3ea8a6|BLAINE: What now? I think I'll\nreopen my GYM in the SEAFOAM ISLANDS.\lNo volcano's going to blow up there,\lthat's for sure{C0805}…{C0805}
+3ea99f|Some building, huh?\pEven so, SILPH HQ and GOLDENROD's\nRADIO TOWER are taller.
+3eaa02|JOHTO's ahead of us. Their radio\nshows are really good.\lCan KANTO do as well?
+3eaa72|We're all eagerly awaiting the\nradio shows they'll broadcast\lhere. What will they be like on\lthe upper floors?
+3eaaf1|People come from all over to pay\ntheir respects to departed souls.
+3ead12|{C1932}Oh, {V01}{C0819}…{C0819}\pWhat a joy to see you here.
+3ead3f|{C1932}Your organization is fascinating,\nreally…{C0823} you already had clones of the\lLEGENDARY BEASTS themselves.\pWorking from that base, along with my\nknowledge, has sped things up\lenormously.
+3eae09|{C1932}I'm glad I found you all. We're\ncrossing frontiers that seemed\limpossible.
+3eae5e|{C1932}I know you're not up to date on\nthese advances. Your job is pure\laction, but{C0819}…{C0819}\lI'll fill you in!
+3eaedc|It's no accident you beat the GRAND\nMASTER{C0805}…{C0805}
+3eaf09|{C1932}That's right, we've already\nmanaged to unlock the maximum\lpotential of one of the 3 LEGENDARY\lBEASTS, and even more amazingly:\lartificially simulate the STRONG\lBOND phenomenon.\pIsn't it great?
+3eafcb|{C1932}Even so, I couldn't beat you. Clearly\nthere's something sacred, spiritual…\la halo around you and your team,\lcreating a bond that's extremely hard\lto break. That kind of essence\lprotects you, but I wonder if it's\lonly the legend that feeds you, or if\lyou'd really fall once our greatest\lcreations are complete{C0805}…{C0805}
+3eb135|{C1932}So{C0823}…{C0823} you think I've abandoned\nmy roots? That there's no trace\lleft of those ancient POKéMON\lI used in our first battle?
+3eb1bd|{C1932}Look around you, {V01}.
+3eb1d9|{C1932}What was here just a few months\nago? Exactly, the POKéMON TOWER.
+3eb21e|{C1932}That place no longer exists, nor\nwill it ever again.\pEverything changes. Now there's\nthe RADIO TOWER.
+3eb272|{C1932}Who wouldn't want a super LEGENDARY\nBEAST that shows up even LUGIA and\lHO-OH?
+3eb2d0|{C1932}Given all this, it's pointless to\ncling to the same old POKéMON.\lWorking with your organization made\lme realize a harsh truth: anyone who\ldoesn't embrace change is doomed to\ldisappear.
+3eb3ae|LAVENDER TOWN CEMETERY
+3eb3d5|LAVENDER RADIO TOWER
+3eb5bf|How's the raid on the UNDERGROUND\nPATH going, sir? Count on us for\lanything you need.
+3eb65f|{C1922}We're sorry, sir. The radio tower\nneeds a few final touches before it\lofficially opens. Why don't you\lvisit the CEM…?
+3eb6ed|{C1906}We need backup!
+3eb708|{C1922}What's going on?!
+3eb71a|{C1922}The UNDERGROUND PATH eviction, it's\nall gone wrong.
+3eb754|{C1922}That can't be!
+3eb76a|{C1922}The BIKERS…{C0823} they've dug in\ninside. They've reopened the long\ltunnels that served as shelters\lduring the war…{C0819} and there's no\lway to get them out!
+3eb812|{C1922}We agreed with JOHTO's top brass\nto have everything closed before\lthe RADIO TOWER's opening.\pThis is unacceptable.
+3eb891|{C1922}Call SILPH HQ! Have them put you\nthrough to the PRESIDENT, we demand\lbackup…!
+3eb922|{C1922}I see, you want to handle it\npersonally. After all, the BIKERS\lhave been allies of TEAM ROCKET\lsince the beginning.
+3eb9a9|{C1922}We trust you to resolve this in\nthe best way possible.
+3eb9f2|{C1922}Come with me, HEAD ADMIN {V01}.
+3eba13|{C1922}You can't miss it. You must have\ngone through there plenty of times\lin your early days as a ROCKET. The\lUNDERGROUND PATH is a bit further\lwest. I'll wait for you there.
+3ebab5|Excuse me, sir. The LAVENDER RADIO\nTOWER is still in the early stages of\lconstruction. It won't take long,\lsince it's being built in record\ltime, but you'll have to wait a bit\lto go in.
+3ebbae|The POWER PLANT has been restored.\nThe MAGNET TRAIN and the RADIO TOWER\lnow depend on it.
+3ebc19|I saw several CUBONE in ROCK TUNNEL.\nThey must be the ones that fled the\lPOKéMON TOWER when it collapsed.
+3ebc8c|They're going to broadcast radio\nshows. They say one of them mimics\lthe sound of a POKé FLUTE. So cool!
+3ebd01|I've heard of a craftsman in AZALEA\nTOWN, in JOHTO, who makes custom\lPOKé BALLS. I want one!
+3ebd76|If you're going to explore a cave,\nalways bring REPEL. I love\lexploring, but I still haven't\lbeen through every cave.
+3ebe06|Some people are so cruel they\nabandon their POKéMON.\pGrandpa takes in the ones that\nhave no home and looks after them.
+3ebe8a|MR. FUJI lives here, but he's not\nhome right now. He must be at the\lCEMETERY.
+3ebee9|LAVENDER TOWN is a small, peaceful\nplace at the foot of the mountains.\lSince the RADIO TOWER was built, a\lfew more people have been coming.
+3ebf92|I think there are other POKéMON\ngraves here. There are many chambers\lonly MR. FUJI and longtime residents\lof LAVENDER TOWN can enter.
+3ec02c|I've come to pay my respects at the\nPOKéMON graves.
+3ec071|The POKéMON that lived with me{C0819}…{C0819} I\nloved them like my grandchildren.
+3ec133|{C192C}If there's one good thing about\nLAVENDER TOWN, it's so small\lthat everything's close by,\ldon't you think?
+3ec192|{C192C}I must say I'm very happy with how\nthe CEMETERY turned out. All the souls\lwere moved successfully. The problem\lis that{C0805}…{C0805}
+3ec22a|{C192C}It seems not all of them took kindly\nto the change of scenery. They're\lstill clinging to the old\lPOKéMON TOWER.
+3ec29b|{C192C}Maybe you can calm it. You went\nthrough something similar at the\lRUINS OF ALPH, didn't you?\pThe energy that's appeared here is\nvery powerful.
+3ec327|{C192C}Look, if you use the computer you\ncan reach the lower floors of the\lCEMETERY. Where else would the rest\lof the graves be?
+3ec3b7|{C192C}I'll wait for you below, {V01}. Find\nme on B2F. I'll be with the secretary\lon that floor. That's where the energy\lis concentrated.
+3ec4cf|{C192C}You can come back into the CEMETERY\nwhenever you like, {V01}. Though it\lwon't be the same. The new public face\lis the RADIO TOWER. For outsiders, this\lplace and its underground floors don't\lexist.
+3ec65b|{C192C}Looking back, I see how much\nKANTO has changed in so little\ltime.
+3ec6ac|{C192C}Not just LAVENDER TOWN. Have you\nseen ROCK TUNNEL?
+3ec6e1|{C192C}Since the CUBONE started migrating\nthere, its interior has changed\lconsiderably.
+3ec73e|{C192C}The truth is… something's troubling\nme. Though, sadly, I'm far too old\lto go investigating on my own.
+3ec7ba|{C192C}I know you're a busy man, and I don't\ndeserve to ask any more of you. But if\lyou have a moment, it would make me\lvery happy if you'd join this old man\lon one last adventure.
+3ec859|{C192C}Talk to me when you have time,\n{V01}.
+3ec87e|{C192C}Tell me, would you join this poor\nold man on his last adventure?
+3ec8c1|{C192C}Don't worry, I'll keep waiting. It's\nsomething I've learned to do very well.
+3ec913|{C192C}Oh, {V01}.\nYou've no idea how happy\lthat makes me!
+3ec93f|{C192C}Then I'll wait for you at the foot\nof ROCK TUNNEL. See you there.
+3eca4c|{C192C}I was right to ask for\nyour help.
+3eca71|{C192C}Without your battle with GUARDIA, my\nMAROWAK wouldn't have stood a chance\lof bringing it to its senses.
+3ecadd|{C192C}And not just that. Thanks to you,\nKANTO has gained a young, magnificent\lLEADER.
+3ecb32|{C192C}It's a secret, but… I accidentally\nuncovered one of your secrets\ltoo.
+3ecb81|{C192C}I feel indebted to you, and the most\nvaluable thing I have to give is this.
+3ecbcf|{V01} got a Lv. 90 MEW!!
+3ecbed|{C192C}Don't go crazy now, {V01}.\pOf course it's not the real\nMEW, ho ho ho!
+3ecc43|{C192C}As thanks for building the\nCEMETERY, GIOVANNI gave me this\lclone.
+3ecc98|{C192C}With MEWTWO as an option, cloning\nMEW doesn't make much sense.

@@ -238,3 +238,119 @@
 3a37e3|$400,000 transaction for a\nCHARMANDER closed.\pThis is going swimmingly{C0805}…{C0805}
 3a3832|How did you get in here?\pAnyone who endangers the health\nof our business will be wiped off\lthe map.
 3a38a1|No, wait!
+3a3900|We're just privately meeting a\ndemand from the public.\lGot a problem with that?
+3a3960|Everyone has a price.\pEven you!
+3a39a6|This place doesn't exist on\npaper, but the money it makes\lsure does!
+3a39f9|So now you're one of our main\nshareholders, huh? Guess that\lmeans I work for you now too.
+3a3a8a|Look at all these POKéMON!\pMy job is to keep them in top\nshape for when they get sold!
+3a3aea|The other day we sold our\nstrongest TYRANITAR to some guy\lwho's apparently rising fast\lin TEAM ROCKET.\pHe paid $1,250,000 for it!
+3a3b9b|If they used a couple of MACHAMP,\nme and my buddies would be out\lof a job here. But out of all the\lPOKéMON they've got, as luck\lwould have it, there's not one.\pBetter for us!
+3a3c54|So you're a shareholder in the\ncompany?\pI hope you don't suggest buying\nMACHAMP for logistics!
+3a3cde|…\n…\l-He's asleep!-
+3a3cf3|Where'd you come from?\pDid I miss something?
+3a3d60|{V01} got a Lv.50 LITLEO!
+3a3d7f|This POKé BALL contains a LITLEO.\nIt seems to belong to the nobility\lof some faraway region.\pWill you take the POKéMON?
+3a3e37|What you think of yourself carries\nmore weight than what others\lthink of you.
+3a3ea4|Chaos and disorder test whether\nyour path rests on solid\lprinciples and a hidden purpose.
+3a3f19|The obstacle is not a rock in the\npath. The obstacle is the path.
+3a3f6c|Our brothers at SPROUT TOWER\ndiscovered the virtues of bonding\lwith a POKéMON almost 1,000 years\lago.\pWe did, long before them.
+3a3fff|Our POKéMON? They belong to\nancient JOHTO. You'll never see\lthem outside this area.
+3a40ab|AKUERIA\pHP: 122\nATTACK: 126\lDEFENSE: 102\lSP. ATK: 135\lSP. DEF: 74\lSPEED: 82\lTOTAL: 641\pTYPE: WATER/DRAGON\pABILITIES:\nNO GUARD/STRONG JAW/DRAGON'S MAW\pThought extinct until recently,\nit masters every elemental move\land can use them without missing.\lIts base stat total reaches 641,\lquite a discovery considering\lARCANINE, at 555, has always been\lseen as the strongest NON-\lLEGENDARY overall in KANTO-JOHTO.
+3a429b|BOOHOO\pHP: 120\nATTACK: 55\lDEFENSE: 65\lSP. ATK: 116\lSP. DEF: 126\lSPEED: 60\lTOTAL: 542\pTYPE: PSYCHIC/FLYING\pABILITIES:\nMAGIC GUARD/TINTED LENS/COMPOUNDEYES\pIt's said NOCTOWL can evolve into\nit under very specific conditions\lof symbiosis and total balance,\lwith both its TRAINER and its\lsurroundings.\pIts psychic powers are highly\nadvanced. It can store every\lmemory it has lived through and\ltransport itself into them, as\lif it were there as a mere\lobserver.
+3a449b|The column supporting DUN TOWER is\nextremely thick and sturdy, more\lso than JOHTO's other pagodas.\lIt was built this way for one\lreason only: to preach its message.\lThe more work you put into your\lfoundation, the higher you can go.
+3a4594|The SACRED STONE{C0819}…{C0819} So you got\none? It reacts to certain JOHTO\lPOKéMON that once evolved simply\lby being exposed to an environment\lthat no longer exists, not even\lhere.
+3a466b|We work too hard and try with\ntoo much force, but the secret\lto fulfillment is right there,\lstaring us in the face.
+3a46f5|You two are good, but you could be\nmagnificent, you and your friend.\lYou still have a way to go.
+3a475d|Never was there an eagle so foolish\nas the one who took lessons from\lthe filthy crow.
+3a483a|IKARY\pHP: 65\nATTACK: 125\lDEFENSE: 95\lSP. ATK: 35\lSP. DEF: 75\lSPEED: 95\lTOTAL: 490\pTYPE: WATER/STEEL\pABILITIES:\nSTEELWORKER/DRY SKIN/STRONG JAW\pIt's related to CARVANHA's\nevolutionary line, though its\lbrain is far more primitive. Its\lSTEEL TYPE makes it a fearsome foe.\pIt will take on any rival with\nsheer nerve, never weighing the\lconsequences, with nothing to lose.\lThat's why everyone tends to get\lout of its way.
+3a4a1a|PURAKKUSU\pHP: 75\nATTACK: 165\lDEFENSE: 120\lSP. ATK: 45\lSP. DEF: 70\lSPEED: 75\lTOTAL: 550\pTYPE: BUG/GHOST\pABILITIES:\nINTIMIDATE/MOLD BREAKER/CURSED BODY\pA member of PINSIR's family, it's\nthought to be an ancient adaptation\lthat tipped the PINSIR-HERACROSS\lrivalry.\pIt's unclear whether it did so\nthrough adaptation or by offering\lits soul to a powerful GHOST-TYPE\lPOKéMON.\pHowever, most PINSIR couldn't\nsustain this adaptation in their\lbodies, and it died out.
+3a4c20|Emotion decides, and reason\njustifies. You think it was your\lown will, but it's just an illusion!
+3a4c95|It's more tiring to make the effort\nto stop doing something you were\ldoing than to keep doing something\lyou were already doing.
+3a4d1d|Under the pretext of equality, the\nslaves band together in communes\lof power to drag their superiors\ldown into mediocrity.
+3a4dac|We lost all contact with the rest of\nJOHTO long ago. Even with the other\ltwo pagodas. Back when BRASS TOWER\lstill stood, this was considered\lthe first of the region's 4 pagodas.
+3a4efc|TAABAN\pHP: 95\nATTACK: 95\lDEFENSE: 180\lSP. ATK: 85\lSP. DEF: 55\lSPEED: 30\lTOTAL: 540\pTYPE: WATER/GHOST\pABILITIES:\nCURSED BODY/SKILL LINK/REGENERATOR\pThe SHELLDER clinging to SLOWBRO\ngains a mind of its own after\lSLOWBRO dies, absorbing some of\lits abilities. The result: a\lhybrid of CLOYSTER and SLOWBRO,\lslightly stronger than both of\lthose sea POKéMON.
+3a509c|BOMUSHIKAA\pHP: 90\nATTACK: 65\lDEFENSE: 80\lSP. ATK: 102\lSP. DEF: 112\lSPEED: 80\lTOTAL: 529\pTYPE: WATER/FIRE\pABILITIES:\nWATER ABSORB/PURIFYING SALT/\lADAPTABILITY\pIt belongs to the same family\nbranch as DEWGONG and WALREIN, but\ltrades the ICE TYPE for FIRE.\pWATER ABSORB makes it immune to\nWATER-TYPE moves, while it can\lunleash powerful FIRE moves.
+3a523a|MADAAMU\pHP: 77\nATTACK: 145\lDEFENSE: 95\lSP. ATK: 63\lSP. DEF: 82\lSPEED: 85\lTOTAL: 547\pTYPE: GRASS/FLYING\pABILITIES:\nINTIMIDATE/SUPER LUCK/SHARPNESS\pThe GRAND MASTER of CHARCOAL in\nAZALEA once had one. Its moves are\lso precise and harmonious that it\llands critical hits on its foes\lwith astonishing frequency.
+3a539e|Frugality strengthens the spirit\nin its pursuit of virtue.
+3a53eb|The SACRED STONE reacts to many of\nJOHTO's classic POKéMON, and a few\lothers: NOCTOWL, URSARING,\lGIRAFARIG, STANTLER, BISHARP,\lPRIMEAPE and DUNSPARCE, to name\la few.
+3a54ae|The ceiling for POKéMON is higher now.\nOnly the wisest and most seasoned\lwill have noticed. Have you felt it?
+3a5530|For fear of being wrong, they make\nthe worst mistake of all: denying\lthemselves the chance to be right\lor wrong.
+3a559c|Your attitude matters above all\nelse. It can change trends that\lseem inescapable.
+3a560e|ENTEI, RAIKOU and SUICUNE. Their\nnames are no accident. They're an\lextension of other, older POKéMON.
+3a56fb|EN:\pHP: 85\nATTACK: 152\lDEFENSE: 75\lSP. ATK: 116\lSP. DEF: 137\lSPEED: 85\lTOTAL: 650\pTYPE: FIRE\pABILITY: SHEER FORCE\pAn ancient POKéMON, passed down\nthrough the generations to the\lGRAND MASTER of JOHTO's third\lpagoda.\pIt was once a FLAREON whose bond\nwith its TRAINER reached perfect\lbalance.
+3a585d|SUI:\pHP: 152\nATTACK: 85\lDEFENSE: 75\lSP. ATK: 137\lSP. DEF: 116\lSPEED: 85\lTOTAL: 650\pTYPE: WATER\pABILITY: MAGIC GUARD\pAn ancient POKéMON, passed down\nthrough the generations to the\lGRAND MASTER of JOHTO's third\lpagoda.\pIt was once a VAPOREON whose bond\nwith its TRAINER reached perfect\lbalance.
+3a59bd|RAI:\pHP: 85\nATTACK: 85\lDEFENSE: 75\lSP. ATK: 137\lSP. DEF: 116\lSPEED: 152\lTOTAL: 650\pTYPE: ELECTRIC\pABILITY: NO GUARD\pAn ancient POKéMON, passed down\nthrough the generations to the\lGRAND MASTER of JOHTO's third\lpagoda.\pIt was once a JOLTEON whose bond\nwith its TRAINER reached perfect\lbalance.
+3a5ba0|{C1932}So you made it to the top\ntoo.
+3a5bce|{C1932}Your friend is battling our master,\nbut don't worry. He'll battle you\ltoo.
+3a5c2f|{C1932}I didn't tell you before, because I\nthought we'd never meet again, at\lleast not like this, with you at the\ltop of this place, but{C0805}…{C0805}
+3a5cba|{C1932}One of the reasons I'm so\ninterested in the LEGENDARY\lBEASTS is that our GRAND MASTER\lhas 3 POKéMON that are far\lolder, but with similar\lcharacteristics.
+3a5d82|{C1932}In recent weeks, he saw these\nPOKéMON's power grow, after it\lhad stayed unchanged for\lcenturies in a supposed state\lof perfection.
+3a5e23|{C1932}He believes the earthquake at the\nRUINS OF ALPH, and what happened\lthere that day, are behind it.
+3a5e9c|{C1932}Perhaps your presence here can\nshed some light on these matters,\ldon't you think?
+3a5efa|{C1932}We'll be waiting upstairs.
+3a5f1f|It's not about making the maximum\neffort, but the optimal effort that\llets us keep improving one more day.
+3a5f9c|People feel such a need to point\nout flaws because it hurts so much\lto be outdone in virtues.
+3a6025|SACRED DRAGON\pHP: 163\nATTACK: 2\lDEFENSE: 103\lSP. ATK: 157\lSP. DEF: 193\lSPEED: 109\lTOTAL: 727\pTYPE: DRAGON/PSYCHIC\nABILITY: PSYCHIC SURGE\lLegend says it arose from a\lDUNSPARCE that was scorned and\ljudged by all other POKéMON.\lBecause of that, and its unbreakable\lwill, it managed to transcend its\llimited form.\lHow and why this happened remains\lan utter mystery.
+3a6554|{C1952}You have talent, will and\nspirit, young one. But you lack\ltemperance. Without it, you will\lnever unlock your full potential.
+3a65ce|{C1952}Your training ethic is\nremarkable. You know your limits,\land you work to overcome them\ltime after time. But without that\ltemperance in a real battle, you'll\lnever reach the level your\ltraining deserves.
+3a66d3|{C1952}I was never in danger in that\nbattle.\pYou thought you were in control,\nsimply by using a power that is,\lby its nature, uncontrollable.
+3a6752|{C1907}I see.\pI'll try to find that middle\nground, hard as it is to find.
+3a679c|{C1952}Hmm, {V01}, is it?\pCome closer, please.
+3a67c2|{C1952}You give off an aura much like\nANDRA's, though calmer, less\lfrantic.
+3a6819|{C1952}Hmm, very well{C0819}…{C0819} show me how you\nbond with your own.
+3a6858|Oh! Such mastery{C0805}…{C0805}
+3a6871|{C1952}Now I understand why the\nSACRED DRAGON appeared twice.\lYou both share a similar bond\lwith one of your POKéMON.\pThe SACRED DRAGON saw them as\na single body.
+3a6927|{C1907}You mean our CROBAT?\p{V01} and I got one on the same day.\nThey've grown a lot since then.
+3a698f|{C1952}Oh, yes!\pIndeed. The point is that your\nstyles as TRAINERS have shaped\lhow your CROBAT finally grew.
+3a6a11|{C1952}Do you understand? You've shaped\nyour POKéMON's reality through\lyour will and your consciousness.\pOnly a handful of TRAINERS could\ndo that.
+3a6ab4|{C1952}Yours is an example of the\nendless possibilities that exist\lfor every POKéMON, just like{C0805}…{C0805}
+3a6b22|{C1907}Your STRONG BOND\nJOLTEON, FLAREON and VAPOREON?
+3a6b66|{C1907}That's why EUSINE is so interested\nin the LEGENDARY BEASTS, right?
+3a6bb0|{C1952}We don't use that term here,\nyoung one.
+3a6bd6|{C1952}EN, RAI and SUI were the first\nPOKéMON to know a bond like your\lCROBAT's. Over 1,000 years ago,\lthe first GRAND MASTER of this\ltower achieved that bond with 3\lPOKéMON at once. 3 POKéMON that\lwere primitive forms of FLAREON,\lJOLTEON and VAPOREON.
+3a6ced|{C1952}The difference with ENTEI, RAIKOU\nand SUICUNE is that those three\lcame from divine intervention.
+3a6d53|{C1932}And even so, they're weaker\nthan those born from the bond\lbetween humans and POKéMON.
+3a6dbc|{C1952}A very powerful bond indeed.\pTell me, what kinds of forces have\nyou faced on your journey in JOHTO?
+3a6e2a|{C1907}The greatest that could exist.
+3a6e4f|{C1907}I faced the golden HO-OH in the\ndepths of the RUINS OF ALPH.
+3a6ec2|{C1952}Just as I feared. Facing\nsomething of that caliber has\lstretched the laws of our world.
+3a6f29|{C1952}Perhaps it's an anomaly. Perhaps a\nblessing. That being may have done\lthis out of gratitude for its\ldefeat, even though it was bound\lby our rules. That POKéMON may have\lgranted part of its limitless\lpower to mortals like us.
+3a701d|{C1932}So now the new limit is a\nmystery, then?
+3a7055|{C1952}Ho ho ho! As it should be,\ndon't you think, EUSINE?
+3a709d|{C1952}You're both so young, still\nunaware of all you can give,\land of how much life you have\lahead of you.
+3a710f|{C1932}I'll be going now.\p{V01}, I'd like you to visit my\nlittle house north of CIANWOOD\lagain. I have a proposal for you.
+3a718a|{C1907}I'll be off too. It was an honor\nto battle you, master.
+3a71cd|{C1907}As soon as we finish our missions,\nwe should go straight to\lGIOVANNI. All this information is\ljust what we've been looking for.\pGood luck with the rest,\n{V01}.
+3a728d|Do what you must. My time has\npassed, and I won't oppose the new\lchanges. I hope EUSINE can help\lyou with your goal. If he does,\lit'll be a sign that he's pure.
+3a738b|DUN\pHP: 153\nATTACK: 44\lDEFENSE: 66\lSP. ATK: 117\lSP. DEF: 122\lSPEED: 99\lTOTAL: 601\pTYPE: DRAGON/PSYCHIC\pABILITIES:\nPSYCHIC SURGE/MULTISCALE/SERENE GRACE\pThe evolution of BLESSPARCE. Only\nthe chosen can reach it.\lIt has the makings of a PSEUDO-\lLEGENDARY, but its attributes as a\lwhole show an even higher rank.\pThe ancients named it the NON-\nLEGENDARY with the greatest raw\lpotential, setting aside things\llike MEGA EVOLUTION and STRONG BOND.
+3a7582|SAFFRON is ridiculously far away.\nThe worst part will be crossing\lthe mountains on ROUTES 26\land 27.
+3a75fe|You don't often see someone of\nyour status come down to the\larena and get their pants dirty\llike the rest of us.\lThat's the spirit!
+3a7685|The MAGNET TRAIN will be a\nturning point in making JOHTO a\ltechnological power, but for\lthat to happen, people like me\lhave to slave away under this\lscorching sun.\lEverything has a price!
+3a7758|GOLDENROD and SAFFRON will be\nlinked by the MAGNET TRAIN, it's\linevitable!\pIn two years it'll all be ready!
+3a77cd|There's still lots of work before\nwe reach SAFFRON!\lCome on, keep going!
+3a781c|This boss…\nIf he picked up a pick and\lhelped us, maybe we'd go\lfaster{C0805}…{C0805}
+3a7888|One… two…\nOne… two…\lPatience and persistence. Head\ldown, start digging, and bam!\lSAFFRON in sight!
+3a7ac7|How's it going? Feel free to look\naround this floor.
+3a7b04|What do you think of the new\nRADIO TOWER? Did you ever visit\lPOKéMON TOWER before it was torn\ldown?
+3a7b77|Welcome, MR. HEAD ADMIN. Everyone\nhere is at your service for\lwhatever you need. I'll escort you\lto the upper floors if you wish.
+3a7c17|Lots of people work hard at the\nRADIO TOWER. I'm sure they're doing\ltheir best to put out good shows,\lthough I've never had the chance\lto go up to the top floors.
+3a7cdf|Cheer up your POKéMON with the\nmelodious sounds of the\lPOKé FLUTE on Channel 20
+3a7d39|1F - Reception\n2F - Production & Sales\l3F - Director's Office\l4F - Rooftop
+3a7f1c|{C1922}Sorry, but you can only look\naround the ground floor. Ever since\la criminal gang raided SILPH HQ,\lwe've had to tighten our security.
+3a7fc3|{C1914}Aww! I was so excited to see\nthe upstairs floors!\pYou can't get into SILPH anymore\neither. KANTO's so empty!
+3a803d|{C1922}KANTO's more full than ever{C0819}…{C0819}\nfor the right people.
+3a8083|{C1922}We've been expecting you, HEAD\nADMIN {V01}. We've prepared an\lopening ceremony on the roof.\lFeel free to visit the upper\lfloors whenever you like.
+3a8129|I work for SILPH too. They moved me\nhere to sort out some documents on\lmagnetic waves or something. But I\lcan't go up and see what they're\ldoing on the upper floors.
+3a81f3|All it took was mentioning the\nword <security>, and everyone\lnods along like little lambs.\lThat word has become the modern\lworld's wild card to justify any\lrestriction, however\ldisproportionate.
+3a82dd|The graves were moved to the\ncemetery in the south. They built\lhuge underground catacombs to\lhold them all.
+3a8369|At a certain frequency, the radio\nwaves we work with turn exposed\lPOKéMON into <Shinies>. Here we\lonly care about raw BASE STAT\lboosts, but it could be handy for\lgiving people the odd scare.
+3a8466|Controversy is a lucrative form of\nentertainment, because you can use\lunpaid and extremely motivated\lactors.
+3a84f4|How do you think that RED kid would\nreact if he could come up here and\lsee the supposedly disbanded TEAM\lROCKET doing as it pleases?\p… … … …\pExactly!\pHis whole reality would come\ncrashing down!\pIn one stroke, he'd see the world\nas it really is!
+3a85e3|NIDOKING and NIDOQUEEN have already\nreached their full potential, thanks\lto their X and Y forms. Maybe if we\lcombined their genes, we could get\lsomething even better{C0805}…{C0805}
+3a86be|2F Sales & Production
+3a86de|-With the will of the immature,\ngreat things can be achieved-.
+3a8730|POKéMON RADIO is just a front, but\nI must admit it's fun. It'll keep\lall the citizens entertained from\lnow on.
+3a87c1|Do you think we'll be able to\ncontrol the power we're creating?\lIf that MEWTWO escaped years ago,\lnow, with even greater power,\lI don't know{C0805}…{C0805}
+3a886a|Sometimes truth is stranger than\nfiction. Not even the wildest\ltheories could imagine TEAM ROCKET\lworking in the RADIO TOWER in\lLAVENDER TOWN. Best of all, we used\lour own raid on SILPH as an excuse\lso nobody pokes their nose into the\lupper floors!
+3a899c|We're going to create a POKéMON so\npowerful every region will fear us.\lI know it's for defense against an\lattack, but{C0819}…{C0819} with a weapon like\lthat, we could invade any region!
+3a8a60|The downsides of change weigh more\nthan the upsides, creating a bias\lthat favors the status quo. That\ldidn't stop the fantastic feat of\lengineering you're standing on\lfrom becoming a reality.

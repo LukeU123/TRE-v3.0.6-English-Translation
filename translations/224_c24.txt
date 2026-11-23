@@ -120,3 +120,147 @@
 3d1f95|Serenity to accept the things\nthat are beyond our control.\pCourage to change the\nthings we can.\pWisdom to know the\ndifference.
 3d202d|We humans can avoid our\nresponsibility without realizing\lit, look the other way precisely\lso as not to recognize the danger,\lpretend it doesn't exist just to\lstay sane.
 3d2104|Sometimes you reach a point where\nyou can only make sense of who\lyou've been by reaching the end\lof the wrong road.
+3d2651|{C1906}Accept, O creator of all,\nour humble sacrifice as a token\lof our respect and gratitude.
+3d26b1|{C1906}There is no regret, no fear.\pOnly the peace of knowing for\ncertain that your soul will once\lagain become part of the whole.
+3d272d|{C1906}While we await your return, we\nshall remain hidden and faithful\lto your will, creator of KANTO.\pLet it begin!
+3d27b1|{C1906}We shall keep your essence alive\nin our minds, lord of KANTO.
+3d27f5|{C1906}You are not part of this cult…\nonly a handful of people have ever\ldiscovered this place, and none\lof them has ever returned to the\loutside world.\pDo you know what that means?
+3d289a|{C1906}We cannot let you leave. The\nworld must not know this place\lexists, and so{C0805}…{C0805}
+3d28fe|{C1906}So{C0805}…{C0805}\nYou are the current CHAMPION of\lthe KANTO region?\pAnd you seek the\nESSENCE POKéMON?
+3d2965|{C1906}I am well aware of what happens\noutside, -CHAMPION-. From here we\lsee everything. We know what KANTO\lhas been through, and of LANCE's\lfall.\pWhat you people cannot see is\nyour own limited way of thinking.
+3d2a4c|{C1906}Every question you ask about the\nESSENCE POKéMON is meaningless by\lyour standards.\pDo you think it is a POKéMON that\ncan be found?\pThat it can be caught and shown off\nlike any other of your POKéMON?\pDo you truly think you can measure\nits power against other POKéMON?
+3d2b5c|{C1906}You may have defeated LANCE,\nbut you are still a beginner when\lit comes to the laws that govern\lthis world{C0805}…{C0805}
+3d2be4|{C1906}In the end, all of you seek\npower. What you do not know\lis{C080F}…{C080F} that true power goes to\lthose willing to kneel before it\land, with humility, receive it.\pIt must come as a consequence of\nvirtue, never as an end in itself.\pWatch{C0805}…{C0805}
+3d2cf9|{C1906}I could make you vanish right\nnow in the blink of an eye, but it\lwould be unfair of me to unleash\lthe power and wisdom of countless\lgenerations upon someone like\lyou, who never had access to it.
+3d2dea|{C1906}I have a feeling you are not like\nthe others. You might yet come to\lappreciate what truly matters.
+3d2e5d|{C1906}If you can go beyond what you\nshowed in your battle with LANCE,\lI will not only give you the chance\lto return to the outside; I will\lalso tell you about the\l-ESSENCE POKéMON-.
+3d2f15|{C1906}That's right, knowledge that\nhas never left this place.
+3d2f4d|{C1906}I will not use my most advanced\narts, TRAINER, nor the POKéMON\lthat have come closest to supreme\lknowledge.\pA tiny fraction of my power will\nbe enough to see whether or not\lyou have what it takes.
+3d3029|{C1906}Show me, CHAMPION, whether you\ncan see beyond everything that\lsurrounds you!
+3d3078|Interesting.
+3d3085|{C1930}Despite all the mediocrity in\nKANTO, your will has not been\lshaken by circumstance.
+3d30f5|{C1930}You are a special case, no doubt.\nWith these POKéMON, I doubt more\lthan 2 or 3 people in all of KANTO\lcould have come out on top.
+3d317d|{C1930}You have earned the right to return\nto the outside, on the condition\lthat you tell no one what you have\lseen here{C080F}…{C080F}
+3d31f4|{C1930}{C080F}…{C080F} except the one other person\ncapable of beating this power.\pYou will know them when you\nsee them{C0805}…{C0805}
+3d3258|{C1930}As for the ESSENCE POKéMON, yes,\nwe worship it here.\pThe sacrifice you just witnessed\nwas in its honor. However, we\lneither intend nor are able to\l-see- or -possess- such a POKéMON\las if it were just another one.\lThat is not possible.
+3d333c|{C1930}But I will give you the knowledge\nby which it is, in theory,\lpossible to summon that POKéMON\land make it take material form{C0805}…{C0805}
+3d33c4|{C1930}Two POKéMON must be brought\ntogether. Not just any two POKéMON.\pThey cannot be found in KANTO,\nyet their origins, history and\ltraditions are closely bound to\lKANTO and to the ESSENCE POKéMON.
+3d3495|{C1930}We speak of LUGIA and HO-OH,\nwhose whereabouts are unknown.\pLegend says that bringing these\ntwo LEGENDARIES together would\ltrigger a reaction, born of contact\lbetween two creatures that took\lpart in creating KANTO and JOHTO.\pWitnesses to the age-old\nbrotherhood of both regions.
+3d35b2|{C1930}That reaction would force -HIM-\nto take form as the ultimate\lcreator of all that is known.
+3d360f|{C1930}How and where?\nThat is for you to discover.
+3d363a|{C1930}And that is all. I hope you grasp\nthe magnitude of this knowledge,\land that you use it wisely.
+3d36a1|{C1930}I have nothing more to tell you.\nWhen you are ready to return\lhere, you will know. Until then,\lyou have a long road ahead of\lyou… and I hope you enjoy it,\lfor in the end, it is all\lyou have.
+3d37bb|-A terrible aura keeps you\nfrom going any farther-.
+3d37f4|Our shepherd's DELPHOX is the\nonly one that can fly.\pIt transforms and can cross the\nentire cult in minutes.\pI don't think anything escapes its\nsight, not even the inside of our\lhomes, lit by its flames.
+3d38e1|The essential is already known,\nsymbolically and intuitively.
+3d3930|The other day someone read my\nfortune in the embers DELPHOX's\lflames left in our hearth.\pThey didn't foresee a bright\nfuture, but they told me it\ldoesn't matter, because the\lESSENCE POKéMON judges us by what\lwe do with what we have.
+3d3a35|So… there is purification in\npunishment.\pNow I understand. That's why\nwe make sacrifices.
+3d3aa2|For some TRAINERS, nothing is\nwritten unless they're the ones\lwho write it.\pAre you one of them?
+3d3b0e|Thought always gazes toward\ninfinity.\pWe are finite, but we have the\ncosmic privilege of being able\lto open ourselves to infinity.
+3d3ba4|They say the power of the ESSENCE\nPOKéMON knows no limits, because\lthe ESSENCE POKéMON itself forms\lthe limits of all known reality.\pI wonder{C080A}…{C080A}\pIf someone dared to cross those\nlimits{C080A}…{C080A}\pWould the ESSENCE POKéMON\nexpand them?\p{C080A}…{C080A} …{C080A} …{C080A} …{C080A}\pNo. That's impossible, because\nthat limit is already infinite\lby definition.\pRight?
+3d3d08|"Behind every exquisite thing that\nexists, there is something tragic."\p"Worlds must suffer so that\nthe humblest flower may bloom."
+3d3db3|When we are happy, we are always\ngood, but when we are good, we\lare not always happy.
+3d3e25|To test Reality, we must see it\non the tightrope.
+3d3e6d|That's what my daddy always tells\nme, and I love walking along that\ltightrope!
+3d3f3d|My daughter's gone out. She likes\nexploring the cult.
+3d3f72|She knows not to wander too far or\ngo to other levels. Evil spirits\ltwist the will of children more\leasily.
+3d3ff4|But she's not like the other kids,\nand I don't want to limit her\lpotential.
+3d403c|Even so, I'm worried.
+3d4057|My daughter told me everything.\pSPIRITOMB is an unwelcome POKéMON\nin our cult. We thought we'd\lgotten rid of them all.
+3d40c7|Your intervention has changed our\nfamily's fate. The ESSENCE POKéMON\lwill decide if for better or worse.
+3d4137|PHANTOM FORCE hides the POKéMON\nfor one turn, then it strikes\lhard.
+3d418b|During that turn, the POKéMON is\ncompletely untouchable.\pThat SPIRITOMB must have been\nhiding like that all this time.
+3d41f9|My little girl smiles for no\nreason at all, and I love it.
+3d4239|Maximizing pleasure inevitably\nleads to reducing it.
+3d4294|The hearths indoors are lit with\nthe flames of our shepherd's\lDELPHOX.\pThey're no ordinary flames; they\nkeep evil spirits away from\lthe home.
+3d4348|Sometimes all it takes is a single\nvictory to change our lives and\lour outlook; we can't desire what\lwe can't imagine.\pOnce you've tasted salvation,\nyou'll fight like crazy for it.
+3d442e|SILPH?\pUnderground rooms and endless\noffices where people work\lnonstop?\pOnly a slave measures their\nexistence by productivity.
+3d461b|La-la-la-la!\pI'm gonna be the best CULTIST\never!\pMy FENNEKIN will soon be a\nDELPHOX like no other!\pThe cult's YVELTAL will bow\nbefore my skill!\pThe ESSENCE POKéMON is watching\nme and…!\pImmortality awaits me!\pLa-la-la-la!
+3d4700|SPIRITOMB? … Oh, no!\pHelp!
+3d4723|Wh-who are you?\pAre you the herald of the\nESSENCE POKéMON?
+3d4753|I knew it! You saved me!\pIt's a sign!
+3d477e|My parents have to hear about this.\pRight, FENNEKIN?
+3d47bd|Forms are born and die, but you\nare aware of the eternal that lies\lbehind those forms.\pNothing real can be threatened.
+3d4848|We are confined to a plot of land\nthat marks off a vastness already\lbeyond our grasp.
+3d48a8|Your main task is not to seek\nsalvation by creating a better\lworld, but to awaken from\lidentification with form.
+3d493b|The ESSENCE POKéMON{C0819}…{C0819}\nDoes it have a set type?\p{C0819}…{C0819} Could it be GHOST?\pMaybe it's a mix of that\nand something else{C0805}…{C0805}
+3d49c9|The process of change is imminent.\nThe JOHTO and KANTO regions\lwill never be the same again.\pAre you ready?
+3d4a49|Decline begins when dreams are\nreplaced by memories, and ends\lwhen memories are replaced by\lother memories.
+3d4be0|Our essence is to lack essence\nand, at the same time, to be able\lto build it in potential.\pWe are pure possibility, that is,\na nothing that is potentially\leverything.
+3d4c7f|While others only aspire to see\nfarther or subdue the senses,\lhere we rely on a higher thought,\ltrue and concrete, the cornerstone\lof this world: The ESSENCE POKéMON.
+3d4d41|The word POKéMON falls short when\nreferring to HIM, not only due to\lmillennia of misperception and\lmisuse of the term, but also\lbecause it implies he is an entity\lseparate from us.\pThe ESSENCE POKéMON is not a\nbeing, it is -BEING- itself.
+3d4e6a|The other day I felt a powerful\npresence in this place. Before I\lknew it, that ghostly aura had\lvanished, and I found this.
+3d4eee|This is the oldest place in KANTO.\pNo wonder that ghostly presence\ncame to pay tribute to some soul\llong forgotten by all. The energy\lI felt was imposing, but terrifying\ltoo. I wouldn't be surprised if it\lbelonged to some LEGENDARY POKéMON.
+3d500d|The wise need nothing but make\nuse of everything.\pThe fool thinks he needs many\nthings, but uses them all badly.
+3d50bb|Become an alchemist: transmute\nbase metal into gold, suffering\linto awareness, disaster into\lenlightenment.
+3d520b|{C1906}Essence can be corrupted by\nhuman action, though{C0823}…{C0823}
+3d5250|{C1906}{C0819}…{C0819}that does not mean it loses\nits potential.
+3d542a|{C1930}Say nothing. Let your POKéMON\nspeak for themselves. This time\lI will truly put you to the test.
+3d548d|{C1930}I hope you are ready for what\nyou are about to see.
+3d54c2|So you've kept growing as a\nTRAINER{C0805}…{C0805}
+3d54f7|{C1930}I am not one for flattery, but\nI must admit that the road you\lhave traveled to arrive here, in\lthis state, is impressive.\pSo much so that{C0805}…{C0805} you have\nnearly reached the ceiling this\lworld's laws allow.
+3d55db|{C1930}Yes, you may even be worthy of\nbeholding the ESSENCE PO{C0805}…{C0805}
+3d561f|{C1930}An eccentric TRAINER managed to\ncatch LUGIA and HO-OH?\p{C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805}\pHe claims he lacks one piece to free\nwhat he calls the -creator of all-?!
+3d56c7|{C1930}No… he cannot mean the\nESSENCE POKéMON.\pWhatever he seeks, it has nothing\nto do with us.\pBy equivalence, its power is lower\nthan the ESSENCE POKéMON's, since\lthe latter is truly everything.
+3d579b|{C1930}That said… the RUINS OF ALPH\nhold countless secrets. Perhaps\lhe knows of some legend I do not.\lBut you, {V01}, seeing how\lyou fought{C0819}…{C0819}\pSomeone like you can only be felled\nin battle by the ESSENCE POKéMON.
+3d5879|{C1930}Accept the challenge like any other.\pNo LEGENDARY or ANCIENT POKéMON, no\nmatter how strong, can completely\lshut down all other POKéMON.\pWhatever that charlatan may say,\nhe did not catch LUGIA and HO-OH\lfor the ESSENCE POKéMON, but for\lpurposes that have nothing at all\lto do with it.
+3d599a|{C1930}Be that as it may, there may still\nbe time for you to learn the truth,\l{V01}.\pAs for our cult{C0819}…{C0819}\pAs always, while the gods descend\nfrom the stars{C0819}…{C0819}\pWe shall remain hidden.
+3d5ab7|Do you want to go back to the\nJOHTO ROCKET HIDEOUT?
+3d5ae2|{C1920}Have you found anything out,\n{V01}?\p{C080F}…{C080F}\n{C080F}…{C080F}\pThe RUINS OF ALPH?\pJust as we suspected. If a NATU\nso much as sneezes in the tall\lgrass there, we'll know. The whole\larea will be under watch.\p{C080F}…{C080F}\n{C080F}…{C080F}\pYou're saying LUGIA and HO-OH have\nnothing to do with that TRAINER's\lplan?\pAll the better, then. Now head\nto BLACKTHORN CITY, {V01}. The\lDRAGON MASTER should be there,\lwith what is probably the most\lpowerful NON-LEGENDARY in JOHTO.
+3d5cc2|The vast majority will live only\nto keep society's necessary wheel\lturning. Here, we try to be part\lof that tiny percentage that\lmanages to expand the huge base\lwe already have and push humanity\leven further forward.
+3d5dbb|I never thought I'd say this, but\nI pay my respects to a ROCKET.\pThanks to you, the tyranny in this\nregion is over. I'm ashamed of all\lthe police officers who worked for\lLANCE and went along with that\lcursed dictatorship in disguise.
+3d5ec2|Our PRESIDENT must have absolute\nfaith in you. Otherwise, you'd\lnever have been allowed into a\lplace like this.
+3d5f4d|Congratulations. If you've made it\nthis far, it means you've managed\lto escape that sleeping part of\lKANTO, the one with the 150.\pThe world is much bigger, and here\nwe try to cover and compile the\lmost remarkable things we've found\lout there.
+3d6055|DARMANITAN:\pHP: 105\nATTACK: 140\lDEFENSE: 65\lSP. ATK: 30\lSP. DEF: 65\lSPEED: 95\lTOTAL: 500\pTYPE: FIRE/FIGHTING\pABILITIES:\nSHEER FORCE/ZEN MODE\pFury and vigor made POKéMON. An\ninexhaustible energy runs through\lits veins, so it's in its nature\lto act and charge with all its\lbrute strength before its mind\leven gives the order. That's the\lreason for its colossal BASE\lATTACK of 140, and also for its\ldreadful SPECIAL ATTACK of 30.
+3d6399|Most people are so blind to odds\nthat they treat one in a thousand\lalmost the same as one in a\lmillion. That's why games like the\llottery are so popular. But not\lfor a SILPH SCIENTIST!
+3d6481|Now that we've put LANCE in his\nplace, relations with JOHTO might\limprove. We might even establish\lconnections with the neighboring\lregion.
+3d651f|Sometimes we have to push\nourselves to the limit to see\lwhat we're truly capable of.\pWe tend to project this mental\nimage of having everything under\lcontrol, running at full capacity,\las the ideal to strive for.\pBut… in practice, having it all\nunder control usually means going\ltoo slowly. Most great works and\lachievements came after many\lmoments of uncertainty, disorder,\land rowing without knowing for sure\lwhere you're headed.\pThose periods are also needed\nto secure other phases of\l-control-.
+3d6763|In the old days, the king collected\na tithe from his subjects: 10% of\lthe harvests produced in his\lterritory, as payment for his\lprotection.\pWell, LANCE nearly applied the\ntithe here, but in reverse. How\ldoes that work?\pEasy. The citizens of KANTO keep\n10% of what they produce, while\lLANCE and his government keep\lthe rest.\pThe funniest part is that most\npeople cheered and hailed the one\lsuffocating them as their savior.\lIt's just more proof of how far\lreality can be twisted.
+3d6995|I hope that from now on we enter\na true era of progress and\ldevelopment, unlike what LANCE\lhad in mind.\pI hear there's a project to link\nSAFFRON with GOLDENROD, in JOHTO.\pAnd that they're expanding the\nVERMILION PORT to reach more\lregions.\pTime flies, kid, and it\nwaits for no one!
+3d6adb|The freedom of ability breeds\neven more coercion than the\ldisciplinary duty that dictates\lorders and prohibitions.\pDuty has a limit.\pAbility, on the other hand, has\nnone. It is open at the top.\pHence, the coercion that comes\nfrom ability is limitless.
+3d6c07|Act as if you were living for the\nsecond time, and had acted as\lwrongly the first time as you\lare about to act now.
+3d6c94|We made remarkable progress on\nthe -PORYGON2- prototype over\lthe last few weeks.\pIts offensive power has risen by\n50%, at the cost of losing only\l10% of its defense.
+3d6d59|Desire makes promises that pleasure\ncan't keep.\pKnowing that it's deceiving you\nwill help you pay it less heed.
+3d6dee|If you want to ask someone for\nsomething, ask a busy person; they\lhave so much work momentum that\lyour request will be just one more\ltask to do on the fly.
+3d6e9d|Someone with nothing to do, on the\nother hand, will need to put in far\lmore energy just to get moving to\lcarry out your request.\pThe laws of inertia and friction\ncan apply to people, too.
+3d6f99|GOLDENROD's RADIO TOWER proved a\nhuge success in JOHTO. Some big\lcompany here is sure taking its\ltime copying the idea.
+3d702c|We humans crave rules because we\nneed to shrink things down so they\lfit inside our heads.\pThe more random the information,\nthe higher its dimensionality and,\ltherefore, the harder it is to\lsummarize.\pThe more you summarize, the more\norder you add and the less random\lit becomes.\pSo the very trait that makes us\nsimplify pushes us to think the\lworld is less random than it\lreally is.
+3d71f0|Some people spend their whole life\nchasing a perfect future moment\lthat never comes, or even when it\ldoes, they ignore it and move on to\lthe next one.\pThis reduces your present to a mere\nmeans to a future end. They don't\lrealize that the moment they spend\lclimbing toward that supposed\lparadise may be more enjoyable\lthan being in paradise itself,\lwhich, by the way, you'll get bored\lof once you've been there a while.
+3d73b6|Now that SILPH and TEAM ROCKET\nare working side by side, great\lthings are coming to KANTO!\pThe future is ours!
+3d7432|After the big blow you all struck\nat the POKéMON LEAGUE, you freed\lour company from LANCE's control.\pNow we don't have to answer for\nour moves, and whatever happens at\lthis headquarters will stay hidden\lfrom the public from now on.
+3d7546|I'd rather spend my time doing\nthe task than wasting it talking\land coming up with 1,000 theories\labout how to do the task.
+3d75d5|We work and get exploited all year\nso we can travel and exploit\lothers in the summer.
+3d763e|Think I'm hatching some evil\nscheme?\pOr creating some invincible\nPOKéMON on my computer?\p{C080F}…{C080F}\pYou're absolutely right!
+3d76fc|Think I'm hatching some evil\nscheme?\pOr creating some invincible\nPOKéMON on my computer?\p{C080F}…{C080F}\pYou're absolutely right!
+3d7784|With NASTY PLOT, the POKéMON that\nuses it sharply raises its\lSP. ATK.\pIt's amazing what you can achieve\non your own.\pDon't you think?
+3d782c|You won't see how to do something\nuntil you actually see yourself\ldoing it.
+3d7884|Many of us here, myself included,\nhave the bad habit of focusing on\lwhat confirms our knowledge, not\lon our ignorance.
+3d7922|I'll personally see to it that\nall those police officers who\lbacked LANCE's government and\lallowed all kinds of injustice\lin this region end up behind bars.
+3d79cd|The truth is, we were fed up with\nthe conditions LANCE's government\limposed. For every $10 we earned,\lbetween one thing and another,\l$8 went to him and his COMMITTEE.
+3d7a82|There are so many interesting\nPOKéMON out there to discover…\pThere's no doubt that each place's\nconditions shape how a species\lfinally develops; POKéMON like\lCAMERUPT and SHARPEDO could only\lhave emerged in HOENN, just as\lMETEOR FALLS gave rise to BAGON,\lor MT. SILVER to LARVITAR.\pThese are just examples of\nadapting to the environment.
+3d7c08|That constant, fruitless worry\nabout all the things we have to\ldo is, on its own, the biggest\ldrain on our time and energy.
+3d7c9d|In the end, nobody cares what you\nfeel or what you think. All they\lcare about is what you're capable\lof doing.
+3d7d1f|A mind that opens to a new idea\nwill never return to its original\lsize.
+3d7d75|In this place, we fight to achieve\nthe extraordinary, to go where no\lone has gone before, far beyond\lanything those blinded by the\loriginal 150 could ever dream of.
+3d7e39|That RED was good, but he was clearly\nlimited by the reality OAK imposed on\lhim; he was never free, and couldn't\llift a finger without OAK's consent.\pThat's why someone like RED can never\nbe in a place like this.\pThis room doesn't exist, not for him,\nnor for 99% of KANTO's population.\pAnd that{C080F}…{C080F} is part\nof our greatness.
+3d7fae|Laziness has one big advantage over\nall the other passions when it\lcomes to winning out: it demands\lnothing at all.
+3d8039|I hear the RADIO TOWER in\nGOLDENROD CITY has barely any\lsecurity. Someday they're in for\la nasty surprise…{C0805}
+3d80d0|KANTO has good POKéMON, solid and\nwell balanced. But it's not a region\lof extremes; here you won't find\lanyone with the physical ATTACK of a\lHAXORUS, the defenses of SHUCKLE or\lthe SPEED of NINJASK.\pBut it doesn't matter. With KANTO\nPOKéMON, you can build a team that\lcompetes with someone who has every\lPOKéMON in existence at their disposal.
+3d823b|Having more POKéMON widens your range\nof options and can give a strategic\ledge, but it also makes the choice\lharder.
+3d82bf|In the end, the best POKéMON and\nTRAINERS can come from anywhere.
+3d831c|No one outside these walls could\never imagine that, at the end of\lthe day, SILPH and TEAM ROCKET\lare actually partners.\pAnd for now, that's how it must be.
+3d83ba|Discipline, order and patience!\nThe 3 pillars of SILPH!\pDon't you ever forget it, kid!
+3d8419|SILPH keeps secrets within its walls\nthat the likes of that RED couldn't\leven begin to imagine.\pThis place is one of those secrets.
+3d84b8|You should visit JOHTO at least once\nin your life. Places like the\lDINDON TRAIL or the LAKE OF RAGE\lmake me wonder when we gave up\lliving in the countryside for the\lsake of cities.
+3d8595|Big changes are coming to KANTO.\nYour organization could play a key\lrole in our region's future.
+3d8622|Those fools in LAVENDER TOWN and\ntheir ESSENCE POKéMON!\pThe essence is right here, in the\noffices of SILPH CO., where every\lday we redefine the limits!
+3d86c5|The only way to avoid criticism is\nto say nothing, do nothing and be\lnobody.
+3d872d|The DEVON company in HOENN keeps\neverything it develops and makes\lunder wraps.\pSome believe their technology is\nreally on another level.
+3d87c5|Only the disciplined are free in\nlife. If you're undisciplined,\lyou're a slave to your moods.
+3d8861|It doesn't matter if you win by a\nlot or a little. A win is a win.
+3d889b|No one cares if you tripped and\nunfairly lost at the last second.\lNo one remembers second place. On\lthe Olympic medal table, it doesn't\lmatter if you have 50 silver\lmedals: if your rival has just one\lmore gold, they'll rank ahead of\lyou overall.
+3d89b5|For someone fixated only on the\nfinal result, the mere idea that\lthe best might not actually win\lis disheartening.
+3d8a37|Given that, all that's left is to see\nthe result as a consequence of our\lprior work, not the ultimate goal.
+3d8aad|The MAGNETON evolutionary line has\na lot of potential.\pWe know MAGNEZONE exists, but we\nbelieve that's not this POKéMON's\ltrue ceiling.\pIn theory, its physiology allows it\nto generate discharges that would\llaugh at a ZAPDOS's.
+3d8bc8|The PORYGON evolutionary line is\nstill untapped; not being bound to\lour physical plane gives it many\ladvantages over other POKéMON.
+3d8c67|The secrecy of this place is sacred.\nIf it were made public, it would\llose its magic, its essence.\pBut you're well aware of that, right?

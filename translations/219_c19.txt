@@ -358,3 +358,105 @@
 383332|They say the god who created all\nthings confined BLACKTHORN CITY's\ldragons, surrounding the area with\lmountains and leaving the ICE PATH\las the only way out.\pAll out of fear of the immense\npotential of the DRAGON type.
 383427|There are no good TRAINERS left\nin JOHTO. This region has changed\la lot in just two years.\pNow all we have are rookie\nLEADERS, GOLDENROD CITY posers or\lsemi-retired veterans.\pThe world used to be much bigger.
 383503|For those who know where to look,\nJOHTO has lots of TRAINERS worth\ltheir salt who've spent decades\lhoning the art of battle, but of\lall of them, the one who takes the\lcake is without a doubt our LEADER.\pHis dragons are simply on\nanother level.
+383605|Ah…\nThere's nothing like raising a\lDRATINI from scratch. It's slow and\lhard work, but watching it grow\llittle by little until it reaches\lits full potential is priceless.\lThat's how great POKéMON are\lforged.
+3836e5|Aren't LUGIA and HO-OH the\nstrongest POKéMON in JOHTO?\pOr is there a dragon that\ncan beat them?\pI should ask the DRAGON MASTER.\nHe's bound to know.
+38378d|I'm wondering whether to head down\nthe southern gorge or not. It took\lme ages to reach BLACKTHORN CITY,\land I don't have a FLYING-type\lPOKéMON to get back{C0805}…{C0805}
+38383a|The younger generations are full of\nthemselves and seriously underrate\lthose who came before. That CLAIR\lthinks once she has a KINGDRA and a\lDRAGONITE, she'll have solved every\lmystery of the DRAGON TYPE.\pIf she saw the master's strongest\nPOKéMON{C0805}…{C0805}
+383945|I once caught a glimpse of our\nLEADER's star POKéMON. What a\lmagnificent dragon.\pThey say it's more powerful than\nany LEGENDARY.\pSo extraordinary that even the\nDRAGON TYPE can't hurt it{C0805}…{C0805}
+383a11|I don't think our GRAND MASTER is\nentirely happy with his\lgranddaughter, CLAIR, and he has\lgood reason. Just like LANCE ended\lup proving, she doesn't stand for\lthe values our GRAND MASTER tried\lto pass down at all.\pThe power of the DRAGON TYPE ended\nup corrupting LANCE, and CLAIR is\lgoing down the same road.
+383b4e|Lots of people think raising\ndragons is super cool, because they\lcan get so strong, but you need a\llot of patience and responsibility\lto really bring out their best.\pThat's why so few people have a\nDRAGONITE on their team.
+383c42|Owww!\nVoices in my head!\lWhat?\pI'm picking up the radio!
+383c8c|These gadgets nowadays… In my day\nit was just going outside, playing\lwith your friends and letting your\limagination run wild.\pThere's hardly any of that left!
+383d49|Anyone who craves more power than\nthey can understand ends up being\ldevoured by it, and that ZEUS has\lno idea how vast the power he wants\lto awaken really is.
+383df4|DRAGON'S DEN
+383e0f|Who are you?\pIf you're not a DRAGON-TYPE\nspecialist, you shouldn't be here.\pBah!\pI bet none of your POKéMON even\noutrank a KINGDRA!\pLet alone a DRAGONITE!\pThe POKéMON world outside the\nDRAGON TYPE is so mediocre!
+383f56|Very few are the chosen ones\nallowed to enter this sacred\lplace. You must be {V01}.
+383fbc|May this POKéMON bring you wisdom\nand companionship on your\ljourney.
+383ffd|You got a Lv. 50 DRAMPA!
+38401c|DRAMPA is a very unusual dragon.\pIt focuses on SPECIAL ATTACK, a\nsymbol of its great wisdom.\pIt's very slow, but its defensive\nstats are unique among dragons.\pThe DRAGON'S DEN has always kept\nsome in the depths of its caverns.\pI trust you can keep a secret.
+384229|{V01}?\nOur MASTER is waiting for you.\lHe told us you may proceed to his\ltrial, the real one, so…\lGo on ahead.
+3842e1|There's a trapdoor, barely\nrevealing some stairs that lead\lunderground. Do you want to go in?
+384715|{V01} received TM99 DRAGON PULSE\nfrom the DRAGON MASTER!!
+38474d|{C1945}I was going to give you this,\nbefore what happened.
+38478d|{C1945}You are in the true DRAGON'S DEN.\pA sanctuary where we worship\nthis sacred type.
+3847ed|{C1945}Many considered DRAGONITE the\nmost powerful POKéMON in KANTO, a\lNON-LEGENDARY stronger than all the\lrest. But the world is much bigger\lthan it seems at first glance, as\lyou well know, and the truth is,\lthere are dragons that would make\lDRAGONITE look like a baby{C080F}…{C080F}
+384916|{C1945}If I'm not mistaken, you've\nmanaged to defeat 7 of JOHTO's\lLEADERS, despite the chaos the\lGYMS are in.\pI see good intentions in you, {V01},\neven with the hard choices\lGIOVANNI made in GOLDENROD. I know\lyou want what's best for KANTO\land JOHTO.
+384a11|{C1945}A changing of the guard is near.\pSadly, technology is degrading the\ntrue art of training POKéMON. You\lare an exception. You haven't let\lthe times sway you, despite your\lposition.\pThat is why{C080F}…{C080F}\pI must make sure you can stand\nup to any generation!
+384b4e|Magnificent. It was like going\nback to the JOHTO of old.
+384b7f|{C1945}A TRAINER like you only comes\nalong once every few decades.\lThat's how long it's been since\lI've seen my unique DRAGONITE in\ltrouble.\pThe way you've kept improving and\nbuilding your team is admirable.
+384c4b|{C1945}It's my honor to present our\nbadge to the champion of the new\lgeneration.
+384c94|{C1945}Here, take the\nRISING BADGE.
+384cbc|{C1945}Take this POKéMON. It's one of\nour most closely guarded dragons.
+384cfe|You got a Lv. 25 DREEPY!!
+384d1f|{C1945}DRAGAPULT is a PSEUDO-LEGENDARY\nthrough and through, the fastest\lof them all. Only JOHTO's most\lexpert monks and thinkers have one.
+384dad|{C1906}DRAGAPULT?\pYou think {V01} would stand\na chance with that?
+384dee|{C193D}Although I understand it's the\nmost that mortals like you\lcan aspire to.
+384ee4|{C193D}What matters is that HO-OH\nnow belongs to me, and LUGIA too.\pWho cares how?\pAnd now{C080F}…{C080F} At last{C080F}…{C080F}\pKYUREM too{C080F}…{C080F}
+384f6f|-ZEUS took KYUREM from the\nDRAGON MASTER-.
+384f96|{C1945}Wh{C080F}…{C080F}What?!\pWhat are you going to do\nwith that POKéMON?!
+384fcd|{C193D}Don't play dumb, old man.\pYou know all about the DRAGON TYPE,\nand I'm sure you also know the\llegend of the ORIGINAL DRAGON.
+38504d|{C1945}It's no legend. That POKéMON\nexisted. It was real.
+385082|{C193D}Exactly.\pRAYQUAZA is considered the most\npowerful DRAGON, but{C080F}…{C080F}\pIt's nothing compared to that\nPOKéMON. That POKéMON{C080F}…{C080F} is the\ltrue creator of everything, so\lpowerful there's no point\lcomparing it to the rest.\pIt's not part of the debate over\nthe best POKéMON, because the\lORIGINAL DRAGON is everything.\lIts reach can't be measured.
+3851bd|{C1945}The ORIGINAL DRAGON represents\nbalance, perfection. You'll never\lbe able to summon it, because for\lthat you need the other two dragons.\pKYUREM is just the empty shell I\nwas charged with protecting long\lago, in case someone like you ever\lgot this far.
+3852c0|{C193D}{C080F}…{C080F}\pRESHIRAM and ZEKROM belong to\nme as well.
+3852f3|{C1945}That's impossible!
+385306|{C193D}HO-OH and LUGIA grant\nentry{C080F}…{C080F}\lAfter that, I just need the right\lpieces, and everything in the last\lchamber will regain its original\lform.
+385394|{C193D}Sorry, {V01}.\nThere won't be a battle this time.\pAs you can understand, I have more\nimportant things to do. I'm afraid\lthis is where our rivalry ends.\pOnce I unite the 3 dragons, the\nword -compete- will lose all\lmeaning.
+385478|{C1945}This{C080F}…{C080F}\nThis{C080F}…{C080F}\pIt's impossible. That brainless\nfool doesn't know what he's waking.
+3854d3|{C1945}{V01}!\nThe RUINS OF ALPH!\pHe mentioned LUGIA and HO-OH. He\nknew everything from the start. He\lknew he needed those two\lLEGENDARIES to get into the depths\lof the RUINS OF ALPH.\pIt's the only place where he can\nunite the 3 dragons.
+3855b4|{C1945}There's no time, {V01}. We must\nheal our POKéMON and get there as\lsoon as possible.\pIf your whole organization shows\nup, all the better. He must be\lstopped at all costs.
+385698|I want a PIKACHU, so I'm\ngoing to trade my CLEFAIRY for one.
+3856e2|I'm trading POKéMON with the\nkid next door. I've got two\lPIKACHU, so I don't mind\ltrading one.
+38576a|You look like you were in on the\nMT. MOON robbery. Next time\lthey'll lock up the lot of you!
+3857d6|When JIGGLYPUFF sings, POKéMON\nfall asleep… and so do people.\pSo sleepy…{C0805}
+385838|Oh, stay away! People who go\nagainst society don't agree\lwith my personality.
+385a0f|{C1906}{V01}, am I right?\nWe've met before.
+385a43|{C1945}Those friends of yours should\nknow MT. SILVER is no place to\ldump their failed experiments.\pSooner or later, people will\nconnect this imitation TRAINER\lwith a real legend.
+385b11|{C1945}The MASTER of ECRUTEAK CITY has\ntold me about you. It seems you\lhave a gift for POKéMON battles.\pOtherwise, you'd never have been\nable to stop my student.
+385bb9|{C1945}JOHTO never wanted to go to war\nwith KANTO, but that LANCE fooled\lus all about the true situation\lin the neighboring region.
+385c3c|{C1945}What you did was historic, yes…\pBut the question is{C080F} …{C080F}\pDid you do it for the good of KANTO?\pOr to swap one dictatorship for\nanother?
+385cc7|{C1945}Be that as it may, you're clearly\nsomeone who honors POKéMON\lbattling in every sense. You\lrespect and humbly try to learn\lfrom those who forged this\lancient region.\pWe value that greatly here.
+385d9e|{C1945}That is why I, together with\nthe GRAND MASTER of ECRUTEAK CITY,\linvite you to visit the BELL TOWER,\lclimb to its summit, and look out\lover JOHTO from a place you've\lnever seen it from before.
+385e5e|{C1945}Perhaps my old friend will even\nbe inclined to give you a lesson\lor two in battling.\pAfter all, someone has to preserve\nour technique when we're gone.\pDon't you agree?\pCHAMPION?
+385fcb|Curious about my team? I'm afraid\nyou'll have to live with that\lcuriosity, youngster.\pI belong to another generation. What\nmight have happened if our teams had\lclashed at their peak belongs only\lto fiction.
+3860cf|So AGATHA is at the place{C0819}…{C0819}\pI should have known. She always\nclung to the POKéMON TOWER.
+386129|Thank you, lad. I'll go and talk to\nmy old friend. I know it's a long\ltrip, but if you ever feel like\ldropping by again, you'll be welcome.
+386354|If only KOGA knew…\pI once owned the deadliest\nPOISON-type POKéMON of all time.\lWith it, I was crowned CHAMPION\lhalf a century ago. Though there\lare no records of it, it lives\lonly in my memory and in the\lmemories of the few left from\lthat era{C0805}…{C0805}
+3864ab|So you know about the passage\nbeyond CIANWOOD too. For someone so\lyoung, you're well informed.
+38650d|If my wife is there, I'll go back\nto our little house, far from it all.\pThere's nothing keeping me here.
+38656b|Are you {V01}?\pThank you, {V01}. If you decide to\ndrop by again, you'll be welcome.
+3865c8|Ho ho ho!\pMe, a former champion?\pI snuck in here by going round the\nother side of the mountain, but\ldon't tell anyone!
+386647|JOHTO LEAGUE, 1978.\pCHAMPION'S TEAM:\p- CROBAT\n- HERACROSS\l- TAUROS\l- MAMOSWINE\l- URSALUNA\l- DARMANITAN
+3866fb|I became CHAMPION thanks to my\nPOKéMON's huge stamina and all-out\loffense, attacking without fear of\ltaking damage.
+386763|Of all my POKéMON, there was one\nthat took that battle style to the\lextreme like no other. Not long\lago, I got a few of its offspring.\lWould you like one?\lHere!
+386810|You got a Lv. 25 DARUMAKA!
+386831|A well-trained DARMANITAN's Flare\nBlitz is the most devastating move\lI know. TAUROS's charging power is\lno more than a gentle caress next\lto it.
+386c7b|Forgive me, HEAD ADMIN {V01}. I\ndidn't know you were someone so\limportant.
+386cd1|KANTO and JOHTO forming a single\nPOKéMON LEAGUE again.\pCan you imagine?
+386d28|MT. SILVER was always the great\nfrontier marking the territory of\lKANTO and JOHTO.\pAfter JOHTO won the war, it also\nkept the disputed ROUTE 26. Maybe\lnow that relations are improving,\lthis route will be seen as a kind\lof crossing point between the two\lregions again.
+386e5e|LANCE should pay publicly for his\ncrimes, though revealing the truth\lwould be too hard on society.
+386fde|{C1922}Only former champions or people\ndirectly involved with this place\lmay pass beyond here. Those are\lthe rules.
+387049|{C1906}Watch your words, OFFICER.\pYou're speaking to the true\nCHAMPION of KANTO.
+3870be|{C1903}Now you know. Do I also need\nto remind you that TEAM ROCKET's\l3 HEAD ADMINS have access to this\lplace?\pSo {V01} has double the right\nto enter here.
+38716f|{C1922}My apologies, Mr. ARCHER.\nIt won't happen again.
+38719f|{C1903}I see you don't waste your time,\n{V01}. You may find more than one\lsurprise here.
+3871fc|{C1903}I suppose you know, but we're\njust a few yards from the entrance\lto KANTO's POKéMON LEAGUE. GIOVANNI\lplans to merge this checkpoint and\lKANTO's into one, to formalize the\lunion of the 2 regions in a single\lPOKéMON LEAGUE.
+3872ed|{C1903}We're right in the middle of a\ntransition, and living through it\lfrom our vantage point will be key\lto understanding the reasons\lbehind many things in the future.
+3873aa|You look tired.\nLet me heal your team{C0805}…{C0805}
+3873ea|And done!\nAll your POKéMON are back in\ltip-top shape!
+387434|People and POKéMON grow richer\nthrough experience.\pDon't be lazy and complacent.
+3874be|Honestly, all the land from here\nto the KANTO border is gorgeous.\lI'm surprised they haven't built\lanything on it yet.
+387551|There's nothing like going out to\npick BERRIES in the great outdoors!
+3875a0|Ahh!\nFood tastes so good after a\lnice long hike!
+387760|{C1922}But, Professor, the border with\nKANTO is on ROUTE 26, not at the\lend of ROUTE 29.
+3877b9|{C1906}I know. I'm only asking you to\nblock off that area temporarily.\lMy assistants and I are going to\lcarry out an important study there.\pAnyway, there's nothing to see east\nof ROUTE 29. You can reach every\ltown and city in JOHTO with that\lroute closed.
+3878c5|{C1922}O-okay, Professor. I'll send\ntwo officers right away to guard\lthe area.
+38791f|{C1906}Perfect.
+38792c|{C1906}You must be {V01}.\nAm I right?\pGIOVANNI already told me you were\ncoming. My name is ELM. I've\ldevoted my life to how the\levolution mechanism works in\lPOKéMON, and right now, thanks to\lTEAM ROCKET's investment, my work\lis finally bearing fruit.\pProof of that is the item you're\nabout to receive.
+387a80|{V01} received a MEGA RING\nfrom PROF. ELM.
+387aa5|{C1935}I promised GIOVANNI I'd give\none to every ROCKET ADMIN.\pI hope you're aware of the\ntechnology you'll be handling: with\lthe MEGA RING, you'll be able to\lcontrol a process as unstable and\lchaotic as MEGA EVOLUTION, as long\las you have the right MEGA STONE.
+387bcd|{C1935}If I'm not mistaken, you're here\nto gather information on the\lPOKéMON{C080F}…{C080F} of this region's\lbest TRAINERS.\pAnd to learn more about that\nphenomenon, the STRONG BOND, right?
+387c99|{C1935}Let me give you some advice.\pJOHTO's GYMS don't work like\nKANTO's. They're not obliged to\lbattle anyone. Most of the LEADERS\lare on the verge of retiring, or\ltoo busy with other matters.
+387d71|{C1935}They're very powerful TRAINERS,\nand wise ones. To them, the war is\la trivial matter that doesn't\lconcern them. They live apart from\lit, focusing on their POKéMON and\lon refining their already\lexquisite technique.
+387e4d|{C1935}What I'm trying to tell you is\nthat you'll have to catch their\lattention enough for them to grant\lyou a battle. But GIOVANNI sent\lyou and no one else for a reason.\lAfter all, you're the true\lCHAMPION of KANTO.
+387f34|{C1935}If you succeed and gather\nfirst-hand data on each LEADER's\lsignature POKéMON, we'll have\lextremely valuable information\lthat could expand a POKéMON's\lpotential to unimaginable limits.

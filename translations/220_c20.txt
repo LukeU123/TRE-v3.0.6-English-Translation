@@ -118,3 +118,261 @@
 38fbd5|{C1907}You know what?\pI'm going to explore the routes in\neastern JOHTO, the ones that\lborder KANTO. They said in the\lmeeting they'd finally allow\laccess.\pIf I'm not mistaken, that's where\nthey confined RED.
 38fc98|{C1907}I'm curious to see what happens\nif we pay him a visit{C0805}…{C0805}
 38fcdd|{C1907}Anyway.\nYou should finish touring the base.\pIf you go up a bit further, you'll\nsee the surprise TEAM ROCKET has\lprepared for you, for your\lperformance and loyalty to the\lorganisation.
+38fde3|You got the OFFICE KEY from\nthe SCIENTIST!
+38fe15|{C1918}HEAD ADMIN {V01}, we've been\nexpecting you.
+38fe3f|{C1918}As LEADER of our JOHTO branch,\nthe least you deserve is a proper\lplace to work.\pWith this, you can access the\nprivate office we've prepared for\lyou.
+38ff67|Enter your office?
+38fffb|Leave your office?
+390055|GUNK SHOT is the answer to that.\pA move that can corrupt everything\ngood and pure in this world.\pHere, take it!
+3900c3|It's annoying that CROSS POISON is the\nstrongest physical POISON-type\lmove, isn't it?
+390126|{V01} got TM114 GUNK SHOT\nfrom the SCIENTIST!!
+390160|Besides its exceptional power,\nGUNK SHOT doesn't make contact\lwith the opponent.\pIts only drawback is accuracy.\pImagine being able to use it\nwithout ever missing!
+39032a|{C1986}At your command, SIR.
+390341|{C1986}I am the strongest EXECUTIVE in JOHTO.\pI've been entrusted with guarding\nyour office in your absence.
+3903a4|{C1986}With me here, you needn't fear\nfor your privacy.
+3903da|{C1986}If you don't consider me worthy of\nthis post, that's easily resolved.
+390420|{C1986}Would you like to test me in\na battle?
+39044b|{C1986}No one will enter your office\nwithout your permission, BOSS.
+390480|{C1986}I won't let you down, BOSS!
+39049e|So this is the power of the elite\namong ADMINS…
+3904de|{C1986}Battling you is a privilege,\nsir. Now I'll be better prepared\lfor any eventuality.\pPlease accept this as thanks.
+390569|{C1986}I offered one to our HEAD ADMIN\nARCHER too, but he said he didn't need\lit to take his FERALIGATR to the\lnext level…
+3905ed|{C1986}TEAM ROCKET keeps on expanding.
+390618|{C1986}JOHTO is the region next to KANTO,\nbut we already have a base in HOENN\ltoo, and I heard ARCHER talking about\la plan for a branch in SINNOH.
+3906aa|{C1986}How far do you think we'll go?
+3906da|… …\p… …\p-He seems focused on a project\nof great importance.-
+390838|It's a scientific paper.
+390850|It seems to compile the results\nof research into the\lPRETTY FEATHER.
+3908a7|Read it?
+3908b8|Recently discovered, this rare and\nvaluable item from UNOVA has been\lshown to boost the performance of\lcertain birds to an astonishing\ldegree.
+390946|In every case, SP. ATK, ATTACK and\nSPEED rose by 30%, with no adverse\leffects whatsoever.
+3909b8|Its graceful, beautiful design seems\nto respond only to birds closely\ltied to its region of origin.
+390a3b|All of them also share the pattern of\na solid evolutionary line, allowing the\lspecies to develop fully.
+390abd|Through extensive testing, we managed\nto identify every bird that responds\lto the PRETTY FEATHER.
+390b1a|See the list?
+390b74|UNFEZANT - UNOVA
+390c7e|Oh! Sir!
+390c8b|I'm honored that someone like you has\ntaken notice of my humble research.
+390cd7|That item is a PRETTY FEATHER.\pA contact in UNOVA supplied it\nto us, and I set about uncovering\lits properties.
+390d4e|I left all the results in the document\nnext door, in case you're interested.
+390d98|With your permission, I'll get back\nto work.
+390ecc|-It appears to be a document, written\nand signed by GIOVANNI himself.-\p"Dear {V01}, we haven't been\nsitting idle either.\pAt the DEEP BASE, our finest\nSCIENTISTS have succeeded in\ldeveloping the ultimate POKéMON\lSTONE: one that lets POKéMON evolve\lone last time when nature never\lintended them to.\pIn other words, it gives us access\nto every experiment and prototype\lcreated by both us and our former\lenemies.\pCreating a single stone, however,\ncomes at an enormous financial\lcost.\pThat is why only the BOSSES of\nJOHTO, HOENN and the SEVII ISLANDS\lhave each been given one.\pCompatible POKéMON gain 100 BASE\nSTATS, just like MEGA EVOLUTION,\lbut they can still hold an item.\pThanks to the help of BILL,\nBLAINE, OAK and ELM, we have\la wide variety of POKéMON that\lwill react to the STONE.\pThey are as follows:
+39126d|- ELECTRODE\n- MAGMORTAR\l- ELECTIVIRE\l- PORYGON2\l- NIDOKING\l- NIDOQUEEN\l- AERODACTYL\l- TAUROS\l…\l…\pChoose wisely."
+3912e5|"This place belongs to the TRAINER\nin whom the old and the new\lhave come together."
+391373|-There's a message written on the\nPOKé BALL. It's from GIOVANNI.-
+3913ac|"{V01}, the services you have\nrendered TEAM ROCKET have been\linvaluable. I know the best is\lyet to come; this organization\lhas no secrets from you. That is\lwhy I want you to be the first\lto own a DEOXYS.\pWe haven't yet managed to replicate\nthe genetic material of its ATTACK\land DEFENSE FORMES, but we have\lreplicated its NORMAL FORME."
+391516|You obtained a Lv. 80 DEOXYS!!
+3915ad|-There's a message written on the\nPOKé BALLS, signed by ANDRA.-
+3915ea|"{V01}… GIOVANNI sent me to HOENN\nto find that region's answer to\lthe LEGENDARY BIRDS.\pAfter much research, I found the\nchambers that held the so-called\lREGIS, and solved their riddles.\pOur SCIENTISTS did the rest. Just\nlike with the LEGENDARIES of KANTO\land JOHTO, they cloned their genes.\pI'm sending you three of the first\nsuccessfully replicated specimens.\pI'm sure someone like you will know\nhow to make the most of them."
+3917c3|You obtained a Lv. 75 REGIROCK!!
+3917e6|You obtained a Lv. 75 REGISTEEL!!
+39180a|You obtained a Lv. 75 REGICE!!
+391847|MISSION: LAKE OF RAGE
+39185f|Info: MAHOGANY TOWN has long told\nthe legend of a huge monster that\llived in what is now called the\lLAKE OF RAGE.\pThe oldest descriptions don't\nmatch GYARADOS.\pThe way the locals refer to the\nlake, <LAKE IKARY>, suggests that\lunknown creatures dwell in its\lvery depths.
+3919bc|What to do: Talk to the fishermen\nwho live in the houses by the lake.
+391a20|MISSION: ROUTE 47
+391a2f|Info: Legends speak of a huge rocky\npass leading to a paradise west\lof CIANWOOD.\p<ROUTE 47> has never appeared on\nconventional maps, but a few have\lkept it a closely guarded secret.\pPotential new species could live\nin that untouched place.
+391b4e|What to do: Talk to CHUCK, CIANWOOD's\nLEADER, and investigate the rocky\larea northwest of the city.
+391bd1|MISSION: RAILWAY
+391be5|Info: Several workers have reported\nsightings of a powerful POKéMON,\lapparently drawn by the magnetism\lthe tracks generate.\pThis POKéMON has already caused\ndamage to the infrastructure.\pNo one has been able to identify it.
+391cd0|What to do: Talk to the workers in\nthe area near MT. SILVER, and try\lto explore around the tracks\lthere.
+391dff|Which outfit do you want to wear?
+391f5e|WARDROBE\pUse the wardrobe upstairs\nto change your look.
+391fae|{V01}'S PRIVATE OFFICE
+391fce|ANDRA'S PRIVATE OFFICE
+391ff1|Connection point to the base\nentrance.
+39202b|Hi there, kid!\nHave you visited SPROUT TOWER?
+392068|Those researchers at the RUINS OF\nALPH are hopeless. They could spend\l10 years researching and never\lreach a single conclusion.
+3920fd|I thought I'd find some rare\nPOKéMON here, but there's nothing,\ljust the remains of what once was.\lI can't show off to my friends in\lGOLDENROD CITY with that!
+3921bd|Can you imagine who could have\ndone something like this?\lAnd why?
+392201|I think we've barely scratched the\nsurface of what this place\ltruly hides.
+39226a|Those SCIENTISTS at the RUINS OF\nALPH didn't tell me anything useful.\pThey know less about them than I do!
+3922da|Can you imagine who could have\ndone something like this?\lAnd why?
+39231e|Psst!\pDid you know that if you tune your\nradio to a certain frequency\linside the ruins, you'll hear\lreally bizarre sounds?\pI knew it!\pIt's all a conspiracy between\nthe UNOWN and the RADIO TOWER!\p…\p…\pWhat?\pThat doesn't make any sense?
+39241a|-We, humans, must walk\nalongside them.\pThat is why we departed.-\pThe phrase is carved into\none of the chambers.\pWhat could it mean?
+392510|-Something that had been sealed\nfor a long time has opened\lsouth of the RUINS OF ALPH.-
+392568|RUINS OF ALPH RESEARCH CENTER\nTHE AUTHORITY ON THE RUINS OF ALPH
+3925b6|RUINS OF ALPH\nWelcome!
+3925dd|I think all the NATU and XATU that\nlive around the RUINS are one of\lthe keys to solving their\lmystery.
+392653|I don't like those people in black\nwho showed up shortly after the\learthquake one bit.\p…\p…\pWhat?\pYou're their superior?!
+3926d5|The RUINS date back about 1,500\nyears.\pBut we don't know why or by whom\nthey were built.
+39283c|Those SCIENTISTS{C0819}…{C0819}\pThey came from another region. We\ngave them research permits, but\lthey vanished with the FOSSILS{C0805}…{C0805}
+3928ca|Will you help me?
+3928dd|You look like you're up to it…\pIf you want to try at your own\nrisk, I won't stop you.
+39292e|We know they have a small LAB\nin some city in JOHTO. I think\lthey were talking about\lECRUTEAK CITY.\pThat must be where our FOSSILS are.\pIf you bring them back, I'll\nreward you properly.
+3929f1|Any news?\pRemember, their LAB should be\nin ECRUTEAK CITY.
+392a4d|Wow! You took them on by yourself!\pYou must be really powerful!\nNo doubt about it!
+392aa0|Someone like you deserves a proper\nreward. Look, we found this FOSSIL\lspecimen. It comes from a faraway\lregion. Our studies show it's a\ldistant relative of AERODACTYL, and\lit seems to have even greater\lpotential.\pHere you go.
+392ba0|You obtained a Lv. 35 ARCHEN!!
+392bc3|If you ever need anything, don't\nhesitate to contact us.\pYou have allies here.
+392c1d|-As above, so below.-\nWhat could that mean?
+392c5c|A pleasure to have you here,\nHEAD ADMIN {V01}!\lWe haven't found anything\lworth noting yet!
+392cbd|At your command, sir.\nThe whole perimeter of the RUINS\lOF ALPH is under control.
+392d15|These blasted ruins…\nAnd those UNOWN…\lThey couldn't just spell out\lwhatever this place is hiding.\lNow I'm stuck playing at\ldeciphering hieroglyphs{C0805}…{C0805}
+392dc5|None of the chambers will budge an\ninch. I'm afraid LUGIA and HO-OH\lhave returned to where they came\lfrom, sir.
+3931e6|{C1906}For once you got here first.\pEh, {V01}?
+393211|{C1907}That's right. That entrance\nwasn't here before. It's like what\lhappened that time on SEVEN\lISLAND, but now it seems serious.
+39328b|{C1907}GIOVANNI, ARCHER and several of\nthe best ROCKETS will be here soon.\pI've already told them.
+3932df|{C1907}These UNOWN…\pThere's something about how they\nlook…\pThey seem incomplete, like part of\nsomething bigger, don't you think?
+39334c|{C1906}They're the guardians of the\nRUINS OF ALPH.
+393372|{C1945}And they'll do the impossible to\nkeep anyone from uncovering their\lsecrets.
+3933b7|{C1907}So what happens if we go\nthrough this door?
+3933eb|{C1945}All the ancient power held in\nthese ruins will come crashing\ldown on you.
+39343e|{C1906}But we have no choice.
+393459|{C1945}That's right.\pThe ORIGINAL DRAGON must not\nbe made whole again.
+39349c|{C1920}That's not exactly what I had\nin mind, MASTER…
+3934d3|{C1920}Everyone inside!\pLet's go!
+3934ee|{C1945}What do you mean?
+393505|{C1920}Isn't it obvious?\pWe won't pass up the chance to\nanalyze the power of perhaps the\lgreatest POKéMON of all time.\pESSENCE POKéMON?\pORIGINAL DRAGON?\pPerhaps they're just different\nterms for the same thing.\pEither way, we'll find out, and\nwith the information gathered here,\lour SCIENTISTS will be much closer\lto creating the strongest POKéMON\lpossible.
+39367f|{C1945}Don't be stupid, GIOVANNI.\pThat POKéMON is beyond all\npossibility, beyond any estimate\lyou could make.\pThe priority must be stopping\nthat ZEUS from forming it!
+39372d|{C1920}We'll see, DRAGON MASTER.\pHow about we stop wasting\ntime and go in?\pARCHER!\pWith me!
+393792|{C1920}An extraordinary STRONG BOND\nDRAGONITE, by the way.\pThe no. 1 among NON-LEGENDARIES.\pI'm sure it would have something to\nsay to that ORIGINAL DRAGON, if you\lstopped underestimating the\ltraining that brought you to it.
+393878|{C1907}The eternal debate, eh?\pThat's why I decided not to train\nLEGENDARIES. I'm with GIOVANNI.\lNo ORIGINAL DRAGON is going to\ltell me how far I can or\lcan't go.
+393911|{C1907}No matter what we find behind\nthose doors, {V01}.\pOur POKéMON, and we ourselves,\nare ready!
+3939f1|-It looks like one of the ROCKETS\nwho went into the ruins…-
+393a32|-This EXECUTIVE is badly hurt,\nbut still alive.-\p… … … … … …\p-I have to reach the end\nif I'm going to save him.-
+393aac|-HEAD ADMIN ARCHER has been\ncompletely petrified.-
+393aed|{C1907}{V01}!\pWhat's going on in this place?\pI've never seen POKéMON like\nthese. Several of ours have\lalready fallen. Those horrible\lskeletons must have had something\lto do with it…\pWe need to watch our step,\n{V01}. The DRAGON MASTER was\lright, this place is dangerous.
+393da7|-The mysterious energy has\nvanished.-
+393dcf|{C1907}Was that the UNOWN behind\nall this?
+393df6|{C1907}ARCHER isn't responding. It's\nstrange that GIOVANNI left him like\lthis. Something must have happened.
+393e53|{C1907}Come on, {V01}, we have to\nkeep going and trust he'll go back\lto normal when this is all over.\lThis time we'll go together.
+393ee8|{C1907}Now I get it, {V01}.\pUNOWN tests each of us\nindividually. We can only pass one\lat a time, and to do that, we have\lto defeat this UNOWN.\pGIOVANNI must have managed it.\nARCHER{C0805}…{C0805}
+393f9d|{C1907}Go on ahead, {V01}, I'll be\nfine. This is what I've been\ltraining for: facing deities with\lmortal POKéMON.\pLet's go, CROBAT!\pLet's show this relic the\npower of the STRONG BOND!
+39418a|-It seems stepping here has set\noff something very dangerous.-
+39423a|-A mysterious energy attacks you!-
+394269|-The mysterious energy has\nvanished.-
+394500|{C1945}You too, {V01}… You've\nmade it this far{C0805}…{C0805}
+394540|{C1945}Just ahead is…\pThe other trial{C0805}…{C0805}
+39456e|{C1945}I'm sorry, {V01}, I can't\nface something so pure. The nature\lof this place is far more sacred\lthan I imagined.\pI know my POKéMON, and I know we'd\nfall before one of JOHTO's\lLEGENDARIES in all its\lsplendor.
+394653|{C1945}At least let me heal your\nteam. You'll need it.
+39468a|{C1945}Good luck, {V01}.\nI believe in you.
+3947b1|-The mysterious energy has\nvanished.-
+3947d8|{C1945}Admirable. You just beat\nthe golden HO-OH.
+394807|{C1945}My dragons were powerless\nagainst its pure FAIRY TYPE.\pThat ZEUS knew HO-OH serves\nas a key to reach the final\lchamber.\pBy leaving it here, the essence of\nthis place restored its primal\lform. That's exactly what he's\lafter with KYUREM.\pYou must stop him, {V01}. No one\nis ready for the return of the\lORIGINAL DRAGON.
+394967|{C1945}You'll do fine{C080F}…{C080F}\pYou have something no LEGENDARY can\ngive you, something that ZEUS lacks:\lan unbreakable bond with your\lPOKéMON.\pGo on and prove it to him.
+394c82|{C1920}But how did you…?
+394c95|{C1907}Another golden UNOWN?\pDoes this place never end?!\pYou won't beat me!\pI don't care if I have to fight in\nhere for 10 or 20 hours straight,\lI'll make it to the end!
+394d4a|{C1920}Wait!
+394d56|{C1920}That{C080F}…{C080F} TRAINER{C080F}…{C080F} Did you see him?\pHe must have been the LEADER of\nthe LAVENDER TOWN cult.
+394db7|{C1907}If he was, what a letdown!\pAll I saw was some guy using really\nweird magic to get through the\ltrials without battling.
+394e2a|{C1920}Indeed. That magic should be\nwithin his reach alone. I\lwonder if{C0805}…{C0805}
+394e73|{C1907}He's no match for {V01}!\pWe have to catch up with him,\nthere's still time!
+394eb7|{C1920}ANDRA!\pYour team isn't built to\ndeal with a PRIMAL LUG…!
+394efb|{C1907}What was that?
+394f2c|{C1907}All that energy…\pThat tension in the air, it's…\pVanished{C0805}…{C0805}
+394f74|{C1920}So…\p{V01}, the STRONG BOND…\nThey've triumphed?\pDoes that mean the teachings of\nJOHTO's sages were true?\pThat a mortal POKéMON can reach\nimmortality if we're willing to\lwalk the path alongside it?\pTo believe in it?
+395062|{C1920}That they all start from different\nplaces, yet all of them can reach\lthe same sky?
+3950cb|{C1920}We still have so much to learn{C0805}…{C0805}
+3951fe|{C1920}This is the final trial,\n{V01}. I can feel it.
+39522d|{C1920}First it was the golden HO-OH,\nso next must be{C0805}…{C0805}
+39526e|{C1920}I can't go on.
+395285|{C1920}If the legend is true, LUGIA-P\nregains all the power of the\locean depths.\pMy GROUND POKéMON stand no chance\nagainst such a marvel. Calling it\la MAJOR LEGENDARY doesn't do it\ljustice.
+395344|{C1920}If only we'd been able to speed up\nthe latest versions of MEWTWO\la little more{C0805}…{C0805}
+3953a1|{C1920}It's up to you now, {V01}.\pDragons flee from the golden\nHO-OH on sight, and GROUND types\lare helpless against the beast of\lthe seas.\pWe've definitely underestimated\nthis place, but you're the closest\lthing to a TRAINER's ultimate limit\lthat I know.\pIf we have a chance, it lies\nin your hands.
+3954d7|{C1920}This is all I can do for you.\nYour POKéMON team is back at\lfull strength.\pShow those LEGENDARIES\nthe power of the STRONG BOND!
+395677|{C1920}I knew it! I knew you could\npull it off!
+3956a4|{C1920}Now I better understand the\nELDER MASTER's words. He doesn't\lwant to see the region at the\lmercy of a POKéMON with\luncontrolled power.\pIf PRIMAL LUGIA and HO-OH are\nmerely the trials, I don't want to\limagine the power of that ORIGINAL\lDRAGON.\pSomething like that could cause a\ncatastrophe worse than war.
+3957d0|{C1920}You must stop that man from\nrestoring KYUREM's original form.\lWe'll have time to study it,\l{V01}, once all of JOHTO and KANTO\lare safe{C0805}…{C0805}
+396095|{C193D}Impressive, {V01}.\pBut too late.
+3960c1|{C193D}Can you feel the energy here?\pI don't know why, but here the\nPRIMAL essence of LEGENDARY\lPOKéMON is restored to them.\pKYOGRE, GROUDON… That's what I\nwas after, but even more\limportant{C0805}…{C0805}
+396194|{C193D}KYUREM, the empty shell of the\nORIGINAL DRAGON. This is the place.\lThe way these ruins are laid out\lbetrays their purpose.
+396210|{C193D}ZEKROM, the YIN POKéMON,\non the right!
+39623a|{C193D}RESHIRAM, the YANG POKéMON,\non the left!
+396269|{C193D}And lastly, KYUREM, the ZERO\nPOKéMON, in the center!
+3962a2|{C193D}Together, the 3 will form the\nORIGINAL DRAGON: perfection.\pThe balance of the univer{C0805}…{C0805}!
+3962fd|{C193D}At last!
+396309|{C193D}The most powerful POKéMON of all\ntime is now mine.
+396348|{C193D}There's no turning back. With its\nunquestionable power, I can impose\lmy will without opposition.\pIt will be all that exists: the\nwill of the gods, as it always\lshould have been.
+3963fd|{C193D}You'll be the first, {V01}.\pYou've tried to stop me time and\nagain, and here we are once more.\lNothing you've done has stopped\lthe inevitable from happening.
+3964aa|{C193D}Now face the absolute 100%.\nThere's no chance of escape.\pThe POKéMON world belongs to me!
+39650d|No!\pThere must be some mistake,\nit's impossible!
+396539|{C193D}KYUREM!
+396545|{C193D}This can't be?!\pThe PRIMALS, the POKéMON god\nhimself, the ORIGINAL DRAGON…\pHow could you…?
+3965a5|{C1906}Deluded fool.
+3965b8|{C1906}Did you really think that chimera\nwas the ORIGINAL DRAGON?\p{C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805} {C0805}…{C0805}\pTrying to rebuild something\nperfect by joining imperfections\llike pieces of a puzzle…\pPathetic.
+396682|{C193D}I don't understand.\pWho are you?!
+3966b2|{C1930}Someone who thinks he's above\nothers by divine providence\ldoesn't deserve to go on living.
+396718|{C1930}That fool died without knowing\nthat everything he achieved, his\lPRIMAL FORMS, the incomplete\lORIGINAL DRAGON…\pHe owes it all to the ESSENCE\nPOKéMON. Its presence here is what\lrestores the LEGENDARIES to their\lfull potential. But we can get\leven closer to -HIM-.
+396827|-LAIREB collected all of\nZEUS's POKéMON.-
+396852|{C1930}I could finish you off too,\n{V01}, but unlike that ZEUS,\lI have principles.\pOut of respect for all you've\nachieved, making it this far with\lmortal POKéMON, I'll give you the\lchance to enter the final chamber\ltoo.\pOne more, {V01}, and you'll\nlearn the truth.
+3969a0|… … …\n… … …\p-Not even his 100% could\nsave him.-
+3978b2|{C1930}Do you have any idea where\nwe are, {V01}?
+3978d8|{C1930}That's right. Right now we're\nburied hundreds of meters beneath\lECRUTEAK CITY, right between the\lBELL TOWER and the misnamed BURNED\lTOWER, once the BRASS TOWER.
+39797b|{C1930}As you can see, there are no\naccidents.\pEverything has a reason.\pDo you see now why LUGIA and\nHO-OH were needed to get\lhere?
+397a12|{C1930}Both towers have stood for 700\nyears…\pA tiny fraction compared with how\nlong our cult has existed. It was\lhere that the ESSENCE POKéMON\lmigrated after it rejected human\lcontact.
+397ae2|{C1930}But it belongs to KANTO!\pAnd to KANTO it shall return!\pThe ESSENCE POKéMON!
+397b27|{C1930}Watch closely, {V01}!\pThe greatest forces in the universe\nare about to appear!
+397b8f|MEW!
+397b95|{C1930}My cult has awaited this for\nmillennia, and now I have the\lhonor not only of witnessing{C080F}…{C080F}\pBut of wielding the\nESSENCE POKéMON!
+397c2f|{C1930}3…\pThere are 3 POKéMON who, united,\nformed all that is, was and will\lbe. For all their differences,\lthey're equal in overall power.\lOf the 3, the most important is\lthe ESSENCE POKéMON, for thanks\lto it, the other two can regain\ltheir PRIMAL ESSENCE.
+397d33|{C1930}The ORIGINAL DRAGON.\pIt represents perfect balance,\nperfection. HE is the ancestor of\lall dragons. He existed before\lthe other creator god hatched\lfrom the egg that gave birth to\lthis universe.
+397e03|{C1930}That fool thought it was enough to\njoin the 3 DRAGONS OF UNOVA, but\lonly the ESSENCE POKéMON can\lrestore its original form, the one\lfrom before the BIG BANG.\pBehold!
+397eb1|{C1930}Its offense is unrivaled.\pMaster of the ELEMENTAL TYPES,\nMEGA RAYQUAZA is nothing but a\lcrude lizard beside it.
+397f2c|{C1930}ARCEUS…\pThe GOD of our universe, weakened\nfor 15 billion years by creating\leverything we know. But no more.
+397f9f|{C1930}150 is the golden number for\nMAJOR LEGENDARIES.\pThe least it can be is the\nstandard for the god of gods!!
+39800d|{C1930}And finally, the ESSENCE POKéMON,\nintermediary between the other two\lgods. Its realm is dark matter,\lthe mold that every process of\lcreation must pass through.\pWe're all part of HIM, so He is\nomnipresent. His only defined form\lis here, just a few meters from\lus.
+398139|{C1930}LUGIA and HO-OH let you reach\nthis place, but only one who\lcontrols MEW can make use of HIM.\pI'm sorry to tell you this now,\nbut you wouldn't have undertaken\lthis quest the same way otherwise.
+398201|{C1930}And now, {V01}…\pThe moment of truth has come.\pWith the ESSENCE POKéMON, the\nLAVENDER TOWN cult will finally\lreach that state of perfection,\lan eternal nirvana. You'll be the\lfirst to feel what it's like to\lfight something unreachable.
+398302|{C1930}Together, the 3 of them already\nform the perfect synergy.\pAdding or removing any POKéMON\nfrom this sacred triad would\lbreak that perfection.\pI need nothing more than these 3\nPOKéMON to crown myself GOD of the\lnew world, and with it, the most\lpowerful TRAINER of all time!
+39842f|{C1930}There's no chance of escape. You're\nonly a part of the whole you're\labout to face.
+39848d|{C1930}I'm sorry, {V01}.\pYou would have made a great member\nof our cult and learned to treasure\lthe ESSENCE POKéMON, but{C0819}…{C0819}\pIMMORTALITY AWAITS ME!!
+398522|This makes no sense,\neverything was perfect!
+39854d|{C1930}It can't be{C080F}…{C080F} these 3 POKéMON\ncan only be beaten by each other{C080F}…{C080F}\pTogether they form perfect\nsynergy. What went wrong?!
+3985e5|{C1930}Ah{C080F}…{C080F}\pNow I understand{C080F}…{C080F}\pI'm the one who failed{C080F}…{C080F}
+39862e|{C1930}I suppose perfection is\nrelative.\pRight, {V01}?
+398776|-The mysterious energy has\nvanished.-
+39880a|The other day I went into the\ndeepest part of the cave and\lfound a guy giving away a TM\lfor a WATER-type move.
+398aab|{C1906}Just as I thought. Disappointing.
+398ade|{C1935}Ah, {V01}.\pExploring UNION CAVE\ntoo?
+398b0d|{C1935}I wanted to do a little\nresearch on the POKéMON that\lsleeps in the depths of this\lcave.
+398b77|{C1935}It turned out to be a LAPRAS.\pDon't get me wrong, it's a good\nPOKéMON, but my expectations\lwere much higher.
+398be5|{C1935}Really?!\pYou battled FALKNER's father\nin person?!
+398c22|{C1935}Well… So with you, he did\nagree to battle.
+398c52|{C1935}A fascinating TRAINER, no\ndoubt. I wanted to study how his\lPIDGEOT could MEGA EVOLVE without\lusing my technology, but everyone\lof his generation is the same.\pThey live like hermits, oblivious\nto everything happening in the\lworld.\pPerhaps that's where their power\nlies.\pLike the STRONG BOND phenomenon,\nhis MEGA EVOLUTION may be\ltriggered by similar mechanisms…{C0805}
+398dde|{C1935}I'm curious.\pYou didn't just battle him, you\nbeat him.\pHmm{C080F}…{C080F}\pCould I have before me a subject\neven more interesting than those\lold LEADERS, doomed to become\lobsolete?
+398ea3|{C1935}Let me find out.
+398eba|Hmmm…\nVery interesting. Noted.
+398edc|{C1935}Now I see why you're one of the\nmost influential, powerful ROCKETS.\pI hope you keep bringing us\nvaluable information about those\lunique POKéMON.
+398f78|{C1935}I'll take my leave, {V01}.\nThanks for the battle.
+398fa2|{C1935}Oh, and one more thing.\pThere's going to be an event soon,\nan important one, here in JOHTO.\pGIOVANNI will fill you in.\pAfter what I've seen in this cave,\nI understand why he always\lconsiders you for the most\limportant matters.
+3990d0|{C1920}{V01}?\pWe've received the data on\nFALKNER's RAPIDASH-&.\pIt must have been a tough opponent.\nIt makes up for its 4x ROCK\lweakness with the FUR COAT\lABILITY. Very impressive,\lespecially with base ATTACK and\lSPEED of 135-145 as well.\pYou know you can drop by the room\nin the DEEP BASE, where we'll study\land keep updating all the\linformation on this class of\lPOKéMON.\pAnd one more thing: have you\nvisited the RUINS OF ALPH?\pThat's right, we haven't found\nanything yet, but don't worry,\l{V01}. For now, focus on\lcollecting data on STRONG BOND\lPOKéMON. We have all the time in\lthe world to solve the mystery of\lthe RUINS.\pThe GYM LEADERS{C0819}…{C0819}\pWe don't know how long they can\nlast in this ever-changing JOHTO.
+3994e0|There's no better place for good\nfishing than here, but any WATER\ltype worth its salt needs\lhigh-powered moves.
+399560|{V01} got TM97 BRINE\nfrom the FISHERMAN!!
+399594|When the foe's HP drops below\nhalf, BRINE even outpowers\lHYDRO PUMP.\lDon't let it go to waste!
+39961e|We look after this great forest and\nmake sure everything's in order.\lYou look like someone influential\land powerful, but you don't seem\lto have let success go to your\lhead. You shouldn't cause any\ltrouble.\lEnjoy ILEX FOREST!
+399712|If you've got a lighter on you,\nyou'd better keep it put away.\lOr you'll anger the guardian of\lILEX FOREST!
+399781|ILEX FOREST is huge.\nCareful!\lDon't get lost!
+399808|AZALEA TOWN has always gotten\nthe wood we make charcoal from\lfrom this forest. We're very\lgrateful to it.
+399889|Stupid bushes…\nWhy do they grow back when I\ljust cut them down?\lDo I seriously have to go back\lto AZALEA for CUT?
+399910|So FARFETCH'D is weak, but\nnobody cuts wood like that\lPOKéMON{C0805}…{C0805}
+399a28|{C1920}{V01}?\nYou're breaking up. You must be\lin ILEX FOREST, am I right?\pThat place brings back fond\nmemories, yes{C0819}…{C0819}\pWe now have the data on KURT's\nBUTTERFREE-&.\lThe most remarkable thing isn't\lits 520 BASE STATS, it's its\lunbeatable spread of useful\lSTATS. It has{C0819}…{C0819} a base ATTACK of\ljust 5!\pBetween that and its\nADAPTABILITY ABILITY, in practice\lit becomes a far more dangerous\lPOKéMON than most\lPSEUDO-LEGENDARIES. It's amazing\lwhat a POKéMON like BUTTERFREE\lcan become, when it seemed doomed\lto mediocrity with a base total of\l395, don't you think?
+399c62|{C1920}On another note, I've sent ARCHER\nto GOLDENROD CITY. I want you to\lmeet him at the RADIO TOWER.\pARCHER will explain the details\nwhen you see him. I look forward\lto hearing from you again, {V01}.
+399d24|There are so many trees in ILEX\nFOREST you can't even see the sky.\lPlease look for any items that\lmight have fallen.
+399dc3|{V01} got TM91 U-TURN\nfrom the BUG CATCHER!
+399dfb|I'm here secretly developing the\nultimate strategic BUG-type move.\lU-TURN will change the pace of\lbattles forever.\lTake a look.
+399eaa|Thanks to U-TURN, you'll have\nthe slipperiest, most\lunpredictable POKéMON around.\pJust you wait!
+39a17d|ÑÁ\nTher!
+39a187|{C1949}Oh! I'm impressed!
+39a1a4|{C1949}Your SCYTHER keeps on growing.
+39a1c5|{C1949}These days, seeing a young lady\nwith such enthusiasm is a sight for\lsore eyes. I'm glad the old values\lstill live on!
+39a24e|{C1910}Thanks, but{C0819}…{C0819} it looks the same to me.
+39a27f|{C1949}Ah{C0819}…{C0819} Yes{C0819}…{C0819} You see it all the time.\nYou can't appreciate it, but with\levery action, every battle, your\lPOKéMON is changing.
+39a30b|{C1910}Does that mean someday it'll be\na KLEAVOR like KURT's?
+39a357|{C1949}Oh! If only you knew what KURT went\nthrough before his SCYTHER evolved!
+39a3a5|{C1949}He only managed it after traveling\nall over JOHTO and uncovering\levery secret the region hides.\lNot a moment before.
+39a414|{C1910}But{C0819}…{C0819} I haven't even uncovered\nthe secrets of ILEX FOREST yet…\pHow will I ever get there?
+39a480|{C1949}The path of a TRAINER takes time\nand sacrifice. Only then can you\lgrow strong roots that won't give\lway to adversity.
+39a503|{C1949}Building up energy and putting your\nheart in, like you do with this\lSCYTHER, is never futile, never in\lvain.\pIt's always watering something.
+39a57b|{C1949}That is the essence of JOHTO's\ngreat masters.
+39a5b9|{C1949}You, young lady{C0819}…{C0819} have everything\nit takes: time and talent.
+39a602|{C1949}JOHTO awaits, and it's up to you to\nanswer its call. Will you answer?
+39a646|{C1910}Of course I will!
+39a65d|{C1949}In that case{C0823}…{C0823} JOHTO is watching!\nHo ho ho!
+39a693|{C1910}Come on, SCYTHER.\nJOHTO awaits!
+39a6b9|Ther!
+39aca0|{C1910}SCYTHER! Again!
+39acb8|Ther!
+39acd5|{C1910}Why am I getting worse now? And\nwhy do I feel more tired than I\ldid just a few weeks ago?
+39ad3a|{C1910}I never thought the laws of the\nworld would be so harsh.
+39ad72|{C1910}It's like I'm anchored to the\nground. I'm still so far from\lthose great masters, and yet I'm\lalready stuck.

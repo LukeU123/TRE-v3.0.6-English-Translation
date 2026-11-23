@@ -6,7 +6,7 @@
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
 **Status:** every text chunk is translated (about 26,300 strings). Now in playtesting and polish. See the Progress section below.
-**Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
+**Known issue:** a fast-forward stutter was seen once but hasn't been reproduced since. See `REVIEW_NOTES.md`.
 
 ## Progress
 

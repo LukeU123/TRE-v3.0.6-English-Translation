@@ -680,3 +680,234 @@
 4c2274|The snow stopped.
 4c2284|The snow continues.
 4c2298|It started to snow!
+4c22b0|{V13} used its Mirror Herb to copy its opponent's stat changes!
+4c22f4|{V0F}'s {V14} melted the ice!
+4c2314|{V0F} thawed out!
+4c2334|{V10} thawed out!
+4c2354|{V0F} thawed out through sheer determination!
+4c2388|{V13}'s {V16} thawed it out!
+4c23a8|{V11} was frozen solid!
+4c23b8|{V0F} was hurt by its frostbite!
+4c23dc|{V0F} trapped {V3F}!
+4c23ed|   {V00}'s PP restored!
+4c2408|{V00} had its status healed!
+4c2428|{V00} had its HP restored!
+4c2440|{V00} was revived and is ready to fight!
+4c246c|{V0F}'s stockpiled effect wore off!
+4c2490|{V10} couldn't fully protect itself!
+4c24b4|The pointed stones disappeared from around {V38}!
+4c24f0|The Sticky Web disappeared from around {V38}!
+4c2520|The Toxic Spikes disappeared from around {V38}!
+4c2554|The Spikes disappeared from around {V38}!
+4c2580|{V0F}'s trap didn't work!
+4c25a0|{V0F} set a trap!
+4c25b8|{V13}'s {V1A} prevents {V19} from activating!
+4c25e0|{V13} gained strength from the fall!
+4c2600|{V13}'s {V1A} weakened the {V00} of all POKéMON!\p
+4c2630|The Electric Terrain activated {V41}'s Quark Drive!
+4c2664|{V13}'s {V00} was heightened!
+4c2678|The harsh sunlight activated {V41}'s Protosynthesis!
+4c26ac|Being hit by {V14} charged {V3F} with power!
+4c26d4|{V0F} switched {V00} with its target!
+4c26f4|{V0F} used up all its electricity!
+4c2714|{V10} endured the hit!
+4c2728|{V0F} melted the ice with its fiery determination!
+4c2764|{V0F} cured its burn through sheer determination!
+4c2798|{V0F} gathered all its energy to overcome its paralysis!
+4c27d0|{V0F} woke up!
+4c27e4|{V0F} managed to expel the poison!
+4c2804|{V13}'s HP\nwas restored by its Z-Power!
+4c2838|{V13} boosted\nits stats using its Z-Power!
+4c2868|{V13} restored its HP\nusing its Z-Power!
+4c2890|{V13} boosted its\ncrit ratio using its Z-Power!
+4c28c4|{V13} boosted\nall of its stats using its Z-Power!
+4c28fc|{V13} returned its decreased stats to normal using its Z-Power!!
+4c2944|{V0F} unleashes its full-force\nZ-Move!
+4c2980|{V0F} surrounded itself\nwith its Z-Power!
+4c29a8|{V0F} swapped the effects on each side of the field!
+4c29e0|{V0F} started heating up its beak!
+4c2a00|{V0F} is overflowing with space power!
+4c2a24|{V10} fell for the trap!
+4c2a3c|{V0F} took {V3F} into the sky!
+4c2a5c|{V10} is too heavy!
+4c2a78|The effects of the gas wore off!
+4c2a9c|Gas spread throughout the area!
+4c2ac0|{V10} can't escape because of the Octolock!
+4c2aec|{V10} is attacked by its {V00}!
+4c2b08|{V10} became weaker to fire!
+4c2b28|{V0F} can't escape\nbecause of No Retreat!
+4c2b58|No POKéMON can flee!
+4c2b74|Its {V00} type changed to {V13}!
+4c2b90|{V10} was cured of its poisoning!
+4c2bb0|{V10} swapped Abilities\nwith its target!
+4c2be0|{V18} only allows the use of {V14}!\p
+4c2c00|It broke through {V3F}'s protection!
+4c2c20|But {V3E} can't use it!
+4c2c3c|But {V3E} can't use it!
+4c2c58|{V13}'s Primal Reversion!
+4c2c74|It can't be used without a Berry!\p
+4c2c94|The mysterious strong winds\nweakened the attack!
+4c2cc0|The mysterious strong winds\nblow on regardless!
+4c2ce8|The effects of the strong winds\nhave worn off!
+4c2d10|Mysterious strong winds are\nprotecting FLYING-type POKéMON!
+4c2d48|There is no relief from this heavy rain!
+4c2d70|The Fire-type attack fizzled out in the heavy rain!
+4c2da8|The heavy rain has lifted!{C0840}
+4c2dcc|It started to rain!
+4c2de0|The extremely harsh sunlight didn't let up!
+4c2e10|The Water-type attack evaporated in the harsh sunlight!
+4c2e4c|The extremely harsh sunlight faded.{C0840}
+4c2e6c|The sunlight turned extremely harsh!
+4c2e98|{V0F} became Ash-Greninja!\p
+4c2ebc|{V0F} became fully charged due to its bond with its Trainer!\p
+4c2f00|{V0F} is cured of its Heal Block!
+4c2f1c|{V0F} is no longer tormented!
+4c2f38|{V0F} got over its infatuation!
+4c2f54|{V13} is switched out with the {V16}!
+4c2f70|{V13} held up its Red Card against {V3E}!
+4c2f98|{V10}'s burn was healed!
+4c2fb8|The {V16} attacked {V3E}!
+4c2fcc|{V0F}'s item cannot be removed!
+4c2ff4|{V13} got over its infatuation!
+4c3010|{V13} shook off the taunt!
+4c3028|{V13} boosted the accuracy of its next move using {V16}!
+4c3060|{V0F} can act faster,\nthanks to {V00}!
+4c3080|{V11}'s stat changes were removed!
+4c30b0|{V13} has two Abilities!
+4c30e8|Both POKéMON will faint\nin three turns!
+4c3120|A sandstorm kicked up!
+4c3148|{V13} found\n {V16}!
+4c3160|All screens have been cleared!
+4c3188|{V13} is\nin a deep slumber!
+4c31b0|{V13} reversed\nall other POKéMON's auras!
+4c31d4|{V13} is radiating\na fairy aura!
+4c31f4|{V13} is radiating\na dark aura!
+4c3210|{V13} is exerting\nits pressure!
+4c3224|Mysterious strong winds are protecting\nFlying-type POKéMON!
+4c326c|{V35}'s fervent wish\nhas reached {V3E}!
+4c3294|The effects of {V16} prevent its stats dropping!
+4c32c4|A cold light envelops\n {V0F}!
+4c32e4|{V13} fell in love\nbecause of the {V16}!
+4c3308|No one will be able to run away\nduring the next turn!
+4c3334|{V0F} is\nabsorbing power!
+4c3354|The POKéMON received the Ability\n {V1A} from {V13}!
+4c3384|{V13}'s {V1A}\nraised its {V00}!
+4c33a4|{V0F}'s {V17}\ncured {V41}'s\lproblem!
+4c33cc|{V0F}'s fire\nwas snuffed out!
+4c33f8|{V0F} cured\n{V3F}'s problem!
+4c341c|{V13}'s illusion\nwore off!
+4c3444|{V0F} stole and\nate its target's\l{V16}!
+4c3470|{V11}'s {V16}\nwas burned up!
+4c348c|{V10}'s {V16}\nexploded!
+4c34a8|{V13} floats in the\nair with its Air Balloon!
+4c34c8|The {V16} weakened the\ndamage to {V41}!
+4c34f0|The {V16} strengthened\n{V3E}'s power!
+4c3510|{V0F}\nsharpened its focus!
+4c3524|{V3E} can't use\n{V14} because of Throat Chop!\p
+4c3554|{V0F} can use\nsound-based moves again!
+4c3584|{V0F} repeats its\nlast move thanks to {V00}!
+4c35ac|Congratulations, {V23}!
+4c35c0|Aroma Veil protected\n {V10}!
+4c35e0|{V10} can't fall\nasleep due to Sweet Veil!
+4c3618|Flower Veil protected\n {V10}!
+4c3638|{V10} isn't affected\nthanks to {V16}!
+4c3658|{V10} is protected by\nthe Psychic Terrain!
+4c3680|{V10} is protected by\nthe Electric Terrain!
+4c36a8|The Grassy Terrain restored\n {V0F}'s HP!
+4c36d0|{V10} is protected by\nthe Misty Terrain!
+4c36f8|{V10} couldn't stay\nairborne because of\lgravity!
+4c3740|{V0F} stole its\ntarget's stat\lboosts!
+4c3788|The POKéMON can't use this\nmove because it hasn't eaten\la Berry.\p
+4c37dc|When the flame touched the powder,\nit exploded!
+4c3814|{V10} is covered\nin powder!
+4c3830|{V0F} can't\nuse {V14}!
+4c3848|{V10} fell for\nthe Feint!
+4c386c|{V3F}\nis now also {V00} type!
+4c3890|{V10} received {V16}\nfrom {V3E}!
+4c38ac|{V41} was\nhurt by the sea of flames!
+4c38dc|But it had no effect on\n {V3F}!
+4c3908|{V10} is being\nharassed by {V3E}!
+4c3928|{V0F} has Mega\nEvolved into Mega {V00}!
+4c3948|{V0F}'s {V16}\nis reacting to {V35}'s\lMega Ring!
+4c3974|Electrify made the next\nmove {V10} uses\lElectric type!
+4c39c4|The battlefield got\nweird!
+4c39f8|An electric current is running\nacross the battlefield!
+4c3a44|Grass grew to cover\nthe battlefield!
+4c3a78|Mist swirled around\nthe battlefield!
+4c3aa8|All stat changes on {V3F}\nwere inverted!
+4c3ae4|A deluge of ions showers\nthe battlefield!
+4c3b20|{V0F} got rid of\nthe pointed stones!
+4c3b4c|{V0F} got rid of\nthe Sticky Web!
+4c3b6c|{V0F} got rid of\nthe Toxic Spikes!
+4c3b90|{V10}'s move\nwas postponed!
+4c3bb8|A sticky web has been laid out\nbeneath {V3B}'s team!
+4c3bf0|Not programmed!\p
+4c3c04|{V0F} can't\nheal because of Heal Block!\p
+4c3c30|{V0F} can't use\n{V14} because of\lgravity!\p
+4c3c6c|The effects of {V16}\nprevent status moves from\nbeing used!\p
+4c3cac|{V0F} transformed\ninto {V3F} using {V17}!
+4c3cd4|{V0F}'s\n {V14} was bounced back by\l{V3F}'s {V19}!
+4c3d0c|{V10}'s {V00}\nwon't go any higher!
+4c3d28|{V10}'s {V19}\nlowered its {V00}!
+4c3d48|{V0F} acquired\n {V18}!
+4c3d60|{V0F}'s {V00} was nullified\nby {V3F}'s {V19}!
+4c3d84|A mystical moonlight halo\nenvelops {V0F}!
+4c3db4|{V0F} regained its health!
+4c3dd0|The wish came true for\n {V3E}!
+4c3dfc|{V13} was\ncaught in a Sticky Web!
+4c3e20|{V13} was\nbadly poisoned!
+4c3e40|{V13} was\npoisoned!
+4c3e58|The toxic spikes scattered around\nthe opposing team disappeared!
+4c3e98|Pointed stones dug into\n {V41}!
+4c3ee4|{V0F}'s {V18}\nmade it the {V00} type!
+4c3f08|The {V10} was returned to\n {V3E}!
+4c3f20|{V0F}\nrecycled {V16}!
+4c3f38|The opposing team is too nervous\nto eat Berries!
+4c3f74|{V0F} frisked {V3F}\nand found {V16}!
+4c3f9c|It started to hail!
+4c3fb8|{V0F}'s {V18}\nrestored a little HP!
+4c3fe8|{V41}'s {V1A}\ndetected {V40}'s \p{V00}!
+4c400c|{V13}\nshuddered!
+4c4024|{V0F} was hurt!
+4c4040|{V0F}'s {V18}\nmade it lose a little HP!
+4c406c|{V0F} is going\nall out again!
+4c408c|{V13} can't get\nit going!
+4c40b0|{V13} is radiating\na blazing aura!
+4c40d4|{V13} is radiating\na bursting aura!
+4c40fc|{V13} breaks the mold!
+4c4114|{V10} was subjected to torment!
+4c412c|The poison restored a little\nHP to {V3E}!
+4c415c|{V13}'s {V1A}\nraised its {V00}!
+4c417c|{V10}'s {V19}\nmaxed out its\p{V00}!
+4c41a4|{V10}'s {V19}\nraised its {V00}!
+4c41c4|The grass disappeared.
+4c41e0|The weird feeling on the\nbattlefield\pdisappeared.
+4c4230|The mist disappeared.
+4c424c|The electric current disappeared\nfrom the battlefield.
+4c4280|{V3E} restored a\nlittle HP thanks to the veil\pof water surrounding it!
+4c42cc|Gravity returned to\nnormal!
+4c42f8|The effects of Water Sport have faded.
+4c4320|The effects of Mud Sport have\nfaded.
+4c434a|  Magic Room wore off, and items'\neffects returned to normal!
+4c438c|Wonder Room wore off, and Defense\nand Sp. Def stats returned\pto normal!
+4c43e4|The twisted dimensions returned\nto normal!
+4c4414|{V37}'s team's Lucky Chant\nwore off!
+4c4450|{V37}'s team's tailwind\npetered out!
+4c448c|{V0F} was freed\nfrom the Telekinesis!
+4c44b4|{V0F}'s {V00}\nwore off!
+4c44d0|electromagnetism
+4c44e4|{V0F} can\nuse items again!
+4c4508|{V10} received {V16}\nfrom {V3E}
+4c4524|{V0F} is now\nthe same type as {V3F}!
+4c4548|{V10}'s move\nwas postponed!
+4c4570|{V10} was freed\nfrom the Sky Drop!
+4c4594|{V0F} took\n{V3F} into the sky!
+4c45bc|{V10}'s HP\nwas restored!
+4c45e0|{V0F} and\n{V41} switched\ptheir places!
+4c460c|All stat changes on\n{V10}\lwere eliminated!
+4c464c|{V10}\naccepted the offer!
+4c466c|{V10} acquired\nSimple!
+4c4688|{V10} transformed\ninto the {V00} type!
+4c46b0|{V10} was\nslammed to the ground!
+4c46d0|A bizarre area was created in which\nitems' effects are nullified!
+4c4718|{V10} was\nhurled into the air!

@@ -3,14 +3,14 @@
 450572|I wrote an essay about what the\nideal TRAINER should be like.
 4505c0|POKéMON can hold items, and they\ncan use them too.\pBut they don't know what to do with\nsome man-made items,\llike POTIONS and ANTIDOTES.
 450667|Today we learned about POKéMON\ntypes, and that… How did it go?\pGRASS is weak to FIRE.\pFIRE is weak to WATER.\pAnd WATER is weak to GRASS!
-45070e|Write dialogue
-45072b|Write dialogue
+45070e|Dialogue TBD
+45072b|Dialogue TBD
 450748|It's a notebook.\nLet's see what it says…\pPOKéMON are caught using\nPOKé BALLS.\pA TRAINER can carry up to\nsix POKéMON at once.\pA TRAINER is someone who catches\nPOKéMON, raises them and battles\lwith them.\pA TRAINER's mission is to defeat the\nTRAINERS who run POKéMON GYMS.\lThey are strong TRAINERS.
-4508ae|Write dialogue
-4508cb|Write dialogue
-4508e8|Write dialogue
+4508ae|Dialogue TBD
+4508cb|Dialogue TBD
+4508e8|Dialogue TBD
 450905|Did you know POKéMON come in different\ntypes, like WATER, FIRE and GRASS?\pEach type has its own strengths and\nweaknesses against the others.
-45099b|Write dialogue
+45099b|Dialogue TBD
 4509b9|I give tips to TRAINERS!\nWant one? Of course you do.\pIf you get stuck and don't know\nwhere to go next…\pTalk to people! Talk to\neveryone you see!\pGo places! Go to every place\nyou can!\pIf you follow my advice, I'm sure\nyou'll find lots of new places.
 450ad8|POKéMON are wonderful creatures,\nand deeply mysterious ones.\pBut all TRAINERS ever care about\nis battling!\pIn the end, it all comes down to that.
 450b88|Did you know some kinds of POKéMON\nevolve by battling?\pIt's because they get stronger.\pAnd when they evolve, they take on\ncompletely different forms!
@@ -19,25 +19,25 @@
 450d30|POTIONS are important, but sometimes\nit's better to avoid battles.\pIf you want to keep wild POKéMON away\nfor a while, use a REPEL.\pAfter all, if you don't battle, your\nPOKéMON won't lose any HP.
 450f16|Have you bought a HEAL BALL at\nthe POKé MART?\pA HEAL BALL fully heals a POKéMON\nthe moment it's caught.\pThat way it can battle\nright away.\pOf course, if you already have six\nPOKéMON, it won't help you much.
 450ffc|I love it when POKéMON use\ntheir moves.\pIt makes everything so much more fun.\pSometimes, when they get stronger,\nthey learn new moves.\pAnd new things really liven\nthings up!
-4510cf|Write dialogue
+4510cf|Dialogue TBD
 4510ec|Oh, hello, darling.\nIsn't my POKéTCH just divine?\pIt's the very latest model on the\nmarket. I snapped it up right away.\pIt's essential. A TRAINER is simply\nnobody without a POKéTCH.
 4511cd|I'm shooting a TV\ncommercial.\pA little publicity never\nhurts!
 451231|The TV station interviews all\nkinds of TRAINERS.\pAfter all, people want to get to\nknow the good TRAINERS.\pI'd like to know more about the\nGYM LEADERS.\pI'd also like to hear more about the\nELITE FOUR of the POKéMON LEAGUE.
-45134b|Write dialogue
-451368|Write dialogue
-451385|Write dialogue
-4513a3|Write dialogue
-4513c0|Write dialogue
+45134b|Dialogue TBD
+451368|Dialogue TBD
+451385|Dialogue TBD
+4513a3|Dialogue TBD
+4513c0|Dialogue TBD
 4513dd|I just can't make up my mind.\pWhich accessories go with the\nclothes I'm wearing today?
-451431|Write dialogue
-45144e|Write dialogue
-45146b|Write dialogue
+451431|Dialogue TBD
+45144e|Dialogue TBD
+45146b|Dialogue TBD
 451489|The Group Ranking Room is the one\nclosest to the stairs.\pThe room on the left is the\nGlobal Ranking Room.
 45151e|Records are wonderful. They tell\nthe whole story of everything.\pYou can almost feel the personal\ndramas hidden behind every number!
-4515ad|Write dialogue
-4515ca|Write dialogue
-4515e8|Write dialogue
-451605|Write dialogue
+4515ad|Dialogue TBD
+4515ca|Dialogue TBD
+4515e8|Dialogue TBD
+451605|Dialogue TBD
 451622|"Everyone takes part" is our TV\nstation's motto.
 451672|We'll try to put ourselves in a\nTRAINER's shoes to come up with\pthe best apps for the POKéTCH.
 4516e6|POKéTCH Company!\nOr POKéTCH CO., if you prefer.\pIsn't that a lovely name?\nIt is, isn't it?\pWell, I'm the father of the\nPRESIDENT of POKéTCH CO.
@@ -46,38 +46,38 @@
 4518a9|Heh heh!\pI'm the PRESIDENT of POKéTCH CO.!\pTell me, do you think I should look\nfor new POKéTCH ideas?
 451926|Of course, I'll never stop coming up\nwith new POKéTCH apps.\pMy POKéTCH evolves, just like\nmy POKéMON!
 4519b1|Everyone makes apps for the\nPOKéTCH.\pYou'll be surprised who you can\nget apps from sometimes!
-451a2b|Write dialogue
+451a2b|Dialogue TBD
 451a48|My husband is the PRESIDENT.\pWe started out in a little workshop\nwhere he made whatever he liked.\pAnd now we make something everyone\nlikes. Imagine that!
 451af6|I got my PIKACHU in a trade\nwith someone from… from… the world.\pIt grows really fast and it's a high\nlevel, but it doesn't always listen…\pThat's because I only have one\nGYM BADGE.\pIt's not easy to handle, but it's my\npartner and I wouldn't swap it for\lanything!
 451c07|If everyone in the world\nhad POKéMON…\pThen everyone in the world could\ncommunicate!
 451c72|WI: We come from far land. I want see\nPOKéMON I trade.\pI worry if they fine and growing.
 451ce4|FI: Me like look at POKéMON I get\nfrom friendship in trade.\pSo friendship agreement!
-451d4b|Write dialogue
-451d68|Write dialogue
+451d4b|Dialogue TBD
+451d68|Dialogue TBD
 451d86|The POKé MART is run by a woman\nand a young boy.\pThey sell all different kinds of\ngoods, did you know?
-451eba|Write dialogue
-451ed7|Write dialogue
+451eba|Dialogue TBD
+451ed7|Dialogue TBD
 451ef4|POKéMON you get in trades grow\nreally fast.\pBut if a POKéMON grows too strong,\nit might not obey its TRAINER.\pThat won't happen if you have lots\nof GYM BADGES, of course.
-451fd2|Write dialogue
+451fd2|Dialogue TBD
 451fef|Turn on a PC in any POKéMON CENTER\nand log in to the POKéMON\lStorage System.\pThat's all you have to do to\ndeposit or withdraw your POKéMON.
-45209e|Write dialogue
-4520bb|Write dialogue
-4520d8|Write dialogue
-4520f5|Write dialogue
+45209e|Dialogue TBD
+4520bb|Dialogue TBD
+4520d8|Dialogue TBD
+4520f5|Dialogue TBD
 452113|Every POKéMON has a special power\ncalled an ABILITY.
 45215c|My PACHIRISU has the PICKUP ABILITY,\nwhich is my favorite of them all.\pMy little sweetie picks up loads of\nstray items without me even noticing!
 452206|The view from the second floor is\ngreat, but going out is a hassle.
 45225b|GYM LEADERS are very different\nfrom other TRAINERS.\pThey're much tougher nuts to\ncrack, of course.\pWay, way tougher.\pIf I were you, I'd bring as many\nPOKéMON as I possibly could.
 452322|ROARK lets us train our\nPOKéMON in the mine.
 452364|There are eight GYM LEADERS in the\nSINNOH region.\pTRAINERS have to try to get a\nBADGE from each of them.\pThat means beating every one of them\nin battle at their GYMS!
-452436|Write dialogue
+452436|Dialogue TBD
 452453|You've got to give POKéMON nicknames.\nIt makes them feel more like yours.
 4524a5|I like nicknames, but he named our\nPSYDUCK "Yellow"!\pHe says it's because it's yellow!\nWhere's the logic in that?!
 45253d|We have different personalities,\nand POKéMON have natures.\pThat's why it doesn't seem so odd to\nme to see POKéMON in other colors.
 4525d4|Have you ever heard of POKéMON\nwith color variations?\pFor example, a normal PIKACHU is\nyellow, right?\pWell, there are PIKACHU in another\ncolor. They have a sort of orange tint.
 4526ae|ROARK is our GYM LEADER.\pHe's young, but he runs the mine very\nefficiently and safely.
 452731|ROARK uses ROCK-type POKéMON.\pDon't you think ROCK-type POKéMON\nare great? They're so rugged!
-4527ac|Write dialogue
+4527ac|Dialogue TBD
 4527c9|Work at the OREBURGH MINE follows\neco-friendly guidelines.\pWe try not to cause any harm to\nthe natural habitat of POKéMON.
 452864|The mine's coal extraction system\nis fully automated.\pThe machines do the heavy lifting,\nso we don't have to break our backs.
 452901|You've reminded me of that glorious\nday when I got my first POKéMON.
@@ -86,25 +86,25 @@
 452a39|With POKéMON, even someone as young\nas you can travel without worry.
 452a8d|ETERNA CITY is a long way from here.\pYou should get ready for\na long journey.
 452aea|The other day I was battling and my\nPOKéMON was really low on HP.\pI thought we were done for!\pThen my POKéMON ate the BERRY it was\nholding… and boom, good as new!
-452ba4|Write dialogue
+452ba4|Dialogue TBD
 452bc1|Long ago, FLOAROMA TOWN was a barren,\ndesolate hill where not even\lPOKéMON set foot.\pIt was such a sad place that people\nbegan to plant flowers.\pBut they wouldn't bloom… Nothing grew,\nand the people didn't know what to do.\pUntil one day, someone gave thanks\nto nature for its gifts.\pAnd the whole hill was covered\nin flowers!
 452d29|Some kinds of POKéMON only appear when\nlured by the sweet scent of HONEY.
 452d84|POKéMON must have a very keen\nsense of smell.\pThey can smell HONEY from miles\naway.
 452e06|I'm going to dress my POKéMON in the\ncutest accessories I can find and\ltake it to JUBILIFE TV.\pThen the whole region can see and\nadmire my POKéMON!
 452f49|GARDENIA, our GYM LEADER, often\ngoes to ETERNA FOREST.\pI've always wondered what she does\nthere.
-452fca|Write dialogue
+452fca|Dialogue TBD
 452fe7|We old folks are always looking to\nthe past, remembering our history.\pYou young people have your whole\nfuture ahead of you.
-45306e|Write dialogue
+45306e|Dialogue TBD
 45308b|Hello! I'm the building's caretaker.\nI keep watch over it day and night.
 4530e1|You won't catch me leaving home\nwithout an ESCAPE ROPE. A must!\pYou can use it to get out of any\ncave instantly.\pIt's just so useful!
 4532ef|GYM BADGES, CONTEST prizes…\nIt seems there's more than one\lway to become a winner.\pI hope you find your own\nway too.
 45338d|I picked lots of BERRIES and I'll\ntrade them for accessories.\pNext stop, HEARTHOME CITY!\nI'm entering a CONTEST!
 453418|Ha ha ha!\nYou're not getting the flag!
 45344f|You won't catch me!\nI've set traps everywhere!
-453491|Write dialogue
-4534ae|Write dialogue
+453491|Dialogue TBD
+4534ae|Dialogue TBD
 4534cb|When a POKéMON faints, it doesn't have\nthe strength to keep battling.\pBut it can still use moves learned\nfrom HMs in other situations.
-453571|Write dialogue
+453571|Dialogue TBD
 45358e|Why would TEAM GALACTIC want other\npeople's POKéMON?
 4535da|Herbal medicines work, but they're\nbitter and smelly.\lYour POKéMON won't like them.
 453648|Someone should invent an herbal\nmedicine that isn't bitter.\pWhat a revolution that would be for\nthe pharmaceutical industry!
@@ -118,13 +118,13 @@
 453c57|Every now and then, eggs are found\nat the DAY CARE.\pNobody has figured out how they\nget there.\pIs someone leaving them on purpose?
 453cf9|Did you know your POKéMON's nature\ndetermines how it grows?
 453d48|Many PRIMAL POKéMON can be found\nin this area.\pApparently there used to be lots of\nranches around here.
-453dd5|Write dialogue
+453dd5|Dialogue TBD
 453df2|The SINNOH newspaper doesn't have a big\ncirculation, but it has loyal readers.\pIt's printed right here.
 453e6b|It's a long way from SOLACEON TOWN\nto VEILSTONE CITY.\pThe good news is there's a café\nalong the way where you can rest.
-453efe|Write dialogue
+453efe|Dialogue TBD
 453f1b|The DAY CARE man told me that\nPOKéMON grow at different rates.
 453f78|If you're not happy with how a REPEL\nworks, try a SUPER REPEL.
-453fea|Write dialogue
+453fea|Dialogue TBD
 454007|The POKéMON in this town's ruins\nlook like a strange alphabet.\pI think they're awesome, but I'm\ntoo little to catch them.\pSo I play with stamps to try to\nread those weird letters.
 4540e4|When people wish to see POKéMON,\nthey tend to appear, though not\lalways in the same form.
 45414f|According to legend, MT. CORONET\ndivides SINNOH in two.\pThe SHELLOS make me think there may\nbe some truth to that myth.
@@ -133,7 +133,7 @@
 4542eb|The TEAM GALACTIC building creeps me\nout so much I can't sleep a wink.\pIt's so weird. It looks like a robot\nabout to start walking.
 454370|Those decorations on the building…\pI just don't get their idea of\n"super fashion."\pStill, TEAM GALACTIC seems to have\nan enormous energy supply.
 454411|I adore the luxury of department\nstores. Ho ho ho!
-454459|Write dialogue
+454459|Dialogue TBD
 454476|This DEPT. STORE really cares about\nits customers.\pBecome a regular and you'll\nsee for yourself.
 4544f3|Welcome to the VEILSTONE CITY\nDEPT. STORE.
 45453c|Rediscover yourself!\nVEILSTONE CITY DEPT. STORE
@@ -150,10 +150,10 @@
 4549c1|I traded POKéMON with a friend.\pBut instead of sending me a MACHOKE like\nwe agreed, he sent a different POKéMON!
 454a43|I'd love to buy every item\nthey sell.\pEven if it were just one of each!
 454aa6|I'm hopeless at making POFFINS, so\nI come here to buy them.\pI wish I could feed my little ones\nhomemade POFFINS…
-454b3a|Write dialogue
+454b3a|Dialogue TBD
 454b57|I didn't expect to find paradise in\nthe basement of a department store.\pI got carried away and bought every\nRAGE CANDY BAR they had!
 454be9|You need a COIN CASE to\ncarry COINS.\pI think the young man in the house\nnext door might have one.
-454c66|Write dialogue
+454c66|Dialogue TBD
 454c83|I love VEILSTONE CITY for the\nDEPT. STORE and the GAME CORNER.\pI spend practically all my time here.\nYou know what?\pI have so much fun that I lose track\nof time and it gets dark.\pBut my beloved POKéMON stay with\nme, so I'm not afraid.
 454d92|Training POKéMON is great, but\nhunting for COINS isn't bad either.
 454ddf|My friends keep beating me up\nin POKéMON battles.\pI come here to take my mind off it.
@@ -161,17 +161,17 @@
 454f1a|Hey, you train POKéMON, right? Have\nyou battled the GYM LEADER yet?\pWell, she's my daughter. And she'll\ngive you a hard time, that's for sure.
 454faa|There are lots of magicians in the\nworld. But out of all of them…\pI reckon only about five percent\nhave real psychic powers.
 455031|I'm just a sad clown. Smiles on the\noutside, all tears on the inside.
-455088|Write dialogue
+455088|Dialogue TBD
 4550a5|There are some prizes I'm really\ninterested in.\lBut I don't have a single COIN!
-455100|Write dialogue
+455100|Dialogue TBD
 45511d|My sister's boyfriend is the scarf\nguy in PASTORIA CITY.\pThey send each other letters using\nPOKéMON.
 4551aa|FANTINA, the GYM LEADER, likes\nCONTESTS too.\pShe has an insatiable curiosity that\npushes her to try new things!
-45523f|Write dialogue
-45525c|Write dialogue
+45523f|Dialogue TBD
+45525c|Dialogue TBD
 45527a|I could really use a REVIVE\nright now.\pBut since I only have two GYM\nBADGES, I can't buy them yet…
-455321|Write dialogue
-45533e|Write dialogue
-45535b|Write dialogue
+455321|Dialogue TBD
+45533e|Dialogue TBD
+45535b|Dialogue TBD
 455378|Eating well gives energy to people\nand POKéMON alike.\pAnd it makes us happier too!
 4553de|My friends keep beating me up\nin POKéMON battles.\pI come here to take my mind off it.
 455452|When I grow up, I want to be a\nPOKéMON coordinator.
@@ -181,11 +181,11 @@
 4555f8|When I grow up, I'll be a TRAINER!
 455628|You train POKéMON? Wow!\pThat must be a huge\nresponsibility!\pBut I bet it's loads of fun\ntoo!
 4556a9|My sisters are so noisy that nobody\neven notices I exist.
-4556fb|Write dialogue
+4556fb|Dialogue TBD
 455718|Some people show kindness hoping\nthey'll get it back.\pWhat's so wrong with that?
 455782|All my grandkids want their own\nPOKéMON.\pThey're a responsibility, but\nthey're always a source of energy.
 455801|They say HEARTHOME CITY is designed\nfor children, but I don't think so.\pIt's welcoming to children, grown-ups\nand POKéMON alike.
-455893|Write dialogue
+455893|Dialogue TBD
 4558b1|My SHROOMISH finds BERRIES and stuff\nwhen we go to AMITY SQUARE.
 455907|Our city is famous for its CONTESTS\nand AMITY SQUARE.\pTourists come from all over, so the\ncity has to look perfect.
 45599f|CONTESTS are watched all over the\nworld.\pI could captivate the whole planet!\nBut how?
@@ -200,36 +200,36 @@
 455eeb|Mind and matter.\pIt isn't good for one to be stronger\nthan the other.\pWhat we need is balance.\nThat's the key.
 455f70|CROAGUNK is the city's official\nmascot.\pIt's a beautiful POKéMON, and we hope\nit becomes popular all over the world.
 45601e|The GREAT MARSH covers a huge\narea.\pFrom the OBSERVATORY you can see\njust how big it is.
-456095|Write dialogue
+456095|Dialogue TBD
 4560b2|PASTORIA CITY's GREAT MARSH is\nsaltwater.\pSeawater flooded the area until\nit turned into a boggy wetland.\pThat's why some POKéMON here\naren't found anywhere else.
-45618d|Write dialogue
+45618d|Dialogue TBD
 4561aa|COMBEE are certainly\ninteresting.\pOnly the female evolves and grows\nstronger. The male doesn't.\pNow that I think about it, my wife\nis incredibly strong too.\pShe evolved from being my wife to\nbeing the mother of our children.
 45628a|I've hiked all over the SINNOH\nregion.\pAnd I love planting BERRIES\nwhenever I get the chance!
 4562f8|My sister picks BERRIES every\nday.\pSometimes we experiment with them in\nthe kitchen and make tasty mixes.
 45637b|They use the tram to get around\nthe GREAT MARSH.\pThat way the ecosystem isn't harmed.
 4563e6|You might think it's a fast way to\nget around, but nothing could be\lfurther from the truth!\pOh, this tram crosses the GREAT MARSH.
 456463|I often visit SOLACEON TOWN to see\nmy big brother.\pThe newspaper there gives me HEART\nSCALES for running errands.
-4564e1|Write dialogue
+4564e1|Dialogue TBD
 4564fe|My brother's girlfriend is a masseuse\nwho lives in VEILSTONE CITY.\pThey keep in touch by mail.\nThey send their letters with POKéMON.
 4565a1|They say this town has existed\nsince SINNOH was created.
 4565e4|What brings you to a place as\nremote as this?\pMake sure you don't miss the cave\npainting while you're here.
-456661|Write dialogue
+456661|Dialogue TBD
 45667e|The bond between a TRAINER and their\nPOKéMON is built on trust.\pSo the key to victory is to\ndevelop it.
 456702|MT. CORONET rises in the center\nof SINNOH.\pYou could say it's the place closest\nto the sky (and to space) in\lthis region.
 456791|If I climb MT. CORONET, will I be\nable to see all of SINNOH?
-4567cf|Write dialogue
-4567ec|Write dialogue
+4567cf|Dialogue TBD
+4567ec|Dialogue TBD
 456809|My big sister is studying the\nmyths of SINNOH.\pShe wants to learn how people and\nPOKéMON interacted in the\lage of myths.\pWere things different back then?\nOr the same as now?\pShe says that's the main focus\nof her research.
 45690f|It's an old book.\n{V01} began to read it.\p"When that POKéMON was born,\nintelligence blossomed among us\land enriched our lives."\p"When that POKéMON was born,\nemotions blossomed among us,\lwith their sorrows and joys."\p"When that POKéMON was born,\nwillpower blossomed among us,\land spurred us into action…"
 456a65|I have to keep training…\nHowever long it takes doesn't matter.
-456ab8|Write dialogue
+456ab8|Dialogue TBD
 456ad5|Somewhere far away, beyond the\nwide sea…\pThere are other lands inhabited by\nPOKéMON and TRAINERS.
 456b4a|I'm gonna be a sailor, just like\nmy dad!\pHe's a real man!\nHe's not even scared of the sea!\pWell, being a GYM LEADER wouldn't\nbe bad either! BYRON is so cool!
 456bf5|Our boy has so much energy!\nI wish he were a bit calmer.
 456c49|A POKé BALL that makes it easier to\ncatch POKéMON like the ones you have…\pA REPEAT BALL!
 456d7f|It's easy to get to IRON ISLAND.\nIt's just a short boat ride away.
 456dcc|I was lucky enough to get HM\nSTRENGTH on IRON ISLAND.\pBut I can't use it to move boulders\nuntil I beat BYRON, the GYM\lLEADER.
-456e6c|Write dialogue
+456e6c|Dialogue TBD
 456e89|POKéMON of the same species can\nhave different Abilities.\pI had no idea!
 456ef3|Hello!\nThis is the CANALAVE LIBRARY.\pPlease keep quiet\nwhile you're in this building.
 456f5f|DELOS: Hello.\nHave you come to read too?\pBooks are a wonderful thing.\pThe thoughts of human beings,\lpoured out onto paper, reach\lbeyond time and space.\pI was just reading a collection of\nnotes on POKéMON\lin the wild.\pOne article tries to explain why\nPOKéMON go inside POKé BALLS.\pAccording to the article, this behavior\nis rooted in instinct.\pA weakened POKéMON will curl up to\ntry to heal itself.\pThe POKé BALL was invented to\ntake advantage of that protective\linstinct.
@@ -262,29 +262,29 @@
 458451|The young man cried out to the heavens\nin despair.\p"By finding this sword, I have lost\ntoo much."\p"Blinded by power, I forgot that\nPOKéMON have lives."\p"I will never be cruel again.\nI reject and curse this sword."\p"I beg your forgiveness, for I have\nbeen a fool."\pAnd saying this, the young man threw\nthe sword to the ground and broke it.\pAnd so the POKéMON vanished, and\nwent away to a place beyond reach…
 4585f5|This book is titled "The Myth\nof the THREE LAKES."\pWould you like to read it?
 458638|"The Myth of the THREE LAKES"\pThere were three POKéMON.\pInto the lakes they dove.\nInto the depths, without breath.\pGreat distances they traveled.\nTo touch the fathomless bottom.\pIn the deepest depths they stopped.\nAnd from the lakebed they rose.\pThey bear the power to create vast\nlands. And with it, they rise again.
-458780|Write dialogue
+458780|Dialogue TBD
 45885b|OLGA: Hello! Looks like you're\nin the middle of a great adventure!\pWhen I was younger, I remember every\nday was a great adventure.\pEverything was fun, I loved the people\naround me… I was so happy.\pWell, I'm happy now too.\nI love my life and I love my husband.\lIt's just a different happiness.\pWhat makes you happy?
 4589c2|I once dreamed I'd become\na GYM LEADER…\pThat dream never came true, but I've\nbeen living with POKéMON all\lthis time.\pI'm grateful for that.
-458a73|Write dialogue
+458a73|Dialogue TBD
 458a90|To make up for the lack of space, the\ncity built its streets out of\lsolar panels.\pThat gives us clean energy, and the\nstreets are great!\pIn my opinion, they symbolize\nSUNYSHORE CITY's zest for life.
 458b80|I've heard TEAM GALACTIC is up to\nsomething dirty.\pBut here in SUNYSHORE CITY we've\nnever seen any of them.\pThen again, VOLKNER, the GYM LEADER,\nis totally invincible.
 458c5a|A long time ago, a boy named CYRUS\nlived here.\pHe seemed to avoid other people and\npreferred the company of machines.\pI remember he was a brilliant\nstudent. I wonder what became of him…
-458d2d|Write dialogue
-458d4a|Write dialogue
-458d67|Write dialogue
-458d84|Write dialogue
-458da1|Write dialogue
-458dbe|Write dialogue
-458ddb|Write dialogue
-458df9|Write dialogue
-458e16|Write dialogue
-458e33|Write dialogue
-458e50|Write dialogue
-458e6d|Write dialogue
+458d2d|Dialogue TBD
+458d4a|Dialogue TBD
+458d67|Dialogue TBD
+458d84|Dialogue TBD
+458da1|Dialogue TBD
+458dbe|Dialogue TBD
+458ddb|Dialogue TBD
+458df9|Dialogue TBD
+458e16|Dialogue TBD
+458e33|Dialogue TBD
+458e50|Dialogue TBD
+458e6d|Dialogue TBD
 458e8c|I love how far you can see with\nthe binoculars.\pSomeday I'll go that far\nwith my POKéMON!
 458f02|For sailors, VISTA LIGHTHOUSE is a\nsymbol of safety and protection.
 458f62|There's a great fishing spot on ROUTE\n218 that hardly anyone knows about.
-458fb7|Write dialogue
+458fb7|Dialogue TBD
 458fd6|This way leads to MT. CORONET, and\nfrom there you can reach HEARTHOME CITY.\pPOKéMON CONTESTS are held in that\ncity.\pIn CONTESTS you can dress up\nyour POKéMON with accessories.
 4590a4|I'm so thirsty!
 4590c1|To me, HEARTHOME CITY means\nPOKéMON CONTESTS!\pI plan to enter every one with my\nPOKéMON…
@@ -293,16 +293,16 @@
 459231|I've given my POKéMON loads of\nPOFFINS.\pI'm sure we'll make a big\nimpression in the CONTESTS.
 4592b5|I came from far away to\nenter the CONTESTS.
 4592fe|You're taking ROUTE 214?\nSeriously?\pThe path is really rough and there's\nabsolutely nothing to see.\pWell, I suppose you can always chat\nwith that RUIN MANIAC who's\ldigging through the rock all alone.
-4593e8|Write dialogue
+4593e8|Dialogue TBD
 459405|When you walk on the beach, you\nleave footprints in the sand.\pPOKéMON seem to enjoy leaving them\njust as much as people do.
-45948f|Write dialogue
+45948f|Dialogue TBD
 4594c4|Oh, hello. Staying the night?\nOh, you don't have a reservation.\pSorry, but we're fully booked.\nYou can rest for a while, though.
 459548|We've fully restored your\nPOKéMON team's health.\pCome back anytime!
 4595a6|This hotel is so romantic…\pIf only a gentleman riding a\nPOKéMON would bring me here!
 45960b|Play the WHITE FLUTE if you want to\nattract more wild POKéMON.\pIt's a flute that's only found in\nthe HOENN region.
 459693|I've looked into many eyes over the\nyears. Both human and\lPOKéMON…\pBut yours shine with compassion,\nstrength, joy, sorrow and much more…\pYour eyes keep changing color, so\nthey're hard to read…
 459776|I'm a simple guy.\nI let my guitar do the talking.\pAll I need is music and POKéMON.\pWith those, I can shine\nwherever I go.\pI hear others like me hang out\nat POKéMON CENTERS.
-459854|Write dialogue
+459854|Dialogue TBD
 459873|You're here on a trip? Really?\nIt's great to see other places.\pDo you know anything about MT.MOON\nin the KANTO region?\pCLEFAIRY dancing in the moonlight…\nI have to see it for myself someday.
 459944|We wanted to be alone so we could\ntalk without being disturbed.\pThe truth is, we need this time\ntogether, just the two of us.
 4599ca|I've always relied on a coin\ntoss to make up my mind.\pIt makes me braver, since I'm not\nresponsible for my decisions.
@@ -313,7 +313,7 @@
 459c4b|If the BALLOON POKéMON comes, the\nwind will carry it off again!
 459c95|At VALLEY WINDWORKS, turbines store\nthe energy of the wind that blows\linto the canyon from the mountains.\pWe make energy by harnessing the power\nof nature itself. It's fantastic.
 459d66|What's up?\pSome of our customers are tough\nguys always looking for a fight.\pDo whatever you like with them.\nIt doesn't bother me.
-459dff|Write dialogue
+459dff|Dialogue TBD
 459e1c|I went through a lot to catch my\nPOKéMON, but I haven't trained it\nsince, so it's as weak as it was\lat the start.
 459ea2|I know more about collecting than\nanyone.\pI've got a really rare POKéMON!\pBut a good collector isn't\nnecessarily a good battler.
 459f3f|After a battle, nothing quenches\nthirst like MOOMOO MILK.\pCome on, down it in one! Glug glug!

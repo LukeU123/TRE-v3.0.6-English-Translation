@@ -5,7 +5,7 @@
 
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
-**Status:** about 25,700 strings translated, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
+**Status:** about 27,000 strings translated: every story chunk is done, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
 **Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
 
 ## Progress
@@ -22,14 +22,13 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 ### In progress
 - [x] Chunks c19–c22, c24 and c25
 - [x] Speaker name boxes, ability names, the title menu and the recruit lines
-- [x] Chunks c23 and c26–c31
+- [x] Chunks c23 and c26–c32 (all story chunks)
 - [x] Chunk c36 (Pokédex entries)
 - [x] Consistency pass, round 1 (KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling)
 - [x] Redo of the mid-sentence strings (23 of 27; the rest are fragments or species names)
 - [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
 
 ### To do
-- [ ] Chunk c32: the last story chunk
 - [x] Chunk c38: natures, ability descriptions, place names, bag/shop UI, trainer quotes
 - [x] Chunk c37: Pokédex entries
 - [ ] Any other strings the extractor missed (found during playtesting)

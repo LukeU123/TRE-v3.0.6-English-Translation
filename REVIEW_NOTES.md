@@ -42,3 +42,4 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 - INVERNA = CANDICE (c27). Name box 300_manual_fixes still maps INVERNA->INVERNA: change it to CANDICE after the consistency pass finishes
 - Pokédex entries (c36): about 35 run to 4 lines where the Spanish has 3. Check in-game whether the Dex box shows 4 lines; if not, shorten them
 - e85ae2 '  Baya' and e8a60e '   Baya' left in Spanish: only 4 letters fit (the leading spaces are padding, so they can't be removed). Options: 'Bery' (no), repoint, or accept Spanish
+- Placeholder 'Inventar diálogo' is now 'Dialogue TBD' (c31, c32); c30 left the Spanish placeholder

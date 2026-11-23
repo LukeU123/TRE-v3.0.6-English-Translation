@@ -35,6 +35,18 @@ for off,en in sorted(tr.items()):
         for r in goodrefs(x): struct.pack_into('<I',d,r,FREE+0x08000000)
         FREE=(FREE+len(b)+3)&~3;mov+=1
     else: warn.append('%x TOO LONG and unpointed (%d>%d): %s'%(off,len(b),n,en))
+# graphics patches
+import os as _os
+if _os.path.exists('work/gfx/patches.json'):
+    for g in json.load(open('work/gfx/patches.json')):
+        blob=open(g['data'],'rb').read();a=g['addr']
+        assert all(b==0xff for b in src[a:a+len(blob)]),'gfx target not free'
+        assert a>=FREE,'gfx overlaps text free space'
+        d[a:a+len(blob)]=blob
+        for r in g['refs']:
+            assert struct.unpack_from('<I',src,r)[0]==g['orig']+0x08000000,'ref mismatch'
+            struct.pack_into('<I',d,r,a+0x08000000)
+    print('gfx patches applied')
 print('strings',len(tr),'in place',inp,'moved',mov,'free ptr',hex(FREE))
 for w in warn:print('WARN',w)
 open(os.environ.get('OUT','out/PkmnTeamRocket_EN')+'.gba','wb').write(d)

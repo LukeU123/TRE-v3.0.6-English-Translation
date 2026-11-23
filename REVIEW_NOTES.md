@@ -77,3 +77,9 @@ Then scan the battle region 0x4b0000-0x4d0000 for any other '¡{Vxx} de {Vxx}' /
 - "Inventar diálogo" placeholders in c30 -> "Dialogue TBD" (now consistent)
 - New QA scan of the patched ROM for leftover Spanish: most hits are dead copies of moved strings (the original Spanish left behind, which the game never shows). The real leftovers were the items above.
 - Codec: added F7 {Dxx} (summary memo placeholders), F8 {Kxx} (button icons) and F9 {Fxx}
+
+## GRAPHICS PASS: started 23 Nov (PC off)
+How the hack stores graphics: pokeemerald-expansion "smol" compression (tANS). tools/smol.py is a Python port of the engine's decompressor (src/decompress.c), and it works. To write graphics back, use LZ77 (header 0x10 = MODE_LZ77, which the engine's DecompressDataWithHeader also accepts): tools/lz77enc.py. Put the result in free space (0x1F00000+) and repoint the sprite-sheet record. build.py applies work/gfx/patches.json automatically.
+Reference English art: sparse clone of rh-hideout/pokeemerald-expansion graphics/ (in /home/claude/pex; re-clone if needed). The hack uses the same palette indices as the engine's PNGs, so they drop straight in.
+DONE: move type icons (sheet at 0x82a5e8, 26 icons, record at 0x97475c, tag 0x7532) -> 18 icons replaced with the engine's English art; ???, STELLR and the contest icons were already English.
+NEXT: the summary screen tiles (gSummaryScreen_Gfx, smol; find via the same scan, contains the PERFIL/HABILIDAD/OBJETO... headers) + the page tilemaps; the healthbox "PS" (hpbar.4bpp, uncompressed gHealthboxElementsGfxTable); the "Nv" glyph in the latin fonts (uncompressed latfont, find by matching unchanged glyphs from pex/graphics/fonts); the PC storage buttons; the naming screen.

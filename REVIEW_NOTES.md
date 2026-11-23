@@ -64,3 +64,5 @@ Battle shows "¡ATTACK de Zubat fell!". These short battle templates were missed
 - 4c53d0 '...\nprevino que su {V00} baje!' -> "{V13}'s {V1A}\nprevents {V00} loss!"
 - 4c7000 '¡{V00} de {V13} paralizó a {V40}, quizás no se mueva!' -> "{V13}'s {V00} paralyzed {V40}! It may be unable to move!"
 Then scan the battle region 0x4b0000-0x4d0000 for any other '¡{Vxx} de {Vxx}' / ' de {V' patterns (regex rb'\x52\xfd.\x00\xd8\xd9\x00\xfd'), plus other short Spanish templates.
+- ROCKET TIMELINE menu screen (Luke, 23 Nov 19:53): still Spanish: "Bienvenido/a a Efemérides Rocket." / "Comenzar" / "Info y FaQ" / "Volver atrás". Missed by both scans; search the raw bytes (e.g. encode('Comenzar')) and translate as "Welcome to Rocket Timeline." / "Start" / "Info & FAQ" / "Go back". Check the rest of that feature's text (FAQ pages) too.
+- IDEA (Luke): produce a "Pokémon by route" sheet from the ROM's wild encounter tables (pokeemerald-expansion gWildMonHeaders: map group/num -> land/water/rock/fishing tables of species, levels and rates). Do this later, as a Sheets artifact.

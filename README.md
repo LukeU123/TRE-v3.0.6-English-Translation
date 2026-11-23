@@ -17,13 +17,13 @@ A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6**
 - [x] Story and map dialogue, chunks c00–c18: the Kanto arc, Silph Co., the Elite Four, the Sevii Islands, the Johto conferences, the Radio Tower and Ecruteak
 
 ### In progress
-- [x] Chunks c19–c21 and c25
+- [x] Chunks c19–c22, c24 and c25
 - [x] Speaker name boxes, ability names, the title menu and the recruit lines
-- [ ] Chunks c22–c24 and c26–c29 (partly translated, see `chunk_status.txt`)
+- [ ] Chunks c23 and c26 (partly translated, see `chunk_status.txt`)
 - [ ] Chunks c33–c35 (items, moves and Pokédex text: the remaining lines)
 
 ### To do
-- [ ] Chunks c30–c32: the rest of the story
+- [ ] Chunks c27–c32: the rest of the story
 - [ ] Chunks c36–c38: remaining Pokédex text, ability descriptions, nature names, location names, the clock and other system text
 - [ ] Any other strings the extractor missed (found during playtesting)
 - [ ] 27 strings to retranslate as full sentences (their pointers start mid-sentence)

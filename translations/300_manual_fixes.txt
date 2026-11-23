@@ -97,3 +97,6 @@
 7522cc|AMETHYST
 7522f4|EMERALD
 752278|CANDICE
+2fc9ab|{C1903}RECRUIT No. 4!!
+2fcb29|{C1903}RECRUIT No. 4!!\pYou're not on the blacklist yet,\nand I hope I won't have to add\lyou on your first day!\lGrab your starter, get back to\lyour post, and stop wasting\lour time!
+8ecd14|Player

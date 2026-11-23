@@ -43,3 +43,4 @@ Quick check (23 Nov): the bytes changed outside text are pointer updates. Most a
 - Pokédex entries (c36): about 35 run to 4 lines where the Spanish has 3. Check in-game whether the Dex box shows 4 lines; if not, shorten them
 - e85ae2 '  Baya' and e8a60e '   Baya' left in Spanish: only 4 letters fit (the leading spaces are padding, so they can't be removed). Options: 'Bery' (no), repoint, or accept Spanish
 - Placeholder 'Inventar diálogo' is now 'Dialogue TBD' (c31, c32); c30 left the Spanish placeholder
+- Stutter update (Luke, 23 Nov 18:39): it happened again, but saving and restarting the game made it go away. It's intermittent and clears on restart, so it's most likely an emulator or host issue (mGBA audio/video sync drift) rather than corrupted data in the patch. Still worth testing the original ROM for an equally long session to compare.

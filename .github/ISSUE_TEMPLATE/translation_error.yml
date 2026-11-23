@@ -1,0 +1,25 @@
+name: Translation error
+description: Wrong, awkward, inconsistent or cut-off English
+labels: [translation]
+body:
+  - type: textarea
+    id: shot
+    attributes:
+      label: Screenshot
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong, and a suggested fix
+      placeholder: e.g. Name is "Atlas" here but "Archer" elsewhere
+  - type: input
+    id: version
+    attributes:
+      label: Patch version

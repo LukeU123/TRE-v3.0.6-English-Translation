@@ -1,0 +1,30 @@
+name: Glitch or crash
+description: Garbled graphics, freezes, stutter or crashes
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Include a screenshot if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen
+  - type: checkboxes
+    id: original
+    attributes:
+      label: Original ROM
+      options:
+        - label: I checked and this does NOT happen on the original Spanish ROM
+  - type: input
+    id: emu
+    attributes:
+      label: Emulator and version
+      placeholder: e.g. mGBA 0.10.5
+  - type: input
+    id: version
+    attributes:
+      label: Patch version

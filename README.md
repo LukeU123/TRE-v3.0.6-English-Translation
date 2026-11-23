@@ -1,54 +1,130 @@
-# Pokémon Team Rocket Edition v3.0.6: English Translation (work in progress)
+<div align="center">
 
-> **Note on the official translation (23 Nov 2026):** the Team Rocket Edition developers have said their own official English translation, for **v3.1.0**, is close to completion and expected in the next 1–2 months.
-> This project is an **unofficial** fan translation of **v3.0.6**. It isn't affiliated with or endorsed by the developers. Work continues in the meantime, but once the official v3.1.0 English release is out, please use and support that version. This project will then be kept only as an archive of the v3.0.6 translation.
+# Pokémon Team Rocket Edition v3.0.6 — English Translation
 
-A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
+**An unofficial fan translation of the Spanish GBA romhack *Pokémon Team Rocket Edition* into natural English.**
 
-**Status:** every text chunk is translated (about 26,300 strings). Now in playtesting and polish. See the Progress section below.
-**Known issue:** a fast-forward stutter was seen once but hasn't been reproduced since. See `REVIEW_NOTES.md`.
+![Status](https://img.shields.io/badge/status-playtesting-orange)
+![Text](https://img.shields.io/badge/text-100%25_translated-brightgreen)
+![Graphics](https://img.shields.io/badge/graphics-done_(untested)-yellow)
+![Base](https://img.shields.io/badge/base_ROM-TRE_v3.0.6_(ES)-blue)
+![Platform](https://img.shields.io/badge/platform-GBA-lightgrey)
 
-## Progress
+<img src="docs/images/screenshot_intro.png" width="420" alt="Intro narration in English"> <img src="docs/images/screenshot_archer.png" width="420" alt="ARCHER's welcome in English">
 
-**All text chunks are translated (about 26,300 strings).** What's left is testing and polish.
+</div>
 
-### Done
-- [x] Text tools: extracting, reinserting (moving lines that get longer in English and updating their pointers), validating, and building the patch
-- [x] Menus and UI: title menu (New Game, Rocket Timeline), start menu, options, bag, shop, PC, summary screen, Battle Frontier, clock setup
-- [x] The opening: intro narration, ARCHER's welcome, registering your name and GIOVANNI's introduction
-- [x] All story and map dialogue (chunks c00–c32): Kanto, the Sevii Islands, Johto, the Johto DLC, Hoenn and the Sinnoh areas
-- [x] Battle messages and trainer battle quotes
-- [x] Items, berries, key items and Mega Stones (names and descriptions)
-- [x] Moves (names and descriptions) and abilities (names and descriptions)
-- [x] Natures, place names and speaker name boxes (ATLAS → ARCHER and so on)
-- [x] Pokédex entries
-- [x] Strings repointed to their real start where the pointer landed mid-sentence
-- [x] Consistency pass, round 1: KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling
-- [x] Playtest fixes: battle stat messages, Yes/No box, continue screen, trainer memo, Rocket Timeline menu, ~550 missed short lines, ARCHI7 → SEVII
+> [!IMPORTANT]
+> **The official translation is coming.** The Team Rocket Edition developers have said their own English translation of **v3.1.0** is close to completion and expected within 1–2 months (as of 23 Nov 2026).
+> This project is **not affiliated with or endorsed by** the developers. When the official v3.1.0 English release is out, please play and support that version. This repo will then stay up only as an archive of the v3.0.6 translation.
 
-### To do
-- [ ] Full playtest
-- [ ] Fix any strings the extractor missed or that turn up during playtesting
-- [ ] Check the ~35 Pokédex entries that now run to 4 lines (the Spanish has 3) and make sure the Dex box shows them in full
-- [ ] Translate two "Baya" (Berry) labels that only have room for 4 letters
-- [ ] Final consistency pass (remaining items in `REVIEW_NOTES.md`)
-- [ ] Keep an eye on the fast-forward stutter seen once (not reproduced since; see `REVIEW_NOTES.md`)
+---
 
-### Out of scope (for now)
-- (Graphics pass done 23 Nov: type icons, HP/Lv, summary headers, PC storage, naming screen. Awaiting in-game test.)
+## Contents
+
+- [About](#about)
+- [Status](#status)
+- [How to play](#how-to-play)
+- [Screenshots](#screenshots)
+- [Known issues](#known-issues)
+- [Reporting problems](#reporting-problems)
+- [Repository layout](#repository-layout)
+- [Credits & legal](#credits--legal)
+
+## About
+
+*Team Rocket Edition* puts you in a Team Rocket uniform, working your way up the ranks under GIOVANNI across Kanto, the Sevii Islands, Johto, the Johto DLC and Hoenn. Version 3.0.6 is only available in Spanish. The last official English release, v1.5, covers Kanto, the Sevii Islands and Johto only.
+
+This patch translates the whole of v3.0.6. The aim is English that reads like an official Pokémon game rather than a word-for-word translation: official English names for characters, places, moves and items, US spelling, and dialogue rewritten to sound natural while keeping the original meaning and tone. Only the text and text graphics are changed. Gameplay, maps and story are exactly as the original team made them.
+
+## Status
+
+| Area | Status |
+|---|---|
+| Story and map dialogue (Kanto, Sevii, Johto, Johto DLC, Hoenn, Sinnoh areas) | ✅ Translated |
+| Battle messages and trainer quotes | ✅ Translated |
+| Menus, bag, PC, summary screen, options, Battle Frontier, Rocket Timeline | ✅ Translated |
+| Items, berries, key items, Mega Stones | ✅ Translated |
+| Moves, abilities, natures, location names | ✅ Translated |
+| Pokédex entries | ✅ Translated |
+| Text graphics (type icons, HP/Lv, summary headers, PC, naming screen, Pokédex UI) | 🟡 Done, awaiting in-game test |
+| Consistency and line-width passes | ✅ Done |
+| Full playthrough test | ⏳ In progress |
+
+About **26,300 strings** are translated. See [CHANGELOG.md](CHANGELOG.md) for what changed in each build.
 
 ## How to play
-1. Get your own copy of the Spanish **Team Rocket Edition v3.0.6** ROM. No ROMs are provided here.
-   Expected MD5: `911e690484204ac1621211560aba356d`
-2. Apply `patch/TRE_v3.0.6_EN_WIP.bps` with [Floating IPS](https://www.romhacking.net/utilities/1040/) or [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/).
-3. Play in mGBA or any GBA emulator.
 
-## Repository contents
-- `translations/`: English text, one `ROM-offset|English` line per string.
-- `tools/`: Python scripts. `build.py` applies the translations to a ROM and produces the patch. `check.py` validates the text (box widths, control codes, byte budgets). `g3text.py` is the Gen 3 text codec.
-- `GLOSSARY.md`: the naming conventions (official English names, plus terms the hack invented).
+1. **Get your own copy** of the Spanish *Team Rocket Edition v3.0.6* ROM. No ROMs are provided here and none will be shared.
+2. **Check it's the right file.** The patch only works on this exact ROM:
 
-## Credits
-- **Pokémon Team Rocket Edition** was created by its original Spanish development team. All credit for the game, story and design goes to them. This project only translates their text.
-- English translation by LukeU123, with Claude.
-- Pokémon is © Nintendo, Game Freak and The Pokémon Company. This is a non-commercial fan project.
+   | | |
+   |---|---|
+   | MD5 | `911e690484204ac1621211560aba356d` |
+
+3. **Download the patch:** [`patch/TRE_v3.0.6_English.bps`](patch/TRE_v3.0.6_English.bps)
+4. **Apply it** with [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in your browser) or [Floating IPS](https://www.romhacking.net/utilities/1040/).
+5. **Play** in [mGBA](https://mgba.io/) or another accurate GBA emulator.
+
+> [!TIP]
+> If you're updating to a newer patch with ROM Patcher JS, **refresh the page first**. The site can hold on to the previous patch file, which leaves old (or Spanish) text in the game.
+>
+> Always patch the **original Spanish ROM**, never a ROM that was already patched.
+
+**Saves:** saves from the Spanish version should carry over, since only text and graphics change. If something looks wrong, test on a fresh save before reporting it.
+
+## Screenshots
+
+| Type icons, before and after | Interface graphics |
+|---|---|
+| <img src="docs/images/types_before_after.png" width="400"> | <img src="docs/images/graphics_preview.png" width="400"> |
+
+<details>
+<summary>More graphics previews</summary>
+
+<img src="docs/images/graphics_preview_2.png" width="640">
+
+</details>
+
+## Known issues
+
+- **Graphics not yet tested in-game.** The translated text graphics are in the patch, but the repacking method hasn't had a full playtest yet. If a menu or icon looks garbled, please report it.
+- **Two "Baya" labels** (Spanish for "Berry") only have room for 4 letters and are still in Spanish.
+- **Some hack-original graphics** that aren't part of the base engine may still show Spanish.
+- **Fast-forward stutter.** Stuttering under mGBA fast-forward was reported on one test machine and hasn't been reproduced reliably since. It's still being investigated, so mention it if you see it.
+- **Possible missed lines.** Some strings are stored in unusual ways and can slip past the extractor. Anything left in Spanish is a bug — please report it.
+
+## Reporting problems
+
+Use the [issue tracker](../../issues/new/choose). The quickest reports to fix include:
+
+- a **screenshot**
+- **where** you were (map or menu) and what you were doing
+- the **patch version** you used
+
+There are templates for untranslated text, translation errors and glitches.
+
+## Repository layout
+
+```
+patch/            The BPS patch. This is all you need to play.
+translations/     The English script: one "ROM-offset|English" line per string
+graphics/data/    Translated graphics and the patch list that places them
+tools/            Python tools: text codec, build, checks, graphics helpers
+docs/
+  GLOSSARY.md     Naming conventions (official names, hack-specific terms)
+  HOW_IT_WORKS.md Technical notes on the text and graphics pipeline
+  images/         Screenshots and previews
+  dev/            Working notes and the translator brief
+CHANGELOG.md      Release history
+```
+
+The Spanish source script belongs to the original team and isn't published here. The tools need your own ROM and a locally generated string index to rebuild the patch. See [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
+
+## Credits & legal
+
+- ***Pokémon Team Rocket Edition*** was created by its original Spanish development team. All credit for the game, story and design goes to them. This project only translates their text.
+- **English translation:** [LukeU123](https://github.com/LukeU123), with Claude (Anthropic).
+- Graphics are based on the English assets from [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion), the engine the hack is built on.
+- *Pokémon* is © Nintendo, Game Freak and The Pokémon Company. This is a free, non-commercial fan project. It contains no ROM data and must not be sold.
+- The tools in `tools/` are under the [MIT License](LICENSE). The translation text is shared for personal, non-commercial use.

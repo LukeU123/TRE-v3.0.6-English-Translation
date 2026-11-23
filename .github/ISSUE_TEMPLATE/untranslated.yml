@@ -1,0 +1,28 @@
+name: Untranslated text or graphics
+description: Something still shows in Spanish
+labels: [untranslated]
+body:
+  - type: textarea
+    id: shot
+    attributes:
+      label: Screenshot
+      description: Paste or drag a screenshot here.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Map, menu or battle, and what you were doing.
+      placeholder: e.g. Celadon Rocket Hideout B2F, talking to a grunt
+    validations:
+      required: true
+  - type: input
+    id: text
+    attributes:
+      label: The Spanish text (if you can read it)
+  - type: input
+    id: version
+    attributes:
+      label: Patch version
+      description: Date of the patch or commit you used.

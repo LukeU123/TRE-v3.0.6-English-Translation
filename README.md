@@ -5,37 +5,36 @@
 
 A fan translation of the Spanish romhack **Pokémon Team Rocket Edition v3.0.6** (Kanto, Sevii Islands, Johto, Johto DLC and Hoenn) into English. The latest official English release is v1.5, which only covers Kanto, the Sevii Islands and Johto.
 
-**Status:** about 27,000 strings translated: every story chunk is done, covering the menus, the opening, battle text, items and moves, and most of the Kanto and Johto story. See `chunk_status.txt` for progress.
+**Status:** every text chunk is translated (about 26,300 strings). Now in playtesting and polish. See the Progress section below.
 **Known issue:** the current patch stutters when fast-forwarding. See `REVIEW_NOTES.md`.
 
 ## Progress
 
+**All text chunks are translated (about 26,300 strings).** What's left is testing and polish.
+
 ### Done
 - [x] Text tools: extracting, reinserting (moving lines that get longer in English and updating their pointers), validating, and building the patch
-- [x] Title menu (New Game, Rocket Timeline), start menu, options, bag, shop, PC, summary-screen labels and Battle Frontier labels
+- [x] Menus and UI: title menu (New Game, Rocket Timeline), start menu, options, bag, shop, PC, summary screen, Battle Frontier, clock setup
 - [x] The opening: intro narration, ARCHER's welcome, registering your name and GIOVANNI's introduction
-- [x] Battle messages
-- [x] Most item names and descriptions, berries, key items and Mega Stones
-- [x] Most move names and descriptions, and about 340 Pokédex entries
-- [x] Story and map dialogue, chunks c00–c18: the Kanto arc, Silph Co., the Elite Four, the Sevii Islands, the Johto conferences, the Radio Tower and Ecruteak
-
-### In progress
-- [x] Chunks c19–c22, c24 and c25
-- [x] Speaker name boxes, ability names, the title menu and the recruit lines
-- [x] Chunks c23 and c26–c32 (all story chunks)
-- [x] Chunk c36 (Pokédex entries)
-- [x] Consistency pass, round 1 (KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling)
-- [x] Redo of the mid-sentence strings (23 of 27; the rest are fragments or species names)
-- [x] Chunks c33–c35 (items, moves, battle text, Pokédex). The lines still untranslated there are deliberate skips: already English (expansion data), species names, music/debug labels, or junk bytes
+- [x] All story and map dialogue (chunks c00–c32): Kanto, the Sevii Islands, Johto, the Johto DLC, Hoenn and the Sinnoh areas
+- [x] Battle messages and trainer battle quotes
+- [x] Items, berries, key items and Mega Stones (names and descriptions)
+- [x] Moves (names and descriptions) and abilities (names and descriptions)
+- [x] Natures, place names and speaker name boxes (ATLAS → ARCHER and so on)
+- [x] Pokédex entries
+- [x] Strings repointed to their real start where the pointer landed mid-sentence
+- [x] Consistency pass, round 1: KURT, COOLTRAINER, LEAGUE HQ, the DEVON admins, JANINE, US spelling
 
 ### To do
-- [x] Chunk c38: natures, ability descriptions, place names, bag/shop UI, trainer quotes
-- [x] Chunk c37: Pokédex entries
-- [ ] Any other strings the extractor missed (found during playtesting)
-- [ ] Check the fast-forward stutter (it didn't happen on a later run). The patched ROM stutters globally and the original doesn't. The suspected cause is false-positive pointer updates when lines are moved; see `REVIEW_NOTES.md`
-- [ ] Final consistency pass (`REVIEW_NOTES.md`)
 - [ ] Full playtest
-- [ ] Out of scope for now: text drawn as graphics (naming-screen buttons, type icons)
+- [ ] Fix any strings the extractor missed or that turn up during playtesting
+- [ ] Check the ~35 Pokédex entries that now run to 4 lines (the Spanish has 3) and make sure the Dex box shows them in full
+- [ ] Translate two "Baya" (Berry) labels that only have room for 4 letters
+- [ ] Final consistency pass (remaining items in `REVIEW_NOTES.md`)
+- [ ] Keep an eye on the fast-forward stutter seen once (not reproduced since; see `REVIEW_NOTES.md`)
+
+### Out of scope (for now)
+- Text drawn as graphics: the naming-screen buttons and the type icons
 
 ## How to play
 1. Get your own copy of the Spanish **Team Rocket Edition v3.0.6** ROM. No ROMs are provided here.

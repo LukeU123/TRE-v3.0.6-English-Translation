@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/status-playtesting-orange)
 ![Text](https://img.shields.io/badge/text-100%25_translated-brightgreen)
-![Graphics](https://img.shields.io/badge/graphics-done_(untested)-yellow)
+![Graphics](https://img.shields.io/badge/graphics-done_%26_checked_in--game-brightgreen)
 ![Base](https://img.shields.io/badge/base_ROM-TRE_v3.0.6_(ES)-blue)
 ![Platform](https://img.shields.io/badge/platform-GBA-lightgrey)
 
@@ -48,11 +48,12 @@ This patch translates the whole of v3.0.6. The aim is English that reads like an
 | Moves, abilities, natures, location names | ✅ Translated |
 | Trainer classes and Pokédex categories | ✅ Translated |
 | Pokédex entries | ✅ Translated |
-| Text graphics (type icons, HP/Lv, party screen, summary headers, PC, naming screen, Pokédex UI, trainer card) | 🟡 Done, awaiting in-game test |
+| Text graphics (type icons, HP/Lv, party screen, summary, PC, naming screen, bag/TM panel, trainer card) | ✅ Done and checked in-game |
+| Pokédex screens (list, entry, search) | 🟡 Done, still to check in-game |
 | Consistency and line-width passes | ✅ Done |
 | Full playthrough test | ⏳ In progress |
 
-About **26,300 strings** are translated. See [CHANGELOG.md](CHANGELOG.md) for what changed in each build.
+About **27,000 lines of text** are translated, plus around 1,600 name-table entries (trainer classes, Pokédex categories). The whole ROM has been swept for leftover Spanish text and graphics. See [CHANGELOG.md](CHANGELOG.md) for what changed in each build.
 
 ## How to play
 
@@ -72,9 +73,22 @@ About **26,300 strings** are translated. See [CHANGELOG.md](CHANGELOG.md) for wh
 >
 > Always patch the **original Spanish ROM**, never a ROM that was already patched.
 
-**Saves:** saves from the Spanish version should carry over, since only text and graphics change. If something looks wrong, test on a fresh save before reporting it.
+**Saves:** saves from the Spanish version carry over, since only text and graphics change. Give the patched ROM the same name as your save file (e.g. `MyGame.gba` with `MyGame.sav`) and the emulator loads it automatically.
+
+**Stuttering?** If mGBA stutters on one monitor but not another, it's the monitor's refresh rate, not the patch. Run that monitor at 60 Hz or turn on video sync in mGBA.
 
 ## Screenshots
+
+From the current playtest:
+
+| | |
+|---|---|
+| <img src="docs/images/play_party.png" width="400"> | <img src="docs/images/play_summary.png" width="400"> |
+| <img src="docs/images/play_battle.png" width="400"> | <img src="docs/images/play_naming.png" width="400"> |
+
+The trainer card header is unique to this hack, so it was redrawn by hand in the original lettering:
+
+<img src="docs/images/card_before_after.png" width="480">
 
 | Type icons, before and after | Interface graphics |
 |---|---|
@@ -93,9 +107,9 @@ Every repacked graphic, read back from the patched ROM (left: Spanish original, 
 
 ## Known issues
 
-- **Graphics not yet tested in-game.** The translated text graphics are in the patch and read back correctly from the patched ROM, but they haven't had a full playtest yet. If a menu or icon looks garbled, please report it.
+- **Pokédex screens not yet checked in-game.** They're translated and read back correctly from the patched ROM, but haven't been seen in a playtest yet.
 - **Two "Baya" labels** (Spanish for "Berry") only have room for 4 letters and are still in Spanish.
-- **Some hack-original graphics** that aren't part of the base engine may still show Spanish.
+- **Some hack-original graphics** may still show Spanish. Engine graphics have all been checked, but art the hack made itself (like the trainer card) can only be found by playing.
 - **Possible missed lines.** Some strings are stored in unusual ways and can slip past the extractor. Anything left in Spanish is a bug — please report it.
 
 ## Reporting problems

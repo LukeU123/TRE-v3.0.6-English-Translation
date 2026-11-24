@@ -2,6 +2,10 @@
 
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
+## 24 Nov 2026: playtest fixes (evening)
+- Trainer card header "FICHA ROCKET" → "ROCKET CARD". This graphic is unique to the hack, so it was redrawn by hand in the original lettering.
+- Party screen HP bars showed "PS" (Spanish for HP). Now "HP".
+
 ## 24 Nov 2026: QA pass
 **Fixes found by automated checks**
 - Trainer classes: about 130 were still in Spanish (they're stored in a table the text extractor couldn't see). All now use the official English names (HIKER, FISHERMAN, BUG CATCHER…).

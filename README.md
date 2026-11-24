@@ -48,7 +48,7 @@ This patch translates the whole of v3.0.6. The aim is English that reads like an
 | Moves, abilities, natures, location names | ✅ Translated |
 | Trainer classes and Pokédex categories | ✅ Translated |
 | Pokédex entries | ✅ Translated |
-| Text graphics (type icons, HP/Lv, summary headers, PC, naming screen, Pokédex UI) | 🟡 Done, awaiting in-game test |
+| Text graphics (type icons, HP/Lv, party screen, summary headers, PC, naming screen, Pokédex UI, trainer card) | 🟡 Done, awaiting in-game test |
 | Consistency and line-width passes | ✅ Done |
 | Full playthrough test | ⏳ In progress |
 

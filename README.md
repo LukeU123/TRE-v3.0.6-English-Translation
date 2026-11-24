@@ -48,8 +48,7 @@ This patch translates the whole of v3.0.6. The aim is English that reads like an
 | Moves, abilities, natures, location names | ✅ Translated |
 | Trainer classes and Pokédex categories | ✅ Translated |
 | Pokédex entries | ✅ Translated |
-| Text graphics (type icons, HP/Lv, party screen, summary, PC, naming screen, bag/TM panel, trainer card) | ✅ Done and checked in-game |
-| Pokédex screens (list, entry, search) | 🟡 Done, still to check in-game |
+| Text graphics (type icons, HP/Lv, party screen, summary, PC, naming screen, bag/TM panel, trainer card, Pokédex) | ✅ Done and checked in-game |
 | Consistency and line-width passes | ✅ Done |
 | Full playthrough test | ⏳ In progress |
 
@@ -107,7 +106,7 @@ Every repacked graphic, read back from the patched ROM (left: Spanish original, 
 
 ## Known issues
 
-- **Pokédex screens not yet checked in-game.** They're translated and read back correctly from the patched ROM, but haven't been seen in a playtest yet.
+- **"NACIONAL" heading on the Pokédex list screen** is still Spanish. It's a hack-made graphic that hasn't been located yet.
 - **Two "Baya" labels** (Spanish for "Berry") only have room for 4 letters and are still in Spanish.
 - **Some hack-original graphics** may still show Spanish. Engine graphics have all been checked, but art the hack made itself (like the trainer card) can only be found by playing.
 - **Possible missed lines.** Some strings are stored in unusual ways and can slip past the extractor. Anything left in Spanish is a bug — please report it.

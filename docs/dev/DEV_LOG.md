@@ -115,3 +115,5 @@ None of this has been tested in-game yet. LZ77 repacking relies on the engine's 
 - Names: ZAFIRO -> SAPPHIRE, AMATISTA -> AMETHYST, OLGA -> JULIA (Sunyshore ribbon lady).
 - Pokédex: no entry exceeds 4 lines, and 500+ Spanish entries already use 4, so the box handles it. Item closed.
 - STUTTER RESOLVED (24 Nov): not the patch. It only happens when mGBA is on Luke's second monitor (refresh-rate mismatch). Patched ROM on his PC verified identical to the build (MD5 f0ab8b615925786d3e9e630a309dcbaa).
+- 24 Nov evening: Luke saw "¡Luke!" (Spanish ¡). Found 129 more missed strings: short speaker lines like {C19xx}¡{V01}!, route signs with arrow glyphs, POKéBLOCK lines. The extractor skipped strings that start right after script bytes rather than after FF, and any with arrow/POKéBLOCK glyphs. All in 312_missed4.txt. Pokémon cries ("Zap…", "Khan…") and English test strings left as they are.
+- Bag/TM info panel (menu_info, uncompressed at 0x7F13A4), markings menu (0x7f1004) and a 2nd HP bar (0x8b12fc) were uncompressed graphics the first sweep missed; a raw-tile sweep of the whole ROM found them. Patched in place.

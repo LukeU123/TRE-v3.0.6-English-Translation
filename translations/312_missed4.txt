@@ -1,0 +1,129 @@
+2a13f4|When you think about it…\pJust as humility suits me,\n[PO][Ké][BL][OC][K]S suit POKéMON perfectly!
+2119f0|Everyone has to work together\nto make it spin faster.\pThe faster it spins, the better the\n[PO][Ké][BL][OC][K]S come out. Or so they say.
+211a71|It's used to make a kind of candy\ncalled a [PO][Ké][BL][OC][K].\pIf you give a POKéMON a good\n[PO][Ké][BL][OC][K], it'll improve a lot.
+213676|{C1951}Oh{C0819}…{C0819} amazing{C080A}…{C080A}
+217600|{C1961}Okay{C0805}…{C0805}
+217bb2|{C1961}So{C0805}…{C0805}
+217bc5|{C1951}But{C0805}…{C0805}
+217dc2|{C1961}I{C0805}…{C0805}
+218900|ROUTE 101\n[UP] OLDALE TOWN
+218ce2|ROUTE 103\n[DOWN] OLDALE TOWN
+26ab72|Glub, glub, glub{C0805}…{C0805}
+2196e5|ROUTE 104\n[RIGHT] PETALBURG CITY
+2196ff|ROUTE 104\n[UP] RUSTBORO CITY
+26b241|But{C0805}…{C0805}
+26b3dd|Glub… Glub{C0805}…{C0805}
+21acae|{C1960}Take this, {V01}.
+26c56c|Ow… Ooooooh… Owwwwwwww{C0805}…{C0805}
+21cdb8|ROUTE 110\n[DOWN] SLATEPORT CITY
+21ce76|ROUTE 110\n[LEFT] ROUTE 103
+21cea3|ROUTE 110\n[UP] MAUVILLE CITY
+21cfb9|“Three steps [RIGHT] and two steps [UP]\nto reach the wondrous\lTRICK HOUSE.”
+21e002|ROUTE 111\n[DOWN] MAUVILLE CITY
+21e05f|ROUTE 111\n[LEFT] ROUTE 112
+21e073|ROUTE 111\n[LEFT] ROUTE 113
+21ec62|MT. CHIMNEY CABLE CAR\n“A short walk [UP] way!”
+21ece0|ROUTE 112\n[LEFT] LAVARIDGE TOWN
+21f195|ROUTE 113\n[RIGHT] ROUTE 111
+21f1a9|ROUTE 113\n[LEFT] FALLARBOR TOWN
+21f996|ROUTE 115\n[DOWN] RUSTBORO CITY
+22035b|ROUTE 117\n[LEFT] VERDANTURF TOWN
+220376|ROUTE 117\n[RIGHT] MAUVILLE CITY
+220844|ROUTE 118\n[LEFT] MAUVILLE CITY
+220860|ROUTE 118\n[UP] ROUTE 119
+220e1a|ROUTE 119\n[RIGHT] FORTREE CITY
+221eb9|ROUTE 120\n[LEFT] FORTREE CITY
+221ed4|[RIGHT] ROUTE 121\n[LEFT] ROUTE 120
+222b7a|[RIGHT] ROUTE 123\n[LEFT] ROUTE 118
+222b90|[UP] MT. PYRE\n“Forbidden to the faint of heart.”
+274b7d|Ooh, ow, ooh, ow, ooh…{C0805}
+275d8d|Noooo!
+2305c7|Hmm… It's not bad, but it's\nnot good either…\pYou train POKéMON, so you should\ntry harder with this one!\pHere's a tip… Why don't you\ngive it more [PO][Ké][BL][OC][K]S?
+23f282|I made [PO][Ké][BL][OC][K]S with my mom, my dad\nand my big sister. They came out great!\pIt seems the more people join in,\nthe better the result.
+23ebe7|Make [PO][Ké][BL][OC][K]S and keep them in\nthe [PO][Ké][BL][OC][K] CASE.\pTo make a [PO][Ké][BL][OC][K], everyone has\nto add a different BERRY.
+2429d5|Let's make some amazing [PO][Ké][BL][OC][K]S\nwith a BERRY BLENDER.
+244a30|Noooo!
+2451d5|My husband can tell right away which\n[PO][Ké][BL][OC][K]S each POKéMON likes.
+24c70e|[DOWN] JAGGED PASS\nLAVARIDGE TOWN AHEAD
+250041|{C1907}{V01}{C0819}…{C0819} you found me.
+25521b|{C1907}You.
+2a0234|Didn't you know?\pIf you put a [PO][Ké][BL][OC][K] in that box,\nyou'll attract lots of POKéMON.
+2a0478|I put a [PO][Ké][BL][OC][K] in the [PO][Ké][BL][OC][K]\nFEEDER, but it's disappeared.\pSome POKéMON must have eaten it\nwhen I wasn't looking.
+2a062e|If you use [PO][Ké][BL][OC][K]S, wild POKéMON\nwon't run away so quickly.\pBut it's not worth giving [PO][Ké][BL][OC][K]S\nto POKéMON that are already calm…
+2a06ae|Put a [PO][Ké][BL][OC][K] in the [PO][Ké][BL][OC][K]\nFEEDER and you'll attract POKéMON.\pI think POKéMON with the same nature\nlike the same kind of [PO][Ké][BL][OC][K].
+2a1764|Ah…{C0805}
+29fba1|Do you want to put a [PO][Ké][BL][OC][K]\nin the [PO][Ké][BL][OC][K] FEEDER?
+29fbfb|You put a {V02}\nin the [PO][Ké][BL][OC][K] FEEDER.
+2ad39d|????: Well?
+2bed3c|{C1925}Oh! {V01}?
+281bfe|Owooo!
+2d99b5|{C1931}YOU!
+28276d|Owww!
+2dd27f|{C1907}Hmmm…
+2dd288|{C1907}Nothing…
+2dd336|{C1907}Nothing.
+2ded87|{C1920}So{C080F}…{C080F}
+2ed0d6|{C1907}And{C080F}…{C080F}?
+2f8777|{C1920}Watch, {V01}.
+312bc1|{C1906}YOU!!
+315f6f|{C1925}I'm withdrawing, {V01}.
+319d2b|…!
+32dc04|{C1920}NOW!
+3323ef|{C1920}Although{C0805}…{C0805}
+3329a8|{C1928}{C080F}But{C080F}…{C080F}
+3330e8|{C191D}{C080F}But{C080F}…{C080F}
+28454c|Owww!
+34018c|{C1907}{V01}!
+284cd7|Argh…\nArgh…{C0805}
+34c74d|{C190A}{V01}!
+285b30|Hmm…{C0805}
+286a04|Well…{C0805}
+28e8f9|Phew, phew…{C0805}
+3564a1|{C1932}Good.
+36023a|{C1948}But{C080F}…{C080F}
+363405|{C1903}Ah, {V01}!
+36cf58|{C1907}800? Oh{C080F}…{C080F}
+37ae70|{C1941}Although{C0819}…{C080F}
+385a0b|…!
+39acbf|{C1910}Dammit{C0819}…{C0819}
+3a66b8|{C1907}I was so close{C0805}…{C0805}
+3ad15c|{C1931}NO!
+3ad471|{C1931}Heh{C0819}…{C0819} Heh heh heh{C0819}…{C0805}
+3e3906|{C193B}YOU!
+3e580c|{C193C}YOU!
+4071e3|{C1907}{V01}?
+40a1e3|{C1932}But{C0805}…{C0805}
+29b414|Owww!
+29b323|Owooo!
+41142f|{C1907}But{C0819}…{C0819}
+41a12d|{C1960}Hoo hoo hoo hoo.
+41ac20|{C1920}{V01}, come in.
+41e697|{C192C}No!
+41e7ca|{C192C}Phew{C080F}…{C080F} That was close, MAROWAK…\nBut not this time.
+421eb7|{C1953}Oh!
+424e0a|{C1907}{V01}!
+425071|{C1907}You…
+42871f|{C1931}NO!
+42a602|{C1907}You…
+442a9c|{C190E}But{C080F}…{C080F}
+4323bd|{C1932}10!!
+43e46b|{C1963}{V01}… {V01}…\nYou haven't changed.
+445cd8|{C1907}But{C080F}…{C080F}
+4465b3|{C1907}So{C080F}…{C080F}
+46e565|{C192A}I{C0823}-{C0823}I accept.
+470ca8|{C197F}You{C080A}…{C080A}
+470de6|{C1917}But…
+212cb7|{C1907}{V01}?
+332c8b|{C1920}Well?
+3ad260|BZZZZ{C0819}…{C0819} PROTOTYPE X{C0819}…{C0819} ACTIVATED.
+3ad28a|BZZZZ{C0819}…{C0819} CRAZY GENE{C0819}…{C0819} ACTIVATED.
+3c81da|{C1920}ANDRA, {V01}…
+3d5411|{C1930}{V01}{C080F}…{C080F} You're back.
+406ea6|{C1917}A{C0819}…{C0819} ANDRA.
+41103e|{C1907}Tell me, {V01}.
+42be3c|{C1907}Step aside, {V01}.
+42dfb0|{C1907}{V01}, look.
+443d8a|{C1907}Well{C080F}…{C080F}
+445c90|{C1907}3 days{C0819}…{C0819}
+446df6|{C1920}The 4 of us{C080F}…{C080F}
+469ea7|{C1906}{V01}!

@@ -114,3 +114,4 @@ None of this has been tested in-game yet. LZ77 repacking relies on the engine's 
 - 14 Battle Frontier/brain quotes trimmed to be no wider than the Spanish; Mr. Briney sign shortened to fit (it lost its only "pointer").
 - Names: ZAFIRO -> SAPPHIRE, AMATISTA -> AMETHYST, OLGA -> JULIA (Sunyshore ribbon lady).
 - Pokédex: no entry exceeds 4 lines, and 500+ Spanish entries already use 4, so the box handles it. Item closed.
+- STUTTER RESOLVED (24 Nov): not the patch. It only happens when mGBA is on Luke's second monitor (refresh-rate mismatch). Patched ROM on his PC verified identical to the build (MD5 f0ab8b615925786d3e9e630a309dcbaa).

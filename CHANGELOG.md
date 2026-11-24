@@ -12,6 +12,7 @@ All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e69048
 - 14 Battle Frontier quotes trimmed to fit, and a few name fixes (SAPPHIRE, AMETHYST, JULIA).
 
 **Verified**
+- The stutter reported earlier wasn't caused by the patch. It only happens with mGBA on a second monitor running at a different refresh rate.
 - Every byte the patch changes is accounted for (text, graphics, name tables or a checked pointer).
 - All translated graphics read back correctly from the patched ROM.
 

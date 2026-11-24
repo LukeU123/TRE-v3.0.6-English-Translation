@@ -96,7 +96,6 @@ Every repacked graphic, read back from the patched ROM (left: Spanish original, 
 - **Graphics not yet tested in-game.** The translated text graphics are in the patch and read back correctly from the patched ROM, but they haven't had a full playtest yet. If a menu or icon looks garbled, please report it.
 - **Two "Baya" labels** (Spanish for "Berry") only have room for 4 letters and are still in Spanish.
 - **Some hack-original graphics** that aren't part of the base engine may still show Spanish.
-- **Fast-forward stutter.** Stuttering under mGBA fast-forward was reported on one test machine and hasn't been reproduced reliably since. It's still being investigated, so mention it if you see it.
 - **Possible missed lines.** Some strings are stored in unusual ways and can slip past the extractor. Anything left in Spanish is a bug — please report it.
 
 ## Reporting problems

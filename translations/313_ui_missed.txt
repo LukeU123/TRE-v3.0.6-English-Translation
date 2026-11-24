@@ -93,3 +93,4 @@ e86fe4|LV. 50
 e8aba4|WT
 e86238|{D03} players
 e8ab90|Searching…\nPlease wait.
+5b6cf0| Rocket Timeline mode lets you start\n the adventure from a Season other\n than Season 1 (Kanto).\n You can press {K01} at any time.

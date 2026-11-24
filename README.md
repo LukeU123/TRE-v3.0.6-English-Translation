@@ -33,7 +33,7 @@
 
 ## About
 
-*Team Rocket Edition* puts you in a Team Rocket uniform, working your way up the ranks under GIOVANNI across Kanto, the Sevii Islands, Johto, the Johto DLC and Hoenn. Version 3.0.6 is only available in Spanish. The last official English release, v1.5, covers Kanto, the Sevii Islands and Johto only.
+*Team Rocket Edition* puts you in a Team Rocket uniform, working your way up the ranks under GIOVANNI across Kanto, the Sevii Islands, Johto, the Johto DLC and Hoenn, with the Hoenn story taking you as far as Snowpoint City in Sinnoh. Version 3.0.6 is only available in Spanish. The last official English release, v1.5, covers Kanto, the Sevii Islands and Johto only.
 
 This patch translates the whole of v3.0.6. The aim is English that reads like an official Pokémon game rather than a word-for-word translation: official English names for characters, places, moves and items, US spelling, and dialogue rewritten to sound natural while keeping the original meaning and tone. Only the text and text graphics are changed. Gameplay, maps and story are exactly as the original team made them.
 
@@ -41,7 +41,7 @@ This patch translates the whole of v3.0.6. The aim is English that reads like an
 
 | Area | Status |
 |---|---|
-| Story and map dialogue (Kanto, Sevii, Johto, Johto DLC, Hoenn, Sinnoh areas) | ✅ Translated |
+| Story and map dialogue (Kanto, Sevii, Johto, Johto DLC, Hoenn, Snowpoint City) | ✅ Translated |
 | Battle messages and trainer quotes | ✅ Translated |
 | Menus, bag, PC, summary screen, options, Battle Frontier, Rocket Timeline | ✅ Translated |
 | Items, berries, key items, Mega Stones | ✅ Translated |

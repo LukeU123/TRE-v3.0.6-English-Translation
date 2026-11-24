@@ -1,0 +1,21 @@
+8df070|1st turn: dives.\n2nd turn: attacks.
+8e0bec|1st turn: takes\nin light.\n2nd turn: attacks.
+8e20f4|1st turn: digs.\n2nd turn: attacks.
+8e2250|1st turn: takes\nin light.\n2nd turn: attacks.
+949070|1st: charges up. +1 Sp. Atk.\n2nd: attacks. Rain: 1 turn.
+94bfe4|A mystical dance that uses\nthe user's primary type.
+94c40c|Charges on the 1st turn and\nslashes with a leaf on the 2nd.
+9506f0|1st turn: springs up.\n2nd: hits. 30% paralysis.
+951334|1st turn: dives.\n2nd: attacks.
+953914|1st turn: gets ready.\n2nd: headbutts.
+95407c|A quick attack that lets\nthe user strike first.
+954218|1st turn: digs.\n2nd: attacks.
+954590|1st turn: absorbs light.\n2nd: attacks.
+9552c4|1st turn: prepares.\n2nd: attacks.
+8e8110|Ancient tablet of\nunknown origin. +30%\nto FIGHTING moves.
+8dd0e8|+30% DEF, SP. ATK,\nSP. DEF. -30% SPE.\nWEEZING/WEEZING-G.
+8e0ac8|A devastating\nattack that lowers\nATK and DEF.
+8e4bf4|Raises DEFENSE on\nELECTRIC TERRAIN.\nSingle use.
+8e57bc|Raises the SP. ATK\nand SP. DEF of\nLATIOS and LATIAS.
+8de048|A ferry ticket for\nVERMILION and\nthe SEVII ISLANDS.
+8df1c4|Flies up, then\nstrikes. Takes just\none turn.

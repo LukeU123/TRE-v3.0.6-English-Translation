@@ -3,6 +3,8 @@
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
 ## 24 Nov 2026: playtest fixes (evening)
+- Two-turn move descriptions (Dig, Dive, Solar Beam, Bounce, Skull Bash…) were still Spanish: the superscript in "1.er" stopped them being picked up. A few TM/item descriptions rewrapped to fit the bag box.
+- Rocket Timeline info screen translated.
 - Pokédex: fixed the garbled START menu (both versions), "P." → "WT", "Searching… Please wait.", translated the stat labels (PS/AT/DF/AE/DE/VL → HP/AT/DE/SA/SD/SP), the NATIONAL heading and "Modo A-Z" → "A-Z Mode".
 - Trainer card header "FICHA ROCKET" → "ROCKET CARD". This graphic is unique to the hack, so it was redrawn by hand in the original lettering.
 - Party screen HP bars showed "PS" (Spanish for HP). Now "HP", along with a second HP bar graphic.

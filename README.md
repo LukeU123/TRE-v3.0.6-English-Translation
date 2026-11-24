@@ -83,7 +83,7 @@ From the current playtest:
 
 | | |
 |---|---|
-| <img src="docs/images/play_party.png" width="400"> | <img src="docs/images/play_summary.png" width="400"> |
+| <img src="docs/images/play_party_hp.png" width="400"> | <img src="docs/images/play_summary.png" width="400"> |
 | <img src="docs/images/play_battle.png" width="400"> | <img src="docs/images/play_naming.png" width="400"> |
 
 The trainer card header is unique to this hack, so it was redrawn by hand in the original lettering:

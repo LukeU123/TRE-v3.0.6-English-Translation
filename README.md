@@ -46,6 +46,7 @@ This patch translates the whole of v3.0.6. The aim is English that reads like an
 | Menus, bag, PC, summary screen, options, Battle Frontier, Rocket Timeline | ✅ Translated |
 | Items, berries, key items, Mega Stones | ✅ Translated |
 | Moves, abilities, natures, location names | ✅ Translated |
+| Trainer classes and Pokédex categories | ✅ Translated |
 | Pokédex entries | ✅ Translated |
 | Text graphics (type icons, HP/Lv, summary headers, PC, naming screen, Pokédex UI) | 🟡 Done, awaiting in-game test |
 | Consistency and line-width passes | ✅ Done |
@@ -84,11 +85,15 @@ About **26,300 strings** are translated. See [CHANGELOG.md](CHANGELOG.md) for wh
 
 <img src="docs/images/graphics_preview_2.png" width="640">
 
+Every repacked graphic, read back from the patched ROM (left: Spanish original, right: English):
+
+<img src="docs/images/graphics_readback.png" width="640">
+
 </details>
 
 ## Known issues
 
-- **Graphics not yet tested in-game.** The translated text graphics are in the patch, but the repacking method hasn't had a full playtest yet. If a menu or icon looks garbled, please report it.
+- **Graphics not yet tested in-game.** The translated text graphics are in the patch and read back correctly from the patched ROM, but they haven't had a full playtest yet. If a menu or icon looks garbled, please report it.
 - **Two "Baya" labels** (Spanish for "Berry") only have room for 4 letters and are still in Spanish.
 - **Some hack-original graphics** that aren't part of the base engine may still show Spanish.
 - **Fast-forward stutter.** Stuttering under mGBA fast-forward was reported on one test machine and hasn't been reproduced reliably since. It's still being investigated, so mention it if you see it.

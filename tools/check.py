@@ -4,7 +4,7 @@ src=open('/home/claude/rom/PkmnTeamRocket.gba','rb').read()
 S={x['off']:x for x in json.load(open('/home/claude/work/strings.json'))}
 def goodrefs(x):
     o=x['off'];return [r for r in x['refs'] if r%4==0 or src[r-2:r]==b'\x0f\x00' or src[r-1]==0x67 or (0x1e0000<=r<0x500000 and src[o-1] in (0xff,0x00))]
-split=lambda s:re.split(r'\\[nlp]',re.sub(r'\{[^}]*\}','',s))
+split=lambda s:re.split(r'\\[nlp]',re.sub(r'\[[^]]*\]','#',re.sub(r'\{[^}]*\}','',s)))
 lead=lambda t:len(t)-len(t.lstrip(' '))
 bad=0;n=0
 for i,ln in enumerate(open(sys.argv[1],encoding='utf-8'),1):

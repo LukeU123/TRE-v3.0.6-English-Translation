@@ -99,3 +99,18 @@ None of this has been tested in-game yet. LZ77 repacking relies on the engine's 
 - Pixel-width check (tools/pxcheck.py, real font widths from the ROM table at 0x7a7774; message box 216px; Pokédex 240px): 27 overflowing lines re-wrapped (tools/rewrap.py only swaps spaces for line breaks, so byte length is unchanged). 2 stat-sheet lists split by hand. Remaining flags are trainer battle quotes that are just as long in the Spanish, plus Pokédex entries under 240px. The Spanish Pokédex mostly uses 4 lines (948 entries), so 4-line English entries are fine.
 - Graphics sweep (all engine interface PNGs vs ROM): newly fixed: status icons (party/summary sheet 0x82b25c) and the 4 healthbox status sets (0x8b159c, 0x8b1c3c, 0x8b1e7c, 0x8b20bc); Pokédex search (0x9655e8), list (0x967480) and info SEEN/OWN tiles (0x9670e0, keeping the hack's own "REGIONAL" label); bag "MO" -> "HM" (0x7f1324). Checked and fine: party menu bg, Pokédex menu3 (no text differences).
 - Leftovers: "galeón" -> "Ship", 2a031d translated. LEFT AS SPANISH: the two "Baya" labels (e85ae2, e8a60e: only 4 letters fit and no pointer was found, so they can't be moved), and the " son" fragments (4c06eb/4c06f0: unknown context).
+
+## QA pass (24 Nov, while Luke at work)
+- POINTER AUDIT: every byte the build changes outside text/graphics is now accounted for as a pointer update. Found and fixed 6 bad writes:
+  - 0x2104f7: an unaligned "pointer" that overlapped a real msgbox command (0F 00 + pointer). The build overwrote the loadword opcode, breaking that script (a sign/NPC near Mr. Briney text). build.py now skips any unaligned ref that overlaps a real script command pointer.
+  - 5 aligned matches deep in the data area (0xb115a0, 0xb1189c, 0x161afec, 0xbb7654, 0xace174) were palette colours that happened to equal a dialogue string address; the build was recolouring 5 palettes. build.py now never rewrites refs >=0x500000 to map dialogue (0x1E0000-0x4B0000).
+  - Neither explains the stutter (one only fires when that script runs, the others are colours).
+- GRAPHICS: all 7 repacked graphics read back from the built ROM decode to the right size (same as the Spanish originals) and the right English tiles (docs/images/graphics_readback.png). No overlaps in the 0x1F00000 area.
+- MISSED TABLES (inline names with no pointers, so the extractor never saw them):
+  - Trainer class names at 0x4be810 (148 x 16-byte entries, 13-byte name): ~130 were still Spanish (MONTAÑERO, PESCADOR…). Now official English. Applied from work/tr_tables.json.
+  - Pokédex categories in gSpeciesInfo (base 0x9758df, stride 0xA8, category at +0, name at +13): all Spanish. Mapped to official English from pokeemerald-expansion source by species name; hack fakemon categories translated by hand.
+  - Spanish species names fixed: the 20 Paradox Pokémon (Colmilargo -> Great Tusk etc.), Código Cero -> Type: Null, Rey Unown, Unown Áureo, Mewtwo Arm.
+- 9 more missed strings (POKéBLOCK glyph bytes 55-59 and short {C19xx} lines broke the extractor) + 7 untranslated real lines -> 311_missed3.txt. g3text now knows [PO][Ké][BL][OC][K] and [UP]/[DOWN]/[LEFT]/[RIGHT].
+- 14 Battle Frontier/brain quotes trimmed to be no wider than the Spanish; Mr. Briney sign shortened to fit (it lost its only "pointer").
+- Names: ZAFIRO -> SAPPHIRE, AMATISTA -> AMETHYST, OLGA -> JULIA (Sunyshore ribbon lady).
+- Pokédex: no entry exceeds 4 lines, and 500+ Spanish entries already use 4, so the box handles it. Item closed.

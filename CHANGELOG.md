@@ -2,6 +2,19 @@
 
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
+## 24 Nov 2026: QA pass
+**Fixes found by automated checks**
+- Trainer classes: about 130 were still in Spanish (they're stored in a table the text extractor couldn't see). All now use the official English names (HIKER, FISHERMAN, BUG CATCHER…).
+- Pokédex categories ("Seed POKéMON", "Mouse POKéMON"…) were all still Spanish. Now official English for every species, including forms.
+- Spanish species names fixed: the 20 Paradox Pokémon (Great Tusk, Iron Valiant…), Type: Null, Unown King, Golden Unown and Armor Mewtwo.
+- Fixed a build bug that broke one script (an NPC/sign near Mr. Briney's text) and slightly recoloured 5 palettes. The build now refuses both kinds of false pointer match.
+- 16 more lines that were still in Spanish, including the Lilycove POKéBLOCK lecture.
+- 14 Battle Frontier quotes trimmed to fit, and a few name fixes (SAPPHIRE, AMETHYST, JULIA).
+
+**Verified**
+- Every byte the patch changes is accounted for (text, graphics, name tables or a checked pointer).
+- All translated graphics read back correctly from the patched ROM.
+
 ## 23 Nov 2026: graphics pass and polish
 **Graphics**
 - Translated text graphics taken from the engine's English assets: type icons, HP/Lv labels, status icons, summary screen headers, PC storage, naming screen buttons and header, Pokédex interface, bag HM label.

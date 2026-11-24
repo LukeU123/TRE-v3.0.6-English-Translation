@@ -14,6 +14,9 @@ One string per line: `ROM offset (hex)|English text`. Lines starting with `#` ar
 | `307_timeline_and_heads` | Rocket Timeline menu, headings |
 | `308_button_text` | Lines with button icons |
 | `309_leftovers` | Final sweep |
+| `310_qa_fixes` | QA pass: trimmed battle quotes, name fixes |
+| `311_missed3` | Lines found by the QA scan (POKéBLOCK lecture, short replies) |
+| `name_tables.json` | Fixed-size name tables with no pointers: trainer classes, Pokédex categories, Paradox species names. Each entry is an address, field size and English text |
 
 Files are applied in name order, so a later file overrides an earlier one for the same offset.
 

@@ -1,0 +1,9884 @@
+[
+{
+"name": "trainer class 2",
+"addr": 4974640,
+"size": 13,
+"text": "HIKER"
+},
+{
+"name": "trainer class 3",
+"addr": 4974656,
+"size": 13,
+"text": "PKMN BREEDER"
+},
+{
+"name": "trainer class 4",
+"addr": 4974672,
+"size": 13,
+"text": "COOLTRAINER"
+},
+{
+"name": "trainer class 5",
+"addr": 4974688,
+"size": 13,
+"text": "BIRD KEEPER"
+},
+{
+"name": "trainer class 6",
+"addr": 4974704,
+"size": 13,
+"text": "COLLECTOR"
+},
+{
+"name": "trainer class 7",
+"addr": 4974720,
+"size": 13,
+"text": "SWIMMER♂"
+},
+{
+"name": "trainer class 8",
+"addr": 4974736,
+"size": 13,
+"text": "EXPERT"
+},
+{
+"name": "trainer class 9",
+"addr": 4974752,
+"size": 13,
+"text": "BLACK BELT"
+},
+{
+"name": "trainer class 10",
+"addr": 4974768,
+"size": 13,
+"text": "HEX MANIAC"
+},
+{
+"name": "trainer class 11",
+"addr": 4974784,
+"size": 13,
+"text": "AROMA LADY"
+},
+{
+"name": "trainer class 12",
+"addr": 4974800,
+"size": 13,
+"text": "RUIN MANIAC"
+},
+{
+"name": "trainer class 13",
+"addr": 4974816,
+"size": 13,
+"text": "INTERVIEWER"
+},
+{
+"name": "trainer class 14",
+"addr": 4974832,
+"size": 13,
+"text": "TUBER"
+},
+{
+"name": "trainer class 15",
+"addr": 4974848,
+"size": 13,
+"text": "TUBER"
+},
+{
+"name": "trainer class 16",
+"addr": 4974864,
+"size": 13,
+"text": "LADY"
+},
+{
+"name": "trainer class 17",
+"addr": 4974880,
+"size": 13,
+"text": "BEAUTY"
+},
+{
+"name": "trainer class 18",
+"addr": 4974896,
+"size": 13,
+"text": "RICH BOY"
+},
+{
+"name": "trainer class 19",
+"addr": 4974912,
+"size": 13,
+"text": "POKéMANIAC"
+},
+{
+"name": "trainer class 20",
+"addr": 4974928,
+"size": 13,
+"text": "GUITARIST"
+},
+{
+"name": "trainer class 21",
+"addr": 4974944,
+"size": 13,
+"text": "KINDLER"
+},
+{
+"name": "trainer class 22",
+"addr": 4974960,
+"size": 13,
+"text": "CAMPER"
+},
+{
+"name": "trainer class 23",
+"addr": 4974976,
+"size": 13,
+"text": "PICNICKER"
+},
+{
+"name": "trainer class 24",
+"addr": 4974992,
+"size": 13,
+"text": "BUG MANIAC"
+},
+{
+"name": "trainer class 25",
+"addr": 4975008,
+"size": 13,
+"text": "PSYCHIC"
+},
+{
+"name": "trainer class 26",
+"addr": 4975024,
+"size": 13,
+"text": "GENTLEMAN"
+},
+{
+"name": "trainer class 27",
+"addr": 4975040,
+"size": 13,
+"text": "SCHOOL KID"
+},
+{
+"name": "trainer class 28",
+"addr": 4975056,
+"size": 13,
+"text": "SR. AND JR."
+},
+{
+"name": "trainer class 29",
+"addr": 4975072,
+"size": 13,
+"text": "WINSTRATE"
+},
+{
+"name": "trainer class 30",
+"addr": 4975088,
+"size": 13,
+"text": "POKéFAN"
+},
+{
+"name": "trainer class 31",
+"addr": 4975104,
+"size": 13,
+"text": "YOUNGSTER"
+},
+{
+"name": "trainer class 32",
+"addr": 4975120,
+"size": 13,
+"text": "FISHERMAN"
+},
+{
+"name": "trainer class 33",
+"addr": 4975136,
+"size": 13,
+"text": "TRIATHLETE"
+},
+{
+"name": "trainer class 34",
+"addr": 4975152,
+"size": 13,
+"text": "DRAGON TAMER"
+},
+{
+"name": "trainer class 35",
+"addr": 4975168,
+"size": 13,
+"text": "NINJA BOY"
+},
+{
+"name": "trainer class 36",
+"addr": 4975184,
+"size": 13,
+"text": "BATTLE GIRL"
+},
+{
+"name": "trainer class 37",
+"addr": 4975200,
+"size": 13,
+"text": "PARASOL LADY"
+},
+{
+"name": "trainer class 38",
+"addr": 4975216,
+"size": 13,
+"text": "SWIMMER♀"
+},
+{
+"name": "trainer class 39",
+"addr": 4975232,
+"size": 13,
+"text": "TWINS"
+},
+{
+"name": "trainer class 40",
+"addr": 4975248,
+"size": 13,
+"text": "SAILOR"
+},
+{
+"name": "trainer class 41",
+"addr": 4975264,
+"size": 13,
+"text": "BUG CATCHER"
+},
+{
+"name": "trainer class 42",
+"addr": 4975280,
+"size": 13,
+"text": "PKMN RANGER"
+},
+{
+"name": "trainer class 43",
+"addr": 4975296,
+"size": 13,
+"text": "LASS"
+},
+{
+"name": "trainer class 44",
+"addr": 4975312,
+"size": 13,
+"text": "YOUNG COUPLE"
+},
+{
+"name": "trainer class 45",
+"addr": 4975328,
+"size": 13,
+"text": "OLD COUPLE"
+},
+{
+"name": "trainer class 46",
+"addr": 4975344,
+"size": 13,
+"text": "SIS AND BRO"
+},
+{
+"name": "trainer class 47",
+"addr": 4975360,
+"size": 13,
+"text": "TAMER"
+},
+{
+"name": "trainer class 48",
+"addr": 4975376,
+"size": 13,
+"text": "COOL COUPLE"
+},
+{
+"name": "trainer class 49",
+"addr": 4975392,
+"size": 13,
+"text": "WORKER"
+},
+{
+"name": "trainer class 50",
+"addr": 4975408,
+"size": 13,
+"text": "BIRD KEEPER"
+},
+{
+"name": "trainer class 51",
+"addr": 4975424,
+"size": 13,
+"text": "CHANNELER"
+},
+{
+"name": "trainer class 52",
+"addr": 4975440,
+"size": 13,
+"text": "SUPER NERD"
+},
+{
+"name": "trainer class 53",
+"addr": 4975456,
+"size": 13,
+"text": "BIKER"
+},
+{
+"name": "trainer class 54",
+"addr": 4975472,
+"size": 13,
+"text": "BURGLAR"
+},
+{
+"name": "trainer class 55",
+"addr": 4975488,
+"size": 13,
+"text": "SAGE"
+},
+{
+"name": "trainer class 56",
+"addr": 4975504,
+"size": 13,
+"text": "ENGINEER"
+},
+{
+"name": "trainer class 57",
+"addr": 4975520,
+"size": 13,
+"text": "BALDY"
+},
+{
+"name": "trainer class 58",
+"addr": 4975536,
+"size": 13,
+"text": "GAMBLER"
+},
+{
+"name": "trainer class 59",
+"addr": 4975552,
+"size": 13,
+"text": "MINSTREL"
+},
+{
+"name": "trainer class 60",
+"addr": 4975568,
+"size": 13,
+"text": "CRUSH KIN"
+},
+{
+"name": "trainer class 61",
+"addr": 4975584,
+"size": 13,
+"text": "CRUSH GIRL"
+},
+{
+"name": "trainer class 62",
+"addr": 4975600,
+"size": 13,
+"text": "PAINTER"
+},
+{
+"name": "trainer class 63",
+"addr": 4975616,
+"size": 13,
+"text": "JUGGLER"
+},
+{
+"name": "trainer class 64",
+"addr": 4975632,
+"size": 13,
+"text": "GAMER"
+},
+{
+"name": "trainer class 65",
+"addr": 4975648,
+"size": 13,
+"text": "THINKER"
+},
+{
+"name": "trainer class 66",
+"addr": 4975664,
+"size": 13,
+"text": "PKMN PROF."
+},
+{
+"name": "trainer class 67",
+"addr": 4975680,
+"size": 13,
+"text": "KIMONO GIRL"
+},
+{
+"name": "trainer class 68",
+"addr": 4975696,
+"size": 13,
+"text": "FIREBREATHER"
+},
+{
+"name": "trainer class 69",
+"addr": 4975712,
+"size": 13,
+"text": "KEEPER"
+},
+{
+"name": "trainer class 70",
+"addr": 4975728,
+"size": 13,
+"text": "TEAM AQUA"
+},
+{
+"name": "trainer class 71",
+"addr": 4975744,
+"size": 13,
+"text": "TEAM MAGMA"
+},
+{
+"name": "trainer class 72",
+"addr": 4975760,
+"size": 13,
+"text": "CULTIST"
+},
+{
+"name": "trainer class 73",
+"addr": 4975776,
+"size": 13,
+"text": "CHAMPION"
+},
+{
+"name": "trainer class 74",
+"addr": 4975792,
+"size": 13,
+"text": "AQUA ADMIN"
+},
+{
+"name": "trainer class 75",
+"addr": 4975808,
+"size": 13,
+"text": "AQUA LEADER"
+},
+{
+"name": "trainer class 76",
+"addr": 4975824,
+"size": 13,
+"text": "ELITE FOUR"
+},
+{
+"name": "trainer class 77",
+"addr": 4975840,
+"size": 13,
+"text": "CAPTAIN"
+},
+{
+"name": "trainer class 78",
+"addr": 4975856,
+"size": 13,
+"text": "LEADER"
+},
+{
+"name": "trainer class 79",
+"addr": 4975872,
+"size": 13,
+"text": "MAGMA ADMIN"
+},
+{
+"name": "trainer class 81",
+"addr": 4975904,
+"size": 13,
+"text": "MAGMA LEADER"
+},
+{
+"name": "trainer class 82",
+"addr": 4975920,
+"size": 13,
+"text": "SALON MAIDEN"
+},
+{
+"name": "trainer class 83",
+"addr": 4975936,
+"size": 13,
+"text": "DOME ACE"
+},
+{
+"name": "trainer class 84",
+"addr": 4975952,
+"size": 13,
+"text": "PALACE MAVEN"
+},
+{
+"name": "trainer class 85",
+"addr": 4975968,
+"size": 13,
+"text": "ARENA TYCOON"
+},
+{
+"name": "trainer class 86",
+"addr": 4975984,
+"size": 13,
+"text": "FACTORY HEAD"
+},
+{
+"name": "trainer class 87",
+"addr": 4976000,
+"size": 13,
+"text": "PIKE QUEEN"
+},
+{
+"name": "trainer class 88",
+"addr": 4976016,
+"size": 13,
+"text": "PYRAMID KING"
+},
+{
+"name": "trainer class 90",
+"addr": 4976048,
+"size": 13,
+"text": "EMPEROR"
+},
+{
+"name": "trainer class 91",
+"addr": 4976064,
+"size": 13,
+"text": "ELITE FOUR"
+},
+{
+"name": "trainer class 92",
+"addr": 4976080,
+"size": 13,
+"text": "PRESIDENT"
+},
+{
+"name": "trainer class 93",
+"addr": 4976096,
+"size": 13,
+"text": "CONSUL"
+},
+{
+"name": "trainer class 94",
+"addr": 4976112,
+"size": 13,
+"text": "ROCKET BOSS"
+},
+{
+"name": "trainer class 95",
+"addr": 4976128,
+"size": 13,
+"text": "POKéMANIAC"
+},
+{
+"name": "trainer class 96",
+"addr": 4976144,
+"size": 13,
+"text": "POKéMANIAC"
+},
+{
+"name": "trainer class 97",
+"addr": 4976160,
+"size": 13,
+"text": "POKéMANIAC"
+},
+{
+"name": "trainer class 98",
+"addr": 4976176,
+"size": 13,
+"text": "HEAD ADMIN"
+},
+{
+"name": "trainer class 99",
+"addr": 4976192,
+"size": 13,
+"text": "RESEARCHER"
+},
+{
+"name": "trainer class 100",
+"addr": 4976208,
+"size": 13,
+"text": "EX-LEADER"
+},
+{
+"name": "trainer class 101",
+"addr": 4976224,
+"size": 13,
+"text": "EXECUTIVE"
+},
+{
+"name": "trainer class 102",
+"addr": 4976240,
+"size": 13,
+"text": "GRUNT"
+},
+{
+"name": "trainer class 103",
+"addr": 4976256,
+"size": 13,
+"text": "ROCKET ADMIN"
+},
+{
+"name": "trainer class 104",
+"addr": 4976272,
+"size": 13,
+"text": "TRAVELER"
+},
+{
+"name": "trainer class 105",
+"addr": 4976288,
+"size": 13,
+"text": "MYSTIC"
+},
+{
+"name": "trainer class 106",
+"addr": 4976304,
+"size": 13,
+"text": "GOD"
+},
+{
+"name": "trainer class 107",
+"addr": 4976320,
+"size": 13,
+"text": "TRAINER"
+},
+{
+"name": "trainer class 108",
+"addr": 4976336,
+"size": 13,
+"text": "LEGEND"
+},
+{
+"name": "trainer class 109",
+"addr": 4976352,
+"size": 13,
+"text": "LEGEND. BIRD"
+},
+{
+"name": "trainer class 110",
+"addr": 4976368,
+"size": 13,
+"text": "EX-CHAMPION"
+},
+{
+"name": "trainer class 111",
+"addr": 4976384,
+"size": 13,
+"text": "CHAMPION"
+},
+{
+"name": "trainer class 112",
+"addr": 4976400,
+"size": 13,
+"text": "TRAINER"
+},
+{
+"name": "trainer class 113",
+"addr": 4976416,
+"size": 13,
+"text": "WILD"
+},
+{
+"name": "trainer class 114",
+"addr": 4976432,
+"size": 13,
+"text": "PKMN BREEDER"
+},
+{
+"name": "trainer class 115",
+"addr": 4976448,
+"size": 13,
+"text": "COLLECTOR"
+},
+{
+"name": "trainer class 116",
+"addr": 4976464,
+"size": 13,
+"text": "LEGEND"
+},
+{
+"name": "trainer class 117",
+"addr": 4976480,
+"size": 13,
+"text": "POLICE"
+},
+{
+"name": "trainer class 118",
+"addr": 4976496,
+"size": 13,
+"text": "SCIENTIST"
+},
+{
+"name": "trainer class 119",
+"addr": 4976512,
+"size": 13,
+"text": "EX-CULTIST"
+},
+{
+"name": "trainer class 120",
+"addr": 4976528,
+"size": 13,
+"text": "GRAND MASTER"
+},
+{
+"name": "trainer class 121",
+"addr": 4976544,
+"size": 13,
+"text": "WILD"
+},
+{
+"name": "trainer class 122",
+"addr": 4976560,
+"size": 13,
+"text": "EXPERIMENT"
+},
+{
+"name": "trainer class 123",
+"addr": 4976576,
+"size": 13,
+"text": "CHAMPION"
+},
+{
+"name": "trainer class 124",
+"addr": 4976592,
+"size": 13,
+"text": "TRAVELER"
+},
+{
+"name": "trainer class 125",
+"addr": 4976608,
+"size": 13,
+"text": "GRAND MASTER"
+},
+{
+"name": "trainer class 126",
+"addr": 4976624,
+"size": 13,
+"text": "DEVON ADMIN"
+},
+{
+"name": "trainer class 127",
+"addr": 4976640,
+"size": 13,
+"text": "GRAND MASTER"
+},
+{
+"name": "trainer class 128",
+"addr": 4976656,
+"size": 13,
+"text": "SCHOOLBOY"
+},
+{
+"name": "trainer class 129",
+"addr": 4976672,
+"size": 13,
+"text": "TEACHER"
+},
+{
+"name": "trainer class 130",
+"addr": 4976688,
+"size": 13,
+"text": "DOCTOR"
+},
+{
+"name": "trainer class 131",
+"addr": 4976704,
+"size": 13,
+"text": "OWNER"
+},
+{
+"name": "trainer class 132",
+"addr": 4976720,
+"size": 13,
+"text": "HEAD ADMIN"
+},
+{
+"name": "trainer class 133",
+"addr": 4976736,
+"size": 13,
+"text": "CHRONICLER"
+},
+{
+"name": "trainer class 134",
+"addr": 4976752,
+"size": 13,
+"text": "HIGH RANKER"
+},
+{
+"name": "trainer class 140",
+"addr": 4976848,
+"size": 13,
+"text": "MECHANIC"
+},
+{
+"name": "trainer class 141",
+"addr": 4976864,
+"size": 13,
+"text": "ELECTRICIAN"
+},
+{
+"name": "trainer class 142",
+"addr": 4976880,
+"size": 13,
+"text": "[PK][MN] LEAGUE"
+},
+{
+"name": "trainer class 143",
+"addr": 4976896,
+"size": 13,
+"text": "DIRECTOR"
+},
+{
+"name": "trainer class 144",
+"addr": 4976912,
+"size": 13,
+"text": "[PK][MN] LEAGUE"
+},
+{
+"name": "trainer class 145",
+"addr": 4976928,
+"size": 13,
+"text": "AFFILIATE"
+},
+{
+"name": "trainer class 146",
+"addr": 4976944,
+"size": 13,
+"text": "None"
+},
+{
+"name": "category Bulbasaur",
+"addr": 9918855,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Ivysaur",
+"addr": 9919023,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Venusaur",
+"addr": 9919191,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Charmander",
+"addr": 9919359,
+"size": 13,
+"text": "Lizard"
+},
+{
+"name": "category Charmeleon",
+"addr": 9919527,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Charizard",
+"addr": 9919695,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Squirtle",
+"addr": 9919863,
+"size": 13,
+"text": "Tiny Turtle"
+},
+{
+"name": "category Wartortle",
+"addr": 9920031,
+"size": 13,
+"text": "Turtle"
+},
+{
+"name": "category Blastoise",
+"addr": 9920199,
+"size": 13,
+"text": "Shellfish"
+},
+{
+"name": "category Caterpie",
+"addr": 9920367,
+"size": 13,
+"text": "Worm"
+},
+{
+"name": "category Metapod",
+"addr": 9920535,
+"size": 13,
+"text": "Cocoon"
+},
+{
+"name": "category Butterfree",
+"addr": 9920703,
+"size": 13,
+"text": "Butterfly"
+},
+{
+"name": "category Weedle",
+"addr": 9920871,
+"size": 13,
+"text": "Hairy Bug"
+},
+{
+"name": "category Kakuna",
+"addr": 9921039,
+"size": 13,
+"text": "Cocoon"
+},
+{
+"name": "category Beedrill",
+"addr": 9921207,
+"size": 13,
+"text": "Poison Bee"
+},
+{
+"name": "category Pidgey",
+"addr": 9921375,
+"size": 13,
+"text": "Tiny Bird"
+},
+{
+"name": "category Pidgeotto",
+"addr": 9921543,
+"size": 13,
+"text": "Bird"
+},
+{
+"name": "category Pidgeot",
+"addr": 9921711,
+"size": 13,
+"text": "Bird"
+},
+{
+"name": "category Rattata",
+"addr": 9921879,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Raticate",
+"addr": 9922047,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Spearow",
+"addr": 9922215,
+"size": 13,
+"text": "Tiny Bird"
+},
+{
+"name": "category Fearow",
+"addr": 9922383,
+"size": 13,
+"text": "Beak"
+},
+{
+"name": "category Ekans",
+"addr": 9922551,
+"size": 13,
+"text": "Snake"
+},
+{
+"name": "category Raichu",
+"addr": 9923055,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Sandshrew",
+"addr": 9923223,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Sandslash",
+"addr": 9923391,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Nidoran♀",
+"addr": 9923559,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Nidorina",
+"addr": 9923727,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Nidoqueen",
+"addr": 9923895,
+"size": 13,
+"text": "Drill"
+},
+{
+"name": "category Nidoran♂",
+"addr": 9924063,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Nidorino",
+"addr": 9924231,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Nidoking",
+"addr": 9924399,
+"size": 13,
+"text": "Drill"
+},
+{
+"name": "category Clefairy",
+"addr": 9924567,
+"size": 13,
+"text": "Fairy"
+},
+{
+"name": "category Clefable",
+"addr": 9924735,
+"size": 13,
+"text": "Fairy"
+},
+{
+"name": "category Vulpix",
+"addr": 9924903,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Ninetales",
+"addr": 9925071,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Jigglypuff",
+"addr": 9925239,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Wigglytuff",
+"addr": 9925407,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Zubat",
+"addr": 9925575,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Golbat",
+"addr": 9925743,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Oddish",
+"addr": 9925911,
+"size": 13,
+"text": "Weed"
+},
+{
+"name": "category Gloom",
+"addr": 9926079,
+"size": 13,
+"text": "Weed"
+},
+{
+"name": "category Vileplume",
+"addr": 9926247,
+"size": 13,
+"text": "Flower"
+},
+{
+"name": "category Paras",
+"addr": 9926415,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Parasect",
+"addr": 9926583,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Venonat",
+"addr": 9926751,
+"size": 13,
+"text": "Insect"
+},
+{
+"name": "category Venomoth",
+"addr": 9926919,
+"size": 13,
+"text": "Poison Moth"
+},
+{
+"name": "category Diglett",
+"addr": 9927087,
+"size": 13,
+"text": "Mole"
+},
+{
+"name": "category Dugtrio",
+"addr": 9927255,
+"size": 13,
+"text": "Mole"
+},
+{
+"name": "category Meowth",
+"addr": 9927423,
+"size": 13,
+"text": "Scratch Cat"
+},
+{
+"name": "category Persian",
+"addr": 9927591,
+"size": 13,
+"text": "Classy Cat"
+},
+{
+"name": "category Psyduck",
+"addr": 9927759,
+"size": 13,
+"text": "Duck"
+},
+{
+"name": "category Golduck",
+"addr": 9927927,
+"size": 13,
+"text": "Duck"
+},
+{
+"name": "category Mankey",
+"addr": 9928095,
+"size": 13,
+"text": "Pig Monkey"
+},
+{
+"name": "category Primeape",
+"addr": 9928263,
+"size": 13,
+"text": "Pig Monkey"
+},
+{
+"name": "category Growlithe",
+"addr": 9928431,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Arcanine",
+"addr": 9928599,
+"size": 13,
+"text": "Legendary"
+},
+{
+"name": "category Poliwag",
+"addr": 9928767,
+"size": 13,
+"text": "Tadpole"
+},
+{
+"name": "category Poliwhirl",
+"addr": 9928935,
+"size": 13,
+"text": "Tadpole"
+},
+{
+"name": "category Poliwrath",
+"addr": 9929103,
+"size": 13,
+"text": "Tadpole"
+},
+{
+"name": "category Machop",
+"addr": 9929775,
+"size": 13,
+"text": "Superpower"
+},
+{
+"name": "category Machoke",
+"addr": 9929943,
+"size": 13,
+"text": "Superpower"
+},
+{
+"name": "category Machamp",
+"addr": 9930111,
+"size": 13,
+"text": "Superpower"
+},
+{
+"name": "category Bellsprout",
+"addr": 9930279,
+"size": 13,
+"text": "Flower"
+},
+{
+"name": "category Weepinbell",
+"addr": 9930447,
+"size": 13,
+"text": "Flycatcher"
+},
+{
+"name": "category Victreebel",
+"addr": 9930615,
+"size": 13,
+"text": "Flycatcher"
+},
+{
+"name": "category Tentacool",
+"addr": 9930783,
+"size": 13,
+"text": "Jellyfish"
+},
+{
+"name": "category Tentacruel",
+"addr": 9930951,
+"size": 13,
+"text": "Jellyfish"
+},
+{
+"name": "category Geodude",
+"addr": 9931119,
+"size": 13,
+"text": "Rock"
+},
+{
+"name": "category Graveler",
+"addr": 9931287,
+"size": 13,
+"text": "Rock"
+},
+{
+"name": "category Golem",
+"addr": 9931455,
+"size": 13,
+"text": "Megaton"
+},
+{
+"name": "category Ponyta",
+"addr": 9931623,
+"size": 13,
+"text": "Fire Horse"
+},
+{
+"name": "category Rapidash",
+"addr": 9931791,
+"size": 13,
+"text": "Fire Horse"
+},
+{
+"name": "category Slowpoke",
+"addr": 9931959,
+"size": 13,
+"text": "Dopey"
+},
+{
+"name": "category Slowbro",
+"addr": 9932127,
+"size": 13,
+"text": "Hermit Crab"
+},
+{
+"name": "category Magnemite",
+"addr": 9932295,
+"size": 13,
+"text": "Magnet"
+},
+{
+"name": "category Magneton",
+"addr": 9932463,
+"size": 13,
+"text": "Magnet"
+},
+{
+"name": "category Farfetch’d",
+"addr": 9932631,
+"size": 13,
+"text": "Wild Duck"
+},
+{
+"name": "category Doduo",
+"addr": 9932799,
+"size": 13,
+"text": "Twin Bird"
+},
+{
+"name": "category Dodrio",
+"addr": 9932967,
+"size": 13,
+"text": "Triple Bird"
+},
+{
+"name": "category Seel",
+"addr": 9933135,
+"size": 13,
+"text": "Sea Lion"
+},
+{
+"name": "category Dewgong",
+"addr": 9933303,
+"size": 13,
+"text": "Sea Lion"
+},
+{
+"name": "category Grimer",
+"addr": 9933471,
+"size": 13,
+"text": "Sludge"
+},
+{
+"name": "category Muk",
+"addr": 9933639,
+"size": 13,
+"text": "Sludge"
+},
+{
+"name": "category Shellder",
+"addr": 9933807,
+"size": 13,
+"text": "Bivalve"
+},
+{
+"name": "category Cloyster",
+"addr": 9933975,
+"size": 13,
+"text": "Bivalve"
+},
+{
+"name": "category Gengar",
+"addr": 9934479,
+"size": 13,
+"text": "Shadow"
+},
+{
+"name": "category Onix",
+"addr": 9934647,
+"size": 13,
+"text": "Rock Snake"
+},
+{
+"name": "category Drowzee",
+"addr": 9934815,
+"size": 13,
+"text": "Hypnosis"
+},
+{
+"name": "category Hypno",
+"addr": 9934983,
+"size": 13,
+"text": "Hypnosis"
+},
+{
+"name": "category Krabby",
+"addr": 9935151,
+"size": 13,
+"text": "River Crab"
+},
+{
+"name": "category Kingler",
+"addr": 9935319,
+"size": 13,
+"text": "Pincer"
+},
+{
+"name": "category Voltorb",
+"addr": 9935487,
+"size": 13,
+"text": "Ball"
+},
+{
+"name": "category Electrode",
+"addr": 9935655,
+"size": 13,
+"text": "Ball"
+},
+{
+"name": "category Exeggcute",
+"addr": 9935823,
+"size": 13,
+"text": "Egg"
+},
+{
+"name": "category Exeggutor",
+"addr": 9935991,
+"size": 13,
+"text": "Coconut"
+},
+{
+"name": "category Cubone",
+"addr": 9936159,
+"size": 13,
+"text": "Lonely"
+},
+{
+"name": "category Marowak",
+"addr": 9936327,
+"size": 13,
+"text": "Bone Keeper"
+},
+{
+"name": "category Hitmonlee",
+"addr": 9936495,
+"size": 13,
+"text": "Kicking"
+},
+{
+"name": "category Hitmonchan",
+"addr": 9936663,
+"size": 13,
+"text": "Punching"
+},
+{
+"name": "category Lickitung",
+"addr": 9936831,
+"size": 13,
+"text": "Licking"
+},
+{
+"name": "category Koffing",
+"addr": 9936999,
+"size": 13,
+"text": "Poison Gas"
+},
+{
+"name": "category Weezing",
+"addr": 9937167,
+"size": 13,
+"text": "Poison Gas"
+},
+{
+"name": "category Rhyhorn",
+"addr": 9937335,
+"size": 13,
+"text": "Spikes"
+},
+{
+"name": "category Rhydon",
+"addr": 9937503,
+"size": 13,
+"text": "Drill"
+},
+{
+"name": "category Chansey",
+"addr": 9937671,
+"size": 13,
+"text": "Egg"
+},
+{
+"name": "category Tangela",
+"addr": 9937839,
+"size": 13,
+"text": "Vine"
+},
+{
+"name": "category Kangaskhan",
+"addr": 9938007,
+"size": 13,
+"text": "Parent"
+},
+{
+"name": "category Horsea",
+"addr": 9938175,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Seadra",
+"addr": 9938343,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Goldeen",
+"addr": 9938511,
+"size": 13,
+"text": "Goldfish"
+},
+{
+"name": "category Seaking",
+"addr": 9938679,
+"size": 13,
+"text": "Goldfish"
+},
+{
+"name": "category Staryu",
+"addr": 9938847,
+"size": 13,
+"text": "Star Shape"
+},
+{
+"name": "category Starmie",
+"addr": 9939015,
+"size": 13,
+"text": "Mysterious"
+},
+{
+"name": "category Mr. Mime",
+"addr": 9939183,
+"size": 13,
+"text": "Barrier"
+},
+{
+"name": "category Jynx",
+"addr": 9939519,
+"size": 13,
+"text": "Human Shape"
+},
+{
+"name": "category Electabuzz",
+"addr": 9939687,
+"size": 13,
+"text": "Electric"
+},
+{
+"name": "category Magmar",
+"addr": 9939855,
+"size": 13,
+"text": "Spitfire"
+},
+{
+"name": "category Pinsir",
+"addr": 9940023,
+"size": 13,
+"text": "Stag Beetle"
+},
+{
+"name": "category Tauros",
+"addr": 9940191,
+"size": 13,
+"text": "Wild Bull"
+},
+{
+"name": "category Magikarp",
+"addr": 9940359,
+"size": 13,
+"text": "Fish"
+},
+{
+"name": "category Gyarados",
+"addr": 9940527,
+"size": 13,
+"text": "Atrocious"
+},
+{
+"name": "category Lapras",
+"addr": 9940695,
+"size": 13,
+"text": "Transport"
+},
+{
+"name": "category Ditto",
+"addr": 9940863,
+"size": 13,
+"text": "Transform"
+},
+{
+"name": "category Eevee",
+"addr": 9941031,
+"size": 13,
+"text": "Evolution"
+},
+{
+"name": "category Vaporeon",
+"addr": 9941199,
+"size": 13,
+"text": "Bubble Jet"
+},
+{
+"name": "category Jolteon",
+"addr": 9941367,
+"size": 13,
+"text": "Lightning"
+},
+{
+"name": "category Flareon",
+"addr": 9941535,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Omanyte",
+"addr": 9941871,
+"size": 13,
+"text": "Spiral"
+},
+{
+"name": "category Omastar",
+"addr": 9942039,
+"size": 13,
+"text": "Spiral"
+},
+{
+"name": "category Kabuto",
+"addr": 9942207,
+"size": 13,
+"text": "Shellfish"
+},
+{
+"name": "category Kabutops",
+"addr": 9942375,
+"size": 13,
+"text": "Shellfish"
+},
+{
+"name": "category Aerodactyl",
+"addr": 9942543,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Snorlax",
+"addr": 9942711,
+"size": 13,
+"text": "Sleeping"
+},
+{
+"name": "category Articuno",
+"addr": 9942879,
+"size": 13,
+"text": "Freeze"
+},
+{
+"name": "category Zapdos",
+"addr": 9943047,
+"size": 13,
+"text": "Electric"
+},
+{
+"name": "category Moltres",
+"addr": 9943215,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Dratini",
+"addr": 9943383,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Dragonair",
+"addr": 9943551,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Dragonite",
+"addr": 9943719,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Mewtwo",
+"addr": 9943887,
+"size": 13,
+"text": "Genetic"
+},
+{
+"name": "category Mew",
+"addr": 9944055,
+"size": 13,
+"text": "New Species"
+},
+{
+"name": "category Chikorita",
+"addr": 9944223,
+"size": 13,
+"text": "Leaf"
+},
+{
+"name": "category Bayleef",
+"addr": 9944391,
+"size": 13,
+"text": "Leaf"
+},
+{
+"name": "category Meganium",
+"addr": 9944559,
+"size": 13,
+"text": "Herb"
+},
+{
+"name": "category Cyndaquil",
+"addr": 9944727,
+"size": 13,
+"text": "Fire Mouse"
+},
+{
+"name": "category Quilava",
+"addr": 9944895,
+"size": 13,
+"text": "Volcano"
+},
+{
+"name": "category Typhlosion",
+"addr": 9945063,
+"size": 13,
+"text": "Volcano"
+},
+{
+"name": "category Totodile",
+"addr": 9945231,
+"size": 13,
+"text": "Big Jaw"
+},
+{
+"name": "category Croconaw",
+"addr": 9945399,
+"size": 13,
+"text": "Big Jaw"
+},
+{
+"name": "category Feraligatr",
+"addr": 9945567,
+"size": 13,
+"text": "Big Jaw"
+},
+{
+"name": "category Sentret",
+"addr": 9945735,
+"size": 13,
+"text": "Scout"
+},
+{
+"name": "category Furret",
+"addr": 9945903,
+"size": 13,
+"text": "Long Body"
+},
+{
+"name": "category Hoothoot",
+"addr": 9946071,
+"size": 13,
+"text": "Owl"
+},
+{
+"name": "category Noctowl",
+"addr": 9946239,
+"size": 13,
+"text": "Owl"
+},
+{
+"name": "category Ledyba",
+"addr": 9946407,
+"size": 13,
+"text": "Five Star"
+},
+{
+"name": "category Ledian",
+"addr": 9946575,
+"size": 13,
+"text": "Five Star"
+},
+{
+"name": "category Spinarak",
+"addr": 9946743,
+"size": 13,
+"text": "String Spit"
+},
+{
+"name": "category Ariados",
+"addr": 9946911,
+"size": 13,
+"text": "Long Leg"
+},
+{
+"name": "category Crobat",
+"addr": 9947079,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Chinchou",
+"addr": 9947247,
+"size": 13,
+"text": "Angler"
+},
+{
+"name": "category Lanturn",
+"addr": 9947415,
+"size": 13,
+"text": "Light"
+},
+{
+"name": "category Cleffa",
+"addr": 9947751,
+"size": 13,
+"text": "Star Shape"
+},
+{
+"name": "category Igglybuff",
+"addr": 9947919,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Togepi",
+"addr": 9948087,
+"size": 13,
+"text": "Spike Ball"
+},
+{
+"name": "category Togetic",
+"addr": 9948255,
+"size": 13,
+"text": "Happiness"
+},
+{
+"name": "category Natu",
+"addr": 9948423,
+"size": 13,
+"text": "Tiny Bird"
+},
+{
+"name": "category Xatu",
+"addr": 9948591,
+"size": 13,
+"text": "Mystic"
+},
+{
+"name": "category Mareep",
+"addr": 9948759,
+"size": 13,
+"text": "Wool"
+},
+{
+"name": "category Flaaffy",
+"addr": 9948927,
+"size": 13,
+"text": "Wool"
+},
+{
+"name": "category Ampharos",
+"addr": 9949095,
+"size": 13,
+"text": "Light"
+},
+{
+"name": "category Bellossom",
+"addr": 9949263,
+"size": 13,
+"text": "Flower"
+},
+{
+"name": "category Marill",
+"addr": 9949431,
+"size": 13,
+"text": "Aqua Mouse"
+},
+{
+"name": "category Azumarill",
+"addr": 9949599,
+"size": 13,
+"text": "Aqua Rabbit"
+},
+{
+"name": "category Sudowoodo",
+"addr": 9949767,
+"size": 13,
+"text": "Imitation"
+},
+{
+"name": "category Politoed",
+"addr": 9949935,
+"size": 13,
+"text": "Frog"
+},
+{
+"name": "category Hoppip",
+"addr": 9950103,
+"size": 13,
+"text": "Cottonweed"
+},
+{
+"name": "category Skiploom",
+"addr": 9950271,
+"size": 13,
+"text": "Cottonweed"
+},
+{
+"name": "category Jumpluff",
+"addr": 9950439,
+"size": 13,
+"text": "Cottonweed"
+},
+{
+"name": "category Aipom",
+"addr": 9950607,
+"size": 13,
+"text": "Long Tail"
+},
+{
+"name": "category Sunkern",
+"addr": 9950775,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Sunflora",
+"addr": 9950943,
+"size": 13,
+"text": "Sun"
+},
+{
+"name": "category Yanma",
+"addr": 9951111,
+"size": 13,
+"text": "Clear Wing"
+},
+{
+"name": "category Wooper",
+"addr": 9951279,
+"size": 13,
+"text": "Water Fish"
+},
+{
+"name": "category Quagsire",
+"addr": 9951447,
+"size": 13,
+"text": "Water Fish"
+},
+{
+"name": "category Espeon",
+"addr": 9951615,
+"size": 13,
+"text": "Sun"
+},
+{
+"name": "category Umbreon",
+"addr": 9951783,
+"size": 13,
+"text": "Moonlight"
+},
+{
+"name": "category Murkrow",
+"addr": 9951951,
+"size": 13,
+"text": "Darkness"
+},
+{
+"name": "category Slowking",
+"addr": 9952119,
+"size": 13,
+"text": "Royal"
+},
+{
+"name": "category Misdreavus",
+"addr": 9952287,
+"size": 13,
+"text": "Screech"
+},
+{
+"name": "category Unown",
+"addr": 9952455,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Wobbuffet",
+"addr": 9952623,
+"size": 13,
+"text": "Patient"
+},
+{
+"name": "category Girafarig",
+"addr": 9952791,
+"size": 13,
+"text": "Long Neck"
+},
+{
+"name": "category Pineco",
+"addr": 9952959,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Forretress",
+"addr": 9953127,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Dunsparce",
+"addr": 9953295,
+"size": 13,
+"text": "Land Snake"
+},
+{
+"name": "category Gligar",
+"addr": 9953463,
+"size": 13,
+"text": "Fly Scorpion"
+},
+{
+"name": "category Steelix",
+"addr": 9953631,
+"size": 13,
+"text": "Iron Snake"
+},
+{
+"name": "category Snubbull",
+"addr": 9953799,
+"size": 13,
+"text": "Fairy"
+},
+{
+"name": "category Granbull",
+"addr": 9953967,
+"size": 13,
+"text": "Fairy"
+},
+{
+"name": "category Qwilfish",
+"addr": 9954135,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Scizor",
+"addr": 9954303,
+"size": 13,
+"text": "Pincer"
+},
+{
+"name": "category Shuckle",
+"addr": 9954471,
+"size": 13,
+"text": "Mold"
+},
+{
+"name": "category Heracross",
+"addr": 9954639,
+"size": 13,
+"text": "Single Horn"
+},
+{
+"name": "category Sneasel",
+"addr": 9954807,
+"size": 13,
+"text": "Sharp Claw"
+},
+{
+"name": "category Teddiursa",
+"addr": 9954975,
+"size": 13,
+"text": "Little Bear"
+},
+{
+"name": "category Ursaring",
+"addr": 9955143,
+"size": 13,
+"text": "Hibernator"
+},
+{
+"name": "category Swinub",
+"addr": 9955647,
+"size": 13,
+"text": "Pig"
+},
+{
+"name": "category Piloswine",
+"addr": 9955815,
+"size": 13,
+"text": "Swine"
+},
+{
+"name": "category Remoraid",
+"addr": 9956151,
+"size": 13,
+"text": "Jet"
+},
+{
+"name": "category Octillery",
+"addr": 9956319,
+"size": 13,
+"text": "Jet"
+},
+{
+"name": "category Delibird",
+"addr": 9956487,
+"size": 13,
+"text": "Delivery"
+},
+{
+"name": "category Mantine",
+"addr": 9956655,
+"size": 13,
+"text": "Kite"
+},
+{
+"name": "category Skarmory",
+"addr": 9956823,
+"size": 13,
+"text": "Armor Bird"
+},
+{
+"name": "category Houndour",
+"addr": 9956991,
+"size": 13,
+"text": "Dark"
+},
+{
+"name": "category Houndoom",
+"addr": 9957159,
+"size": 13,
+"text": "Dark"
+},
+{
+"name": "category Kingdra",
+"addr": 9957327,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Phanpy",
+"addr": 9957495,
+"size": 13,
+"text": "Long Nose"
+},
+{
+"name": "category Donphan",
+"addr": 9957663,
+"size": 13,
+"text": "Armor"
+},
+{
+"name": "category Stantler",
+"addr": 9957999,
+"size": 13,
+"text": "Big Horn"
+},
+{
+"name": "category Smeargle",
+"addr": 9958167,
+"size": 13,
+"text": "Painter"
+},
+{
+"name": "category Tyrogue",
+"addr": 9958335,
+"size": 13,
+"text": "Scuffle"
+},
+{
+"name": "category Hitmontop",
+"addr": 9958503,
+"size": 13,
+"text": "Handstand"
+},
+{
+"name": "category Smoochum",
+"addr": 9958671,
+"size": 13,
+"text": "Kiss"
+},
+{
+"name": "category Elekid",
+"addr": 9958839,
+"size": 13,
+"text": "Electric"
+},
+{
+"name": "category Magby",
+"addr": 9959007,
+"size": 13,
+"text": "Live Coal"
+},
+{
+"name": "category Miltank",
+"addr": 9959175,
+"size": 13,
+"text": "Milk Cow"
+},
+{
+"name": "category Blissey",
+"addr": 9959343,
+"size": 13,
+"text": "Happiness"
+},
+{
+"name": "category Raikou",
+"addr": 9959511,
+"size": 13,
+"text": "Thunder"
+},
+{
+"name": "category Entei",
+"addr": 9959679,
+"size": 13,
+"text": "Volcano"
+},
+{
+"name": "category Larvitar",
+"addr": 9960015,
+"size": 13,
+"text": "Rock Skin"
+},
+{
+"name": "category Pupitar",
+"addr": 9960183,
+"size": 13,
+"text": "Hard Shell"
+},
+{
+"name": "category Tyranitar",
+"addr": 9960351,
+"size": 13,
+"text": "Armor"
+},
+{
+"name": "category Lugia",
+"addr": 9960519,
+"size": 13,
+"text": "Diving"
+},
+{
+"name": "category Ho-Oh",
+"addr": 9960687,
+"size": 13,
+"text": "Rainbow"
+},
+{
+"name": "category Celebi",
+"addr": 9960855,
+"size": 13,
+"text": "Time Travel"
+},
+{
+"name": "category Treecko",
+"addr": 9961023,
+"size": 13,
+"text": "Wood Gecko"
+},
+{
+"name": "category Grovyle",
+"addr": 9961191,
+"size": 13,
+"text": "Wood Gecko"
+},
+{
+"name": "category Sceptile",
+"addr": 9961359,
+"size": 13,
+"text": "Forest"
+},
+{
+"name": "category Torchic",
+"addr": 9961527,
+"size": 13,
+"text": "Chick"
+},
+{
+"name": "category Combusken",
+"addr": 9961695,
+"size": 13,
+"text": "Young Fowl"
+},
+{
+"name": "category Blaziken",
+"addr": 9961863,
+"size": 13,
+"text": "Blaze"
+},
+{
+"name": "category Mudkip",
+"addr": 9962031,
+"size": 13,
+"text": "Mud Fish"
+},
+{
+"name": "category Marshtomp",
+"addr": 9962199,
+"size": 13,
+"text": "Mud Fish"
+},
+{
+"name": "category Swampert",
+"addr": 9962367,
+"size": 13,
+"text": "Mud Fish"
+},
+{
+"name": "category Poochyena",
+"addr": 9962535,
+"size": 13,
+"text": "Bite"
+},
+{
+"name": "category Mightyena",
+"addr": 9962703,
+"size": 13,
+"text": "Bite"
+},
+{
+"name": "category Zigzagoon",
+"addr": 9962871,
+"size": 13,
+"text": "Tiny Raccoon"
+},
+{
+"name": "category Linoone",
+"addr": 9963039,
+"size": 13,
+"text": "Rushing"
+},
+{
+"name": "category Wurmple",
+"addr": 9963207,
+"size": 13,
+"text": "Worm"
+},
+{
+"name": "category Silcoon",
+"addr": 9963375,
+"size": 13,
+"text": "Cocoon"
+},
+{
+"name": "category Beautifly",
+"addr": 9963543,
+"size": 13,
+"text": "Butterfly"
+},
+{
+"name": "category Cascoon",
+"addr": 9963711,
+"size": 13,
+"text": "Cocoon"
+},
+{
+"name": "category Dustox",
+"addr": 9963879,
+"size": 13,
+"text": "Poison Moth"
+},
+{
+"name": "category Lotad",
+"addr": 9964047,
+"size": 13,
+"text": "Water Weed"
+},
+{
+"name": "category Lombre",
+"addr": 9964215,
+"size": 13,
+"text": "Jolly"
+},
+{
+"name": "category Ludicolo",
+"addr": 9964383,
+"size": 13,
+"text": "Carefree"
+},
+{
+"name": "category Seedot",
+"addr": 9964551,
+"size": 13,
+"text": "Acorn"
+},
+{
+"name": "category Nuzleaf",
+"addr": 9964719,
+"size": 13,
+"text": "Wily"
+},
+{
+"name": "category Shiftry",
+"addr": 9964887,
+"size": 13,
+"text": "Wicked"
+},
+{
+"name": "category Taillow",
+"addr": 9965055,
+"size": 13,
+"text": "Tiny Swallow"
+},
+{
+"name": "category Swellow",
+"addr": 9965223,
+"size": 13,
+"text": "Swallow"
+},
+{
+"name": "category Wingull",
+"addr": 9965391,
+"size": 13,
+"text": "Seagull"
+},
+{
+"name": "category Pelipper",
+"addr": 9965559,
+"size": 13,
+"text": "Water Bird"
+},
+{
+"name": "category Ralts",
+"addr": 9965727,
+"size": 13,
+"text": "Feeling"
+},
+{
+"name": "category Kirlia",
+"addr": 9965895,
+"size": 13,
+"text": "Emotion"
+},
+{
+"name": "category Gardevoir",
+"addr": 9966063,
+"size": 13,
+"text": "Embrace"
+},
+{
+"name": "category Surskit",
+"addr": 9966231,
+"size": 13,
+"text": "Pond Skater"
+},
+{
+"name": "category Masquerain",
+"addr": 9966399,
+"size": 13,
+"text": "Eyeball"
+},
+{
+"name": "category Shroomish",
+"addr": 9966567,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Breloom",
+"addr": 9966735,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Slakoth",
+"addr": 9966903,
+"size": 13,
+"text": "Slacker"
+},
+{
+"name": "category Vigoroth",
+"addr": 9967071,
+"size": 13,
+"text": "Wild Monkey"
+},
+{
+"name": "category Slaking",
+"addr": 9967239,
+"size": 13,
+"text": "Lazy"
+},
+{
+"name": "category Nincada",
+"addr": 9967407,
+"size": 13,
+"text": "Trainee"
+},
+{
+"name": "category Shedinja",
+"addr": 9967743,
+"size": 13,
+"text": "Shed"
+},
+{
+"name": "category Whismur",
+"addr": 9967911,
+"size": 13,
+"text": "Whisper"
+},
+{
+"name": "category Loudred",
+"addr": 9968079,
+"size": 13,
+"text": "Big Voice"
+},
+{
+"name": "category Exploud",
+"addr": 9968247,
+"size": 13,
+"text": "Loud Noise"
+},
+{
+"name": "category Makuhita",
+"addr": 9968415,
+"size": 13,
+"text": "Guts"
+},
+{
+"name": "category Hariyama",
+"addr": 9968583,
+"size": 13,
+"text": "Arm Thrust"
+},
+{
+"name": "category Azurill",
+"addr": 9968751,
+"size": 13,
+"text": "Polka Dot"
+},
+{
+"name": "category Nosepass",
+"addr": 9968919,
+"size": 13,
+"text": "Compass"
+},
+{
+"name": "category Skitty",
+"addr": 9969087,
+"size": 13,
+"text": "Kitten"
+},
+{
+"name": "category Delcatty",
+"addr": 9969255,
+"size": 13,
+"text": "Prim"
+},
+{
+"name": "category Sableye",
+"addr": 9969423,
+"size": 13,
+"text": "Darkness"
+},
+{
+"name": "category Mawile",
+"addr": 9969591,
+"size": 13,
+"text": "Deceiver"
+},
+{
+"name": "category Aron",
+"addr": 9969759,
+"size": 13,
+"text": "Iron Armor"
+},
+{
+"name": "category Lairon",
+"addr": 9969927,
+"size": 13,
+"text": "Iron Armor"
+},
+{
+"name": "category Aggron",
+"addr": 9970095,
+"size": 13,
+"text": "Iron Armor"
+},
+{
+"name": "category Meditite",
+"addr": 9970263,
+"size": 13,
+"text": "Meditate"
+},
+{
+"name": "category Medicham",
+"addr": 9970431,
+"size": 13,
+"text": "Meditate"
+},
+{
+"name": "category Electrike",
+"addr": 9970599,
+"size": 13,
+"text": "Lightning"
+},
+{
+"name": "category Manectric",
+"addr": 9970767,
+"size": 13,
+"text": "Discharge"
+},
+{
+"name": "category Plusle",
+"addr": 9970935,
+"size": 13,
+"text": "Cheering"
+},
+{
+"name": "category Minun",
+"addr": 9971103,
+"size": 13,
+"text": "Cheering"
+},
+{
+"name": "category Volbeat",
+"addr": 9971271,
+"size": 13,
+"text": "Firefly"
+},
+{
+"name": "category Illumise",
+"addr": 9971439,
+"size": 13,
+"text": "Firefly"
+},
+{
+"name": "category Roselia",
+"addr": 9971607,
+"size": 13,
+"text": "Thorn"
+},
+{
+"name": "category Gulpin",
+"addr": 9971775,
+"size": 13,
+"text": "Stomach"
+},
+{
+"name": "category Swalot",
+"addr": 9971943,
+"size": 13,
+"text": "Poison Bag"
+},
+{
+"name": "category Carvanha",
+"addr": 9972111,
+"size": 13,
+"text": "Savage"
+},
+{
+"name": "category Sharpedo",
+"addr": 9972279,
+"size": 13,
+"text": "Brutal"
+},
+{
+"name": "category Wailmer",
+"addr": 9972447,
+"size": 13,
+"text": "Ball Whale"
+},
+{
+"name": "category Wailord",
+"addr": 9972615,
+"size": 13,
+"text": "Float Whale"
+},
+{
+"name": "category Numel",
+"addr": 9972783,
+"size": 13,
+"text": "Numb"
+},
+{
+"name": "category Camerupt",
+"addr": 9972951,
+"size": 13,
+"text": "Eruption"
+},
+{
+"name": "category Torkoal",
+"addr": 9973119,
+"size": 13,
+"text": "Coal"
+},
+{
+"name": "category Spoink",
+"addr": 9973287,
+"size": 13,
+"text": "Bounce"
+},
+{
+"name": "category Grumpig",
+"addr": 9973455,
+"size": 13,
+"text": "Manipulate"
+},
+{
+"name": "category Spinda",
+"addr": 9973623,
+"size": 13,
+"text": "Spot Panda"
+},
+{
+"name": "category Trapinch",
+"addr": 9973791,
+"size": 13,
+"text": "Ant Pit"
+},
+{
+"name": "category Vibrava",
+"addr": 9973959,
+"size": 13,
+"text": "Vibration"
+},
+{
+"name": "category Flygon",
+"addr": 9974127,
+"size": 13,
+"text": "Mystic"
+},
+{
+"name": "category Cacturne",
+"addr": 9974463,
+"size": 13,
+"text": "Scarecrow"
+},
+{
+"name": "category Swablu",
+"addr": 9974631,
+"size": 13,
+"text": "Cotton Bird"
+},
+{
+"name": "category Altaria",
+"addr": 9974799,
+"size": 13,
+"text": "Humming"
+},
+{
+"name": "category Zangoose",
+"addr": 9974967,
+"size": 13,
+"text": "Cat Ferret"
+},
+{
+"name": "category Seviper",
+"addr": 9975135,
+"size": 13,
+"text": "Fang Snake"
+},
+{
+"name": "category Lunatone",
+"addr": 9975303,
+"size": 13,
+"text": "Meteorite"
+},
+{
+"name": "category Solrock",
+"addr": 9975471,
+"size": 13,
+"text": "Meteorite"
+},
+{
+"name": "category Barboach",
+"addr": 9975639,
+"size": 13,
+"text": "Whiskers"
+},
+{
+"name": "category Whiscash",
+"addr": 9975807,
+"size": 13,
+"text": "Whiskers"
+},
+{
+"name": "category Corphish",
+"addr": 9975975,
+"size": 13,
+"text": "Ruffian"
+},
+{
+"name": "category Crawdaunt",
+"addr": 9976143,
+"size": 13,
+"text": "Rogue"
+},
+{
+"name": "category Baltoy",
+"addr": 9976311,
+"size": 13,
+"text": "Clay Doll"
+},
+{
+"name": "category Claydol",
+"addr": 9976479,
+"size": 13,
+"text": "Clay Doll"
+},
+{
+"name": "category Lileep",
+"addr": 9976647,
+"size": 13,
+"text": "Sea Lily"
+},
+{
+"name": "category Cradily",
+"addr": 9976815,
+"size": 13,
+"text": "Barnacle"
+},
+{
+"name": "category Anorith",
+"addr": 9976983,
+"size": 13,
+"text": "Old Shrimp"
+},
+{
+"name": "category Armaldo",
+"addr": 9977151,
+"size": 13,
+"text": "Plate"
+},
+{
+"name": "category Feebas",
+"addr": 9977319,
+"size": 13,
+"text": "Fish"
+},
+{
+"name": "category Milotic",
+"addr": 9977487,
+"size": 13,
+"text": "Tender"
+},
+{
+"name": "category Castform",
+"addr": 9977655,
+"size": 13,
+"text": "Weather"
+},
+{
+"name": "category Kecleon",
+"addr": 9977823,
+"size": 13,
+"text": "Color Swap"
+},
+{
+"name": "category Shuppet",
+"addr": 9977991,
+"size": 13,
+"text": "Puppet"
+},
+{
+"name": "category Banette",
+"addr": 9978159,
+"size": 13,
+"text": "Marionette"
+},
+{
+"name": "category Duskull",
+"addr": 9978327,
+"size": 13,
+"text": "Requiem"
+},
+{
+"name": "category Dusclops",
+"addr": 9978495,
+"size": 13,
+"text": "Beckon"
+},
+{
+"name": "category Tropius",
+"addr": 9978663,
+"size": 13,
+"text": "Fruit"
+},
+{
+"name": "category Chimecho",
+"addr": 9978831,
+"size": 13,
+"text": "Wind Chime"
+},
+{
+"name": "category Absol",
+"addr": 9978999,
+"size": 13,
+"text": "Disaster"
+},
+{
+"name": "category Wynaut",
+"addr": 9979167,
+"size": 13,
+"text": "Bright"
+},
+{
+"name": "category Snorunt",
+"addr": 9979335,
+"size": 13,
+"text": "Snow Hat"
+},
+{
+"name": "category Glalie",
+"addr": 9979503,
+"size": 13,
+"text": "Face"
+},
+{
+"name": "category Spheal",
+"addr": 9979671,
+"size": 13,
+"text": "Clap"
+},
+{
+"name": "category Sealeo",
+"addr": 9979839,
+"size": 13,
+"text": "Ball Roll"
+},
+{
+"name": "category Walrein",
+"addr": 9980007,
+"size": 13,
+"text": "Ice Break"
+},
+{
+"name": "category Clamperl",
+"addr": 9980175,
+"size": 13,
+"text": "Bivalve"
+},
+{
+"name": "category Huntail",
+"addr": 9980343,
+"size": 13,
+"text": "Deep Sea"
+},
+{
+"name": "category Gorebyss",
+"addr": 9980511,
+"size": 13,
+"text": "South Sea"
+},
+{
+"name": "category Relicanth",
+"addr": 9980679,
+"size": 13,
+"text": "Longevity"
+},
+{
+"name": "category Luvdisc",
+"addr": 9980847,
+"size": 13,
+"text": "Rendezvous"
+},
+{
+"name": "category Bagon",
+"addr": 9981015,
+"size": 13,
+"text": "Rock Head"
+},
+{
+"name": "category Shelgon",
+"addr": 9981183,
+"size": 13,
+"text": "Endurance"
+},
+{
+"name": "category Salamence",
+"addr": 9981351,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Beldum",
+"addr": 9981519,
+"size": 13,
+"text": "Iron Ball"
+},
+{
+"name": "category Metang",
+"addr": 9981687,
+"size": 13,
+"text": "Iron Claw"
+},
+{
+"name": "category Metagross",
+"addr": 9981855,
+"size": 13,
+"text": "Iron Leg"
+},
+{
+"name": "category Regirock",
+"addr": 9982023,
+"size": 13,
+"text": "Rock Peak"
+},
+{
+"name": "category Registeel",
+"addr": 9982359,
+"size": 13,
+"text": "Iron"
+},
+{
+"name": "category Latias",
+"addr": 9982527,
+"size": 13,
+"text": "Eon"
+},
+{
+"name": "category Latios",
+"addr": 9982695,
+"size": 13,
+"text": "Eon"
+},
+{
+"name": "category Kyogre",
+"addr": 9982863,
+"size": 13,
+"text": "Sea Basin"
+},
+{
+"name": "category Groudon",
+"addr": 9983031,
+"size": 13,
+"text": "Continent"
+},
+{
+"name": "category Rayquaza",
+"addr": 9983199,
+"size": 13,
+"text": "Sky High"
+},
+{
+"name": "category Jirachi",
+"addr": 9983367,
+"size": 13,
+"text": "Wish"
+},
+{
+"name": "category Deoxys",
+"addr": 9983535,
+"size": 13,
+"text": "DNA"
+},
+{
+"name": "category Turtwig",
+"addr": 9983703,
+"size": 13,
+"text": "Tiny Leaf"
+},
+{
+"name": "category Grotle",
+"addr": 9983871,
+"size": 13,
+"text": "Grove"
+},
+{
+"name": "category Torterra",
+"addr": 9984039,
+"size": 13,
+"text": "Continent"
+},
+{
+"name": "category Chimchar",
+"addr": 9984207,
+"size": 13,
+"text": "Chimp"
+},
+{
+"name": "category Monferno",
+"addr": 9984375,
+"size": 13,
+"text": "Playful"
+},
+{
+"name": "category Infernape",
+"addr": 9984543,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Piplup",
+"addr": 9984711,
+"size": 13,
+"text": "Penguin"
+},
+{
+"name": "category Prinplup",
+"addr": 9984879,
+"size": 13,
+"text": "Penguin"
+},
+{
+"name": "category Empoleon",
+"addr": 9985047,
+"size": 13,
+"text": "Emperor"
+},
+{
+"name": "category Starly",
+"addr": 9985215,
+"size": 13,
+"text": "Starling"
+},
+{
+"name": "category Staravia",
+"addr": 9985383,
+"size": 13,
+"text": "Starling"
+},
+{
+"name": "category Staraptor",
+"addr": 9985551,
+"size": 13,
+"text": "Predator"
+},
+{
+"name": "category Bidoof",
+"addr": 9985719,
+"size": 13,
+"text": "Plump Mouse"
+},
+{
+"name": "category Bibarel",
+"addr": 9985887,
+"size": 13,
+"text": "Beaver"
+},
+{
+"name": "category Kricketot",
+"addr": 9986055,
+"size": 13,
+"text": "Cricket"
+},
+{
+"name": "category Kricketune",
+"addr": 9986223,
+"size": 13,
+"text": "Cricket"
+},
+{
+"name": "category Luxio",
+"addr": 9986559,
+"size": 13,
+"text": "Spark"
+},
+{
+"name": "category Luxray",
+"addr": 9986727,
+"size": 13,
+"text": "Gleam Eyes"
+},
+{
+"name": "category Budew",
+"addr": 9986895,
+"size": 13,
+"text": "Bud"
+},
+{
+"name": "category Roserade",
+"addr": 9987063,
+"size": 13,
+"text": "Bouquet"
+},
+{
+"name": "category Cranidos",
+"addr": 9987231,
+"size": 13,
+"text": "Head Butt"
+},
+{
+"name": "category Rampardos",
+"addr": 9987399,
+"size": 13,
+"text": "Head Butt"
+},
+{
+"name": "category Shieldon",
+"addr": 9987567,
+"size": 13,
+"text": "Shield"
+},
+{
+"name": "category Bastiodon",
+"addr": 9987735,
+"size": 13,
+"text": "Shield"
+},
+{
+"name": "category Burmy",
+"addr": 9987903,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Wormadam",
+"addr": 9988071,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Mothim",
+"addr": 9988239,
+"size": 13,
+"text": "Moth"
+},
+{
+"name": "category Combee",
+"addr": 9988407,
+"size": 13,
+"text": "Tiny Bee"
+},
+{
+"name": "category Vespiquen",
+"addr": 9988575,
+"size": 13,
+"text": "Beehive"
+},
+{
+"name": "category Pachirisu",
+"addr": 9988743,
+"size": 13,
+"text": "EleSquirrel"
+},
+{
+"name": "category Buizel",
+"addr": 9988911,
+"size": 13,
+"text": "Sea Weasel"
+},
+{
+"name": "category Floatzel",
+"addr": 9989079,
+"size": 13,
+"text": "Sea Weasel"
+},
+{
+"name": "category Cherubi",
+"addr": 9989247,
+"size": 13,
+"text": "Cherry"
+},
+{
+"name": "category Cherrim",
+"addr": 9989415,
+"size": 13,
+"text": "Blossom"
+},
+{
+"name": "category Shellos",
+"addr": 9989583,
+"size": 13,
+"text": "Sea Slug"
+},
+{
+"name": "category Gastrodon",
+"addr": 9989751,
+"size": 13,
+"text": "Sea Slug"
+},
+{
+"name": "category Ambipom",
+"addr": 9989919,
+"size": 13,
+"text": "Long Tail"
+},
+{
+"name": "category Drifloon",
+"addr": 9990087,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Drifblim",
+"addr": 9990255,
+"size": 13,
+"text": "Blimp"
+},
+{
+"name": "category Buneary",
+"addr": 9990423,
+"size": 13,
+"text": "Rabbit"
+},
+{
+"name": "category Lopunny",
+"addr": 9990591,
+"size": 13,
+"text": "Rabbit"
+},
+{
+"name": "category Mismagius",
+"addr": 9990759,
+"size": 13,
+"text": "Magical"
+},
+{
+"name": "category Honchkrow",
+"addr": 9990927,
+"size": 13,
+"text": "Big Boss"
+},
+{
+"name": "category Glameow",
+"addr": 9991095,
+"size": 13,
+"text": "Catty"
+},
+{
+"name": "category Purugly",
+"addr": 9991263,
+"size": 13,
+"text": "Tiger Cat"
+},
+{
+"name": "category Chingling",
+"addr": 9991431,
+"size": 13,
+"text": "Bell"
+},
+{
+"name": "category Stunky",
+"addr": 9991599,
+"size": 13,
+"text": "Skunk"
+},
+{
+"name": "category Skuntank",
+"addr": 9991767,
+"size": 13,
+"text": "Skunk"
+},
+{
+"name": "category Bronzor",
+"addr": 9991935,
+"size": 13,
+"text": "Bronze"
+},
+{
+"name": "category Bronzong",
+"addr": 9992103,
+"size": 13,
+"text": "Bronze Bell"
+},
+{
+"name": "category Bonsly",
+"addr": 9992271,
+"size": 13,
+"text": "Bonsai"
+},
+{
+"name": "category Mime Jr.",
+"addr": 9992439,
+"size": 13,
+"text": "Mime"
+},
+{
+"name": "category Happiny",
+"addr": 9992607,
+"size": 13,
+"text": "Playhouse"
+},
+{
+"name": "category Chatot",
+"addr": 9992775,
+"size": 13,
+"text": "Music Note"
+},
+{
+"name": "category Spiritomb",
+"addr": 9992943,
+"size": 13,
+"text": "Forbidden"
+},
+{
+"name": "category Gible",
+"addr": 9993111,
+"size": 13,
+"text": "Land Shark"
+},
+{
+"name": "category Gabite",
+"addr": 9993279,
+"size": 13,
+"text": "Cave"
+},
+{
+"name": "category Munchlax",
+"addr": 9993615,
+"size": 13,
+"text": "Big Eater"
+},
+{
+"name": "category Riolu",
+"addr": 9993783,
+"size": 13,
+"text": "Emanation"
+},
+{
+"name": "category Hippopotas",
+"addr": 9994119,
+"size": 13,
+"text": "Hippo"
+},
+{
+"name": "category Hippowdon",
+"addr": 9994287,
+"size": 13,
+"text": "Heavyweight"
+},
+{
+"name": "category Skorupi",
+"addr": 9994455,
+"size": 13,
+"text": "Scorpion"
+},
+{
+"name": "category Drapion",
+"addr": 9994623,
+"size": 13,
+"text": "Ogre Scorp"
+},
+{
+"name": "category Croagunk",
+"addr": 9994791,
+"size": 13,
+"text": "Toxic Mouth"
+},
+{
+"name": "category Toxicroak",
+"addr": 9994959,
+"size": 13,
+"text": "Toxic Mouth"
+},
+{
+"name": "category Carnivine",
+"addr": 9995127,
+"size": 13,
+"text": "Bug Catcher"
+},
+{
+"name": "category Finneon",
+"addr": 9995295,
+"size": 13,
+"text": "Wing Fish"
+},
+{
+"name": "category Lumineon",
+"addr": 9995463,
+"size": 13,
+"text": "Neon"
+},
+{
+"name": "category Mantyke",
+"addr": 9995631,
+"size": 13,
+"text": "Kite"
+},
+{
+"name": "category Snover",
+"addr": 9995799,
+"size": 13,
+"text": "Frost Tree"
+},
+{
+"name": "category Abomasnow",
+"addr": 9995967,
+"size": 13,
+"text": "Frost Tree"
+},
+{
+"name": "category Weavile",
+"addr": 9996135,
+"size": 13,
+"text": "Sharp Claw"
+},
+{
+"name": "category Magnezone",
+"addr": 9996303,
+"size": 13,
+"text": "Magnet Area"
+},
+{
+"name": "category Lickilicky",
+"addr": 9996471,
+"size": 13,
+"text": "Licking"
+},
+{
+"name": "category Rhyperior",
+"addr": 9996639,
+"size": 13,
+"text": "Drill"
+},
+{
+"name": "category Tangrowth",
+"addr": 9996807,
+"size": 13,
+"text": "Vine"
+},
+{
+"name": "category Electivire",
+"addr": 9996975,
+"size": 13,
+"text": "Thunderbolt"
+},
+{
+"name": "category Magmortar",
+"addr": 9997143,
+"size": 13,
+"text": "Blast"
+},
+{
+"name": "category Togekiss",
+"addr": 9997311,
+"size": 13,
+"text": "Jubilee"
+},
+{
+"name": "category Yanmega",
+"addr": 9997479,
+"size": 13,
+"text": "Ogre Darner"
+},
+{
+"name": "category Leafeon",
+"addr": 9997647,
+"size": 13,
+"text": "Verdant"
+},
+{
+"name": "category Glaceon",
+"addr": 9997815,
+"size": 13,
+"text": "Fresh Snow"
+},
+{
+"name": "category Gliscor",
+"addr": 9997983,
+"size": 13,
+"text": "Fang Scorp"
+},
+{
+"name": "category Mamoswine",
+"addr": 9998151,
+"size": 13,
+"text": "Twin Tusk"
+},
+{
+"name": "category Gallade",
+"addr": 9998487,
+"size": 13,
+"text": "Blade"
+},
+{
+"name": "category Probopass",
+"addr": 9998655,
+"size": 13,
+"text": "Compass"
+},
+{
+"name": "category Dusknoir",
+"addr": 9998823,
+"size": 13,
+"text": "Gripper"
+},
+{
+"name": "category Froslass",
+"addr": 9998991,
+"size": 13,
+"text": "Snow Land"
+},
+{
+"name": "category Uxie",
+"addr": 9999327,
+"size": 13,
+"text": "Knowledge"
+},
+{
+"name": "category Mesprit",
+"addr": 9999495,
+"size": 13,
+"text": "Emotion"
+},
+{
+"name": "category Azelf",
+"addr": 9999663,
+"size": 13,
+"text": "Willpower"
+},
+{
+"name": "category Palkia",
+"addr": 9999999,
+"size": 13,
+"text": "Spatial"
+},
+{
+"name": "category Heatran",
+"addr": 10000167,
+"size": 13,
+"text": "Lava Dome"
+},
+{
+"name": "category Regigigas",
+"addr": 10000335,
+"size": 13,
+"text": "Colossal"
+},
+{
+"name": "category Giratina",
+"addr": 10000503,
+"size": 13,
+"text": "Renegade"
+},
+{
+"name": "category Phione",
+"addr": 10000839,
+"size": 13,
+"text": "Sea Drifter"
+},
+{
+"name": "category Manaphy",
+"addr": 10001007,
+"size": 13,
+"text": "Seafaring"
+},
+{
+"name": "category Darkrai",
+"addr": 10001175,
+"size": 13,
+"text": "Pitch-Black"
+},
+{
+"name": "category Shaymin",
+"addr": 10001343,
+"size": 13,
+"text": "Gratitude"
+},
+{
+"name": "category Victini",
+"addr": 10001679,
+"size": 13,
+"text": "Victory"
+},
+{
+"name": "category Snivy",
+"addr": 10001847,
+"size": 13,
+"text": "Grass Snake"
+},
+{
+"name": "category Servine",
+"addr": 10002015,
+"size": 13,
+"text": "Grass Snake"
+},
+{
+"name": "category Serperior",
+"addr": 10002183,
+"size": 13,
+"text": "Regal"
+},
+{
+"name": "category Tepig",
+"addr": 10002351,
+"size": 13,
+"text": "Fire Pig"
+},
+{
+"name": "category Pignite",
+"addr": 10002519,
+"size": 13,
+"text": "Fire Pig"
+},
+{
+"name": "category Emboar",
+"addr": 10002687,
+"size": 13,
+"text": "Fire Pig"
+},
+{
+"name": "category Oshawott",
+"addr": 10002855,
+"size": 13,
+"text": "Sea Otter"
+},
+{
+"name": "category Dewott",
+"addr": 10003023,
+"size": 13,
+"text": "Discipline"
+},
+{
+"name": "category Samurott",
+"addr": 10003191,
+"size": 13,
+"text": "Formidable"
+},
+{
+"name": "category Patrat",
+"addr": 10003359,
+"size": 13,
+"text": "Scout"
+},
+{
+"name": "category Watchog",
+"addr": 10003527,
+"size": 13,
+"text": "Lookout"
+},
+{
+"name": "category Lillipup",
+"addr": 10003695,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Herdier",
+"addr": 10003863,
+"size": 13,
+"text": "Loyal Dog"
+},
+{
+"name": "category Stoutland",
+"addr": 10004031,
+"size": 13,
+"text": "Big-Hearted"
+},
+{
+"name": "category Purrloin",
+"addr": 10004199,
+"size": 13,
+"text": "Devious"
+},
+{
+"name": "category Liepard",
+"addr": 10004367,
+"size": 13,
+"text": "Cruel"
+},
+{
+"name": "category Pansage",
+"addr": 10004535,
+"size": 13,
+"text": "Grass Monkey"
+},
+{
+"name": "category Simisage",
+"addr": 10004703,
+"size": 13,
+"text": "Thorn Monkey"
+},
+{
+"name": "category Pansear",
+"addr": 10004871,
+"size": 13,
+"text": "High Temp"
+},
+{
+"name": "category Simisear",
+"addr": 10005039,
+"size": 13,
+"text": "Ember"
+},
+{
+"name": "category Panpour",
+"addr": 10005207,
+"size": 13,
+"text": "Spray"
+},
+{
+"name": "category Simipour",
+"addr": 10005375,
+"size": 13,
+"text": "Geyser"
+},
+{
+"name": "category Munna",
+"addr": 10005543,
+"size": 13,
+"text": "Dream Eater"
+},
+{
+"name": "category Musharna",
+"addr": 10005711,
+"size": 13,
+"text": "Drowsing"
+},
+{
+"name": "category Pidove",
+"addr": 10005879,
+"size": 13,
+"text": "Tiny Pigeon"
+},
+{
+"name": "category Tranquill",
+"addr": 10006047,
+"size": 13,
+"text": "Wild Pigeon"
+},
+{
+"name": "category Unfezant",
+"addr": 10006215,
+"size": 13,
+"text": "Proud"
+},
+{
+"name": "category Blitzle",
+"addr": 10006383,
+"size": 13,
+"text": "Electrified"
+},
+{
+"name": "category Zebstrika",
+"addr": 10006551,
+"size": 13,
+"text": "Thunderbolt"
+},
+{
+"name": "category Roggenrola",
+"addr": 10006719,
+"size": 13,
+"text": "Mantle"
+},
+{
+"name": "category Boldore",
+"addr": 10006887,
+"size": 13,
+"text": "Ore"
+},
+{
+"name": "category Gigalith",
+"addr": 10007055,
+"size": 13,
+"text": "Compressed"
+},
+{
+"name": "category Woobat",
+"addr": 10007223,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Swoobat",
+"addr": 10007391,
+"size": 13,
+"text": "Courting"
+},
+{
+"name": "category Drilbur",
+"addr": 10007559,
+"size": 13,
+"text": "Mole"
+},
+{
+"name": "category Excadrill",
+"addr": 10007727,
+"size": 13,
+"text": "Subterrene"
+},
+{
+"name": "category Audino",
+"addr": 10007895,
+"size": 13,
+"text": "Hearing"
+},
+{
+"name": "category Timburr",
+"addr": 10008063,
+"size": 13,
+"text": "Muscular"
+},
+{
+"name": "category Gurdurr",
+"addr": 10008231,
+"size": 13,
+"text": "Muscular"
+},
+{
+"name": "category Conkeldurr",
+"addr": 10008399,
+"size": 13,
+"text": "Muscular"
+},
+{
+"name": "category Tympole",
+"addr": 10008567,
+"size": 13,
+"text": "Tadpole"
+},
+{
+"name": "category Palpitoad",
+"addr": 10008735,
+"size": 13,
+"text": "Vibration"
+},
+{
+"name": "category Seismitoad",
+"addr": 10008903,
+"size": 13,
+"text": "Vibration"
+},
+{
+"name": "category Sawk",
+"addr": 10009239,
+"size": 13,
+"text": "Karate"
+},
+{
+"name": "category Sewaddle",
+"addr": 10009407,
+"size": 13,
+"text": "Sewing"
+},
+{
+"name": "category Swadloon",
+"addr": 10009575,
+"size": 13,
+"text": "Leaf-Wrapped"
+},
+{
+"name": "category Leavanny",
+"addr": 10009743,
+"size": 13,
+"text": "Nurturing"
+},
+{
+"name": "category Venipede",
+"addr": 10009911,
+"size": 13,
+"text": "Centipede"
+},
+{
+"name": "category Whirlipede",
+"addr": 10010079,
+"size": 13,
+"text": "Curlipede"
+},
+{
+"name": "category Scolipede",
+"addr": 10010247,
+"size": 13,
+"text": "Megapede"
+},
+{
+"name": "category Cottonee",
+"addr": 10010415,
+"size": 13,
+"text": "Cotton Puff"
+},
+{
+"name": "category Whimsicott",
+"addr": 10010583,
+"size": 13,
+"text": "Windveiled"
+},
+{
+"name": "category Petilil",
+"addr": 10010751,
+"size": 13,
+"text": "Bulb"
+},
+{
+"name": "category Lilligant",
+"addr": 10010919,
+"size": 13,
+"text": "Flowering"
+},
+{
+"name": "category Basculin",
+"addr": 10011087,
+"size": 13,
+"text": "Hostile"
+},
+{
+"name": "category Sandile",
+"addr": 10011255,
+"size": 13,
+"text": "Desert Croc"
+},
+{
+"name": "category Krokorok",
+"addr": 10011423,
+"size": 13,
+"text": "Desert Croc"
+},
+{
+"name": "category Krookodile",
+"addr": 10011591,
+"size": 13,
+"text": "Intimidate"
+},
+{
+"name": "category Darumaka",
+"addr": 10011759,
+"size": 13,
+"text": "Zen Charm"
+},
+{
+"name": "category Darmanitan",
+"addr": 10011927,
+"size": 13,
+"text": "Blazing"
+},
+{
+"name": "category Dwebble",
+"addr": 10012263,
+"size": 13,
+"text": "Rock Inn"
+},
+{
+"name": "category Crustle",
+"addr": 10012431,
+"size": 13,
+"text": "Stone Home"
+},
+{
+"name": "category Scraggy",
+"addr": 10012599,
+"size": 13,
+"text": "Shedding"
+},
+{
+"name": "category Scrafty",
+"addr": 10012767,
+"size": 13,
+"text": "Hoodlum"
+},
+{
+"name": "category Sigilyph",
+"addr": 10012935,
+"size": 13,
+"text": "Avianoid"
+},
+{
+"name": "category Yamask",
+"addr": 10013103,
+"size": 13,
+"text": "Spirit"
+},
+{
+"name": "category Cofagrigus",
+"addr": 10013271,
+"size": 13,
+"text": "Coffin"
+},
+{
+"name": "category Tirtouga",
+"addr": 10013439,
+"size": 13,
+"text": "Prototurtle"
+},
+{
+"name": "category Carracosta",
+"addr": 10013607,
+"size": 13,
+"text": "Prototurtle"
+},
+{
+"name": "category Archen",
+"addr": 10013775,
+"size": 13,
+"text": "First Bird"
+},
+{
+"name": "category Archeops",
+"addr": 10013943,
+"size": 13,
+"text": "First Bird"
+},
+{
+"name": "category Trubbish",
+"addr": 10014111,
+"size": 13,
+"text": "Trash Bag"
+},
+{
+"name": "category Garbodor",
+"addr": 10014279,
+"size": 13,
+"text": "Trash Heap"
+},
+{
+"name": "category Zorua",
+"addr": 10014447,
+"size": 13,
+"text": "Tricky Fox"
+},
+{
+"name": "category Zoroark",
+"addr": 10014615,
+"size": 13,
+"text": "Illusion Fox"
+},
+{
+"name": "category Cinccino",
+"addr": 10014951,
+"size": 13,
+"text": "Scarf"
+},
+{
+"name": "category Gothita",
+"addr": 10015119,
+"size": 13,
+"text": "Fixation"
+},
+{
+"name": "category Gothorita",
+"addr": 10015287,
+"size": 13,
+"text": "Manipulate"
+},
+{
+"name": "category Gothitelle",
+"addr": 10015455,
+"size": 13,
+"text": "Astral Body"
+},
+{
+"name": "category Solosis",
+"addr": 10015623,
+"size": 13,
+"text": "Cell"
+},
+{
+"name": "category Reuniclus",
+"addr": 10015959,
+"size": 13,
+"text": "Multiplying"
+},
+{
+"name": "category Ducklett",
+"addr": 10016127,
+"size": 13,
+"text": "Water Bird"
+},
+{
+"name": "category Swanna",
+"addr": 10016295,
+"size": 13,
+"text": "White Bird"
+},
+{
+"name": "category Vanillite",
+"addr": 10016463,
+"size": 13,
+"text": "Fresh Snow"
+},
+{
+"name": "category Vanillish",
+"addr": 10016631,
+"size": 13,
+"text": "Icy Snow"
+},
+{
+"name": "category Vanilluxe",
+"addr": 10016799,
+"size": 13,
+"text": "Snowstorm"
+},
+{
+"name": "category Deerling",
+"addr": 10016967,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Sawsbuck",
+"addr": 10017135,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Emolga",
+"addr": 10017303,
+"size": 13,
+"text": "Sky Squirrel"
+},
+{
+"name": "category Karrablast",
+"addr": 10017471,
+"size": 13,
+"text": "Clamping"
+},
+{
+"name": "category Escavalier",
+"addr": 10017639,
+"size": 13,
+"text": "Cavalry"
+},
+{
+"name": "category Foongus",
+"addr": 10017807,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Amoonguss",
+"addr": 10017975,
+"size": 13,
+"text": "Mushroom"
+},
+{
+"name": "category Frillish",
+"addr": 10018143,
+"size": 13,
+"text": "Floating"
+},
+{
+"name": "category Jellicent",
+"addr": 10018311,
+"size": 13,
+"text": "Floating"
+},
+{
+"name": "category Alomomola",
+"addr": 10018479,
+"size": 13,
+"text": "Caring"
+},
+{
+"name": "category Joltik",
+"addr": 10018647,
+"size": 13,
+"text": "Attaching"
+},
+{
+"name": "category Galvantula",
+"addr": 10018815,
+"size": 13,
+"text": "EleSpider"
+},
+{
+"name": "category Ferroseed",
+"addr": 10018983,
+"size": 13,
+"text": "Thorn Seed"
+},
+{
+"name": "category Ferrothorn",
+"addr": 10019151,
+"size": 13,
+"text": "Thorn Pod"
+},
+{
+"name": "category Klink",
+"addr": 10019319,
+"size": 13,
+"text": "Gear"
+},
+{
+"name": "category Klang",
+"addr": 10019487,
+"size": 13,
+"text": "Gear"
+},
+{
+"name": "category Klinklang",
+"addr": 10019655,
+"size": 13,
+"text": "Gear"
+},
+{
+"name": "category Tynamo",
+"addr": 10019823,
+"size": 13,
+"text": "EleFish"
+},
+{
+"name": "category Eelektrik",
+"addr": 10019991,
+"size": 13,
+"text": "EleFish"
+},
+{
+"name": "category Eelektross",
+"addr": 10020159,
+"size": 13,
+"text": "EleFish"
+},
+{
+"name": "category Elgyem",
+"addr": 10020327,
+"size": 13,
+"text": "Cerebral"
+},
+{
+"name": "category Beheeyem",
+"addr": 10020495,
+"size": 13,
+"text": "Cerebral"
+},
+{
+"name": "category Litwick",
+"addr": 10020663,
+"size": 13,
+"text": "Candle"
+},
+{
+"name": "category Lampent",
+"addr": 10020831,
+"size": 13,
+"text": "Lamp"
+},
+{
+"name": "category Chandelure",
+"addr": 10020999,
+"size": 13,
+"text": "Luring"
+},
+{
+"name": "category Axew",
+"addr": 10021167,
+"size": 13,
+"text": "Tusk"
+},
+{
+"name": "category Fraxure",
+"addr": 10021335,
+"size": 13,
+"text": "Axe Jaw"
+},
+{
+"name": "category Haxorus",
+"addr": 10021503,
+"size": 13,
+"text": "Axe Jaw"
+},
+{
+"name": "category Cubchoo",
+"addr": 10021671,
+"size": 13,
+"text": "Chill"
+},
+{
+"name": "category Beartic",
+"addr": 10021839,
+"size": 13,
+"text": "Freezing"
+},
+{
+"name": "category Cryogonal",
+"addr": 10022007,
+"size": 13,
+"text": "Crystallize"
+},
+{
+"name": "category Shelmet",
+"addr": 10022175,
+"size": 13,
+"text": "Snail"
+},
+{
+"name": "category Accelgor",
+"addr": 10022343,
+"size": 13,
+"text": "Shell Out"
+},
+{
+"name": "category Stunfisk",
+"addr": 10022511,
+"size": 13,
+"text": "Trap"
+},
+{
+"name": "category Mienfoo",
+"addr": 10022679,
+"size": 13,
+"text": "Martial Arts"
+},
+{
+"name": "category Mienshao",
+"addr": 10022847,
+"size": 13,
+"text": "Martial Arts"
+},
+{
+"name": "category Druddigon",
+"addr": 10023015,
+"size": 13,
+"text": "Cave"
+},
+{
+"name": "category Golett",
+"addr": 10023183,
+"size": 13,
+"text": "Automaton"
+},
+{
+"name": "category Golurk",
+"addr": 10023351,
+"size": 13,
+"text": "Automaton"
+},
+{
+"name": "category Pawniard",
+"addr": 10023519,
+"size": 13,
+"text": "Sharp Blade"
+},
+{
+"name": "category Bisharp",
+"addr": 10023687,
+"size": 13,
+"text": "Sword Blade"
+},
+{
+"name": "category Bouffalant",
+"addr": 10023855,
+"size": 13,
+"text": "Bash Buffalo"
+},
+{
+"name": "category Rufflet",
+"addr": 10024023,
+"size": 13,
+"text": "Eaglet"
+},
+{
+"name": "category Braviary",
+"addr": 10024191,
+"size": 13,
+"text": "Valiant"
+},
+{
+"name": "category Vullaby",
+"addr": 10024359,
+"size": 13,
+"text": "Diapered"
+},
+{
+"name": "category Mandibuzz",
+"addr": 10024527,
+"size": 13,
+"text": "Bone Vulture"
+},
+{
+"name": "category Heatmor",
+"addr": 10024695,
+"size": 13,
+"text": "Anteater"
+},
+{
+"name": "category Durant",
+"addr": 10024863,
+"size": 13,
+"text": "Iron Ant"
+},
+{
+"name": "category Deino",
+"addr": 10025031,
+"size": 13,
+"text": "Irate"
+},
+{
+"name": "category Zweilous",
+"addr": 10025199,
+"size": 13,
+"text": "Hostile"
+},
+{
+"name": "category Hydreigon",
+"addr": 10025367,
+"size": 13,
+"text": "Brutal"
+},
+{
+"name": "category Larvesta",
+"addr": 10025535,
+"size": 13,
+"text": "Torch"
+},
+{
+"name": "category Volcarona",
+"addr": 10025703,
+"size": 13,
+"text": "Sun"
+},
+{
+"name": "category Cobalion",
+"addr": 10025871,
+"size": 13,
+"text": "Iron Will"
+},
+{
+"name": "category Terrakion",
+"addr": 10026039,
+"size": 13,
+"text": "Cavern"
+},
+{
+"name": "category Virizion",
+"addr": 10026207,
+"size": 13,
+"text": "Grassland"
+},
+{
+"name": "category Tornadus",
+"addr": 10026375,
+"size": 13,
+"text": "Cyclone"
+},
+{
+"name": "category Thundurus",
+"addr": 10026543,
+"size": 13,
+"text": "Bolt Strike"
+},
+{
+"name": "category Reshiram",
+"addr": 10026711,
+"size": 13,
+"text": "Vast White"
+},
+{
+"name": "category Zekrom",
+"addr": 10026879,
+"size": 13,
+"text": "Deep Black"
+},
+{
+"name": "category Landorus",
+"addr": 10027047,
+"size": 13,
+"text": "Abundance"
+},
+{
+"name": "category Kyurem",
+"addr": 10027215,
+"size": 13,
+"text": "Boundary"
+},
+{
+"name": "category Keldeo",
+"addr": 10027383,
+"size": 13,
+"text": "Colt"
+},
+{
+"name": "category Meloetta",
+"addr": 10027551,
+"size": 13,
+"text": "Melody"
+},
+{
+"name": "category Genesect",
+"addr": 10027719,
+"size": 13,
+"text": "Paleozoic"
+},
+{
+"name": "category Chespin",
+"addr": 10027887,
+"size": 13,
+"text": "Spiny Nut"
+},
+{
+"name": "category Quilladin",
+"addr": 10028055,
+"size": 13,
+"text": "Spiny Armor"
+},
+{
+"name": "category Chesnaught",
+"addr": 10028223,
+"size": 13,
+"text": "Spiny Armor"
+},
+{
+"name": "category Fennekin",
+"addr": 10028391,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Braixen",
+"addr": 10028559,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Delphox",
+"addr": 10028727,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Froakie",
+"addr": 10028895,
+"size": 13,
+"text": "Bubble Frog"
+},
+{
+"name": "category Frogadier",
+"addr": 10029063,
+"size": 13,
+"text": "Bubble Frog"
+},
+{
+"name": "category Bunnelby",
+"addr": 10029399,
+"size": 13,
+"text": "Digging"
+},
+{
+"name": "category Diggersby",
+"addr": 10029567,
+"size": 13,
+"text": "Digging"
+},
+{
+"name": "category Fletchling",
+"addr": 10029735,
+"size": 13,
+"text": "Tiny Robin"
+},
+{
+"name": "category Fletchinder",
+"addr": 10029903,
+"size": 13,
+"text": "Ember"
+},
+{
+"name": "category Talonflame",
+"addr": 10030071,
+"size": 13,
+"text": "Scorching"
+},
+{
+"name": "category Scatterbug",
+"addr": 10030239,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Vivillon",
+"addr": 10030575,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Litleo",
+"addr": 10030743,
+"size": 13,
+"text": "Lion Cub"
+},
+{
+"name": "category Pyroar",
+"addr": 10030911,
+"size": 13,
+"text": "Royal"
+},
+{
+"name": "category Flabébé",
+"addr": 10031079,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10031247,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Florges",
+"addr": 10031415,
+"size": 13,
+"text": "Garden"
+},
+{
+"name": "category Skiddo",
+"addr": 10031583,
+"size": 13,
+"text": "Mount"
+},
+{
+"name": "category Gogoat",
+"addr": 10031751,
+"size": 13,
+"text": "Mount"
+},
+{
+"name": "category Pancham",
+"addr": 10031919,
+"size": 13,
+"text": "Playful"
+},
+{
+"name": "category Pangoro",
+"addr": 10032087,
+"size": 13,
+"text": "Daunting"
+},
+{
+"name": "category Furfrou",
+"addr": 10032255,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Espurr",
+"addr": 10032423,
+"size": 13,
+"text": "Restraint"
+},
+{
+"name": "category Meowstic",
+"addr": 10032591,
+"size": 13,
+"text": "Constraint"
+},
+{
+"name": "category Honedge",
+"addr": 10032759,
+"size": 13,
+"text": "Sword"
+},
+{
+"name": "category Doublade",
+"addr": 10032927,
+"size": 13,
+"text": "Sword"
+},
+{
+"name": "category Aegislash",
+"addr": 10033095,
+"size": 13,
+"text": "Royal Sword"
+},
+{
+"name": "category Spritzee",
+"addr": 10033263,
+"size": 13,
+"text": "Perfume"
+},
+{
+"name": "category Aromatisse",
+"addr": 10033431,
+"size": 13,
+"text": "Fragrance"
+},
+{
+"name": "category Swirlix",
+"addr": 10033599,
+"size": 13,
+"text": "Cotton Candy"
+},
+{
+"name": "category Slurpuff",
+"addr": 10033767,
+"size": 13,
+"text": "Meringue"
+},
+{
+"name": "category Inkay",
+"addr": 10033935,
+"size": 13,
+"text": "Revolving"
+},
+{
+"name": "category Malamar",
+"addr": 10034103,
+"size": 13,
+"text": "Overturning"
+},
+{
+"name": "category Binacle",
+"addr": 10034271,
+"size": 13,
+"text": "Two-Handed"
+},
+{
+"name": "category Barbaracle",
+"addr": 10034439,
+"size": 13,
+"text": "Collective"
+},
+{
+"name": "category Skrelp",
+"addr": 10034607,
+"size": 13,
+"text": "Mock Kelp"
+},
+{
+"name": "category Dragalge",
+"addr": 10034775,
+"size": 13,
+"text": "Mock Kelp"
+},
+{
+"name": "category Clauncher",
+"addr": 10034943,
+"size": 13,
+"text": "Water Gun"
+},
+{
+"name": "category Clawitzer",
+"addr": 10035111,
+"size": 13,
+"text": "Howitzer"
+},
+{
+"name": "category Helioptile",
+"addr": 10035279,
+"size": 13,
+"text": "Generator"
+},
+{
+"name": "category Heliolisk",
+"addr": 10035447,
+"size": 13,
+"text": "Generator"
+},
+{
+"name": "category Tyrunt",
+"addr": 10035615,
+"size": 13,
+"text": "Royal Heir"
+},
+{
+"name": "category Tyrantrum",
+"addr": 10035783,
+"size": 13,
+"text": "Despot"
+},
+{
+"name": "category Sylveon",
+"addr": 10036287,
+"size": 13,
+"text": "Intertwine"
+},
+{
+"name": "category Hawlucha",
+"addr": 10036455,
+"size": 13,
+"text": "Wrestling"
+},
+{
+"name": "category Dedenne",
+"addr": 10036623,
+"size": 13,
+"text": "Antenna"
+},
+{
+"name": "category Carbink",
+"addr": 10036791,
+"size": 13,
+"text": "Jewel"
+},
+{
+"name": "category Goomy",
+"addr": 10036959,
+"size": 13,
+"text": "Soft Tissue"
+},
+{
+"name": "category Sliggoo",
+"addr": 10037127,
+"size": 13,
+"text": "Soft Tissue"
+},
+{
+"name": "category Goodra",
+"addr": 10037295,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Klefki",
+"addr": 10037463,
+"size": 13,
+"text": "Key Ring"
+},
+{
+"name": "category Phantump",
+"addr": 10037631,
+"size": 13,
+"text": "Stump"
+},
+{
+"name": "category Trevenant",
+"addr": 10037799,
+"size": 13,
+"text": "Elder Tree"
+},
+{
+"name": "category Pumpkaboo",
+"addr": 10037967,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Gourgeist",
+"addr": 10038135,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Bergmite",
+"addr": 10038303,
+"size": 13,
+"text": "Ice Chunk"
+},
+{
+"name": "category Noibat",
+"addr": 10038639,
+"size": 13,
+"text": "Sound Wave"
+},
+{
+"name": "category Noivern",
+"addr": 10038807,
+"size": 13,
+"text": "Sound Wave"
+},
+{
+"name": "category Xerneas",
+"addr": 10038975,
+"size": 13,
+"text": "Life"
+},
+{
+"name": "category Yveltal",
+"addr": 10039143,
+"size": 13,
+"text": "Destruction"
+},
+{
+"name": "category Zygarde",
+"addr": 10039311,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Diancie",
+"addr": 10039479,
+"size": 13,
+"text": "Jewel"
+},
+{
+"name": "category Hoopa",
+"addr": 10039647,
+"size": 13,
+"text": "Mischief"
+},
+{
+"name": "category Volcanion",
+"addr": 10039815,
+"size": 13,
+"text": "Steam"
+},
+{
+"name": "category Rowlet",
+"addr": 10039983,
+"size": 13,
+"text": "Grass Quill"
+},
+{
+"name": "category Dartrix",
+"addr": 10040151,
+"size": 13,
+"text": "Blade Quill"
+},
+{
+"name": "category Decidueye",
+"addr": 10040319,
+"size": 13,
+"text": "Arrow Quill"
+},
+{
+"name": "category Litten",
+"addr": 10040487,
+"size": 13,
+"text": "Fire Cat"
+},
+{
+"name": "category Torracat",
+"addr": 10040655,
+"size": 13,
+"text": "Fire Cat"
+},
+{
+"name": "category Incineroar",
+"addr": 10040823,
+"size": 13,
+"text": "Heel"
+},
+{
+"name": "category Popplio",
+"addr": 10040991,
+"size": 13,
+"text": "Sea Lion"
+},
+{
+"name": "category Brionne",
+"addr": 10041159,
+"size": 13,
+"text": "Pop Star"
+},
+{
+"name": "category Primarina",
+"addr": 10041327,
+"size": 13,
+"text": "Soloist"
+},
+{
+"name": "category Pikipek",
+"addr": 10041495,
+"size": 13,
+"text": "Woodpecker"
+},
+{
+"name": "category Trumbeak",
+"addr": 10041663,
+"size": 13,
+"text": "Bugle Beak"
+},
+{
+"name": "category Toucannon",
+"addr": 10041831,
+"size": 13,
+"text": "Cannon"
+},
+{
+"name": "category Yungoos",
+"addr": 10041999,
+"size": 13,
+"text": "Loitering"
+},
+{
+"name": "category Gumshoos",
+"addr": 10042167,
+"size": 13,
+"text": "Stakeout"
+},
+{
+"name": "category Grubbin",
+"addr": 10042335,
+"size": 13,
+"text": "Larva"
+},
+{
+"name": "category Charjabug",
+"addr": 10042503,
+"size": 13,
+"text": "Battery"
+},
+{
+"name": "category Vikavolt",
+"addr": 10042671,
+"size": 13,
+"text": "Stag Beetle"
+},
+{
+"name": "category Crabrawler",
+"addr": 10042839,
+"size": 13,
+"text": "Boxing"
+},
+{
+"name": "category Crabominable",
+"addr": 10043007,
+"size": 13,
+"text": "Woolly Crab"
+},
+{
+"name": "category Oricorio",
+"addr": 10043175,
+"size": 13,
+"text": "Dancing"
+},
+{
+"name": "category Cutiefly",
+"addr": 10043343,
+"size": 13,
+"text": "Bee Fly"
+},
+{
+"name": "category Ribombee",
+"addr": 10043511,
+"size": 13,
+"text": "Bee Fly"
+},
+{
+"name": "category Rockruff",
+"addr": 10043679,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Lycanroc",
+"addr": 10043847,
+"size": 13,
+"text": "Wolf"
+},
+{
+"name": "category Wishiwashi",
+"addr": 10044015,
+"size": 13,
+"text": "Small Fry"
+},
+{
+"name": "category Mareanie",
+"addr": 10044183,
+"size": 13,
+"text": "Brutal Star"
+},
+{
+"name": "category Toxapex",
+"addr": 10044351,
+"size": 13,
+"text": "Brutal Star"
+},
+{
+"name": "category Mudbray",
+"addr": 10044519,
+"size": 13,
+"text": "Donkey"
+},
+{
+"name": "category Mudsdale",
+"addr": 10044687,
+"size": 13,
+"text": "Draft Horse"
+},
+{
+"name": "category Dewpider",
+"addr": 10044855,
+"size": 13,
+"text": "Water Bubble"
+},
+{
+"name": "category Araquanid",
+"addr": 10045023,
+"size": 13,
+"text": "Water Bubble"
+},
+{
+"name": "category Fomantis",
+"addr": 10045191,
+"size": 13,
+"text": "Sickle Grass"
+},
+{
+"name": "category Lurantis",
+"addr": 10045359,
+"size": 13,
+"text": "Bloom Sickle"
+},
+{
+"name": "category Morelull",
+"addr": 10045527,
+"size": 13,
+"text": "Illuminate"
+},
+{
+"name": "category Shiinotic",
+"addr": 10045695,
+"size": 13,
+"text": "Illuminate"
+},
+{
+"name": "category Salandit",
+"addr": 10045863,
+"size": 13,
+"text": "Toxic Lizard"
+},
+{
+"name": "category Salazzle",
+"addr": 10046031,
+"size": 13,
+"text": "Toxic Lizard"
+},
+{
+"name": "category Stufful",
+"addr": 10046199,
+"size": 13,
+"text": "Flailing"
+},
+{
+"name": "category Bewear",
+"addr": 10046367,
+"size": 13,
+"text": "Strong Arm"
+},
+{
+"name": "category Bounsweet",
+"addr": 10046535,
+"size": 13,
+"text": "Fruit"
+},
+{
+"name": "category Steenee",
+"addr": 10046703,
+"size": 13,
+"text": "Fruit"
+},
+{
+"name": "category Tsareena",
+"addr": 10046871,
+"size": 13,
+"text": "Fruit"
+},
+{
+"name": "category Comfey",
+"addr": 10047039,
+"size": 13,
+"text": "Posy Picker"
+},
+{
+"name": "category Oranguru",
+"addr": 10047207,
+"size": 13,
+"text": "Sage"
+},
+{
+"name": "category Passimian",
+"addr": 10047375,
+"size": 13,
+"text": "Teamwork"
+},
+{
+"name": "category Wimpod",
+"addr": 10047543,
+"size": 13,
+"text": "Turn Tail"
+},
+{
+"name": "category Golisopod",
+"addr": 10047711,
+"size": 13,
+"text": "Hard Scale"
+},
+{
+"name": "category Sandygast",
+"addr": 10047879,
+"size": 13,
+"text": "Sand Heap"
+},
+{
+"name": "category Palossand",
+"addr": 10048047,
+"size": 13,
+"text": "Sand Castle"
+},
+{
+"name": "category Pyukumuku",
+"addr": 10048215,
+"size": 13,
+"text": "Sea Cucumber"
+},
+{
+"name": "category Código Cero",
+"addr": 10048383,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "species Código Cero",
+"addr": 10048396,
+"size": 13,
+"text": "Type: Null"
+},
+{
+"name": "category Silvally",
+"addr": 10048551,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Minior",
+"addr": 10048719,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Komala",
+"addr": 10048887,
+"size": 13,
+"text": "Drowsing"
+},
+{
+"name": "category Turtonator",
+"addr": 10049055,
+"size": 13,
+"text": "Blast Turtle"
+},
+{
+"name": "category Togedemaru",
+"addr": 10049223,
+"size": 13,
+"text": "Roly-Poly"
+},
+{
+"name": "category Mimikyu",
+"addr": 10049391,
+"size": 13,
+"text": "Disguise"
+},
+{
+"name": "category Bruxish",
+"addr": 10049559,
+"size": 13,
+"text": "Gnash Teeth"
+},
+{
+"name": "category Drampa",
+"addr": 10049727,
+"size": 13,
+"text": "Placid"
+},
+{
+"name": "category Dhelmise",
+"addr": 10049895,
+"size": 13,
+"text": "Sea Creeper"
+},
+{
+"name": "category Jangmo-o",
+"addr": 10050063,
+"size": 13,
+"text": "Scaly"
+},
+{
+"name": "category Hakamo-o",
+"addr": 10050231,
+"size": 13,
+"text": "Scaly"
+},
+{
+"name": "category Kommo-o",
+"addr": 10050399,
+"size": 13,
+"text": "Scaly"
+},
+{
+"name": "category Tapu Koko",
+"addr": 10050567,
+"size": 13,
+"text": "Land Spirit"
+},
+{
+"name": "category Tapu Lele",
+"addr": 10050735,
+"size": 13,
+"text": "Land Spirit"
+},
+{
+"name": "category Tapu Bulu",
+"addr": 10050903,
+"size": 13,
+"text": "Land Spirit"
+},
+{
+"name": "category Tapu Fini",
+"addr": 10051071,
+"size": 13,
+"text": "Land Spirit"
+},
+{
+"name": "category Cosmog",
+"addr": 10051239,
+"size": 13,
+"text": "Nebula"
+},
+{
+"name": "category Cosmoem",
+"addr": 10051407,
+"size": 13,
+"text": "Protostar"
+},
+{
+"name": "category Solgaleo",
+"addr": 10051575,
+"size": 13,
+"text": "Sunne"
+},
+{
+"name": "category Lunala",
+"addr": 10051743,
+"size": 13,
+"text": "Moone"
+},
+{
+"name": "category Nihilego",
+"addr": 10051911,
+"size": 13,
+"text": "Parasite"
+},
+{
+"name": "category Buzzwole",
+"addr": 10052079,
+"size": 13,
+"text": "Swollen"
+},
+{
+"name": "category Pheromosa",
+"addr": 10052247,
+"size": 13,
+"text": "Lissome"
+},
+{
+"name": "category Xurkitree",
+"addr": 10052415,
+"size": 13,
+"text": "Glowing"
+},
+{
+"name": "category Celesteela",
+"addr": 10052583,
+"size": 13,
+"text": "Launch"
+},
+{
+"name": "category Kartana",
+"addr": 10052751,
+"size": 13,
+"text": "Drawn Sword"
+},
+{
+"name": "category Guzzlord",
+"addr": 10052919,
+"size": 13,
+"text": "Junkivore"
+},
+{
+"name": "category Necrozma",
+"addr": 10053087,
+"size": 13,
+"text": "Prism"
+},
+{
+"name": "category Marshadow",
+"addr": 10053423,
+"size": 13,
+"text": "Gloomdwellr"
+},
+{
+"name": "category Poipole",
+"addr": 10053591,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Naganadel",
+"addr": 10053759,
+"size": 13,
+"text": "Poison Pin"
+},
+{
+"name": "category Stakataka",
+"addr": 10053927,
+"size": 13,
+"text": "Rampart"
+},
+{
+"name": "category Blacephalon",
+"addr": 10054095,
+"size": 13,
+"text": "Fireworks"
+},
+{
+"name": "category Zeraora",
+"addr": 10054263,
+"size": 13,
+"text": "Thunderclap"
+},
+{
+"name": "category Meltan",
+"addr": 10054431,
+"size": 13,
+"text": "Hex Nut"
+},
+{
+"name": "category Melmetal",
+"addr": 10054599,
+"size": 13,
+"text": "Hex Nut"
+},
+{
+"name": "category Grookey",
+"addr": 10054767,
+"size": 13,
+"text": "Chimp"
+},
+{
+"name": "category Thwackey",
+"addr": 10054935,
+"size": 13,
+"text": "Beat"
+},
+{
+"name": "category Rillaboom",
+"addr": 10055103,
+"size": 13,
+"text": "Drummer"
+},
+{
+"name": "category Scorbunny",
+"addr": 10055271,
+"size": 13,
+"text": "Rabbit"
+},
+{
+"name": "category Raboot",
+"addr": 10055439,
+"size": 13,
+"text": "Rabbit"
+},
+{
+"name": "category Cinderace",
+"addr": 10055607,
+"size": 13,
+"text": "Striker"
+},
+{
+"name": "category Sobble",
+"addr": 10055775,
+"size": 13,
+"text": "Water Lizard"
+},
+{
+"name": "category Drizzile",
+"addr": 10055943,
+"size": 13,
+"text": "Water Lizard"
+},
+{
+"name": "category Inteleon",
+"addr": 10056111,
+"size": 13,
+"text": "Secret Agent"
+},
+{
+"name": "category Skwovet",
+"addr": 10056279,
+"size": 13,
+"text": "Cheeky"
+},
+{
+"name": "category Greedent",
+"addr": 10056447,
+"size": 13,
+"text": "Greedy"
+},
+{
+"name": "category Rookidee",
+"addr": 10056615,
+"size": 13,
+"text": "Tiny Bird"
+},
+{
+"name": "category Corvisquire",
+"addr": 10056783,
+"size": 13,
+"text": "Raven"
+},
+{
+"name": "category Corviknight",
+"addr": 10056951,
+"size": 13,
+"text": "Raven"
+},
+{
+"name": "category Blipbug",
+"addr": 10057119,
+"size": 13,
+"text": "Larva"
+},
+{
+"name": "category Dottler",
+"addr": 10057287,
+"size": 13,
+"text": "Radome"
+},
+{
+"name": "category Orbeetle",
+"addr": 10057455,
+"size": 13,
+"text": "Seven Spot"
+},
+{
+"name": "category Nickit",
+"addr": 10057623,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Thievul",
+"addr": 10057791,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Gossifleur",
+"addr": 10057959,
+"size": 13,
+"text": "Flowering"
+},
+{
+"name": "category Eldegoss",
+"addr": 10058127,
+"size": 13,
+"text": "Cotton Bloom"
+},
+{
+"name": "category Wooloo",
+"addr": 10058295,
+"size": 13,
+"text": "Sheep"
+},
+{
+"name": "category Dubwool",
+"addr": 10058463,
+"size": 13,
+"text": "Sheep"
+},
+{
+"name": "category Chewtle",
+"addr": 10058631,
+"size": 13,
+"text": "Snapping"
+},
+{
+"name": "category Drednaw",
+"addr": 10058799,
+"size": 13,
+"text": "Bite"
+},
+{
+"name": "category Yamper",
+"addr": 10058967,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Boltund",
+"addr": 10059135,
+"size": 13,
+"text": "Dog"
+},
+{
+"name": "category Rolycoly",
+"addr": 10059303,
+"size": 13,
+"text": "Coal"
+},
+{
+"name": "category Carkol",
+"addr": 10059471,
+"size": 13,
+"text": "Coal"
+},
+{
+"name": "category Coalossal",
+"addr": 10059639,
+"size": 13,
+"text": "Coal"
+},
+{
+"name": "category Applin",
+"addr": 10059807,
+"size": 13,
+"text": "Apple Core"
+},
+{
+"name": "category Flapple",
+"addr": 10059975,
+"size": 13,
+"text": "Apple Wing"
+},
+{
+"name": "category Appletun",
+"addr": 10060143,
+"size": 13,
+"text": "Apple Nectar"
+},
+{
+"name": "category Silicobra",
+"addr": 10060311,
+"size": 13,
+"text": "Sand Snake"
+},
+{
+"name": "category Sandaconda",
+"addr": 10060479,
+"size": 13,
+"text": "Sand Snake"
+},
+{
+"name": "category Cramorant",
+"addr": 10060647,
+"size": 13,
+"text": "Gulp"
+},
+{
+"name": "category Arrokuda",
+"addr": 10060815,
+"size": 13,
+"text": "Rush"
+},
+{
+"name": "category Barraskewda",
+"addr": 10060983,
+"size": 13,
+"text": "Skewer"
+},
+{
+"name": "category Toxel",
+"addr": 10061151,
+"size": 13,
+"text": "Baby"
+},
+{
+"name": "category Toxtricity",
+"addr": 10061319,
+"size": 13,
+"text": "Punk"
+},
+{
+"name": "category Sizzlipede",
+"addr": 10061487,
+"size": 13,
+"text": "Radiator"
+},
+{
+"name": "category Centiskorch",
+"addr": 10061655,
+"size": 13,
+"text": "Radiator"
+},
+{
+"name": "category Clobbopus",
+"addr": 10061823,
+"size": 13,
+"text": "Tantrum"
+},
+{
+"name": "category Grapploct",
+"addr": 10061991,
+"size": 13,
+"text": "Jujitsu"
+},
+{
+"name": "category Sinistea",
+"addr": 10062159,
+"size": 13,
+"text": "Black Tea"
+},
+{
+"name": "category Polteageist",
+"addr": 10062327,
+"size": 13,
+"text": "Black Tea"
+},
+{
+"name": "category Hatenna",
+"addr": 10062495,
+"size": 13,
+"text": "Calm"
+},
+{
+"name": "category Hattrem",
+"addr": 10062663,
+"size": 13,
+"text": "Serene"
+},
+{
+"name": "category Hatterene",
+"addr": 10062831,
+"size": 13,
+"text": "Silent"
+},
+{
+"name": "category Impidimp",
+"addr": 10062999,
+"size": 13,
+"text": "Wily"
+},
+{
+"name": "category Morgrem",
+"addr": 10063167,
+"size": 13,
+"text": "Devious"
+},
+{
+"name": "category Grimmsnarl",
+"addr": 10063335,
+"size": 13,
+"text": "Bulk Up"
+},
+{
+"name": "category Obstagoon",
+"addr": 10063503,
+"size": 13,
+"text": "Blocking"
+},
+{
+"name": "category Perrserker",
+"addr": 10063671,
+"size": 13,
+"text": "Viking"
+},
+{
+"name": "category Sirfetch’d",
+"addr": 10064007,
+"size": 13,
+"text": "Wild Duck"
+},
+{
+"name": "category Mr. Rime",
+"addr": 10064175,
+"size": 13,
+"text": "Comedian"
+},
+{
+"name": "category Runerigus",
+"addr": 10064343,
+"size": 13,
+"text": "Grudge"
+},
+{
+"name": "category Milcery",
+"addr": 10064511,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10064679,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Falinks",
+"addr": 10064847,
+"size": 13,
+"text": "Formation"
+},
+{
+"name": "category Pincurchin",
+"addr": 10065015,
+"size": 13,
+"text": "Sea Urchin"
+},
+{
+"name": "category Snom",
+"addr": 10065183,
+"size": 13,
+"text": "Worm"
+},
+{
+"name": "category Frosmoth",
+"addr": 10065351,
+"size": 13,
+"text": "Frost Moth"
+},
+{
+"name": "category Stonjourner",
+"addr": 10065519,
+"size": 13,
+"text": "Big Rock"
+},
+{
+"name": "category Eiscue",
+"addr": 10065687,
+"size": 13,
+"text": "Penguin"
+},
+{
+"name": "category Indeedee",
+"addr": 10065855,
+"size": 13,
+"text": "Emotion"
+},
+{
+"name": "category Morpeko",
+"addr": 10066023,
+"size": 13,
+"text": "Two-Sided"
+},
+{
+"name": "category Cufant",
+"addr": 10066191,
+"size": 13,
+"text": "Copperderm"
+},
+{
+"name": "category Copperajah",
+"addr": 10066359,
+"size": 13,
+"text": "Copperderm"
+},
+{
+"name": "category Dracozolt",
+"addr": 10066527,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Arctozolt",
+"addr": 10066695,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Dracovish",
+"addr": 10066863,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Arctovish",
+"addr": 10067031,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Duraludon",
+"addr": 10067199,
+"size": 13,
+"text": "Alloy"
+},
+{
+"name": "category Dreepy",
+"addr": 10067367,
+"size": 13,
+"text": "Lingering"
+},
+{
+"name": "category Drakloak",
+"addr": 10067535,
+"size": 13,
+"text": "Caretaker"
+},
+{
+"name": "category Dragapult",
+"addr": 10067703,
+"size": 13,
+"text": "Stealth"
+},
+{
+"name": "category Zacian",
+"addr": 10067871,
+"size": 13,
+"text": "Warrior"
+},
+{
+"name": "category Zamazenta",
+"addr": 10068039,
+"size": 13,
+"text": "Warrior"
+},
+{
+"name": "category Eternatus",
+"addr": 10068207,
+"size": 13,
+"text": "Gigantic"
+},
+{
+"name": "category Kubfu",
+"addr": 10068375,
+"size": 13,
+"text": "Wushu"
+},
+{
+"name": "category Urshifu",
+"addr": 10068543,
+"size": 13,
+"text": "Wushu"
+},
+{
+"name": "category Zarude",
+"addr": 10068711,
+"size": 13,
+"text": "Rogue Monkey"
+},
+{
+"name": "category Regieleki",
+"addr": 10068879,
+"size": 13,
+"text": "Electron"
+},
+{
+"name": "category Regidrago",
+"addr": 10069047,
+"size": 13,
+"text": "Dragon Orb"
+},
+{
+"name": "category Glastrier",
+"addr": 10069215,
+"size": 13,
+"text": "Wild Horse"
+},
+{
+"name": "category Spectrier",
+"addr": 10069383,
+"size": 13,
+"text": "Swift Horse"
+},
+{
+"name": "category Calyrex",
+"addr": 10069551,
+"size": 13,
+"text": "King"
+},
+{
+"name": "category Wyrdeer",
+"addr": 10069719,
+"size": 13,
+"text": "Big Horn"
+},
+{
+"name": "category Kleavor",
+"addr": 10069887,
+"size": 13,
+"text": "Axe"
+},
+{
+"name": "category Ursaluna",
+"addr": 10070055,
+"size": 13,
+"text": "Peat"
+},
+{
+"name": "category Basculegion",
+"addr": 10070223,
+"size": 13,
+"text": "Big Fish"
+},
+{
+"name": "category Sneasler",
+"addr": 10070391,
+"size": 13,
+"text": "Free Climb"
+},
+{
+"name": "category Overqwil",
+"addr": 10070559,
+"size": 13,
+"text": "Pin Cluster"
+},
+{
+"name": "category Enamorus",
+"addr": 10070727,
+"size": 13,
+"text": "Love-Hate"
+},
+{
+"name": "category Venusaur",
+"addr": 10070895,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Charizard",
+"addr": 10071063,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Charizard",
+"addr": 10071231,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Blastoise",
+"addr": 10071399,
+"size": 13,
+"text": "Shellfish"
+},
+{
+"name": "category Beedrill",
+"addr": 10071567,
+"size": 13,
+"text": "Poison Bee"
+},
+{
+"name": "category Pidgeot",
+"addr": 10071735,
+"size": 13,
+"text": "Bird"
+},
+{
+"name": "category Slowbro",
+"addr": 10072071,
+"size": 13,
+"text": "Hermit Crab"
+},
+{
+"name": "category Gengar",
+"addr": 10072239,
+"size": 13,
+"text": "Shadow"
+},
+{
+"name": "category Kangaskhan",
+"addr": 10072407,
+"size": 13,
+"text": "Parent"
+},
+{
+"name": "category Pinsir",
+"addr": 10072575,
+"size": 13,
+"text": "Stag Beetle"
+},
+{
+"name": "category Gyarados",
+"addr": 10072743,
+"size": 13,
+"text": "Atrocious"
+},
+{
+"name": "category Aerodactyl",
+"addr": 10072911,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Mewtwo",
+"addr": 10073079,
+"size": 13,
+"text": "Genetic"
+},
+{
+"name": "category Mewtwo",
+"addr": 10073247,
+"size": 13,
+"text": "Genetic"
+},
+{
+"name": "category Ampharos",
+"addr": 10073415,
+"size": 13,
+"text": "Light"
+},
+{
+"name": "category Steelix",
+"addr": 10073583,
+"size": 13,
+"text": "Iron Snake"
+},
+{
+"name": "category Scizor",
+"addr": 10073751,
+"size": 13,
+"text": "Pincer"
+},
+{
+"name": "category Heracross",
+"addr": 10073919,
+"size": 13,
+"text": "Single Horn"
+},
+{
+"name": "category Houndoom",
+"addr": 10074087,
+"size": 13,
+"text": "Dark"
+},
+{
+"name": "category Tyranitar",
+"addr": 10074255,
+"size": 13,
+"text": "Armor"
+},
+{
+"name": "category Sceptile",
+"addr": 10074423,
+"size": 13,
+"text": "Forest"
+},
+{
+"name": "category Blaziken",
+"addr": 10074591,
+"size": 13,
+"text": "Blaze"
+},
+{
+"name": "category Swampert",
+"addr": 10074759,
+"size": 13,
+"text": "Mud Fish"
+},
+{
+"name": "category Gardevoir",
+"addr": 10074927,
+"size": 13,
+"text": "Embrace"
+},
+{
+"name": "category Sableye",
+"addr": 10075095,
+"size": 13,
+"text": "Darkness"
+},
+{
+"name": "category Mawile",
+"addr": 10075263,
+"size": 13,
+"text": "Deceiver"
+},
+{
+"name": "category Aggron",
+"addr": 10075431,
+"size": 13,
+"text": "Iron Armor"
+},
+{
+"name": "category Medicham",
+"addr": 10075599,
+"size": 13,
+"text": "Meditate"
+},
+{
+"name": "category Manectric",
+"addr": 10075767,
+"size": 13,
+"text": "Discharge"
+},
+{
+"name": "category Sharpedo",
+"addr": 10075935,
+"size": 13,
+"text": "Brutal"
+},
+{
+"name": "category Camerupt",
+"addr": 10076103,
+"size": 13,
+"text": "Eruption"
+},
+{
+"name": "category Altaria",
+"addr": 10076271,
+"size": 13,
+"text": "Humming"
+},
+{
+"name": "category Banette",
+"addr": 10076439,
+"size": 13,
+"text": "Marionette"
+},
+{
+"name": "category Absol",
+"addr": 10076607,
+"size": 13,
+"text": "Disaster"
+},
+{
+"name": "category Glalie",
+"addr": 10076775,
+"size": 13,
+"text": "Face"
+},
+{
+"name": "category Salamence",
+"addr": 10076943,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Metagross",
+"addr": 10077111,
+"size": 13,
+"text": "Iron Leg"
+},
+{
+"name": "category Latias",
+"addr": 10077279,
+"size": 13,
+"text": "Eon"
+},
+{
+"name": "category Latios",
+"addr": 10077447,
+"size": 13,
+"text": "Eon"
+},
+{
+"name": "category Lopunny",
+"addr": 10077615,
+"size": 13,
+"text": "Rabbit"
+},
+{
+"name": "category Abomasnow",
+"addr": 10078119,
+"size": 13,
+"text": "Frost Tree"
+},
+{
+"name": "category Gallade",
+"addr": 10078287,
+"size": 13,
+"text": "Blade"
+},
+{
+"name": "category Audino",
+"addr": 10078455,
+"size": 13,
+"text": "Hearing"
+},
+{
+"name": "category Diancie",
+"addr": 10078623,
+"size": 13,
+"text": "Jewel"
+},
+{
+"name": "category Rayquaza",
+"addr": 10078791,
+"size": 13,
+"text": "Sky High"
+},
+{
+"name": "category Kyogre",
+"addr": 10078959,
+"size": 13,
+"text": "Sea Basin"
+},
+{
+"name": "category Groudon",
+"addr": 10079127,
+"size": 13,
+"text": "Continent"
+},
+{
+"name": "category Rattata",
+"addr": 10079295,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Raticate",
+"addr": 10079463,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Raichu",
+"addr": 10079631,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Sandshrew",
+"addr": 10079799,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Sandslash",
+"addr": 10079967,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Vulpix",
+"addr": 10080135,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Ninetales",
+"addr": 10080303,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Diglett",
+"addr": 10080471,
+"size": 13,
+"text": "Mole"
+},
+{
+"name": "category Dugtrio",
+"addr": 10080639,
+"size": 13,
+"text": "Mole"
+},
+{
+"name": "category Meowth",
+"addr": 10080807,
+"size": 13,
+"text": "Scratch Cat"
+},
+{
+"name": "category Persian",
+"addr": 10080975,
+"size": 13,
+"text": "Classy Cat"
+},
+{
+"name": "category Geodude",
+"addr": 10081143,
+"size": 13,
+"text": "Rock"
+},
+{
+"name": "category Graveler",
+"addr": 10081311,
+"size": 13,
+"text": "Rock"
+},
+{
+"name": "category Golem",
+"addr": 10081479,
+"size": 13,
+"text": "Megaton"
+},
+{
+"name": "category Grimer",
+"addr": 10081647,
+"size": 13,
+"text": "Sludge"
+},
+{
+"name": "category Muk",
+"addr": 10081815,
+"size": 13,
+"text": "Sludge"
+},
+{
+"name": "category Exeggutor",
+"addr": 10081983,
+"size": 13,
+"text": "Coconut"
+},
+{
+"name": "category Marowak",
+"addr": 10082151,
+"size": 13,
+"text": "Bone Keeper"
+},
+{
+"name": "category Meowth",
+"addr": 10082319,
+"size": 13,
+"text": "Scratch Cat"
+},
+{
+"name": "category Ponyta",
+"addr": 10082487,
+"size": 13,
+"text": "Unique Horn"
+},
+{
+"name": "category Rapidash",
+"addr": 10082655,
+"size": 13,
+"text": "Unique Horn"
+},
+{
+"name": "category Slowpoke",
+"addr": 10082823,
+"size": 13,
+"text": "Dopey"
+},
+{
+"name": "category Slowbro",
+"addr": 10082991,
+"size": 13,
+"text": "Hermit Crab"
+},
+{
+"name": "category Farfetch’d",
+"addr": 10083159,
+"size": 13,
+"text": "Wild Duck"
+},
+{
+"name": "category Weezing",
+"addr": 10083327,
+"size": 13,
+"text": "Poison Gas"
+},
+{
+"name": "category Articuno",
+"addr": 10083663,
+"size": 13,
+"text": "Cruel"
+},
+{
+"name": "category Zapdos",
+"addr": 10083831,
+"size": 13,
+"text": "Strong Legs"
+},
+{
+"name": "category Moltres",
+"addr": 10083999,
+"size": 13,
+"text": "Malevolent"
+},
+{
+"name": "category Slowking",
+"addr": 10084167,
+"size": 13,
+"text": "Hexpert"
+},
+{
+"name": "category Zigzagoon",
+"addr": 10084503,
+"size": 13,
+"text": "Tiny Raccoon"
+},
+{
+"name": "category Linoone",
+"addr": 10084671,
+"size": 13,
+"text": "Rushing"
+},
+{
+"name": "category Darumaka",
+"addr": 10084839,
+"size": 13,
+"text": "Zen Charm"
+},
+{
+"name": "category Darmanitan",
+"addr": 10085007,
+"size": 13,
+"text": "Zen Charm"
+},
+{
+"name": "category Yamask",
+"addr": 10085175,
+"size": 13,
+"text": "Spirit"
+},
+{
+"name": "category Stunfisk",
+"addr": 10085343,
+"size": 13,
+"text": "Trap"
+},
+{
+"name": "category Growlithe",
+"addr": 10085511,
+"size": 13,
+"text": "Scout"
+},
+{
+"name": "category Arcanine",
+"addr": 10085679,
+"size": 13,
+"text": "Legendary"
+},
+{
+"name": "category Voltorb",
+"addr": 10085847,
+"size": 13,
+"text": "Sphere"
+},
+{
+"name": "category Electrode",
+"addr": 10086015,
+"size": 13,
+"text": "Sphere"
+},
+{
+"name": "category Typhlosion",
+"addr": 10086183,
+"size": 13,
+"text": "Ghost Flame"
+},
+{
+"name": "category Qwilfish",
+"addr": 10086351,
+"size": 13,
+"text": "Balloon"
+},
+{
+"name": "category Sneasel",
+"addr": 10086519,
+"size": 13,
+"text": "Sharp Claw"
+},
+{
+"name": "category Samurott",
+"addr": 10086687,
+"size": 13,
+"text": "Formidable"
+},
+{
+"name": "category Lilligant",
+"addr": 10086855,
+"size": 13,
+"text": "Spinning"
+},
+{
+"name": "category Zorua",
+"addr": 10087023,
+"size": 13,
+"text": "Spiteful Fox"
+},
+{
+"name": "category Zoroark",
+"addr": 10087191,
+"size": 13,
+"text": "Baneful Fox"
+},
+{
+"name": "category Braviary",
+"addr": 10087359,
+"size": 13,
+"text": "Battle Cry"
+},
+{
+"name": "category Sliggoo",
+"addr": 10087527,
+"size": 13,
+"text": "Snail"
+},
+{
+"name": "category Goodra",
+"addr": 10087695,
+"size": 13,
+"text": "Shell Bunker"
+},
+{
+"name": "category Decidueye",
+"addr": 10088031,
+"size": 13,
+"text": "Arrow Quill"
+},
+{
+"name": "category Unown",
+"addr": 10090719,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10090887,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091055,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091223,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091391,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091559,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091727,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10091895,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092063,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092231,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092399,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092567,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092735,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10092903,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093071,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093239,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093407,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093575,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093743,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10093911,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094079,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094247,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094415,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094583,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094751,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Unown",
+"addr": 10094919,
+"size": 13,
+"text": "Symbol"
+},
+{
+"name": "category Castform",
+"addr": 10095255,
+"size": 13,
+"text": "Weather"
+},
+{
+"name": "category Castform",
+"addr": 10095423,
+"size": 13,
+"text": "Weather"
+},
+{
+"name": "category Castform",
+"addr": 10095591,
+"size": 13,
+"text": "Weather"
+},
+{
+"name": "category Deoxys",
+"addr": 10095759,
+"size": 13,
+"text": "DNA"
+},
+{
+"name": "category Deoxys",
+"addr": 10095927,
+"size": 13,
+"text": "DNA"
+},
+{
+"name": "category Deoxys",
+"addr": 10096095,
+"size": 13,
+"text": "DNA"
+},
+{
+"name": "category Burmy",
+"addr": 10096263,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Burmy",
+"addr": 10096431,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Wormadam",
+"addr": 10096599,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Wormadam",
+"addr": 10096767,
+"size": 13,
+"text": "Bagworm"
+},
+{
+"name": "category Cherrim",
+"addr": 10096935,
+"size": 13,
+"text": "Blossom"
+},
+{
+"name": "category Shellos",
+"addr": 10097103,
+"size": 13,
+"text": "Sea Slug"
+},
+{
+"name": "category Gastrodon",
+"addr": 10097271,
+"size": 13,
+"text": "Sea Slug"
+},
+{
+"name": "category Palkia",
+"addr": 10098447,
+"size": 13,
+"text": "Spatial"
+},
+{
+"name": "category Giratina",
+"addr": 10098615,
+"size": 13,
+"text": "Renegade"
+},
+{
+"name": "category Shaymin",
+"addr": 10098783,
+"size": 13,
+"text": "Gratitude"
+},
+{
+"name": "category Basculin",
+"addr": 10101807,
+"size": 13,
+"text": "Hostile"
+},
+{
+"name": "category Basculin",
+"addr": 10101975,
+"size": 13,
+"text": "Mellow"
+},
+{
+"name": "category Darmanitan",
+"addr": 10102143,
+"size": 13,
+"text": "Blazing"
+},
+{
+"name": "category Darmanitan",
+"addr": 10102311,
+"size": 13,
+"text": "Zen Charm"
+},
+{
+"name": "category Deerling",
+"addr": 10102479,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Deerling",
+"addr": 10102647,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Deerling",
+"addr": 10102815,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Sawsbuck",
+"addr": 10102983,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Sawsbuck",
+"addr": 10103151,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Sawsbuck",
+"addr": 10103319,
+"size": 13,
+"text": "Season"
+},
+{
+"name": "category Tornadus",
+"addr": 10103487,
+"size": 13,
+"text": "Cyclone"
+},
+{
+"name": "category Thundurus",
+"addr": 10103655,
+"size": 13,
+"text": "Bolt Strike"
+},
+{
+"name": "category Landorus",
+"addr": 10103823,
+"size": 13,
+"text": "Abundance"
+},
+{
+"name": "category Enamorus",
+"addr": 10103991,
+"size": 13,
+"text": "Love-Hate"
+},
+{
+"name": "category Kyurem",
+"addr": 10104159,
+"size": 13,
+"text": "Boundary"
+},
+{
+"name": "category Kyurem",
+"addr": 10104327,
+"size": 13,
+"text": "Boundary"
+},
+{
+"name": "category Keldeo",
+"addr": 10104495,
+"size": 13,
+"text": "Colt"
+},
+{
+"name": "category Meloetta",
+"addr": 10104663,
+"size": 13,
+"text": "Melody"
+},
+{
+"name": "category Genesect",
+"addr": 10104831,
+"size": 13,
+"text": "Paleozoic"
+},
+{
+"name": "category Genesect",
+"addr": 10104999,
+"size": 13,
+"text": "Paleozoic"
+},
+{
+"name": "category Genesect",
+"addr": 10105167,
+"size": 13,
+"text": "Paleozoic"
+},
+{
+"name": "category Genesect",
+"addr": 10105335,
+"size": 13,
+"text": "Paleozoic"
+},
+{
+"name": "category Vivillon",
+"addr": 10105839,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106007,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106175,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106343,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106511,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106679,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10106847,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107015,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107183,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107351,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107519,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107687,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10107855,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108023,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108191,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108359,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108527,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108695,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Vivillon",
+"addr": 10108863,
+"size": 13,
+"text": "Scale"
+},
+{
+"name": "category Flabébé",
+"addr": 10109031,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Flabébé",
+"addr": 10109199,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Flabébé",
+"addr": 10109367,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Flabébé",
+"addr": 10109535,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10109703,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10109871,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10110039,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10110207,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Floette",
+"addr": 10110375,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Florges",
+"addr": 10110543,
+"size": 13,
+"text": "Garden"
+},
+{
+"name": "category Florges",
+"addr": 10110711,
+"size": 13,
+"text": "Garden"
+},
+{
+"name": "category Florges",
+"addr": 10110879,
+"size": 13,
+"text": "Garden"
+},
+{
+"name": "category Florges",
+"addr": 10111047,
+"size": 13,
+"text": "Garden"
+},
+{
+"name": "category Furfrou",
+"addr": 10111215,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10111383,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10111551,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10111719,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10111887,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10112055,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10112223,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10112391,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Furfrou",
+"addr": 10112559,
+"size": 13,
+"text": "Poodle"
+},
+{
+"name": "category Meowstic",
+"addr": 10112727,
+"size": 13,
+"text": "Constraint"
+},
+{
+"name": "category Aegislash",
+"addr": 10112895,
+"size": 13,
+"text": "Royal Sword"
+},
+{
+"name": "category Pumpkaboo",
+"addr": 10113063,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Pumpkaboo",
+"addr": 10113231,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Pumpkaboo",
+"addr": 10113399,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Gourgeist",
+"addr": 10113567,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Gourgeist",
+"addr": 10113735,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Gourgeist",
+"addr": 10113903,
+"size": 13,
+"text": "Pumpkin"
+},
+{
+"name": "category Xerneas",
+"addr": 10114071,
+"size": 13,
+"text": "Life"
+},
+{
+"name": "category Zygarde",
+"addr": 10114239,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Zygarde",
+"addr": 10114407,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Zygarde",
+"addr": 10114575,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Zygarde",
+"addr": 10114743,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Rockruff",
+"addr": 10115583,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Lycanroc",
+"addr": 10115751,
+"size": 13,
+"text": "Wolf"
+},
+{
+"name": "category Lycanroc",
+"addr": 10115919,
+"size": 13,
+"text": "Wolf"
+},
+{
+"name": "category Wishiwashi",
+"addr": 10116087,
+"size": 13,
+"text": "Small Fry"
+},
+{
+"name": "category Silvally",
+"addr": 10116255,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10116423,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10116591,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10116759,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10116927,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117095,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117263,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117431,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117599,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117767,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10117935,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118103,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118271,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118439,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118607,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118775,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Silvally",
+"addr": 10118943,
+"size": 13,
+"text": "Synthetic"
+},
+{
+"name": "category Minior",
+"addr": 10119111,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10119279,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10119447,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10119615,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10119783,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10119951,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120119,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120287,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120455,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120623,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120791,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10120959,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Minior",
+"addr": 10121127,
+"size": 13,
+"text": "Meteor"
+},
+{
+"name": "category Mimikyu",
+"addr": 10121295,
+"size": 13,
+"text": "Disguise"
+},
+{
+"name": "category Necrozma",
+"addr": 10121463,
+"size": 13,
+"text": "Prism"
+},
+{
+"name": "category Necrozma",
+"addr": 10121631,
+"size": 13,
+"text": "Prism"
+},
+{
+"name": "category Necrozma",
+"addr": 10121799,
+"size": 13,
+"text": "Prism"
+},
+{
+"name": "category Cramorant",
+"addr": 10122135,
+"size": 13,
+"text": "Gulp"
+},
+{
+"name": "category Cramorant",
+"addr": 10122303,
+"size": 13,
+"text": "Gulp"
+},
+{
+"name": "category Toxtricity",
+"addr": 10122471,
+"size": 13,
+"text": "Punk"
+},
+{
+"name": "category Sinistea",
+"addr": 10122639,
+"size": 13,
+"text": "Black Tea"
+},
+{
+"name": "category Polteageist",
+"addr": 10122807,
+"size": 13,
+"text": "Black Tea"
+},
+{
+"name": "category Alcremie",
+"addr": 10122975,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123143,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123311,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123479,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123647,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123815,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10123983,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10124151,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Eiscue",
+"addr": 10124319,
+"size": 13,
+"text": "Penguin"
+},
+{
+"name": "category Indeedee",
+"addr": 10124487,
+"size": 13,
+"text": "Emotion"
+},
+{
+"name": "category Morpeko",
+"addr": 10124655,
+"size": 13,
+"text": "Two-Sided"
+},
+{
+"name": "category Zacian",
+"addr": 10124823,
+"size": 13,
+"text": "Warrior"
+},
+{
+"name": "category Zamazenta",
+"addr": 10124991,
+"size": 13,
+"text": "Warrior"
+},
+{
+"name": "category Eternatus",
+"addr": 10125159,
+"size": 13,
+"text": "Gigantic"
+},
+{
+"name": "category Urshifu",
+"addr": 10125327,
+"size": 13,
+"text": "Wushu"
+},
+{
+"name": "category Zarude",
+"addr": 10125495,
+"size": 13,
+"text": "Rogue Monkey"
+},
+{
+"name": "category Calyrex",
+"addr": 10125663,
+"size": 13,
+"text": "High King"
+},
+{
+"name": "category Calyrex",
+"addr": 10125831,
+"size": 13,
+"text": "High King"
+},
+{
+"name": "category Basculegion",
+"addr": 10125999,
+"size": 13,
+"text": "Big Fish"
+},
+{
+"name": "category Alcremie",
+"addr": 10126167,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10126335,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10126503,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10126671,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10126839,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127007,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127175,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127343,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127511,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127679,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10127847,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128015,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128183,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128351,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128519,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128687,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10128855,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129023,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129191,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129359,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129527,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129695,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10129863,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130031,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130199,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130367,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130535,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130703,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10130871,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131039,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131207,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131375,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131543,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131711,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10131879,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132047,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132215,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132383,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132551,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132719,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10132887,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133055,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133223,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133391,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133559,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133727,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10133895,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134063,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134231,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134399,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134567,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134735,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10134903,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Alcremie",
+"addr": 10135071,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Sprigatito",
+"addr": 10135239,
+"size": 13,
+"text": "Grass Cat"
+},
+{
+"name": "category Floragato",
+"addr": 10135407,
+"size": 13,
+"text": "Grass Cat"
+},
+{
+"name": "category Meowscarada",
+"addr": 10135575,
+"size": 13,
+"text": "Magician"
+},
+{
+"name": "category Fuecoco",
+"addr": 10135743,
+"size": 13,
+"text": "Fire Croc"
+},
+{
+"name": "category Crocalor",
+"addr": 10135911,
+"size": 13,
+"text": "Fire Croc"
+},
+{
+"name": "category Skeledirge",
+"addr": 10136079,
+"size": 13,
+"text": "Singer"
+},
+{
+"name": "category Quaxly",
+"addr": 10136247,
+"size": 13,
+"text": "Duckling"
+},
+{
+"name": "category Quaxwell",
+"addr": 10136415,
+"size": 13,
+"text": "Practicing"
+},
+{
+"name": "category Quaquaval",
+"addr": 10136583,
+"size": 13,
+"text": "Dancer"
+},
+{
+"name": "category Lechonk",
+"addr": 10136751,
+"size": 13,
+"text": "Hog"
+},
+{
+"name": "category Oinkologne",
+"addr": 10136919,
+"size": 13,
+"text": "Hog"
+},
+{
+"name": "category Oinkologne",
+"addr": 10137087,
+"size": 13,
+"text": "Hog"
+},
+{
+"name": "category Tarountula",
+"addr": 10137255,
+"size": 13,
+"text": "String Ball"
+},
+{
+"name": "category Spidops",
+"addr": 10137423,
+"size": 13,
+"text": "Trap"
+},
+{
+"name": "category Nymble",
+"addr": 10137591,
+"size": 13,
+"text": "Grasshopper"
+},
+{
+"name": "category Lokix",
+"addr": 10137759,
+"size": 13,
+"text": "Grasshopper"
+},
+{
+"name": "category Pawmi",
+"addr": 10137927,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Pawmo",
+"addr": 10138095,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Pawmot",
+"addr": 10138263,
+"size": 13,
+"text": "Hands-On"
+},
+{
+"name": "category Tandemaus",
+"addr": 10138431,
+"size": 13,
+"text": "Couple"
+},
+{
+"name": "category Maushold",
+"addr": 10138599,
+"size": 13,
+"text": "Family"
+},
+{
+"name": "category Maushold",
+"addr": 10138767,
+"size": 13,
+"text": "Family"
+},
+{
+"name": "category Fidough",
+"addr": 10138935,
+"size": 13,
+"text": "Puppy"
+},
+{
+"name": "category Dachsbun",
+"addr": 10139103,
+"size": 13,
+"text": "Dog"
+},
+{
+"name": "category Smoliv",
+"addr": 10139271,
+"size": 13,
+"text": "Olive"
+},
+{
+"name": "category Dolliv",
+"addr": 10139439,
+"size": 13,
+"text": "Olive"
+},
+{
+"name": "category Arboliva",
+"addr": 10139607,
+"size": 13,
+"text": "Olive"
+},
+{
+"name": "category Squawkabilly",
+"addr": 10139775,
+"size": 13,
+"text": "Parrot"
+},
+{
+"name": "category Squawkabilly",
+"addr": 10139943,
+"size": 13,
+"text": "Parrot"
+},
+{
+"name": "category Squawkabilly",
+"addr": 10140111,
+"size": 13,
+"text": "Parrot"
+},
+{
+"name": "category Squawkabilly",
+"addr": 10140279,
+"size": 13,
+"text": "Parrot"
+},
+{
+"name": "category Nacli",
+"addr": 10140447,
+"size": 13,
+"text": "Rock Salt"
+},
+{
+"name": "category Naclstack",
+"addr": 10140615,
+"size": 13,
+"text": "Rock Salt"
+},
+{
+"name": "category Garganacl",
+"addr": 10140783,
+"size": 13,
+"text": "Rock Salt"
+},
+{
+"name": "category Charcadet",
+"addr": 10140951,
+"size": 13,
+"text": "Fire Child"
+},
+{
+"name": "category Armarouge",
+"addr": 10141119,
+"size": 13,
+"text": "Fire Warrior"
+},
+{
+"name": "category Ceruledge",
+"addr": 10141287,
+"size": 13,
+"text": "Fire Blades"
+},
+{
+"name": "category Tadbulb",
+"addr": 10141455,
+"size": 13,
+"text": "EleTadpole"
+},
+{
+"name": "category Bellibolt",
+"addr": 10141623,
+"size": 13,
+"text": "EleFrog"
+},
+{
+"name": "category Wattrel",
+"addr": 10141791,
+"size": 13,
+"text": "Storm Petrel"
+},
+{
+"name": "category Kilowattrel",
+"addr": 10141959,
+"size": 13,
+"text": "Frigatebird"
+},
+{
+"name": "category Maschiff",
+"addr": 10142127,
+"size": 13,
+"text": "Rascal"
+},
+{
+"name": "category Mabosstiff",
+"addr": 10142295,
+"size": 13,
+"text": "Boss"
+},
+{
+"name": "category Shroodle",
+"addr": 10142463,
+"size": 13,
+"text": "Toxic Mouse"
+},
+{
+"name": "category Grafaiai",
+"addr": 10142631,
+"size": 13,
+"text": "Toxic Monkey"
+},
+{
+"name": "category Bramblin",
+"addr": 10142799,
+"size": 13,
+"text": "Tumbleweed"
+},
+{
+"name": "category Brambleghast",
+"addr": 10142967,
+"size": 13,
+"text": "Tumbleweed"
+},
+{
+"name": "category Toedscool",
+"addr": 10143135,
+"size": 13,
+"text": "Woodear"
+},
+{
+"name": "category Toedscruel",
+"addr": 10143303,
+"size": 13,
+"text": "Woodear"
+},
+{
+"name": "category Klawf",
+"addr": 10143471,
+"size": 13,
+"text": "Ambush"
+},
+{
+"name": "category Capsakid",
+"addr": 10143639,
+"size": 13,
+"text": "Spicy Pepper"
+},
+{
+"name": "category Scovillain",
+"addr": 10143807,
+"size": 13,
+"text": "Spicy Pepper"
+},
+{
+"name": "category Rellor",
+"addr": 10143975,
+"size": 13,
+"text": "Rolling"
+},
+{
+"name": "category Rabsca",
+"addr": 10144143,
+"size": 13,
+"text": "Rolling"
+},
+{
+"name": "category Flittle",
+"addr": 10144311,
+"size": 13,
+"text": "Frill"
+},
+{
+"name": "category Espathra",
+"addr": 10144479,
+"size": 13,
+"text": "Ostrich"
+},
+{
+"name": "category Tinkatink",
+"addr": 10144647,
+"size": 13,
+"text": "Metalsmith"
+},
+{
+"name": "category Tinkatuff",
+"addr": 10144815,
+"size": 13,
+"text": "Hammer"
+},
+{
+"name": "category Tinkaton",
+"addr": 10144983,
+"size": 13,
+"text": "Hammer"
+},
+{
+"name": "category Wiglett",
+"addr": 10145151,
+"size": 13,
+"text": "Garden Eel"
+},
+{
+"name": "category Wugtrio",
+"addr": 10145319,
+"size": 13,
+"text": "Garden Eel"
+},
+{
+"name": "category Bombirdier",
+"addr": 10145487,
+"size": 13,
+"text": "Item Drop"
+},
+{
+"name": "category Finizen",
+"addr": 10145655,
+"size": 13,
+"text": "Dolphin"
+},
+{
+"name": "category Palafin",
+"addr": 10145823,
+"size": 13,
+"text": "Dolphin"
+},
+{
+"name": "category Palafin",
+"addr": 10145991,
+"size": 13,
+"text": "Hero"
+},
+{
+"name": "category Varoom",
+"addr": 10146159,
+"size": 13,
+"text": "Single-Cyl"
+},
+{
+"name": "category Revavroom",
+"addr": 10146327,
+"size": 13,
+"text": "Multi-Cyl"
+},
+{
+"name": "category Cyclizar",
+"addr": 10146495,
+"size": 13,
+"text": "Mount"
+},
+{
+"name": "category Orthworm",
+"addr": 10146663,
+"size": 13,
+"text": "Earthworm"
+},
+{
+"name": "category Glimmet",
+"addr": 10146831,
+"size": 13,
+"text": "Ore"
+},
+{
+"name": "category Glimmora",
+"addr": 10146999,
+"size": 13,
+"text": "Ore"
+},
+{
+"name": "category Greavard",
+"addr": 10147167,
+"size": 13,
+"text": "Ghost Dog"
+},
+{
+"name": "category Houndstone",
+"addr": 10147335,
+"size": 13,
+"text": "Ghost Dog"
+},
+{
+"name": "category Flamigo",
+"addr": 10147503,
+"size": 13,
+"text": "Synchronize"
+},
+{
+"name": "category Cetoddle",
+"addr": 10147671,
+"size": 13,
+"text": "Terra Whale"
+},
+{
+"name": "category Cetitan",
+"addr": 10147839,
+"size": 13,
+"text": "Terra Whale"
+},
+{
+"name": "category Veluza",
+"addr": 10148007,
+"size": 13,
+"text": "Jettison"
+},
+{
+"name": "category Dondozo",
+"addr": 10148175,
+"size": 13,
+"text": "Big Catfish"
+},
+{
+"name": "category Tatsugiri",
+"addr": 10148343,
+"size": 13,
+"text": "Mimicry"
+},
+{
+"name": "category Tatsugiri",
+"addr": 10148511,
+"size": 13,
+"text": "Mimicry"
+},
+{
+"name": "category Tatsugiri",
+"addr": 10148679,
+"size": 13,
+"text": "Mimicry"
+},
+{
+"name": "category Annihilape",
+"addr": 10148847,
+"size": 13,
+"text": "Rage Monkey"
+},
+{
+"name": "category Clodsire",
+"addr": 10149015,
+"size": 13,
+"text": "Spiny Fish"
+},
+{
+"name": "category Farigiraf",
+"addr": 10149183,
+"size": 13,
+"text": "Long Neck"
+},
+{
+"name": "category Dudunsparce",
+"addr": 10149351,
+"size": 13,
+"text": "Land Snake"
+},
+{
+"name": "category Dudunsparce",
+"addr": 10149519,
+"size": 13,
+"text": "Land Snake"
+},
+{
+"name": "category Kingambit",
+"addr": 10149687,
+"size": 13,
+"text": "Big Blade"
+},
+{
+"name": "category Colmilargo",
+"addr": 10149855,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Colmilargo",
+"addr": 10149868,
+"size": 13,
+"text": "Great Tusk"
+},
+{
+"name": "category Colagrito",
+"addr": 10150023,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Colagrito",
+"addr": 10150036,
+"size": 13,
+"text": "Scream Tail"
+},
+{
+"name": "category Furioseta",
+"addr": 10150191,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Furioseta",
+"addr": 10150204,
+"size": 13,
+"text": "Brute Bonnet"
+},
+{
+"name": "category Melenaleteo",
+"addr": 10150359,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Melenaleteo",
+"addr": 10150372,
+"size": 13,
+"text": "Flutter Mane"
+},
+{
+"name": "category Reptalada",
+"addr": 10150527,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Reptalada",
+"addr": 10150540,
+"size": 13,
+"text": "Slither Wing"
+},
+{
+"name": "category Pelarena",
+"addr": 10150695,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Pelarena",
+"addr": 10150708,
+"size": 13,
+"text": "Sandy Shocks"
+},
+{
+"name": "category Ferrodada",
+"addr": 10150863,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferrodada",
+"addr": 10150876,
+"size": 13,
+"text": "Iron Treads"
+},
+{
+"name": "category Ferrosaco",
+"addr": 10151031,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferrosaco",
+"addr": 10151044,
+"size": 13,
+"text": "Iron Bundle"
+},
+{
+"name": "category Ferropalmas",
+"addr": 10151199,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferropalmas",
+"addr": 10151212,
+"size": 13,
+"text": "Iron Hands"
+},
+{
+"name": "category Ferrocuello",
+"addr": 10151367,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferrocuello",
+"addr": 10151380,
+"size": 13,
+"text": "Iron Jugulis"
+},
+{
+"name": "category Ferropolilla",
+"addr": 10151535,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferropolilla",
+"addr": 10151548,
+"size": 13,
+"text": "Iron Moth"
+},
+{
+"name": "category Ferropúas",
+"addr": 10151703,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferropúas",
+"addr": 10151716,
+"size": 13,
+"text": "Iron Thorns"
+},
+{
+"name": "category Frigibax",
+"addr": 10151871,
+"size": 13,
+"text": "Ice Fin"
+},
+{
+"name": "category Arctibax",
+"addr": 10152039,
+"size": 13,
+"text": "Ice Fin"
+},
+{
+"name": "category Baxcalibur",
+"addr": 10152207,
+"size": 13,
+"text": "Ice Dragon"
+},
+{
+"name": "category Gimmighoul",
+"addr": 10152375,
+"size": 13,
+"text": "Coin Chest"
+},
+{
+"name": "category Gimmighoul",
+"addr": 10152543,
+"size": 13,
+"text": "Coin Hunter"
+},
+{
+"name": "category Gholdengo",
+"addr": 10152711,
+"size": 13,
+"text": "Coin Entity"
+},
+{
+"name": "category Wo-Chien",
+"addr": 10152879,
+"size": 13,
+"text": "Ruinous"
+},
+{
+"name": "category Chien-Pao",
+"addr": 10153047,
+"size": 13,
+"text": "Ruinous"
+},
+{
+"name": "category Ting-Lu",
+"addr": 10153215,
+"size": 13,
+"text": "Ruinous"
+},
+{
+"name": "category Chi-Yu",
+"addr": 10153383,
+"size": 13,
+"text": "Ruinous"
+},
+{
+"name": "category Bramaluna",
+"addr": 10153551,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Bramaluna",
+"addr": 10153564,
+"size": 13,
+"text": "Roaring Moon"
+},
+{
+"name": "category Ferropaladín",
+"addr": 10153719,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferropaladín",
+"addr": 10153732,
+"size": 13,
+"text": "Iron Valiant"
+},
+{
+"name": "category Koraidon",
+"addr": 10153887,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "category Miraidon",
+"addr": 10154055,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "category Tauros",
+"addr": 10154223,
+"size": 13,
+"text": "Wild Bull"
+},
+{
+"name": "category Tauros",
+"addr": 10154391,
+"size": 13,
+"text": "Wild Bull"
+},
+{
+"name": "category Tauros",
+"addr": 10154559,
+"size": 13,
+"text": "Wild Bull"
+},
+{
+"name": "category Wooper",
+"addr": 10154727,
+"size": 13,
+"text": "Poison Fish"
+},
+{
+"name": "category Ondulagua",
+"addr": 10154895,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ondulagua",
+"addr": 10154908,
+"size": 13,
+"text": "Walking Wake"
+},
+{
+"name": "category Ferroverdor",
+"addr": 10155063,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferroverdor",
+"addr": 10155076,
+"size": 13,
+"text": "Iron Leaves"
+},
+{
+"name": "category Dipplin",
+"addr": 10155231,
+"size": 13,
+"text": "Candy Apple"
+},
+{
+"name": "category Okidogi",
+"addr": 10156071,
+"size": 13,
+"text": "Retainer"
+},
+{
+"name": "category Munkidori",
+"addr": 10156239,
+"size": 13,
+"text": "Retainer"
+},
+{
+"name": "category Fezandipiti",
+"addr": 10156407,
+"size": 13,
+"text": "Retainer"
+},
+{
+"name": "category Ogerpon",
+"addr": 10156575,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10156743,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10156911,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10157079,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10157247,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10157415,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10157583,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ogerpon",
+"addr": 10157751,
+"size": 13,
+"text": "Mask"
+},
+{
+"name": "category Ursaluna",
+"addr": 10157919,
+"size": 13,
+"text": "Peat"
+},
+{
+"name": "category Archaludon",
+"addr": 10158087,
+"size": 13,
+"text": "Alloy"
+},
+{
+"name": "category Hydrapple",
+"addr": 10158255,
+"size": 13,
+"text": "Apple Hydra"
+},
+{
+"name": "category Flamariete",
+"addr": 10158423,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Flamariete",
+"addr": 10158436,
+"size": 13,
+"text": "Gouging Fire"
+},
+{
+"name": "category Electrofuria",
+"addr": 10158591,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Electrofuria",
+"addr": 10158604,
+"size": 13,
+"text": "Raging Bolt"
+},
+{
+"name": "category Ferromole",
+"addr": 10158759,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferromole",
+"addr": 10158772,
+"size": 13,
+"text": "Iron Boulder"
+},
+{
+"name": "category Ferrotesta",
+"addr": 10158927,
+"size": 13,
+"text": "Paradox"
+},
+{
+"name": "species Ferrotesta",
+"addr": 10158940,
+"size": 13,
+"text": "Iron Crown"
+},
+{
+"name": "category Terapagos",
+"addr": 10159095,
+"size": 13,
+"text": "Tera"
+},
+{
+"name": "category Pecharunt",
+"addr": 10159599,
+"size": 13,
+"text": "Subjugation"
+},
+{
+"name": "category Mothim",
+"addr": 10159935,
+"size": 13,
+"text": "Moth"
+},
+{
+"name": "category Mothim",
+"addr": 10160103,
+"size": 13,
+"text": "Moth"
+},
+{
+"name": "category Scatterbug",
+"addr": 10160271,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10160439,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10160607,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10160775,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10160943,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161111,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161279,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161447,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161615,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161783,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10161951,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162119,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162287,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162455,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162623,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162791,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10162959,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10163127,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Scatterbug",
+"addr": 10163295,
+"size": 13,
+"text": "Scatterdust"
+},
+{
+"name": "category Raticate",
+"addr": 10166655,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Gumshoos",
+"addr": 10166823,
+"size": 13,
+"text": "Stakeout"
+},
+{
+"name": "category Vikavolt",
+"addr": 10166991,
+"size": 13,
+"text": "Stag Beetle"
+},
+{
+"name": "category Lurantis",
+"addr": 10167159,
+"size": 13,
+"text": "Bloom Sickle"
+},
+{
+"name": "category Salazzle",
+"addr": 10167327,
+"size": 13,
+"text": "Toxic Lizard"
+},
+{
+"name": "category Mimikyu",
+"addr": 10167495,
+"size": 13,
+"text": "Disguise"
+},
+{
+"name": "category Kommo-o",
+"addr": 10167663,
+"size": 13,
+"text": "Scaly"
+},
+{
+"name": "category Marowak",
+"addr": 10167831,
+"size": 13,
+"text": "Bone Keeper"
+},
+{
+"name": "category Ribombee",
+"addr": 10167999,
+"size": 13,
+"text": "Bee Fly"
+},
+{
+"name": "category Araquanid",
+"addr": 10168167,
+"size": 13,
+"text": "Water Bubble"
+},
+{
+"name": "category Togedemaru",
+"addr": 10168335,
+"size": 13,
+"text": "Roly-Poly"
+},
+{
+"name": "category Eevee",
+"addr": 10168671,
+"size": 13,
+"text": "Evolution"
+},
+{
+"name": "category Venusaur",
+"addr": 10168839,
+"size": 13,
+"text": "Seed"
+},
+{
+"name": "category Blastoise",
+"addr": 10169007,
+"size": 13,
+"text": "Shellfish"
+},
+{
+"name": "category Charizard",
+"addr": 10169175,
+"size": 13,
+"text": "Flame"
+},
+{
+"name": "category Butterfree",
+"addr": 10169343,
+"size": 13,
+"text": "Butterfly"
+},
+{
+"name": "category Meowth",
+"addr": 10169679,
+"size": 13,
+"text": "Scratch Cat"
+},
+{
+"name": "category Machamp",
+"addr": 10169847,
+"size": 13,
+"text": "Superpower"
+},
+{
+"name": "category Gengar",
+"addr": 10170015,
+"size": 13,
+"text": "Shadow"
+},
+{
+"name": "category Kingler",
+"addr": 10170183,
+"size": 13,
+"text": "Pincer"
+},
+{
+"name": "category Lapras",
+"addr": 10170351,
+"size": 13,
+"text": "Transport"
+},
+{
+"name": "category Eevee",
+"addr": 10170519,
+"size": 13,
+"text": "Evolution"
+},
+{
+"name": "category Snorlax",
+"addr": 10170687,
+"size": 13,
+"text": "Sleeping"
+},
+{
+"name": "category Garbodor",
+"addr": 10170855,
+"size": 13,
+"text": "Trash Heap"
+},
+{
+"name": "category Melmetal",
+"addr": 10171023,
+"size": 13,
+"text": "Hex Nut"
+},
+{
+"name": "category Rillaboom",
+"addr": 10171191,
+"size": 13,
+"text": "Drummer"
+},
+{
+"name": "category Cinderace",
+"addr": 10171359,
+"size": 13,
+"text": "Striker"
+},
+{
+"name": "category Inteleon",
+"addr": 10171527,
+"size": 13,
+"text": "Secret Agent"
+},
+{
+"name": "category Corviknight",
+"addr": 10171695,
+"size": 13,
+"text": "Raven"
+},
+{
+"name": "category Orbeetle",
+"addr": 10171863,
+"size": 13,
+"text": "Seven Spot"
+},
+{
+"name": "category Drednaw",
+"addr": 10172031,
+"size": 13,
+"text": "Bite"
+},
+{
+"name": "category Coalossal",
+"addr": 10172199,
+"size": 13,
+"text": "Coal"
+},
+{
+"name": "category Flapple",
+"addr": 10172367,
+"size": 13,
+"text": "Apple Wing"
+},
+{
+"name": "category Appletun",
+"addr": 10172535,
+"size": 13,
+"text": "Apple Nectar"
+},
+{
+"name": "category Sandaconda",
+"addr": 10172703,
+"size": 13,
+"text": "Sand Snake"
+},
+{
+"name": "category Toxtricity",
+"addr": 10172871,
+"size": 13,
+"text": "Punk"
+},
+{
+"name": "category Toxtricity",
+"addr": 10173039,
+"size": 13,
+"text": "Punk"
+},
+{
+"name": "category Centiskorch",
+"addr": 10173207,
+"size": 13,
+"text": "Radiator"
+},
+{
+"name": "category Hatterene",
+"addr": 10173375,
+"size": 13,
+"text": "Silent"
+},
+{
+"name": "category Grimmsnarl",
+"addr": 10173543,
+"size": 13,
+"text": "Bulk Up"
+},
+{
+"name": "category Alcremie",
+"addr": 10173711,
+"size": 13,
+"text": "Cream"
+},
+{
+"name": "category Copperajah",
+"addr": 10173879,
+"size": 13,
+"text": "Copperderm"
+},
+{
+"name": "category Duraludon",
+"addr": 10174047,
+"size": 13,
+"text": "Alloy"
+},
+{
+"name": "category Urshifu",
+"addr": 10174215,
+"size": 13,
+"text": "Wushu"
+},
+{
+"name": "category Urshifu",
+"addr": 10174383,
+"size": 13,
+"text": "Wushu"
+},
+{
+"name": "category Mimikyu",
+"addr": 10174551,
+"size": 13,
+"text": "Disguise"
+},
+{
+"name": "category Victreebel",
+"addr": 10174887,
+"size": 13,
+"text": "Flycatcher"
+},
+{
+"name": "category Starmie",
+"addr": 10175055,
+"size": 13,
+"text": "Mysterious"
+},
+{
+"name": "category Dragonite",
+"addr": 10175223,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Meganium",
+"addr": 10175391,
+"size": 13,
+"text": "Herb"
+},
+{
+"name": "category Feraligatr",
+"addr": 10175559,
+"size": 13,
+"text": "Big Jaw"
+},
+{
+"name": "category Skarmory",
+"addr": 10175727,
+"size": 13,
+"text": "Armor Bird"
+},
+{
+"name": "category Froslass",
+"addr": 10175895,
+"size": 13,
+"text": "Snow Land"
+},
+{
+"name": "category Emboar",
+"addr": 10176063,
+"size": 13,
+"text": "Fire Pig"
+},
+{
+"name": "category Excadrill",
+"addr": 10176231,
+"size": 13,
+"text": "Subterrene"
+},
+{
+"name": "category Scolipede",
+"addr": 10176399,
+"size": 13,
+"text": "Megapede"
+},
+{
+"name": "category Scrafty",
+"addr": 10176567,
+"size": 13,
+"text": "Hoodlum"
+},
+{
+"name": "category Eelektross",
+"addr": 10176735,
+"size": 13,
+"text": "EleFish"
+},
+{
+"name": "category Chandelure",
+"addr": 10176903,
+"size": 13,
+"text": "Luring"
+},
+{
+"name": "category Chesnaught",
+"addr": 10177071,
+"size": 13,
+"text": "Spiny Armor"
+},
+{
+"name": "category Delphox",
+"addr": 10177239,
+"size": 13,
+"text": "Fox"
+},
+{
+"name": "category Pyroar",
+"addr": 10177575,
+"size": 13,
+"text": "Royal"
+},
+{
+"name": "category Malamar",
+"addr": 10177743,
+"size": 13,
+"text": "Overturning"
+},
+{
+"name": "category Dragalge",
+"addr": 10177911,
+"size": 13,
+"text": "Mock Kelp"
+},
+{
+"name": "category Hawlucha",
+"addr": 10178079,
+"size": 13,
+"text": "Wrestling"
+},
+{
+"name": "category Floette",
+"addr": 10178247,
+"size": 13,
+"text": "Single Bloom"
+},
+{
+"name": "category Barbaracle",
+"addr": 10178415,
+"size": 13,
+"text": "Collective"
+},
+{
+"name": "category Zygarde",
+"addr": 10178583,
+"size": 13,
+"text": "Order"
+},
+{
+"name": "category Drampa",
+"addr": 10178751,
+"size": 13,
+"text": "Imposing"
+},
+{
+"name": "category Falinks",
+"addr": 10178919,
+"size": 13,
+"text": "Formation"
+},
+{
+"name": "category Trxatu",
+"addr": 10179087,
+"size": 13,
+"text": "Mystic"
+},
+{
+"name": "category Electrode-Y",
+"addr": 10179255,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Tauros-X",
+"addr": 10179423,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Porygon 3",
+"addr": 10179591,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Electivire-X",
+"addr": 10179759,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Magmortar-Y",
+"addr": 10179927,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Nidoqueen-Y",
+"addr": 10180095,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Nidoking-X",
+"addr": 10180263,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category PorygonZ-X",
+"addr": 10180431,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category PorygonZ-Y",
+"addr": 10180599,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Nidogod",
+"addr": 10180767,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Aero-skel",
+"addr": 10180935,
+"size": 13,
+"text": "Ghost"
+},
+{
+"name": "category Cradily-P",
+"addr": 10181103,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Zapdos-Z",
+"addr": 10181775,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Dun",
+"addr": 10184799,
+"size": 13,
+"text": "Blessed"
+},
+{
+"name": "category Ghost",
+"addr": 10187655,
+"size": 13,
+"text": "Soul"
+},
+{
+"name": "category Zapdos-P",
+"addr": 10188327,
+"size": 13,
+"text": "Electric"
+},
+{
+"name": "category Kurusu",
+"addr": 10189167,
+"size": 13,
+"text": "Hatchling"
+},
+{
+"name": "category Akua",
+"addr": 10189335,
+"size": 13,
+"text": "Predator"
+},
+{
+"name": "category Akueria",
+"addr": 10189503,
+"size": 13,
+"text": "Apex Pred."
+},
+{
+"name": "category Boohoo",
+"addr": 10189671,
+"size": 13,
+"text": "Owl"
+},
+{
+"name": "category Ikary",
+"addr": 10189839,
+"size": 13,
+"text": "Voracious"
+},
+{
+"name": "category Purakkusu",
+"addr": 10190007,
+"size": 13,
+"text": "Beetle"
+},
+{
+"name": "category Taaban",
+"addr": 10190175,
+"size": 13,
+"text": "Bivalve"
+},
+{
+"name": "category Bomushikaa",
+"addr": 10190343,
+"size": 13,
+"text": "Sea Lion"
+},
+{
+"name": "category Madaamu",
+"addr": 10190511,
+"size": 13,
+"text": "Wild Duck"
+},
+{
+"name": "category Dusknoir",
+"addr": 10191855,
+"size": 13,
+"text": "Gripper"
+},
+{
+"name": "category Flygon",
+"addr": 10192023,
+"size": 13,
+"text": "Mystic"
+},
+{
+"name": "category Starmie",
+"addr": 10192191,
+"size": 13,
+"text": "Mysterious"
+},
+{
+"name": "category Butterfree",
+"addr": 10192359,
+"size": 13,
+"text": "Butterfly"
+},
+{
+"name": "category Noivern",
+"addr": 10192527,
+"size": 13,
+"text": "Sound Wave"
+},
+{
+"name": "category Milotic",
+"addr": 10192695,
+"size": 13,
+"text": "Tender"
+},
+{
+"name": "category Toxtricity",
+"addr": 10194879,
+"size": 13,
+"text": "Punk"
+},
+{
+"name": "category Blessparce",
+"addr": 10195047,
+"size": 13,
+"text": "Blessed"
+},
+{
+"name": "category Wrongsparce",
+"addr": 10195215,
+"size": 13,
+"text": "Absurd"
+},
+{
+"name": "category Gorochu",
+"addr": 10195383,
+"size": 13,
+"text": "Mouse"
+},
+{
+"name": "category Wartillery",
+"addr": 10195551,
+"size": 13,
+"text": "Tank"
+},
+{
+"name": "category Qwoltfish",
+"addr": 10195719,
+"size": 13,
+"text": "Spiny"
+},
+{
+"name": "category Guardia",
+"addr": 10195887,
+"size": 13,
+"text": "Bond"
+},
+{
+"name": "category Armaldo-P",
+"addr": 10196055,
+"size": 13,
+"text": "Armor"
+},
+{
+"name": "category Relicanth-P",
+"addr": 10196223,
+"size": 13,
+"text": "Longevity"
+},
+{
+"name": "category Gyarados-Z",
+"addr": 10196727,
+"size": 13,
+"text": "Mutation"
+},
+{
+"name": "category Porygon 3.1",
+"addr": 10196895,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Aerodactyl-P",
+"addr": 10197063,
+"size": 13,
+"text": "Fossil"
+},
+{
+"name": "category Blastoise-Z",
+"addr": 10197903,
+"size": 13,
+"text": "Experiment"
+},
+{
+"name": "category Wrongsparce",
+"addr": 10198071,
+"size": 13,
+"text": "Absurd"
+},
+{
+"name": "category Salamence-&",
+"addr": 10198407,
+"size": 13,
+"text": "Dragon"
+},
+{
+"name": "category Darmanitan",
+"addr": 10198575,
+"size": 13,
+"text": "Blazing"
+},
+{
+"name": "category Yanmteura",
+"addr": 10198911,
+"size": 13,
+"text": "Dragonfly"
+},
+{
+"name": "category Zubat",
+"addr": 10199079,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Golbat",
+"addr": 10199247,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category Crobat",
+"addr": 10199415,
+"size": 13,
+"text": "Bat"
+},
+{
+"name": "category XD-001",
+"addr": 10199583,
+"size": 13,
+"text": "Diving"
+},
+{
+"name": "category Zeraora",
+"addr": 10200087,
+"size": 13,
+"text": "Thunderclap"
+},
+{
+"name": "category Golisopod",
+"addr": 10202103,
+"size": 13,
+"text": "Hard Scale"
+},
+{
+"name": "category Baxcalibur",
+"addr": 10202775,
+"size": 13,
+"text": "Ice Dragon"
+},
+{
+"name": "category Auredian",
+"addr": 10203615,
+"size": 13,
+"text": "5-Star"
+},
+{
+"name": "category Darmanitan",
+"addr": 10203783,
+"size": 13,
+"text": "Zen Charm"
+}
+]

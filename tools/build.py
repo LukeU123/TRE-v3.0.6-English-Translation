@@ -12,10 +12,19 @@ for f in sorted(glob.glob('work/tr/*')):
             if '|' in ln and not ln.startswith('#'):
                 k,v=ln.split('|',1);tr[int(k,16)]=v
 FREE=0x1cdadc0;warn=[];inp=mov=0
+def _cmdptr(p):
+    # a script command pointer (loadword 0F 0x / message 67) to a known string starts at p
+    if not (src[p-2]==0x0f and src[p-1]<4 or src[p-1]==0x67): return False
+    return struct.unpack_from('<I',src,p)[0]-0x08000000 in S
+def _clash(r):
+    # r's 4 bytes overlap a different, real script command pointer -> r is a false match
+    return any(_cmdptr(p) for p in range(r-3,r+4) if p!=r)
 def goodrefs(x):
     o=x['off']
-    return [r for r in x['refs'] if r%4==0 or src[r-2:r]==b'\x0f\x00' or src[r-1]==0x67 or (0x1e0000<=r<0x500000 and src[o-1] in (0xff,0x00))]
-split=lambda s:re.split(r'\\[nlp]',re.sub(r'\{[^}]*\}','',s))
+    return [r for r in x['refs'] if (r%4==0 or src[r-2:r]==b'\x0f\x00' or src[r-1]==0x67 or (0x1e0000<=r<0x500000 and src[o-1] in (0xff,0x00))) and not (r%4 and _clash(r)) and not (r>=0x500000 and 0x1e0000<=o<0x4b0000)]
+# ^ map dialogue (0x1E0000-0x4B0000) is only referenced from scripts and code; an exact match deep in the
+#   data area is a coincidence inside compressed graphics (found 5, all in smol blobs), so never rewrite it
+split=lambda s:re.split(r'\\[nlp]',re.sub(r'\[[^]]*\]','#',re.sub(r'\{[^}]*\}','',s)))
 for off,en in sorted(tr.items()):
     x=S.get(off)
     if x is None: warn.append('%x unknown string'%off);continue
@@ -35,6 +44,14 @@ for off,en in sorted(tr.items()):
         for r in goodrefs(x): struct.pack_into('<I',d,r,FREE+0x08000000)
         FREE=(FREE+len(b)+3)&~3;mov+=1
     else: warn.append('%x TOO LONG and unpointed (%d>%d): %s'%(off,len(b),n,en))
+# fixed-size inline name tables (no pointers): written in place, padded with 00 like the original
+if os.path.exists('work/tr_tables.json'):
+    for t in json.load(open('work/tr_tables.json')):
+        b=encode(t['text']);a=t['addr'];n=t['size']
+        if b[-1]!=0xff: b+=b'\xff'
+        assert len(b)<=n,(t,len(b))
+        d[a:a+n]=b+b'\x00'*(n-len(b))
+    print('name tables applied')
 # graphics patches
 import os as _os
 if _os.path.exists('work/gfx/patches.json'):

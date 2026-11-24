@@ -3,12 +3,13 @@
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
 ## 24 Nov 2026: playtest fixes (evening)
-- Pokédex: fixed the garbled START menu, translated the stat labels (PS/AT/DF/AE/DE/VL → HP/AT/DE/SA/SD/SP), the NATIONAL heading and "Modo A-Z" → "A-Z Mode".
+- Pokédex: fixed the garbled START menu (both versions), "P." → "WT", "Searching… Please wait.", translated the stat labels (PS/AT/DF/AE/DE/VL → HP/AT/DE/SA/SD/SP), the NATIONAL heading and "Modo A-Z" → "A-Z Mode".
 - Trainer card header "FICHA ROCKET" → "ROCKET CARD". This graphic is unique to the hack, so it was redrawn by hand in the original lettering.
 - Party screen HP bars showed "PS" (Spanish for HP). Now "HP", along with a second HP bar graphic.
 - Bag/TM info panel: TYPE / POWER / ACCURACY / PP / EFFECT labels and its set of type icons were still Spanish.
 - Pokémon markings menu: VALE / SALIR → OK / CANCEL.
 - 129 more lines that were still Spanish, such as short exclamations ("¡Luke!"), Hoenn route signposts and POKéBLOCK dialogue. The extractor had skipped lines that start straight after a script command.
+- 96 more menu lines that were still in Spanish: prize shops (COINS and prices), the egg shop, the three difficulty descriptions, Battle Frontier "Streak" and "LV. 50".
 - Swept the whole ROM for uncompressed engine graphics that still differ from English; these were the only ones left.
 
 ## 24 Nov 2026: QA pass

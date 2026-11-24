@@ -1,0 +1,95 @@
+e7eb0c|500 COINS  $10,000
+e7eb20|  50 COINS    $1,000
+e7eb60|TM159{C1338}4,000 COINS
+e7eb78|TM158{C1338}4,000 COINS
+e7eb90|TM156{C1338}4,500 COINS
+e7eba8|TM137{C1338}2,500 COINS
+e84aa0|ZERAORITE -              50 COINS
+e84ac4|BAXCALIBRITE -      40 COINS
+e84ae4|CHESNAUGHTITE -      30 COINS
+e84b98|500 COINS - $1,550,000
+e84bb4|250 COINS - $775,000
+e84bcc|100 COINS - $310,000
+e84be4|50 COINS - $155,000
+e84bfc|25 COINS - $77,500
+e84c14|10 COINS - $31,000
+e84c2c|1 COIN - $3,100
+e84c40|500 COINS - $1,210,000
+e84c5c|250 COINS - $605,000
+e84c74|100 COINS - $242,000
+e84c8c|50 COINS - $121,000
+e84ca4|25 COINS - $60,500
+e84cbc|10 COINS - $24,200
+e84cd4|1 COIN - $2,420
+e84ce8|500 COINS - $1,100,000
+e84d04|250 COINS - $550,000
+e84d1c|100 COINS - $220,000
+e84d34|50 COINS - $110,000
+e84d4c|25 COINS - $55,000
+e84d64|10 COINS - $22,000
+e84d7c|1 COIN - $2,200
+e84d90|500 COINS - $840,000
+e84da8|250 COINS - $420,000
+e84dc0|100 COINS - $168,000
+e84dd8|50 COINS - $84,000
+e84df0|25 COINS - $42,000
+e84e08|10 COINS - $16,800
+e84e20|1 COIN - $1,680
+e84e34|500 COINS - $700,000
+e84e4c|250 COINS - $350,000
+e84e64|100 COINS - $140,000
+e84e7c|50 COINS - $70,000
+e84e94|25 COINS - $35,000
+e84eac|10 COINS - $14,000
+e84ec4|1 COIN - $1,400
+e84ed8|500 COINS - $500,000
+e84ef0|250 COINS - $250,000
+e84f08|100 COINS - $100,000
+e84f20|50 COINS - $50,000
+e84f38|25 COINS - $25,000
+e84f50|10 COINS - $10,000
+e84f68|1 COIN - $1,000
+e84f9c|Radiant Egg -         $900,000
+e84fbc|Muse Egg -            $750,000
+e84fe0|Libero Egg -         $500,000
+e85020|Armor Egg -        $140,000
+e85040|Apple Egg -     $80,000
+e85060|Aurora Egg -          $50,000
+e850a0|1 Relic Gold -       x2 Elixir
+e851d8|TREECKO        8,000 COINS
+e851f4|PURRLOIN      3,000 COINS
+e85210|BLITZLE        2,500 COINS
+e8522c|STUNKY          1,800 COINS
+e8524c|GLAMEOW        1,500 COINS
+e85268|TRUBBISH      1,200 COINS
+e85338|ROCKET STONE     $2,000,000
+e85404|HITMONTOP     4,500 COINS
+e85420|CYNDAQUIL     4,200 COINS
+e8543c|SUDOWOODO     2,400 COINS
+e85458|SHUCKLE         1,250 COINS
+e85478|TEDDIURSA     500 COINS
+e85494|CHOICE BAND    3,000 COINS
+e854b4|LIFE ORB          2,800 COINS
+e854d4|ROCKY HELMET    1,000 COINS
+e854f4|TOXIC ORB          1,000 COINS
+e85514|WIDE LENS                800 COINS
+e85538|CHOICE SPECS      3,000 COINS
+e85558|ASSAULT VEST    2,800 COINS
+e85574|EXPERT BELT       2,400 COINS
+e855cc|BELDUM          6,000 COINS
+e855ec|DEINO            6,000 COINS
+e8560c|BAGON            6,000 COINS
+e8562c|TRAPINCH      1,200 COINS
+e86248|{D02} players
+e86258|{D01} players
+e86268|{D00} players
+e86724|- Stronger PKMN and/or +1 PKMN.\n- Advanced battle AI.\n- SHIFT battle style off.\n- Medicine use off.\n- Rival IVs/EVs grow\nfaster.\n- Competitive use of items,\n abilities and moves.{K04}
+e86814|- Standard PKMN teams.\n- Advanced battle AI.\n- SHIFT battle style off.\n- Medicine use on.\n- Rival IVs/EVs grow\nat a normal rate.\n- Sensible use of items,\n abilities and moves.{K04}
+e868fc|- Weaker PKMN and/or -1 PKMN.\n- Basic battle AI.\n- SHIFT battle style on.\n- Medicine use on.\n- Rival IVs/EVs grow\nslower.\n- Poor use of items,\n abilities and moves.{K04}
+e86f0c|Streak: {V03}
+e86f28|LV. 50
+e86fc8|Streak: {V02}
+e86fe4|LV. 50
+e8aba4|WT
+e86238|{D03} players
+e8ab90|Searching…\nPlease wait.

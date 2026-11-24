@@ -4,7 +4,10 @@ All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e69048
 
 ## 24 Nov 2026: playtest fixes (evening)
 - Trainer card header "FICHA ROCKET" → "ROCKET CARD". This graphic is unique to the hack, so it was redrawn by hand in the original lettering.
-- Party screen HP bars showed "PS" (Spanish for HP). Now "HP".
+- Party screen HP bars showed "PS" (Spanish for HP). Now "HP", along with a second HP bar graphic.
+- Bag/TM info panel: TYPE / POWER / ACCURACY / PP / EFFECT labels and its set of type icons were still Spanish.
+- Pokémon markings menu: VALE / SALIR → OK / CANCEL.
+- Swept the whole ROM for uncompressed engine graphics that still differ from English; these were the only ones left.
 
 ## 24 Nov 2026: QA pass
 **Fixes found by automated checks**

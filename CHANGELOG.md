@@ -2,6 +2,9 @@
 
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
+## 25 Nov 2026: more missed descriptions
+- 23 move descriptions (Sludge, Scald, Leaf Storm, Draco Meteor, Fire Spin…), the POKéBLOCK CASE description and 3 Pokédex entries were still Spanish. A stray character before each one had stopped the extractor finding it.
+
 ## 24 Nov 2026: playtest fixes (evening)
 - Two-turn move descriptions (Dig, Dive, Solar Beam, Bounce, Skull Bash…) were still Spanish: the superscript in "1.er" stopped them being picked up. A few TM/item descriptions rewrapped to fit the bag box.
 - Rocket Timeline info screen translated.

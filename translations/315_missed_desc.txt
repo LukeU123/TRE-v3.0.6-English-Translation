@@ -1,0 +1,26 @@
+8de818|A case for holding\n[PO][Ké][BL][OC][K]S made in\na BERRY BLENDER.
+949fd0|30% burn chance. Doubles in\npower if the foe has a status.
+94a358|A storm of love and hate.\n30% chance to lower Attack.
+94a5c0|A furious attack.\n20% flinch chance.
+94a798|Hurls scorching sand at the\ntarget. 30% burn chance.
+94b0f8|Traps the target in a\nsnare for 4 or 5 turns.
+94b768|The user wraps itself in\nflames and burns the foe.
+94bbc0|A powerful beam of light.\nThe user must rest 1 turn.
+94bd54|A strong beam that sharply\nlowers the user's Sp. Atk.
+94bea0|A loud scaly noise that\nlowers the user's Defense.
+94d740|Engulfs the foe in a blue\nflame. 20% burn chance.
+94e1cc|Blasts the foe with boiling\nwater. 30% burn chance.
+94f0c8|A storm of leaves. Sharply\nlowers the user's Sp. Atk.
+94f154|Hurls meteors at the foe.\nSharply lowers user's Sp. Atk.
+950350|Incredibly powerful, but\nsharply lowers user's Sp. Atk.
+9509d0|Traps the foe in a sand\nwhirlpool for 2 to 5 turns.
+950e98|Strikes like a meteor.\n20% chance to raise Attack.
+951f64|Whips up a violent tornado.\n20% flinch chance.
+953988|Traps and squeezes the foe\nhard for 2 to 5 turns.
+953a84|Hurls sludge at the foe.\n30% poison chance.
+9543e4|A ring of fire that traps\nthe foe for 2 to 5 turns.
+954e9c|A full-body attack that\nmay (30%) paralyze.
+9552f4|Wreaks havoc on the foe, but\nthe user must rest a turn.
+9d99c0|Its body is made of the hardest metal\nthere is, a mysterious substance that's\nvery solid yet expands and contracts\neasily.
+9df95c|It's said to arrive with the cold winds\nof winter. It's thought to guard the\nforests and is so feared that no one\ndares to enter its home.
+9eff60|During meteor showers, they can be seen\ndancing in circles all night long. They\nstop only at daybreak, when they quit\ndancing and drink the morning dew.

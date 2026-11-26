@@ -9880,5 +9880,113 @@
 "addr": 10203783,
 "size": 13,
 "text": "Zen Charm"
+},
+{
+"name": "type name Normal",
+"addr": 4976984,
+"size": 9,
+"text": "Normal"
+},
+{
+"name": "type name Fighting",
+"addr": 4977024,
+"size": 9,
+"text": "Fighting"
+},
+{
+"name": "type name Flying",
+"addr": 4977064,
+"size": 9,
+"text": "Flying"
+},
+{
+"name": "type name Poison",
+"addr": 4977104,
+"size": 9,
+"text": "Poison"
+},
+{
+"name": "type name Ground",
+"addr": 4977144,
+"size": 9,
+"text": "Ground"
+},
+{
+"name": "type name Rock",
+"addr": 4977184,
+"size": 9,
+"text": "Rock"
+},
+{
+"name": "type name Bug",
+"addr": 4977224,
+"size": 9,
+"text": "Bug"
+},
+{
+"name": "type name Ghost",
+"addr": 4977264,
+"size": 9,
+"text": "Ghost"
+},
+{
+"name": "type name Steel",
+"addr": 4977304,
+"size": 9,
+"text": "Steel"
+},
+{
+"name": "type name Water",
+"addr": 4977424,
+"size": 9,
+"text": "Water"
+},
+{
+"name": "type name Grass",
+"addr": 4977464,
+"size": 9,
+"text": "Grass"
+},
+{
+"name": "type name Electric",
+"addr": 4977504,
+"size": 9,
+"text": "Electric"
+},
+{
+"name": "type name Psychic",
+"addr": 4977544,
+"size": 9,
+"text": "Psychic"
+},
+{
+"name": "type name Ice",
+"addr": 4977584,
+"size": 9,
+"text": "Ice"
+},
+{
+"name": "type name Dragon",
+"addr": 4977624,
+"size": 9,
+"text": "Dragon"
+},
+{
+"name": "type name Dark",
+"addr": 4977664,
+"size": 9,
+"text": "Dark"
+},
+{
+"name": "type name Fairy",
+"addr": 4977704,
+"size": 9,
+"text": "Fairy"
+},
+{
+"name": "type name Stellar",
+"addr": 4977744,
+"size": 9,
+"text": "Stellar"
 }
 ]

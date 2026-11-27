@@ -155,3 +155,4 @@
 8df264|TM246
 8e29d8|Enigma Berry
 8e29c8|Enigma Berries
+e71450|SILPH CO.

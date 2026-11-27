@@ -2,6 +2,10 @@
 
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
+## 27 Nov 2026
+- 7 move names were still Spanish (Hiperrayo → Hyper Beam, A Bocajarro → Close Combat, Gigaimpacto → Giga Impact, Humareda → Lava Plume, Romperrocas → Rock Wrecker, A Defender → Defend Order, Ascensodraco → Dragon Ascent).
+- TM100–TM246 were labelled "MT"; "Baya Enigma" → Enigma Berry.
+
 ## 26 Nov 2026
 - Type names in the move-learning screen ("Agua" → Water, plus Fairy and Stellar), now part of the fixed name tables.
 

@@ -1,0 +1,8 @@
+# lines starting with a placeholder that the extractor skipped (PC storage, battle, Pokédex)
+973670|{D00} selected.
+9735dc|{D00} was deposited.
+97359c|{D00} was released.
+973464|{D00} selected.
+4c4e80|{V10} acquired\n {V01}.
+963bb4|{V02} has no alternate forms.
+e89624|{V02} {V03} and\n

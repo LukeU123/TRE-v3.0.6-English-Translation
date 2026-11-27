@@ -3,6 +3,7 @@
 All builds apply to the Spanish *Team Rocket Edition v3.0.6* ROM (MD5 `911e690484204ac1621211560aba356d`).
 
 ## 27 Nov 2026
+- PC storage messages: "{Pokémon} selected/was deposited/was released" were still Spanish, as were a battle line ("acquired"), the Pokédex "has no alternate forms" line and a list "and". The extractor skipped lines that start with a placeholder.
 - 10 move descriptions still in Spanish (Iron Head, Pay Day, Bind, Twineedle, Hydro Pump, Uproar, Overheat, Rock Climb, Infestation, Floaty Fall).
 - 16 item descriptions still in Spanish (14 Pokéblock berries, the old Enigma Berry, Reins of Unity).
 - 7 move names were still Spanish (Hiperrayo → Hyper Beam, A Bocajarro → Close Combat, Gigaimpacto → Giga Impact, Humareda → Lava Plume, Romperrocas → Rock Wrecker, A Defender → Defend Order, Ascensodraco → Dragon Ascent).

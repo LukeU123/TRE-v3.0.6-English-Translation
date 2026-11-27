@@ -14,6 +14,10 @@
 
 </div>
 
+> [!TIP]
+> **Looking for a save editor?** [**PKHeX-TRE**](https://github.com/LukeU123/TRE-v3.0.6-PKHex) is a PKHeX fork built for this translation.
+> It edits your party, boxes, moves, bag, money and more. [Download it here](https://github.com/LukeU123/TRE-v3.0.6-PKHex/releases).
+
 > [!IMPORTANT]
 > **The official translation is coming.** The Team Rocket Edition developers have said their own English translation of **v3.1.0** is close to completion and expected within 1–2 months (as of 23 Nov 2026).
 > This project is **not affiliated with or endorsed by** the developers. When the official v3.1.0 English release is out, please play and support that version. This repo will then stay up only as an archive of the v3.0.6 translation.
@@ -29,6 +33,7 @@
 - [Known issues](#known-issues)
 - [Reporting problems](#reporting-problems)
 - [Repository layout](#repository-layout)
+- [Related](#related)
 - [Credits & legal](#credits--legal)
 
 ## About
@@ -137,6 +142,12 @@ CHANGELOG.md      Release history
 ```
 
 The Spanish source script belongs to the original team and isn't published here. The tools need your own ROM and a locally generated string index to rebuild the patch. See [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
+
+## Related
+
+- 🧰 **[PKHeX-TRE](https://github.com/LukeU123/TRE-v3.0.6-PKHex)**: a save editor for this translation, forked from PKHeX.
+  It edits the party and all 24 boxes, the hack's own Pokémon, moves (checked against the hack's learnsets),
+  the 8-pocket bag, money and trainer info. Every feature is tested in the game. [Releases](https://github.com/LukeU123/TRE-v3.0.6-PKHex/releases)
 
 ## Credits & legal
 

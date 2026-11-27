@@ -1,0 +1,28 @@
+# move descriptions still in Spanish (found in-game: Iron Head)
+955418|Throws coins at the foe.\nMoney is recovered after.
+955174|Binds and squeezes the foe\nfor 2 to 5 turns.
+954cf8|Jabs the foe twice.\n20% chance to poison.
+9549a8|Blasts water at high\npower to strike the foe.
+951bd8|Causes an uproar for 2 to 5\nturns. Prevents sleep.
+950d04|Allows a full-power attack,\nbut sharply lowers Sp. Atk.
+94f21c|Charges the foe. May\nconfuse it (20%).
+94efbc|A hard headbutt that may\ncause flinching (30%).
+94c8dc|Infests the foe, attacking\nfor 2 to 5 turns.
+94b874|Floats up, then dives down.\nMay cause flinching (30%).
+# item descriptions still in Spanish
+8e3804|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow RAZZ.
+8e37b8|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow BLUK.
+8e3768|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow NANAB.
+8e3718|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow WEPEAR.
+8e36cc|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow PINAP.
+8e34c4|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow CORNN.
+8e3474|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow MAGOST.
+8e3424|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow RABUTA.
+8e33d8|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow NOMEL.
+8e3388|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow SPELON.
+8e333c|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow PAMTRE.
+8e32ec|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow WATMEL.
+8e329c|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow DURIN.
+8e324c|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow BELUE.
+8e2990|[PO][Ké][BL][OC][K] ingredient.\nPlant in loamy soil\nto grow a mystery.
+8decf4|Reins that unite\nCalyrex with its\nloyal steed.

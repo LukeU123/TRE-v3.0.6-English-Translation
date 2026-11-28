@@ -6,3 +6,10 @@
 4c4e80|{V10} acquired\n {V01}.
 963bb4|{V02} has no alternate forms.
 e89624|{V02} {V03} and\n
+# trainer slide line skipped (zero padding before it)
+1098464|Don't make me get my hands dirty. I'm warning you!{C09}
+# battle messages with a leftover ¡ or untranslated, and the Ferrothorn Pokédex entry
+4c6be8|{V0F} kept going\nand crashed!
+4c6790|{V0F} is no longer\ndisabled!
+4c564c|{V23} threw a [PO][Ké][BL][OC][K]\nat {V06}!
+9d089c|It lashes foes with its three\nfeelers, then fires spikes until\nnothing is left of its opponent.

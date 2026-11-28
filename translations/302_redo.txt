@@ -9,8 +9,6 @@
 2a00b7|S.\pCome back when you have a\nPOKéBLOCK CASE.\pYou can get one at LILYCOVE's\nCONTEST HALL.
 3861b6|Ah, yes…\pI taught AGATHA everything she\nknows. She never came close to my\lmastery of GHOST types, but she\lstill made the ELITE FOUR.\p…\p…\pCurious to see my POKéMON?\pI'm afraid you'll have to live with\nthat curiosity, young man. I belong\lto another generation, and what\lmight have happened in a clash\lbetween our teams at their peak\lbelongs only in fiction.
 3f2560|If you go back, could you let\nher know? After all that's\lhappened, a good chat with her\lwould make me very happy.
-4c6793| is no longer\ndisabled!
-4c6beb| crashed!
 5b5ec5| Difficulty
 8e045e|  Uses the foe's\nAttack stat\nto hit.
 985825|  Continent
